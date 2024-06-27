@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:0 type="video" channelId="-1" group="CARTOON NETWORK+" logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Cartoon_Network_HD%2B_India_logo.png" background="purple", CARTOON NETWORK+
-https://i.hizliresim.com/jcev41b.jpg
-#EXTINF:0 type="video" channelId="-1" group="TOONAMİ(ANİME)" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Toonami_logo.svg/2560px-Toonami_logo.svg.png" background="orange", TOONAMİ ANİME (TANITIM)
-https://be4242.rcr52.ams03.cdn112.com/hls2/01/04252/sax9l9h87wd1_x/index-v1-a1.m3u8?t=EOdvd9M53T50WQ8mIAKudvcmQk8D1bzxtWyF5XEbIDg&s=1702651907&e=43200&f=21260724&srv=26&asn=8386&sp=2500
 #EXTINF:0 type="video" channelId="-1" group="CARTOON NETWORK+" logo="https://ntvb.tmsimg.com/assets/p18078200_b_h8_ae.jpg?w=1280&h=720" background="purple", THE 100 1S 1B
 https://storage.diziyou.co/episodes/60901_tr/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group="CARTOON NETWORK+" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 1S 1B (+13) (BİLİM KURGU VE DRAM)
