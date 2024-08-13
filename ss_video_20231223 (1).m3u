@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1, Vinland Saga 1S 1B
+#EXTVLCOPT:sub-file=https://storage.diziyou.co/subtitles/83001/tr.vtt
+https://storage.diziyou.co/episodes/83001/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://ds.static.rtbf.be/article/image/1920x1080/4/3/3/349f36aa789af083b8e26839bd498af9-1469179192.jpg" background="purple", TEEN WOLF 1S 1B
 https://storage.diziyou.co/episodes/18701_tr/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://cdn.kayiprihtim.com/wp-content/uploads/2020/06/lucifer-5-sezon-netflix-ne-zaman-tarih.jpg" background="purple", LUCİFER 1S 1B
