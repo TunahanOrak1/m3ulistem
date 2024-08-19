@@ -38,8 +38,10 @@ https://storage.diziyou.co/episodes/90701_tr/720p.m3u8
 
 #EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://www.thedigitalfix.com/wp-content/sites/thedigitalfix/2023/06/disenchantment-season-5-release-date-5.jpg" background="purple", DİSENCHANTMENT 1S 1B
 https://storage.diziyou.co/episodes/11341_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo=https://i.ytimg.com/vi/G-r5LFRaF0k/maxresdefault.jpg" background="purple", KLON SAVAŞLARI 1S 1B (+7) (ANİMASYON VE BİLİM KURGU)
+
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i.ytimg.com/vi/G-r5LFRaF0k/maxresdefault.jpg" background="purple", KLON SAVAŞLARI 1S 1B 
 https://lh3.googleusercontent.com/X1LeTjYw_gU2ZPU1JPlmEVO1-_v4yxxQRDAZv161QR5MkEnWQezt8hUQGY2mtH70YyQzJFVkuLI4qKLnOotd9q2tDFCJVGOpJ2CLX7yUqTIiqBv84YlhgSUh4dd1Lv9mEjl1N2xigQ=m18
+
 #EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i.pinimg.com/236x/1a/a5/52/1aa5525ecda170b2ca7c6b7464139752.jpg" background="purple", FİNAL SPACE 1S 1B
 https://storage.diziyou.co/episodes/11201_tr/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://m.media-amazon.com/images/S/pv-target-images/042632ba44e82bbd73138049192424046a4b8d59be5875a977c58e02982e9403.jpg" background="purple", HOW İ MET YOUR MOTHER 1S 1B
@@ -3085,10 +3087,15 @@ https://storage.diziyou.co/episodes/88716_tr/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://ares.shiftdelete.net/2022/01/halo-dizisi-yayin-tarihi-yeni-fragman.jpg" background="purple", HALO 2S 8B
 https://storage.diziyou.co/episodes/88717_tr/720p.m3u8
 
-#EXTINF:0 type="video" channelId="-1" group-title="Oyun Severlere" logo="https://ares.shiftdelete.net/2022/01/halo-dizisi-yayin-tarihi-yeni-fragman.jpg" background="purple", HALO 1S 1B
-https://storage.diziyou.co/episodes/88701_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Oyun Severlere" logo="https://www.beyondgames.biz/wp-content/uploads/2022/12/Cyberpunk-Edgerunners-S1-Poster-en.jpg" subtitles="https://storage.diziyou.co/subtitles/22001/tr.vtt" background="purple", CYBERPUNK EDGERUNNERS 1S 1B
+https://storage.diziyou.co/episodes/22001/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="Oyun Severlere" logo="https://www.riotgames.com/darkroom/1440/b540da2b9afe5ec83e842a2d84f6dbb1:e95535ecd35e48592908762c9353926a/arcane-final-poster-16x9-no-text-no-border.jpg" background="purple", ARCANE 1S 1B
 https://storage.diziyou.co/episodes/13021_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Oyun Severlere" logo="https://assetsio.gnwcdn.com/-1647860761419.jpg?width=1200&height=1200&fit=bounds&quality=70&format=jpg&auto=webp" subtitles="https://storage.diziyou.co/subtitles/21051/tr.vtt" background="purple", TEKKEN BLOODLİNE 1S 1B
+https://storage.diziyou.co/episodes/21051/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Oyun Severlere" logo="https://ares.shiftdelete.net/2022/01/halo-dizisi-yayin-tarihi-yeni-fragman.jpg" background="purple", HALO 1S 1B
+https://storage.diziyou.co/episodes/88701_tr/720p.m3u8
+
 #EXTINF:0 type="video" channelId="-1" group-title="Oyun Severlere" logo="https://www.riotgames.com/darkroom/1440/b540da2b9afe5ec83e842a2d84f6dbb1:e95535ecd35e48592908762c9353926a/arcane-final-poster-16x9-no-text-no-border.jpg" background="purple", ARCANE 1S 2B
 https://storage.diziyou.co/episodes/13022_tr/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="Oyun Severlere" logo="https://www.riotgames.com/darkroom/1440/b540da2b9afe5ec83e842a2d84f6dbb1:e95535ecd35e48592908762c9353926a/arcane-final-poster-16x9-no-text-no-border.jpg" background="purple", ARCANE 1S 3B
@@ -3261,10 +3268,6 @@ https://storage.diziyou.co/episodes/83046/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://fictionhorizon.com/wp-content/uploads/2022/12/VSS1.jpg" subtitles="https://storage.diziyou.co/subtitles/83047/tr.vtt" background="purple", VİNLAND SAGA 2S 24B
 https://storage.diziyou.co/episodes/83047/720p.m3u8
 
-#EXTINF:0 type="video" channelId="-1" group-title="Oyun Severlere" logo="https://www.beyondgames.biz/wp-content/uploads/2022/12/Cyberpunk-Edgerunners-S1-Poster-en.jpg" subtitles="https://storage.diziyou.co/subtitles/22001/tr.vtt" background="purple", CYBERPUNK EDGERUNNERS 1S 1B
-https://storage.diziyou.co/episodes/22001/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Oyun Severlere" logo="https://assetsio.gnwcdn.com/-1647860761419.jpg?width=1200&height=1200&fit=bounds&quality=70&format=jpg&auto=webp" subtitles="https://storage.diziyou.co/subtitles/21051/tr.vtt" background="purple", TEKKEN BLOODLİNE 1S 1B
-https://storage.diziyou.co/episodes/21051/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="Oyun Severlere" logo="https://www.beyondgames.biz/wp-content/uploads/2022/12/Cyberpunk-Edgerunners-S1-Poster-en.jpg" subtitles="https://storage.diziyou.co/subtitles/22002/tr.vtt" background="purple", CYBERPUNK EDGERUNNERS 1S 2B
 https://storage.diziyou.co/episodes/22002/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="Oyun Severlere" logo="https://www.beyondgames.biz/wp-content/uploads/2022/12/Cyberpunk-Edgerunners-S1-Poster-en.jpg" subtitles="https://storage.diziyou.co/subtitles/22003/tr.vtt" background="purple", CYBERPUNK EDGERUNNERS 1S 3B
@@ -3293,6 +3296,857 @@ https://storage.diziyou.co/episodes/21054/720p.m3u8
 https://storage.diziyou.co/episodes/21055/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="Oyun Severlere" logo="https://assetsio.gnwcdn.com/-1647860761419.jpg?width=1200&height=1200&fit=bounds&quality=70&format=jpg&auto=webp" subtitles="https://storage.diziyou.co/subtitles/21056/tr.vtt" background="purple", TEKKEN BLOODLİNE 1S 6B
 https://storage.diziyou.co/episodes/21056/720p.m3u8
+
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://img-s1.onedio.com/id-54371c47e469a49b62f9e2d9/rev-0/w-1200/h-776/f-jpg/s-f5c26787c78f95424eeddd2915d4843981f923d0.jpg" background="PURPLE", GOTHAM 1S 1B
+https://storage.diziyou.co/episodes/80401_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizieri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 1S 1B
+https://storage.diziyou.co/episodes/78301_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 1S 1B (+13) (BİLİM KURGU VE DRAM)
+https://lh3.googleusercontent.com/RAdaZZZ5XURI6l4ymYCsIWUXxchJhenudk28pgkPwRHWXVt-7LGgMsOYL-zMV8w5OIJ4V8OqNkBVV8MPllJjkolPpJBrUNS5AMeJcfezsAG9M3k731j29qcv1vaQWqH9h8-BMMQiAA=m37
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2017/10/Kid-Flash-on-Legends-of-Tomorrow.jpg" background="purple", DC S LEGENDS OF TOMORROW 1S 1B
+https://storage.diziyou.co/episodes/80301_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://wallpapers.com/images/hd/fierce-look-of-supergirl-p4qjm4modfdugujs.jpg" background="purple", SUPERGİRL 1S 1B
+https://storage.diziyou.co/episodes/78801_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2024/07/batman-caped-crusader-logo-over-the-poster-for-the-show.jpg" background="purple", BATMAN CAPED CRUSADER 1S 1B
+https://storage.diziyou.co/episodes/99901_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2021/06/Sweet-Tooth-Bear-Gus-Tommy.jpg" background="purple", SWEET TOOTH 1S 1B
+https://storage.diziyou.co/episodes/70801_tr/720p.m3u8
+
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 1S 2B
+https://storage.diziyou.co/episodes/78302_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 1S 3B
+https://storage.diziyou.co/episodes/78303_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 1S 4B
+https://storage.diziyou.co/episodes/78304_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 1S 5B
+https://storage.diziyou.co/episodes/78305_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 1S 6B
+https://storage.diziyou.co/episodes/78306_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 1S 7B
+https://storage.diziyou.co/episodes/78307_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 1S 8B
+https://storage.diziyou.co/episodes/78308_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 1S 9B
+https://storage.diziyou.co/episodes/78309_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 1S 10B
+https://storage.diziyou.co/episodes/78310_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 1S 11B
+https://storage.diziyou.co/episodes/78311_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 1S 12B
+https://storage.diziyou.co/episodes/78312_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 1S 13B
+https://storage.diziyou.co/episodes/78313_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 1S 14B
+https://storage.diziyou.co/episodes/78314_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 1S 15B
+https://storage.diziyou.co/episodes/78315_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 1S 16B
+https://storage.diziyou.co/episodes/78316_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 1S 17B
+https://storage.diziyou.co/episodes/78317_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 1S 18B
+https://storage.diziyou.co/episodes/78318_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 1S 19B
+https://storage.diziyou.co/episodes/78319_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 1S 20B
+https://storage.diziyou.co/episodes/78320_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 1S 21B
+https://storage.diziyou.co/episodes/78321_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 1S 22B
+https://storage.diziyou.co/episodes/78322_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 1S 23B
+https://storage.diziyou.co/episodes/78323_tr/720p.m3u8
+
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 2S 1B
+https://storage.diziyou.co/episodes/78324_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 2S 2B
+https://storage.diziyou.co/episodes/78325_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 2S 3B
+https://storage.diziyou.co/episodes/78326_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 2S 4B
+https://storage.diziyou.co/episodes/78327_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 2S 5B
+https://storage.diziyou.co/episodes/78328_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 2S 6B
+https://storage.diziyou.co/episodes/78329_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 2S 7B
+https://storage.diziyou.co/episodes/78330_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 2S 8B
+https://storage.diziyou.co/episodes/78331_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 2S 9B
+https://storage.diziyou.co/episodes/78332_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 2S 10B
+https://storage.diziyou.co/episodes/78333_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 2S 11B
+https://storage.diziyou.co/episodes/78334_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 2S 12B
+https://storage.diziyou.co/episodes/78335_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 2S 13B
+https://storage.diziyou.co/episodes/78336_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 2S 14B
+https://storage.diziyou.co/episodes/78337_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 2S 15B
+https://storage.diziyou.co/episodes/78338_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 2S 16B
+https://storage.diziyou.co/episodes/78339_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 2S 17B
+https://storage.diziyou.co/episodes/78340_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 2S 18B
+https://storage.diziyou.co/episodes/78341_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 2S 19B
+https://storage.diziyou.co/episodes/78342_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 2S 20B
+https://storage.diziyou.co/episodes/78343_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 2S 21B
+https://storage.diziyou.co/episodes/78344_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 2S 22B
+https://storage.diziyou.co/episodes/78345_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 2S 23B
+https://storage.diziyou.co/episodes/78346_tr/720p.m3u8
+
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 3S 1B
+https://storage.diziyou.co/episodes/78347_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 3S 2B
+https://storage.diziyou.co/episodes/78348_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 3S 3B
+https://storage.diziyou.co/episodes/78349_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 3S 4B
+https://storage.diziyou.co/episodes/78350_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 3S 5B
+https://storage.diziyou.co/episodes/78351_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 3S 6B
+https://storage.diziyou.co/episodes/78352_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 3S 7B
+https://storage.diziyou.co/episodes/78353_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 3S 8B
+https://storage.diziyou.co/episodes/78354_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 3S 9B
+https://storage.diziyou.co/episodes/78355_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 3S 10B
+https://storage.diziyou.co/episodes/78356_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 3S 11B
+https://storage.diziyou.co/episodes/78357_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 3S 12B
+https://storage.diziyou.co/episodes/78358_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 3S 13B
+https://storage.diziyou.co/episodes/78359_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 3S 14B
+https://storage.diziyou.co/episodes/78360_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 3S 15B
+https://storage.diziyou.co/episodes/78361_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 3S 16B
+https://storage.diziyou.co/episodes/78362_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 3S 17B
+https://storage.diziyou.co/episodes/78363_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 3S 18B
+https://storage.diziyou.co/episodes/78364_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 3S 19B
+https://storage.diziyou.co/episodes/78365_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 3S 20B
+https://storage.diziyou.co/episodes/78366_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 3S 21B
+https://storage.diziyou.co/episodes/78367_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 3S 22B
+https://storage.diziyou.co/episodes/78368_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 3S 23B
+https://storage.diziyou.co/episodes/78369_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 4S 1B
+https://storage.diziyou.co/episodes/78370_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 4S 2B
+https://storage.diziyou.co/episodes/78371_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 4S 3B
+https://storage.diziyou.co/episodes/78372_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 4S 4B
+https://storage.diziyou.co/episodes/78373_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 4S 5B
+https://storage.diziyou.co/episodes/78374_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 4S 6B
+https://storage.diziyou.co/episodes/78375_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 4S 7B
+https://storage.diziyou.co/episodes/78376_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 4S 8B
+https://storage.diziyou.co/episodes/78377_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 4S 9B
+https://storage.diziyou.co/episodes/78378_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 4S 10B
+https://storage.diziyou.co/episodes/78379_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 4S 11B
+https://storage.diziyou.co/episodes/78380_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 4S 12B
+https://storage.diziyou.co/episodes/78381_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 4S 13B
+https://storage.diziyou.co/episodes/78382_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 4S 14B
+https://storage.diziyou.co/episodes/78383_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 4S 15B
+https://storage.diziyou.co/episodes/78384_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 4S 16B
+https://storage.diziyou.co/episodes/78385_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 4S 17B
+https://storage.diziyou.co/episodes/78386_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 4S 18B
+https://storage.diziyou.co/episodes/78387_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 4S 19B
+https://storage.diziyou.co/episodes/78388_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 4S 20B
+https://storage.diziyou.co/episodes/78389_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 4S 21B
+https://storage.diziyou.co/episodes/78390_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 4S 22B
+https://storage.diziyou.co/episodes/78391_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 4S 23B
+https://storage.diziyou.co/episodes/78392_tr/720p.m3u8
+
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 5S 1B
+https://storage.diziyou.co/episodes/78393_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 5S 2B
+https://storage.diziyou.co/episodes/78394_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 5S 3B
+https://storage.diziyou.co/episodes/78395_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 5S 4B
+https://storage.diziyou.co/episodes/78396_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 5S 5B
+https://storage.diziyou.co/episodes/78397_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 5S 6B
+https://storage.diziyou.co/episodes/78398_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 5S 7B
+https://storage.diziyou.co/episodes/78399_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 5S 8B
+https://storage.diziyou.co/episodes/78400_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 5S 9B
+https://storage.diziyou.co/episodes/78401_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 5S 10B
+https://storage.diziyou.co/episodes/78402_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 5S 11B
+https://storage.diziyou.co/episodes/78403_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 5S 12B
+https://storage.diziyou.co/episodes/78404_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 5S 13B
+https://storage.diziyou.co/episodes/78405_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 5S 14B
+https://storage.diziyou.co/episodes/78406_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 5S 15B
+https://storage.diziyou.co/episodes/78407_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 5S 16B
+https://storage.diziyou.co/episodes/78408_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 5S 17B
+https://storage.diziyou.co/episodes/78409_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 5S 18B
+https://storage.diziyou.co/episodes/78410_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 5S 19B
+https://storage.diziyou.co/episodes/78411_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 5S 20B
+https://storage.diziyou.co/episodes/78412_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 5S 21B
+https://storage.diziyou.co/episodes/78413_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 5S 22B
+https://storage.diziyou.co/episodes/78414_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 5S 23B
+https://storage.diziyou.co/episodes/78415_tr/720p.m3u8
+
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 6S 1B
+https://storage.diziyou.co/episodes/78416_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 6S 2B
+https://storage.diziyou.co/episodes/78417_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 6S 3B
+https://storage.diziyou.co/episodes/78418_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 6S 4B
+https://storage.diziyou.co/episodes/78419_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 6S 5B
+https://storage.diziyou.co/episodes/78420_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 6S 6B
+https://storage.diziyou.co/episodes/78421_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 6S 7B
+https://storage.diziyou.co/episodes/78422_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 6S 8B
+https://storage.diziyou.co/episodes/78423_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 6S 9B
+https://storage.diziyou.co/episodes/78424_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 6S 10B
+https://storage.diziyou.co/episodes/78425_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 6S 11B
+https://storage.diziyou.co/episodes/78426_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 6S 12B
+https://storage.diziyou.co/episodes/78427_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 6S 13B
+https://storage.diziyou.co/episodes/78428_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 6S 14B
+https://storage.diziyou.co/episodes/78429_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 6S 15B
+https://storage.diziyou.co/episodes/78430_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 6S 16B
+https://storage.diziyou.co/episodes/78431_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 6S 17B
+https://storage.diziyou.co/episodes/78432_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 6S 18B
+https://storage.diziyou.co/episodes/78433_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 6S 19B
+https://storage.diziyou.co/episodes/78434_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 6S 20B
+https://storage.diziyou.co/episodes/78435_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 6S 21B
+https://storage.diziyou.co/episodes/78436_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 6S 22B
+https://storage.diziyou.co/episodes/78437_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 6S 23B
+https://storage.diziyou.co/episodes/78438_tr/720p.m3u8
+
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 7S 1B
+https://storage.diziyou.co/episodes/78439_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 7S 2B
+https://storage.diziyou.co/episodes/78440_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 7S 3B
+https://storage.diziyou.co/episodes/78441_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 7S 4B
+https://storage.diziyou.co/episodes/78442_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 7S 5B
+https://storage.diziyou.co/episodes/78443_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 7S 6B
+https://storage.diziyou.co/episodes/78444_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 7S 7B
+https://storage.diziyou.co/episodes/78445_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 7S 8B
+https://storage.diziyou.co/episodes/78446_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 7S 9B
+https://storage.diziyou.co/episodes/78447_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 7S 10B
+https://storage.diziyou.co/episodes/78448_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 7S 11B
+https://storage.diziyou.co/episodes/78449_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 7S 12B
+https://storage.diziyou.co/episodes/78450_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 7S 13B
+https://storage.diziyou.co/episodes/78451_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 7S 14B
+https://storage.diziyou.co/episodes/78452_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 7S 15B
+https://storage.diziyou.co/episodes/78453_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 7S 16B
+https://storage.diziyou.co/episodes/78454_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 7S 17B
+https://storage.diziyou.co/episodes/78455_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 7S 18B
+https://storage.diziyou.co/episodes/78456_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 7S 19B
+https://storage.diziyou.co/episodes/78457_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 7S 20B
+https://storage.diziyou.co/episodes/78458_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 7S 21B
+https://storage.diziyou.co/episodes/78459_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 7S 22B
+https://storage.diziyou.co/episodes/78460_tr/720p.m3u8
+
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 8S 1B
+https://storage.diziyou.co/episodes/78461_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 8S 2B
+https://storage.diziyou.co/episodes/78462_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 8S 3B
+https://storage.diziyou.co/episodes/78463_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 8S 4B
+https://storage.diziyou.co/episodes/78464_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 8S 5B
+https://storage.diziyou.co/episodes/78465_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 8S 6B
+https://storage.diziyou.co/episodes/78466_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 8S 7B
+https://storage.diziyou.co/episodes/78467_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 8S 8B
+https://storage.diziyou.co/episodes/78468_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 8S 9B
+https://storage.diziyou.co/episodes/78469_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 8S 10B
+https://storage.diziyou.co/episodes/78470_tr/720p.m3u8
+
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://wallpapers.com/images/hd/fierce-look-of-supergirl-p4qjm4modfdugujs.jpg" background="purple", SUPERGİRL 1S 2B
+https://storage.diziyou.co/episodes/78802_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://wallpapers.com/images/hd/fierce-look-of-supergirl-p4qjm4modfdugujs.jpg" background="purple", SUPERGİRL 1S 3B
+https://storage.diziyou.co/episodes/78803_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://wallpapers.com/images/hd/fierce-look-of-supergirl-p4qjm4modfdugujs.jpg" background="purple", SUPERGİRL 1S 4B
+https://storage.diziyou.co/episodes/78804_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://wallpapers.com/images/hd/fierce-look-of-supergirl-p4qjm4modfdugujs.jpg" background="purple", SUPERGİRL 1S 5B
+https://storage.diziyou.co/episodes/78805_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://wallpapers.com/images/hd/fierce-look-of-supergirl-p4qjm4modfdugujs.jpg" background="purple", SUPERGİRL 1S 6B
+https://storage.diziyou.co/episodes/78806_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://wallpapers.com/images/hd/fierce-look-of-supergirl-p4qjm4modfdugujs.jpg" background="purple", SUPERGİRL 1S 7B
+https://storage.diziyou.co/episodes/78807_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://wallpapers.com/images/hd/fierce-look-of-supergirl-p4qjm4modfdugujs.jpg" background="purple", SUPERGİRL 1S 8B
+https://storage.diziyou.co/episodes/78808_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://wallpapers.com/images/hd/fierce-look-of-supergirl-p4qjm4modfdugujs.jpg" background="purple", SUPERGİRL 1S 9B
+https://storage.diziyou.co/episodes/78809_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://wallpapers.com/images/hd/fierce-look-of-supergirl-p4qjm4modfdugujs.jpg" background="purple", SUPERGİRL 1S 10B
+https://storage.diziyou.co/episodes/78810_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://wallpapers.com/images/hd/fierce-look-of-supergirl-p4qjm4modfdugujs.jpg" background="purple", SUPERGİRL 1S 11B
+https://storage.diziyou.co/episodes/78811_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://wallpapers.com/images/hd/fierce-look-of-supergirl-p4qjm4modfdugujs.jpg" background="purple", SUPERGİRL 1S 12B
+https://storage.diziyou.co/episodes/78812_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://wallpapers.com/images/hd/fierce-look-of-supergirl-p4qjm4modfdugujs.jpg" background="purple", SUPERGİRL 1S 13B
+https://storage.diziyou.co/episodes/78813_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://wallpapers.com/images/hd/fierce-look-of-supergirl-p4qjm4modfdugujs.jpg" background="purple", SUPERGİRL 1S 14B
+https://storage.diziyou.co/episodes/78814_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://wallpapers.com/images/hd/fierce-look-of-supergirl-p4qjm4modfdugujs.jpg" background="purple", SUPERGİRL 1S 15B
+https://storage.diziyou.co/episodes/78815_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://wallpapers.com/images/hd/fierce-look-of-supergirl-p4qjm4modfdugujs.jpg" background="purple", SUPERGİRL 1S 16B
+https://storage.diziyou.co/episodes/78816_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://wallpapers.com/images/hd/fierce-look-of-supergirl-p4qjm4modfdugujs.jpg" background="purple", SUPERGİRL 1S 17B
+https://storage.diziyou.co/episodes/78817_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://wallpapers.com/images/hd/fierce-look-of-supergirl-p4qjm4modfdugujs.jpg" background="purple", SUPERGİRL 1S 18B
+https://storage.diziyou.co/episodes/78818_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://wallpapers.com/images/hd/fierce-look-of-supergirl-p4qjm4modfdugujs.jpg" background="purple", SUPERGİRL 1S 19B
+https://storage.diziyou.co/episodes/78819_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://wallpapers.com/images/hd/fierce-look-of-supergirl-p4qjm4modfdugujs.jpg" background="purple", SUPERGİRL 1S 20B
+https://storage.diziyou.co/episodes/78820_tr/720p.m3u8
+
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://wallpapers.com/images/hd/fierce-look-of-supergirl-p4qjm4modfdugujs.jpg" background="purple", SUPERGİRL 2S 1B
+https://storage.diziyou.co/episodes/78821_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://wallpapers.com/images/hd/fierce-look-of-supergirl-p4qjm4modfdugujs.jpg" background="purple", SUPERGİRL 2S 2B
+https://storage.diziyou.co/episodes/78822_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://wallpapers.com/images/hd/fierce-look-of-supergirl-p4qjm4modfdugujs.jpg" background="purple", SUPERGİRL 2S 3B
+https://storage.diziyou.co/episodes/78823_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://wallpapers.com/images/hd/fierce-look-of-supergirl-p4qjm4modfdugujs.jpg" background="purple", SUPERGİRL 2S 4B
+https://storage.diziyou.co/episodes/78824_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://wallpapers.com/images/hd/fierce-look-of-supergirl-p4qjm4modfdugujs.jpg" background="purple", SUPERGİRL 2S 5B
+https://storage.diziyou.co/episodes/78825_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://wallpapers.com/images/hd/fierce-look-of-supergirl-p4qjm4modfdugujs.jpg" background="purple", SUPERGİRL 2S 6B
+https://storage.diziyou.co/episodes/78826_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://wallpapers.com/images/hd/fierce-look-of-supergirl-p4qjm4modfdugujs.jpg" background="purple", SUPERGİRL 2S 7B
+https://storage.diziyou.co/episodes/78827_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://wallpapers.com/images/hd/fierce-look-of-supergirl-p4qjm4modfdugujs.jpg" background="purple", SUPERGİRL 2S 8B
+https://storage.diziyou.co/episodes/78828_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://wallpapers.com/images/hd/fierce-look-of-supergirl-p4qjm4modfdugujs.jpg" background="purple", SUPERGİRL 2S 9B
+https://storage.diziyou.co/episodes/78829_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://wallpapers.com/images/hd/fierce-look-of-supergirl-p4qjm4modfdugujs.jpg" background="purple", SUPERGİRL 2S 10B
+https://storage.diziyou.co/episodes/78830_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://wallpapers.com/images/hd/fierce-look-of-supergirl-p4qjm4modfdugujs.jpg" background="purple", SUPERGİRL 2S 11B
+https://storage.diziyou.co/episodes/78831_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://wallpapers.com/images/hd/fierce-look-of-supergirl-p4qjm4modfdugujs.jpg" background="purple", SUPERGİRL 2S 12B
+https://storage.diziyou.co/episodes/78832_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://wallpapers.com/images/hd/fierce-look-of-supergirl-p4qjm4modfdugujs.jpg" background="purple", SUPERGİRL 2S 13B
+https://storage.diziyou.co/episodes/78833_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://wallpapers.com/images/hd/fierce-look-of-supergirl-p4qjm4modfdugujs.jpg" background="purple", SUPERGİRL 2S 14B
+https://storage.diziyou.co/episodes/78834_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://wallpapers.com/images/hd/fierce-look-of-supergirl-p4qjm4modfdugujs.jpg" background="purple", SUPERGİRL 2S 15B
+https://storage.diziyou.co/episodes/78835_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://wallpapers.com/images/hd/fierce-look-of-supergirl-p4qjm4modfdugujs.jpg" background="purple", SUPERGİRL 2S 16B
+https://storage.diziyou.co/episodes/78836_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://wallpapers.com/images/hd/fierce-look-of-supergirl-p4qjm4modfdugujs.jpg" background="purple", SUPERGİRL 2S 17B
+https://storage.diziyou.co/episodes/78837_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://wallpapers.com/images/hd/fierce-look-of-supergirl-p4qjm4modfdugujs.jpg" background="purple", SUPERGİRL 2S 18B
+https://storage.diziyou.co/episodes/78838_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://wallpapers.com/images/hd/fierce-look-of-supergirl-p4qjm4modfdugujs.jpg" background="purple", SUPERGİRL 2S 19B
+https://storage.diziyou.co/episodes/78839_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://wallpapers.com/images/hd/fierce-look-of-supergirl-p4qjm4modfdugujs.jpg" background="purple", SUPERGİRL 2S 20B
+https://storage.diziyou.co/episodes/78840_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://wallpapers.com/images/hd/fierce-look-of-supergirl-p4qjm4modfdugujs.jpg" background="purple", SUPERGİRL 2S 21B
+https://storage.diziyou.co/episodes/78841_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://wallpapers.com/images/hd/fierce-look-of-supergirl-p4qjm4modfdugujs.jpg" background="purple", SUPERGİRL 2S 22B
+https://storage.diziyou.co/episodes/78842_tr/720p.m3u8
+
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://wallpapers.com/images/hd/fierce-look-of-supergirl-p4qjm4modfdugujs.jpg" background="purple", SUPERGİRL 3S 1B
+https://storage.diziyou.co/episodes/78843_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://wallpapers.com/images/hd/fierce-look-of-supergirl-p4qjm4modfdugujs.jpg" background="purple", SUPERGİRL 3S 2B
+https://storage.diziyou.co/episodes/78844_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://wallpapers.com/images/hd/fierce-look-of-supergirl-p4qjm4modfdugujs.jpg" background="purple", SUPERGİRL 3S 3B
+https://storage.diziyou.co/episodes/78845_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://wallpapers.com/images/hd/fierce-look-of-supergirl-p4qjm4modfdugujs.jpg" background="purple", SUPERGİRL 3S 4B
+https://storage.diziyou.co/episodes/78846_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://wallpapers.com/images/hd/fierce-look-of-supergirl-p4qjm4modfdugujs.jpg" background="purple", SUPERGİRL 3S 5B
+https://storage.diziyou.co/episodes/78847_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://wallpapers.com/images/hd/fierce-look-of-supergirl-p4qjm4modfdugujs.jpg" background="purple", SUPERGİRL 3S 6B
+https://storage.diziyou.co/episodes/78848_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://wallpapers.com/images/hd/fierce-look-of-supergirl-p4qjm4modfdugujs.jpg" background="purple", SUPERGİRL 3S 7B
+https://storage.diziyou.co/episodes/78849_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://wallpapers.com/images/hd/fierce-look-of-supergirl-p4qjm4modfdugujs.jpg" background="purple", SUPERGİRL 3S 8B
+https://storage.diziyou.co/episodes/78850_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://wallpapers.com/images/hd/fierce-look-of-supergirl-p4qjm4modfdugujs.jpg" background="purple", SUPERGİRL 3S 9B
+https://storage.diziyou.co/episodes/78851_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://wallpapers.com/images/hd/fierce-look-of-supergirl-p4qjm4modfdugujs.jpg" background="purple", SUPERGİRL 3S 10B
+https://storage.diziyou.co/episodes/78852_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://wallpapers.com/images/hd/fierce-look-of-supergirl-p4qjm4modfdugujs.jpg" background="purple", SUPERGİRL 3S 11B
+https://storage.diziyou.co/episodes/78853_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://wallpapers.com/images/hd/fierce-look-of-supergirl-p4qjm4modfdugujs.jpg" background="purple", SUPERGİRL 3S 12B
+https://storage.diziyou.co/episodes/78854_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://wallpapers.com/images/hd/fierce-look-of-supergirl-p4qjm4modfdugujs.jpg" background="purple", SUPERGİRL 3S 13B
+https://storage.diziyou.co/episodes/78855_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://wallpapers.com/images/hd/fierce-look-of-supergirl-p4qjm4modfdugujs.jpg" background="purple", SUPERGİRL 3S 14B
+https://storage.diziyou.co/episodes/78856_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://wallpapers.com/images/hd/fierce-look-of-supergirl-p4qjm4modfdugujs.jpg" background="purple", SUPERGİRL 3S 15B
+https://storage.diziyou.co/episodes/78857_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://wallpapers.com/images/hd/fierce-look-of-supergirl-p4qjm4modfdugujs.jpg" background="purple", SUPERGİRL 3S 16B
+https://storage.diziyou.co/episodes/78858_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://wallpapers.com/images/hd/fierce-look-of-supergirl-p4qjm4modfdugujs.jpg" background="purple", SUPERGİRL 3S 17B
+https://storage.diziyou.co/episodes/78859_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://wallpapers.com/images/hd/fierce-look-of-supergirl-p4qjm4modfdugujs.jpg" background="purple", SUPERGİRL 3S 18B
+https://storage.diziyou.co/episodes/78860_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://wallpapers.com/images/hd/fierce-look-of-supergirl-p4qjm4modfdugujs.jpg" background="purple", SUPERGİRL 3S 19B
+https://storage.diziyou.co/episodes/78861_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://wallpapers.com/images/hd/fierce-look-of-supergirl-p4qjm4modfdugujs.jpg" background="purple", SUPERGİRL 3S 20B
+https://storage.diziyou.co/episodes/78862_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://wallpapers.com/images/hd/fierce-look-of-supergirl-p4qjm4modfdugujs.jpg" background="purple", SUPERGİRL 3S 21B
+https://storage.diziyou.co/episodes/78863_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://wallpapers.com/images/hd/fierce-look-of-supergirl-p4qjm4modfdugujs.jpg" background="purple", SUPERGİRL 3S 22B
+https://storage.diziyou.co/episodes/78864_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://wallpapers.com/images/hd/fierce-look-of-supergirl-p4qjm4modfdugujs.jpg" background="purple", SUPERGİRL 3S 23B
+https://storage.diziyou.co/episodes/78865_tr/720p.m3u8
+
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://wallpapers.com/images/hd/fierce-look-of-supergirl-p4qjm4modfdugujs.jpg" background="purple", SUPERGİRL 4S 1B
+https://storage.diziyou.co/episodes/78866_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://wallpapers.com/images/hd/fierce-look-of-supergirl-p4qjm4modfdugujs.jpg" background="purple", SUPERGİRL 4S 2B
+https://storage.diziyou.co/episodes/78867_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://wallpapers.com/images/hd/fierce-look-of-supergirl-p4qjm4modfdugujs.jpg" background="purple", SUPERGİRL 4S 3B
+https://storage.diziyou.co/episodes/78868_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://wallpapers.com/images/hd/fierce-look-of-supergirl-p4qjm4modfdugujs.jpg" background="purple", SUPERGİRL 4S 4B
+https://storage.diziyou.co/episodes/78869_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://wallpapers.com/images/hd/fierce-look-of-supergirl-p4qjm4modfdugujs.jpg" background="purple", SUPERGİRL 4S 5B
+https://storage.diziyou.co/episodes/78870_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://wallpapers.com/images/hd/fierce-look-of-supergirl-p4qjm4modfdugujs.jpg" background="purple", SUPERGİRL 4S 6B
+https://storage.diziyou.co/episodes/78871_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://wallpapers.com/images/hd/fierce-look-of-supergirl-p4qjm4modfdugujs.jpg" background="purple", SUPERGİRL 4S 7B
+https://storage.diziyou.co/episodes/78872_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://wallpapers.com/images/hd/fierce-look-of-supergirl-p4qjm4modfdugujs.jpg" background="purple", SUPERGİRL 4S 8B
+https://storage.diziyou.co/episodes/78873_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://wallpapers.com/images/hd/fierce-look-of-supergirl-p4qjm4modfdugujs.jpg" background="purple", SUPERGİRL 4S 9B
+https://storage.diziyou.co/episodes/78874_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://wallpapers.com/images/hd/fierce-look-of-supergirl-p4qjm4modfdugujs.jpg" background="purple", SUPERGİRL 4S 10B
+https://storage.diziyou.co/episodes/78875_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://wallpapers.com/images/hd/fierce-look-of-supergirl-p4qjm4modfdugujs.jpg" background="purple", SUPERGİRL 4S 11B
+https://storage.diziyou.co/episodes/78876_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://wallpapers.com/images/hd/fierce-look-of-supergirl-p4qjm4modfdugujs.jpg" background="purple", SUPERGİRL 4S 12B
+https://storage.diziyou.co/episodes/78877_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://wallpapers.com/images/hd/fierce-look-of-supergirl-p4qjm4modfdugujs.jpg" background="purple", SUPERGİRL 4S 13B
+https://storage.diziyou.co/episodes/78878_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://wallpapers.com/images/hd/fierce-look-of-supergirl-p4qjm4modfdugujs.jpg" background="purple", SUPERGİRL 4S 14B
+https://storage.diziyou.co/episodes/78879_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://wallpapers.com/images/hd/fierce-look-of-supergirl-p4qjm4modfdugujs.jpg" background="purple", SUPERGİRL 4S 15B
+https://storage.diziyou.co/episodes/78880_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://wallpapers.com/images/hd/fierce-look-of-supergirl-p4qjm4modfdugujs.jpg" background="purple", SUPERGİRL 4S 16B
+https://storage.diziyou.co/episodes/78881_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://wallpapers.com/images/hd/fierce-look-of-supergirl-p4qjm4modfdugujs.jpg" background="purple", SUPERGİRL 4S 17B
+https://storage.diziyou.co/episodes/78882_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://wallpapers.com/images/hd/fierce-look-of-supergirl-p4qjm4modfdugujs.jpg" background="purple", SUPERGİRL 4S 18B
+https://storage.diziyou.co/episodes/78883_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://wallpapers.com/images/hd/fierce-look-of-supergirl-p4qjm4modfdugujs.jpg" background="purple", SUPERGİRL 4S 19B
+https://storage.diziyou.co/episodes/78884_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://wallpapers.com/images/hd/fierce-look-of-supergirl-p4qjm4modfdugujs.jpg" background="purple", SUPERGİRL 4S 20B
+https://storage.diziyou.co/episodes/78885_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://wallpapers.com/images/hd/fierce-look-of-supergirl-p4qjm4modfdugujs.jpg" background="purple", SUPERGİRL 4S 21B
+https://storage.diziyou.co/episodes/78886_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://wallpapers.com/images/hd/fierce-look-of-supergirl-p4qjm4modfdugujs.jpg" background="purple", SUPERGİRL 4S 22B
+https://storage.diziyou.co/episodes/78887_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://wallpapers.com/images/hd/fierce-look-of-supergirl-p4qjm4modfdugujs.jpg" background="purple", SUPERGİRL 5S 1B
+https://storage.diziyou.co/episodes/78888_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://wallpapers.com/images/hd/fierce-look-of-supergirl-p4qjm4modfdugujs.jpg" background="purple", SUPERGİRL 5S 2B
+https://storage.diziyou.co/episodes/78889_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://wallpapers.com/images/hd/fierce-look-of-supergirl-p4qjm4modfdugujs.jpg" background="purple", SUPERGİRL 5S 3B
+https://storage.diziyou.co/episodes/78890_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://wallpapers.com/images/hd/fierce-look-of-supergirl-p4qjm4modfdugujs.jpg" background="purple", SUPERGİRL 5S 4B
+https://storage.diziyou.co/episodes/78891_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://wallpapers.com/images/hd/fierce-look-of-supergirl-p4qjm4modfdugujs.jpg" background="purple", SUPERGİRL 5S 5B
+https://storage.diziyou.co/episodes/78892_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://wallpapers.com/images/hd/fierce-look-of-supergirl-p4qjm4modfdugujs.jpg" background="purple", SUPERGİRL 5S 6B
+https://storage.diziyou.co/episodes/78893_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://wallpapers.com/images/hd/fierce-look-of-supergirl-p4qjm4modfdugujs.jpg" background="purple", SUPERGİRL 5S 7B
+https://storage.diziyou.co/episodes/78894_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://wallpapers.com/images/hd/fierce-look-of-supergirl-p4qjm4modfdugujs.jpg" background="purple", SUPERGİRL 5S 8B
+https://storage.diziyou.co/episodes/78895_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://wallpapers.com/images/hd/fierce-look-of-supergirl-p4qjm4modfdugujs.jpg" background="purple", SUPERGİRL 5S 9B
+https://storage.diziyou.co/episodes/78896_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://wallpapers.com/images/hd/fierce-look-of-supergirl-p4qjm4modfdugujs.jpg" background="purple", SUPERGİRL 5S 10B
+https://storage.diziyou.co/episodes/78897_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://wallpapers.com/images/hd/fierce-look-of-supergirl-p4qjm4modfdugujs.jpg" background="purple", SUPERGİRL 5S 11B
+https://storage.diziyou.co/episodes/78898_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://wallpapers.com/images/hd/fierce-look-of-supergirl-p4qjm4modfdugujs.jpg" background="purple", SUPERGİRL 5S 12B
+https://storage.diziyou.co/episodes/78899_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://wallpapers.com/images/hd/fierce-look-of-supergirl-p4qjm4modfdugujs.jpg" background="purple", SUPERGİRL 5S 13B
+https://storage.diziyou.co/episodes/78900_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://wallpapers.com/images/hd/fierce-look-of-supergirl-p4qjm4modfdugujs.jpg" background="purple", SUPERGİRL 5S 14B
+https://storage.diziyou.co/episodes/78901_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://wallpapers.com/images/hd/fierce-look-of-supergirl-p4qjm4modfdugujs.jpg" background="purple", SUPERGİRL 5S 15B
+https://storage.diziyou.co/episodes/78902_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://wallpapers.com/images/hd/fierce-look-of-supergirl-p4qjm4modfdugujs.jpg" background="purple", SUPERGİRL 5S 16B
+https://storage.diziyou.co/episodes/788903_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://wallpapers.com/images/hd/fierce-look-of-supergirl-p4qjm4modfdugujs.jpg" background="purple", SUPERGİRL 5S 17B
+https://storage.diziyou.co/episodes/78904_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://wallpapers.com/images/hd/fierce-look-of-supergirl-p4qjm4modfdugujs.jpg" background="purple", SUPERGİRL 5S 18B
+https://storage.diziyou.co/episodes/78905_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://wallpapers.com/images/hd/fierce-look-of-supergirl-p4qjm4modfdugujs.jpg" background="purple", SUPERGİRL 5S 19B
+https://storage.diziyou.co/episodes/78906_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://wallpapers.com/images/hd/fierce-look-of-supergirl-p4qjm4modfdugujs.jpg" background="purple", SUPERGİRL 6S 1B
+https://storage.diziyou.co/episodes/78907_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://wallpapers.com/images/hd/fierce-look-of-supergirl-p4qjm4modfdugujs.jpg" background="purple", SUPERGİRL 6S 2B
+https://storage.diziyou.co/episodes/78908_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://wallpapers.com/images/hd/fierce-look-of-supergirl-p4qjm4modfdugujs.jpg" background="purple", SUPERGİRL 6S 3B
+https://storage.diziyou.co/episodes/78909_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://wallpapers.com/images/hd/fierce-look-of-supergirl-p4qjm4modfdugujs.jpg" background="purple", SUPERGİRL 6S 4B
+https://storage.diziyou.co/episodes/78910_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://wallpapers.com/images/hd/fierce-look-of-supergirl-p4qjm4modfdugujs.jpg" background="purple", SUPERGİRL 6S 5B
+https://storage.diziyou.co/episodes/78911_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://wallpapers.com/images/hd/fierce-look-of-supergirl-p4qjm4modfdugujs.jpg" background="purple", SUPERGİRL 6S 6B
+https://storage.diziyou.co/episodes/78912_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://wallpapers.com/images/hd/fierce-look-of-supergirl-p4qjm4modfdugujs.jpg" background="purple", SUPERGİRL 6S 7B
+https://storage.diziyou.co/episodes/78913_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://wallpapers.com/images/hd/fierce-look-of-supergirl-p4qjm4modfdugujs.jpg" background="purple", SUPERGİRL 6S 8B
+https://storage.diziyou.co/episodes/78914_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://wallpapers.com/images/hd/fierce-look-of-supergirl-p4qjm4modfdugujs.jpg" background="purple", SUPERGİRL 6S 9B
+https://storage.diziyou.co/episodes/78915_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://wallpapers.com/images/hd/fierce-look-of-supergirl-p4qjm4modfdugujs.jpg" background="purple", SUPERGİRL 6S 10B
+https://storage.diziyou.co/episodes/78916_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://wallpapers.com/images/hd/fierce-look-of-supergirl-p4qjm4modfdugujs.jpg" background="purple", SUPERGİRL 6S 11B
+https://storage.diziyou.co/episodes/78917_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://wallpapers.com/images/hd/fierce-look-of-supergirl-p4qjm4modfdugujs.jpg" background="purple", SUPERGİRL 6S 12B
+https://storage.diziyou.co/episodes/78918_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://wallpapers.com/images/hd/fierce-look-of-supergirl-p4qjm4modfdugujs.jpg" background="purple", SUPERGİRL 6S 13B
+https://storage.diziyou.co/episodes/78919_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://wallpapers.com/images/hd/fierce-look-of-supergirl-p4qjm4modfdugujs.jpg" background="purple", SUPERGİRL 6S 14B
+https://storage.diziyou.co/episodes/78920_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://wallpapers.com/images/hd/fierce-look-of-supergirl-p4qjm4modfdugujs.jpg" background="purple", SUPERGİRL 6S 15B
+https://storage.diziyou.co/episodes/78921_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://wallpapers.com/images/hd/fierce-look-of-supergirl-p4qjm4modfdugujs.jpg" background="purple", SUPERGİRL 6S 16B
+https://storage.diziyou.co/episodes/78922_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://wallpapers.com/images/hd/fierce-look-of-supergirl-p4qjm4modfdugujs.jpg" background="purple", SUPERGİRL 6S 17B
+https://storage.diziyou.co/episodes/78923_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://wallpapers.com/images/hd/fierce-look-of-supergirl-p4qjm4modfdugujs.jpg" background="purple", SUPERGİRL 6S 18B
+https://storage.diziyou.co/episodes/78924_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://wallpapers.com/images/hd/fierce-look-of-supergirl-p4qjm4modfdugujs.jpg" background="purple", SUPERGİRL 6S 19B
+https://storage.diziyou.co/episodes/78925_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://wallpapers.com/images/hd/fierce-look-of-supergirl-p4qjm4modfdugujs.jpg" background="purple", SUPERGİRL 6S 20B
+https://storage.diziyou.co/episodes/78926_tr/720p.m3u8
+
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 1S 2B
+https://lh3.googleusercontent.com/K1_6Je8-eI47VWICXWfSIgoSuT9eKO0B_Q5WsGy9J3cyIAU9G8BouhpwTpe35GYCVzZw_QbYVJJmZg35a6Th-mybe_GmN-rcw0FZwoltGzGLk7btsaMkvoPDPfK-htnM9x2lbh9aHQ=m18
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 1S 3B
+https://lh3.googleusercontent.com/L31YwfEHSFrQ8KOhU_I71YiarGjxt9vbO2-E8zeBCLGVc8f5GGgJLUYUQqpI8MjLxsNSGUmFnstz6diL4rR3X6XtDFMt-dS02jXpHzsdKe9qb6iDgJ7KuOca2zJpfC1TUCtiLsoIIA=m18
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 1S 4B
+https://lh3.googleusercontent.com/ioZNvJlR8lDy8QFf3M1P38LoSWDTIN6tglk74MmtGrm4EIwT0D7_fBl1l-K_eNwuYPlSnfoT3BObrJgdBsLpaN2BgklYywczGbm47jQRYnV87taihWzATcXfRWKKZt9e-vZOqXGqpw=m18
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 1S 5B
+https://lh3.googleusercontent.com/bwIfswRhLJugOuQ57EENxIDTyPDJhQtAhh1UOa02WAtQSpk-rgdE1Wuk81HZamCWxjg_hIQ5n0iSnJAvxG8xTFdSN2sMFDYmeNMClU_LQG5PmuxaakqsZgWzQz_sCKBbk8vFurslew=m18
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 1S 6B
+https://lh3.googleusercontent.com/MpfqdtH1foU8qZp8j-9LZD6MuDP9KW61Na-YQiAXoUp8jsr36qTVct3R-uxD9IXW20ITxT1QijQPuos4laWt8x994WCqnwV1TIgJ1Pu-Bfks7ZLzLJcDeAQR54APsd1a7ZuBHdbv7w=m18
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 1S 7B (ALTYAZI)
+https://e1.ygve.com/storage/media/cf4eb39e4c9ce8c6e4d7a4be6ca8fc7e-720.mp4/master.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 1S 8B (ALTYAZI)
+https://t1.ygve.com/storage/media/b9f8b053361681d95b6a38506fa77bc3-720.mp4/master.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 1S 9B (ALTYAZI)
+https://t1.ygve.com/storage/media/ab73d9d116fa2306438d433981767b77-720.mp4/master.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 1S 10B (ALTYAZI)
+https://t1.ygve.com/storage/media/5bd1006358780aca293b200358db58e8-720.mp4/master.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 1S 11B
+https://lh3.googleusercontent.com/oMoz23KqNOIl7HyjA3T7wy1aK4tEh9qrV04VUaPUADQtqslQVqbnDhuy_px_RQ2fk_ncGV3h4C3SDtvsWaDvP13d18AHruYI0j1cK9J8Ef-skqH8DB2P3MYVIEMv4ZUqwRZipNBEeQ=m18
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 1S 12B
+https://lh3.googleusercontent.com/HhmGifu0AQyFN__Q5pbqRINpQgAF2ZqixjhkNlOfHhJiGqsTLSShC5VHPs418Ao-ShdCiIOB2QBtU-gLhh1PsLcZJoeZOX-Ym9KUW_hiUH3oQ36YYXAGTxu39Q4iaTnTScepk3pf-g=m18
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 1S 13B
+https://lh3.googleusercontent.com/xLtJMPRtQ_fn6qn04EZKQmLGlfXKxoraofo5WFPQox2V_7VFR07FtLbh_A8EU1PJgtFOQd-EfL_GaEUswly4l5t1QvKJwbi_oNxB-gXijJM4K18vcOaFuev7D7NzFBzvLoWz9fEJGQ=m18
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 1S 14B
+https://lh3.googleusercontent.com/X3c4y3NDsIxWRNkVf9B_oE5mqRTqDiieuHO07gpPKu2Dk8weigjm0OMd5pUR3Hhs7m7fspA2qLeCyQMv6JyGB9Cil7aqyYUUzas-1akSKPalLQAMLmZNzbflPu5TZFwYMutnAW1Efw=m18
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 1S 15B
+https://lh3.googleusercontent.com/EYOLIj8Hjq6_jalfY6V6sqsuht9eu473ly0rkoU5p02ovRTn5ombdm4qZQTMDMAgDBYIsENYk7uDZKpwJV-9eOQ7OSQfjB3K1fXhmlrQuEJXesu0I41Gc2o05kyejbUnpDo67JAtgg=m18
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 1S 16B
+https://lh3.googleusercontent.com/oUjFQTOP9z58saI1CFm5iBCf2oEIu3yOKdjPm51PD_N9UozGPdfG-6qy8wx3X4KNDz3PO27cNJ85-D2NSOUuf4zpsN8YY1p5pNy1ZB1MfFYVBJdGMIR616kn_buAtxbcsMWgAoIyVw=m18
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 1S 17B
+https://lh3.googleusercontent.com/WuraxKUz49RBLsC1aggXSsSH9UTWX2K3J8wk_zdtIkTT3jQNRBJtyR8UML_uWNIPRuxB57QQjw8XnQXVVqD_GPZHYoD1vQu5SuQrbu68oWYNu5Z7XxgvxRpGnEo_6r4EsFQm_vsQSw=m18
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 1S 18B
+https://lh3.googleusercontent.com/ke86Uujn_RpRG9F0-DTpFt4zEhlREf_bMwSoG3SxKBOxr6SYSpRfLRnpici5oXXeNZfvcGj1mrx2kuqyC0FZtlUIaY8E3Cw1ZMgAEmWvHG66FNXYENRD6_qa9OoyG__V-ZtxFDvKFw=m18
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 1S 19B
+https://lh3.googleusercontent.com/xEpBuOIdONOfp8Fun2YEM3OiLP0--LBZT27US05ICMYTLhLcH0W-EWJVSArfeAJncaHDv0Id4rc5evigMStsDzMA5x8KJbfgvEZNtUxxInDi030JjTVYi3VuLPoWfVuhmf_AkgZEng=m18
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 1S 20B
+https://lh3.googleusercontent.com/mLuKJQ5XpCOKOYnk5bl86nVVIG5j8fGbJ3Dkut-9AD15f59V7fyTD-NkB3NguIapAMlqKtmYWILnrzagkgERONdI_OStGBURn4xpgNx2kAEnLOeDdVXGvFC8tg0AdkIz-wW4cA0UOg=m18
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 1S 21B
+https://lh3.googleusercontent.com/i1XJ78_LCfXBaybandCx66UyTueUBVCnB0lE8Rh4NLCKy1MC9Rlvc1QqEMvsP8ImLqEZ7gKMr60DZ-CiCNq8UNxzcEabKLZeKNV4Ji-ZYlwkZNnkrkQXuD43o8-B_Nx5jtcWgaKsng=m18
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 1S 22B
+https://lh3.googleusercontent.com/8VzZzaTCc_1iauAoz3DpZq1DGdGyr7AFA8b77ADtHLBsbRxTVKvZJHf8E2pqHcFFCJCJzkUcnqxb7uTx8UGsUCH4NfSJDvvRmxmUYx0ZbMxrGjwto8Yl_IEggrtd9gtDkxf22w4u6g=m18
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 1S 23B (ALTYAZI)
+https://e1.ygve.com/storage/media/66f0e2282059e0b40ab090a8651c0e8a-720.mp4/master.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 2S 1B
+https://lh3.googleusercontent.com/SlmxZxnCINrgUOtkqpMfDGYFvtQRD-IgJreEeYEKN0YVIbnIcadrn4HbLKYdkqQEPNt6C0siWeDQ0fb8AjSy29yFBGq8rZK7y_84YNW_5g0xx3UIy5HCIzAdtArd-r4adt1blmaN7g=m18
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 2S 2B (ALTYAZI)
+https://t1.ygve.com/storage/media/889d15f792efa3fc9ba330ed561a681c-720.mp4/master.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 2S 3B (ALTYAZI)
+https://t1.ygve.com/storage/media/89ae574aa0fe85ac4301fcac64966bae-720.mp4/master.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 2S 4B
+https://lh3.googleusercontent.com/MnDZXGzZW44C_ATUxyA7u2Y4OX2O2VRui7PQ7ayLY6FU7uLq_Hz45SjJ_Oopb8UyDMNcCaMr_vB79PMby_S8Vs4pzoFcHzv2keNklZOYaVJawjVBg1HIPvEy61ockO_QAxRLThj-8A=m18
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 2S 5B
+https://lh3.googleusercontent.com/g69HrXanhfNMcstluQzVAcw85RtVmIkSjqR1bJB59jw6-su-FH63T-ku9rcY_HFr9chV89vKnMXgM8oIPBR-GL3593BlrNN0_JEVN-8TwA1pcaNNpyPHjfZtU76LkFOUhgbZgVZpiQ=m18
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 2S 6B
+https://lh3.googleusercontent.com/8psAm8RgTpbdgcxfEzGvuvjfXWjJ9XMgMComoH_2cgtlkCEbknlWB6bjj2n16olttOgTuOWkKWUTHLCbMxs_gypQWRuSVUAtnL-qK3b3KIGFTd8U-Zf_JorjPCM3jMvrdCnc0U5hHQ=m18
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 2S 7B
+https://lh3.googleusercontent.com/TJfaS27qNNSCQ7PHchPT4hxg11kZMczGCP1vFy2zxpvlnapGloMjywq0WmOz7dLnV6xSjOaIftW6IXxvylJ2iJyzdBfmRrdEAxibyxyVHZ2JmgEADlh5ZFtcShVgQjt4XnSRucmc4g=m18
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 2S 8B
+https://lh3.googleusercontent.com/UnEP1tekQRSL_o8oy9Sp4rYq2xxAdEgsMSWgk_rxhk95iqTUFEc9PdDaTlZgRASX4uMTIfR8N3oRuL7QYsl6j7hl5uXj39Y2ParGhNRTB3SJFAdeXzPQ04q1NFv6vWfV3j8ffXgAcw=m18
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 2S 9B
+https://lh3.googleusercontent.com/ZrQsETOiCuFD9d1FFGGP4Lh_PLNEcopb5NtDk5694VQ4OrXuOkG5VmdaaVq9-hLZT_GxL2dsgvBEQbdHj2CZEXb0njsC5h0e6LaZSNEAxggGJpuIaQcisONVr39g2sFYvDa7rbIG5w=m18
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 2S 10B
+https://lh3.googleusercontent.com/k2-ayz94TIO3zWAdOP8xyimlK2-dNiD-lb8_XQs9kKU_hcdyorexbk1-UXpnH1DkitANnqZKN0ZzmRORoTlgW2hIOc_rgQk2U4ZI1UwmO3n_RGbaOLCIASek1qCWJhi8OzwHInZ9kg=m18
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 2S 11B
+https://lh3.googleusercontent.com/HntROnic_g5wxcLo25zJT0sbovMmJ2Kj2JEcLE2HK_AAXGexEvzp7ek1jmBMVvvDcmPGJlR9ATOrhbGlElk-F277LrQYGktjWOQ2JUeXYsYrlVDUSBpV3xJ3Mto6W-bCCF25o4PvOQ=m18
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 2S 12B
+https://lh3.googleusercontent.com/ipNAxINRdjQ0DYQO3cQZjOpBl7OYNxnN8DB9JbIfNl9qus1vi4Fsdm7I16XI6aQ0BIvqakCO15Tr1KlRCeJn5jjNoAXpDKINns78Gc0APTCTbTgzy-IaIfOYy-PEg_QYsfPcfjklgg=m18
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 2S 13B
+https://lh3.googleusercontent.com/PiWZ3_PAlUyyaDGrrbD1ylijNAzI2FCBp92hUwyUVoxu6kJVvEsRzhhq2YnpUUJEilUWKAtiyEQH_x8XkvAWnPwyfxQjQMH-olpA8N2v5mGPe6owj9lB_ibnBQJmIrDYj445eFhSmw=m18
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 2S 14B
+https://lh3.googleusercontent.com/_r72OkoaOvrBZBoLnM4r67jX_-0Av7DQ581sJvzUSwztxvKMEWAUWddWIMLrwW0ZAP1L7PcPE-9tTiD83RyGnCwlSlYTRVNdmuWwcBVZJRvdo3-vy-QWcEZayR9ckgnSWco0iBpkNA=m18
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 2S 15B (ALTYAZI)
+https://e1.ygve.com/storage/media/5415a5df3b4ae530e38b9e5b5695899c-720.mp4/master.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 2S 16B (ALTYAZI)
+https://e1.ygve.com/storage/media/e76c80c7fba58d724760a86b47d1b3fb-720.mp4/master.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 2S 17B
+https://lh3.googleusercontent.com/3f46JDmasW1FKvJ1rC4U2ReUC263Gai5_0ITXPpODYS7LuGcwEE2xjXiFk2mwErRAKMU3Z68NWt6fk4FViTPlR_4-ZByRB3YlVxdXFaXBnax_7r3hQs90kluMihYc86bukuVCjPEmg=m18
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 2S 18B
+https://lh3.googleusercontent.com/yYqBR-gO88GtsG1zVVuZqPNiRx1CRC05kO0gEzUaC1KE6NbVcM9zo5TFI4lDLpQccBwnQY43tCsqn-shJqdyLSktuyp9wsRuncSL1gdJpLcYfCPhdxyqBMLKXY-PzhrOw1x9j1x2_A=m18
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 2S 19B
+https://lh3.googleusercontent.com/fdMGmv33OTaWiySq8l5K0-HGaOApW1QfBjNEtKcMUxtQodTt5z52G7ftFpWVuyii-aA1JwvgSCAlreH945VcTp_q-u_yVXsUTADqRKVFzfPamtTV5pdxRjfZuAeQ28NLoU5XCibMaA=m18
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 2S 20B (ALTYAZI)
+https://e1.ygve.com/storage/media/63a167d3b87eafebd0a2ba025c94de53-720.mp4/master.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 2S 21B (ALTYAZI)
+https://e1.ygve.com/storage/media/5726f13b7b9bed3e97327c57a797056b-720.mp4/master.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 2S 22B
+https://lh3.googleusercontent.com/nkT6oMIczLjIbGOvsuVUuVtMZIl0ux0m5tvp9qwRj4Kvrlbn8vk6vQlurRNHcJwrmmXqT76D1t-UXB57cEfLZqXZOCWygdYCEHYGPaKB4nqPetHcSWjzAOH50GwavdsdCfQt3e3pHA=m18
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 2S 23B
+https://lh3.googleusercontent.com/KgEfQ_kB2er2GLjTos6sdIcheVdZr9WOpIiADbpaGAURbfskZotrQOysY6yUWJb-iDmMaJI6vJx1ZlZgbX9mEm7s55NvIBam6-5OoBv8lKfhUummss7wkI6WuE4IAwjwFR4k6yngVw=m18
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 3S 1B (ALTYAZI)
+https://e1.ygve.com/storage/media/1c575f13ae1a459a38293c171bacc3ef-720.mp4/master.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 3S 2B
+https://lh3.googleusercontent.com/FnPEsKpHr3gBSbhmiEC_yGEu6LPJFTzDtkHZdjcqwvnnTpzIqvXiKLK3cY0bKYnfgy6BZreeIsOroAoyQTcprY76xuAmdaENr2pKj1K2rhwK_NmZlCKtXE-pMfSJudVyQK7ETadb3A=m18
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 3S 3B
+https://lh3.googleusercontent.com/q5eTgR5A_jfqV3wH2Hc8PUkoZS91XCzn-pSRH7YZv-a0W-cO28l9kgcYhnRRlju6nCOIwqhh8D3WcaNolXVe5L6BTMEk1Z8bByM4ueGs1VsHtfnLvYzqXDNa6LdUwbxXlzaxUlZCjw=m18
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 3S 4B
+https://lh3.googleusercontent.com/3xBSz3WwTNUguGlq1a9oMNMK5eSVt830I8uJLQHd5bsrTTQHI6iobNZ2P6axy4RpOoOFRGorrNh4NPuiADXA7anDXF5F-e0KIkfB8LyW4Q1KNI0Vj0FTC54X28lPP3awTZEgkOufMA=m18
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 3S 5B
+https://lh3.googleusercontent.com/dtZGeIAmJGstzjc8cHGCklTvasAeIdCxzELByR9mxx6E7LDoM6jY7XJIK6NFrlQ72TW478t3WbgPhTgco90SaTjkUi82v4At8lc5jtwlcuD5R0nqWbGOd5ZEhp8gyhh4PUhEU9nviQ=m18
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 3S 6B
+https://lh3.googleusercontent.com/1VGIHFtSTDXTEjDp2Qke0_4uI__joD8NmAoCW5BQoWdyMZZUJCVHqWmh01TmBT-WF4CgSIlLPkmq7OTNfedM7ITang7SFSxuIlRua_26uukKRnPh317Lj7ZKhcfTSq7GXVY-ZSBG9Q=m18
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 3S 7B
+https://lh3.googleusercontent.com/rtg4EQ-yJWMJoV85s5OcVr8SyuVko-wGHW9EcP2_K7UjjcOBmizFJOCYeR3T8SBUgKsXlX_qT2BS_3qToRo0IOi4LzER_mQ_4E_2MxXw4EznIzembFkUwO3FuJWdD1zmYWQ9h0oiBw=m18
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 3S 8B (ALTYAZI)
+https://e1.ygve.com/storage/media/e49cec35f988d5db10e3d37b4d7ef377-720.mp4/master.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 3S 9B
+https://lh3.googleusercontent.com/rvmhnPQDjqL_nyOscY10V2cG1oSbX-ri6IIyvR_2Mfj5zFXirUn7OjBtestfQLpMd0LG4hc0MLGF_3dotE0SfAWnuRfw4CyfKkZDbfL3Wwbe2IL4nPhLEMD7JbBwaLuOEIKj4NfCxA=m18
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 3S 10B (ALTYAZI)
+https://t1.ygve.com/storage/media/d6f2bd63898e0d1e5517cf5ae8a1cf8f-720.mp4/master.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 3S 11B (ALTYAZI)
+https://t1.ygve.com/storage/media/ac27ea7735c2c031327149c8bb6a3647-720.mp4/master.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 3S 12B
+https://lh3.googleusercontent.com/8RE5RZcXBG1SvO9X4f0I19DIY-WRJefQJYw3ZnNMRhS5km7iXpkLRU31VIZxzx6H9OAuWEsFZa3zl9KUcTiiI1v1tvchBpqE44mMnNyWbEK-PCPFRDlUTYtwjckcKOTsrO6lmA6TBA=m18
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 3S 13B
+https://lh3.googleusercontent.com/vdJYXrwO_YtK8iv-sF5-kSkVOKLvwWtP7HcEk5jI0X7cKsgNKsK789RrL1neEJcRaf0ZU5PsU_B47i39weMYRK28jn_mlv2nUvIUgAcb_GhunTLbMcJLA8JpF6RtF1AAwgupaKfFHg=m18
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 3S 14B
+https://lh3.googleusercontent.com/C2b_6rt8Dt85r0b1xJF_LKpj2C1Z1nbD_i2pY_Ug4G8TNpoW8OgoLYyUYUFD75I5GHJsUPwiOr5Q8YMJqACmXEhChNNshCO1vtdTQ7f7O7Til0xmsy9_ZJOz4O5D9R1c75NfosXe3A=m18
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 3S 15B
+https://lh3.googleusercontent.com/qCVb9m4grN5f_IL7d8Ys1vpnYXVzBw-R57sN6zGCoh_IqO6j-C8LWarhcNvGHOUKpj0kMx2oFQ-pege6qrttPEWETZN-d-9xxiHOhKO_dHiJytiCk2is8mCOXqZL5vfMLHPmbsjJJg=m18
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 3S 16B
+https://lh3.googleusercontent.com/xtgpGNhpt2gtpMcR7wVh-iHrvk_JTs7BTzpaTdvg7IImetJ9yCWtK0t7CEkjFhmh5XNRtzOqJqFD6FbSlqnPaP3SALjkaqxt4PlsQM2CIYqJLIZPynHhhcx4Latm4V1W36VKxAZOEQ=m18
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 3S 17B
+https://lh3.googleusercontent.com/P5fKMwFyhjWAyEjC_YSHo9wVgCd9ISOPLWa-XFScblrHedpDV8e45dU_HY36KHZ5Nd0OVAKZ8-jo5_sCe4Q6jA0RGR31SvVfs_aGz3Ts-KVBs1ulaRkatSRMBDd5hKRdfX6foBxncw=m18
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 3S 18B
+https://lh3.googleusercontent.com/CS3JVMuREs1T1QGvh7jut7DU3UcRnW_qZDsTUaOehhLXj6hHiEUyfVm7HJb8A-9KAeNUdumYLTIY2pM6DK5SPQ382OiMXLbcCk5CNLYstkZFo5jnmNnVuq3PiiJf1gtsCfOADXNlTg=m18
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 3S 19B
+https://lh3.googleusercontent.com/zWSm1Ezz2wa9eOBTm91SRgNegYluKJikxV2C7__IfHYjESkdYF7QrbpERkLjeHYlGjerAbd6VVxwuKUBCBWKiY2Z1F0GK-blevDI96fOxACD3Vtospd9uiZmIFoJa7hVMxyDNOfsOQ=m18
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 3S 20B
+https://lh3.googleusercontent.com/c5VrJZZG6LWWm2LxiASN4Bg1X8oXmv8fUnyk7i3ev4YLuVLd86ohtJP3Chn9goFAfbP03Liz8pi44878rChoOZD1S6IFbfmu795JNZTd4tmAXP1jmHLWxSHIYwOeJi3iHGxYu8jv8g=m18
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 3S 21B
+https://lh3.googleusercontent.com/JZ0vIUyQMNFKMqwUOBkdbsXCLINAZ5NjnRGHRQRA9_ePtoy3qoG5KlV59pCT2RwpTXe9UUhcfFHdoLVisZjdwr_4z1FUx52krEewS8S1_txulQIfkt7AIlwD5rDWFUMusQX0n1wEvg=m18
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 3S 22B
+https://lh3.googleusercontent.com/WWhtvV6ARV17KHLP67Y4xBeFT-NhM_VbazoNhoe2dH1jX9JWgi-tWm_izX_6u4DZpCBIG1hzPL_CPX9mvbS2w7F_CwpA8FQ0PgXrtEhJjPCGZyBBr6qga_L8x5tZeO1EYtrG-G4eTg=m18
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 3S 23B
+https://lh3.googleusercontent.com/mQ39nepalMn-7rEzgAKYQR9V_tzwZ6TzhMcqvAyX6L_BfAcfgSvjvQvpucbO2dTlUEXJWQ1X7B6OTJ8wnftl4pxLjTK1n_YFrW5h_U7NHaeslLSpgtIq3f0eRndJDc8INSDYRKw2hA=m18
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 4S 1B
+https://lh3.googleusercontent.com/ZUCCi4VbuxhSFkBNHOjx550-gXrcJwF6Pe11VTpFbNG0ZIwvmntls6i3t1mbrR9eBdxJLbdXDM7RTAQ2HtzDFbVH0BUoNCEAsdf251UAKptI1X8CGdqwRDgevFaAFY4gYu5Ywslceg=m22
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 4S 2B
+https://lh3.googleusercontent.com/B-wfjov4Ar0XawC_TmI6tle39yxjD3IpvtGRdaumMFNA2p_dzl9pyM0No30YbKJ9duO1Us0a8mr484Ne-sDZxpVcXydwoqPvIZUxwt0gYGxcxoyjPKh_chCQPsQHx6Nf4bUt_aOGuA=m22
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 4S 3B
+https://lh3.googleusercontent.com/ZB9YXjKWKS6y7Tbzp0JmgHTUh2jlOljcBhRlj5Xf59NmR0aWCfKwHvTVK7bKr-gizJ-ZxIFusBvufG4ZEPEx3meT62C9YNYr-b3CO6JoMdujn9aX6fBCE4hKwSS8edLPKot77B3Ffg=m22
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 4S 4B
+https://lh3.googleusercontent.com/FDtfBNn7B_kLTv6F-O8yBYTtQgdc7At_g9LSpNlfN2xhDNEqeBEwd2X5P6hHibWEFf83DE6BDyHgFAtc6nGpcaWViwN1qEnXNSV6F73t8nO5W-7jJUsd-EZYFiBIhlOAhRb4yJ62Mw=m22
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 4S 5B
+https://lh3.googleusercontent.com/IzdtJIRbX1RPkMMjdSP-IyZkAQrSs1hABbMknPZbrKMOeWIDYURLZQhVIZ1IciUQDONWstGRK3gqU8Jbj_K7JSK55hwkSQsX_D_gwt-Zl8VDTYjFddsq2GDmiv0fvTYBKCciH2MLIA=m22
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 4S 6B
+https://lh3.googleusercontent.com/ArsJIqKmmBnkIS8RvJVuRN5mqJJQexzBOe0ahnsSEoLTuj1GGPYVRxHP9_dxOQJBFkinV_PBYrw5o0i9fBqQEqLgRWOncWREL3zM6V39gZNJjFumRNLZU1_fsMnhOwJ7JpWlWP747w=m22
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 4S 7B
+https://lh3.googleusercontent.com/8tKkDcGuydXUI-FJh_Bm1XugCdUhWHOc_UZwFkpfeaKTygLDMqXG9pIKencTdwtazawz2UWiyNbrHKN4b58XDbN6GITylVihCgt2IDZmoTQD-w0x3cWv9hn5G-s8BNWVt1RuaCtYZg=m22
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 4S 8B
+https://lh3.googleusercontent.com/-fTr9yiDyBMsKd5b6Vq3D2kvz3h45X9-GzREb745MYG9NWSAn33XPZ2tkl0s_guTt4XcUx12ZG7KEAU8jhXegZoXxaFSncJLBCIW_A_wo9gmCoVH3ERS8o7px8Aboyfy-0_Rr_q4gQ=m22
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 4S 9B
+https://lh3.googleusercontent.com/YGZ3zC2yPJDVdpEO55FBvpYsb_ooGF7j0QHhgY_TR9Gv2uaGJQRHER-50gK8GZcndebCDmtPYX2nZL9pE7zDtid5ndoS4FOV1iRgJRkQ-oW1UDvNS3sX-ZoKvfm4GkdzQ6kqSDwWrw=m22
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 4S 10B
+https://lh3.googleusercontent.com/B4N2WHvWsEI5cLtjObf6IFyBsvClLdQ11GwjaE1ceYt_BjqADq7X5M0KKmfOdcYhhqwACqn3tfVGzJW3nlwQGPZULAsd-H6rJvtoxTMvtmpf9j6PUf0XXk_JmYaK15qn5mEU6xfs2Q=m22
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 4S 11B
+https://lh3.googleusercontent.com/hdE_MEbFdunN8kDpPJpDZnF-OlpHOuxQhiHgvhVOCI4aIF0Z0LDKabPEhYOczot8u4Er3flszf4VXbrZz7LlwGklJrXYH2ayKLo4fJRQIvT3K2C7usL2NlQItNjW7wRQsZsyV_47HA=m22
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 4S 12B
+https://lh3.googleusercontent.com/huI5W8btkJ-SilD9365wn2j0GNU7aJXo_iOdsyeK13AaxB2ftLD74kUxYP4NThHMZtzmG8r5WixMdemTzGl5r-vPwSrpZST4pc5cusQ3LX1DXn_RJ-wdmy78bnSgpd7kumD2zCFCQw=m22
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 4S 13B
+https://lh3.googleusercontent.com/yYifHaMAIWw5ZU8EwC96k-zlHjmBlTGRYj4Qt8VwBxCOLFHMHRyBA-dCL1jEfswp8GfKnDqkTQzrhOe2CiQmrPcxCUCswV3iDzOr3bTl9lsVjh5z5p_h9_FK_IBheiL-l3p-fJE84A=m22
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 4S 14B
+https://lh3.googleusercontent.com/q94E4bPAC3h9LPg9QQILE5dFOmxJsGuHtX_zBZgpDJdg0MahJNz6Cn7RmfhGUfTFv15H2-W_Fx3vxwRFkknkRdYn2zkNTX-0KgiR3v4dwEmwftz0-ybs94zwlvMYNL2ETUbkqZY8Gg=m22
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 4S 15B
+https://lh3.googleusercontent.com/HeTryz2wrS8O6uNAYPt3Hhaaa96XOKGuF8xdD8lNsDfSLcezG4vwmVd8ptk1DOR6Y3m7hs0gpEiHWqotqLRo9gqrZfak9FyYV9OcDCyypvrFKrNZQsOH2f2vmHxkI0Pn2kV-RqIeEA=m22
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 4S 16B
+https://lh3.googleusercontent.com/vseAd7kFmEiPtOe-conqegSo4KHNoZhfdttHliKw0w-KyBX3qnSZJzwkL1k3J2XuVTA1S9iPMKZ9llh8yPnSGlgd7JxzNBcFNGV8xMB4gdMWwaRSATham9o44k5j8fg8sjs0bid8YQ=m22
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 4S 17B
+https://lh3.googleusercontent.com/RCpShES7yHlBC3iJMRFf-QI4i3TFXXeHt-ZWRtHXosgYZzmPuiw9TObnkGybc77mBMYfQCE-HNBMNGv8mwqKavdqEpaanbu5TEdGfyruMK7njjoiubVMloVPt_iylGh8K8vnnIHifQ=m22
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 4S 18B
+https://lh3.googleusercontent.com/BqF8yLI2FBXxHfl2SS97Ebt9JpoV9vtbj4FZZygGHyE2sjK5JD3r02gyf3YOr5paeuPnheyISdO7fQ4_o1qBvWoAqKb13iJSbHX2Aa5KfNa37GyaQQV52mmBWtdSAQA2eQPJW5XFlg=m22
+#EXTINF:0 type="video" channelId="-1", 
+https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 4S 19B
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 4S 20B
+https://lh3.googleusercontent.com/5iw6dXvtWeo991L87X5vcCoFmVUchRjlBXIU-VnQDRiMQ5rJ0z6SArePqVJB-lZBluxKYLCEpxnCUYqczFz0ctnGvJ8zQo6RzRkGyR8w9tiW31vKCa9R0aWsVa_jxUHZduWdbAb0DQ=m22
+#EXTINF:0 type="video" channelId="-1", 
+https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 4S 21B
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 4S 22B
+https://lh3.googleusercontent.com/_eBEr8lH2iAXLPW_ha7eiZLJ8BKY8RubDNtV8XAQ0ycG8yo-1uO6qSkLaTuWMN83_w04eRUZHjgXLbw7zAYpLqTiXoGP8KT-dnm8ex9iOuATa6DcVRHOi66yZfQgfTxHccVG8UeXuQ=m22
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 4S 23B
+https://lh3.googleusercontent.com/gQ7wyZ5kYCXfwHRFEeKmY2X8KzwH0UlCqMjFHJOefxcL0XcguJM3JfniTjHEr0Nghvnc4K03svD6r_mNkoYT9H0gcKNATyJkwc51UPfCv0Uo-TosCERq-UiIyH_9WxxiEdLhA6ERcA=m22
+
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2021/06/Sweet-Tooth-Bear-Gus-Tommy.jpg" background="purple", SWEET TOOTH 1S 2B
+https://storage.diziyou.co/episodes/70802_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2021/06/Sweet-Tooth-Bear-Gus-Tommy.jpg" background="purple", SWEET TOOTH 1S 3B
+https://storage.diziyou.co/episodes/70803_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2021/06/Sweet-Tooth-Bear-Gus-Tommy.jpg" background="purple", SWEET TOOTH 1S 4B
+https://storage.diziyou.co/episodes/70804_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2021/06/Sweet-Tooth-Bear-Gus-Tommy.jpg" background="purple", SWEET TOOTH 1S 5B
+https://storage.diziyou.co/episodes/70805_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2021/06/Sweet-Tooth-Bear-Gus-Tommy.jpg" background="purple", SWEET TOOTH 1S 6B
+https://storage.diziyou.co/episodes/70806_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2021/06/Sweet-Tooth-Bear-Gus-Tommy.jpg" background="purple", SWEET TOOTH 1S 7B
+https://storage.diziyou.co/episodes/70807_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2021/06/Sweet-Tooth-Bear-Gus-Tommy.jpg" background="purple", SWEET TOOTH 1S 8B
+https://storage.diziyou.co/episodes/70808_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2021/06/Sweet-Tooth-Bear-Gus-Tommy.jpg" background="purple", SWEET TOOTH 2S 1B
+https://storage.diziyou.co/episodes/70809_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2021/06/Sweet-Tooth-Bear-Gus-Tommy.jpg" background="purple", SWEET TOOTH 2S 2B
+https://storage.diziyou.co/episodes/70810_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2021/06/Sweet-Tooth-Bear-Gus-Tommy.jpg" background="purple", SWEET TOOTH 2S 3B
+https://storage.diziyou.co/episodes/70811_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2021/06/Sweet-Tooth-Bear-Gus-Tommy.jpg" background="purple", SWEET TOOTH 2S 4B
+https://storage.diziyou.co/episodes/70812_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2021/06/Sweet-Tooth-Bear-Gus-Tommy.jpg" background="purple", SWEET TOOTH 2S 5B
+https://storage.diziyou.co/episodes/70813_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2021/06/Sweet-Tooth-Bear-Gus-Tommy.jpg" background="purple", SWEET TOOTH 2S 6B
+https://storage.diziyou.co/episodes/70814_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2021/06/Sweet-Tooth-Bear-Gus-Tommy.jpg" background="purple", SWEET TOOTH 2S 7B
+https://storage.diziyou.co/episodes/70815_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2021/06/Sweet-Tooth-Bear-Gus-Tommy.jpg" background="purple", SWEET TOOTH 2S 8B
+https://storage.diziyou.co/episodes/70816_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2021/06/Sweet-Tooth-Bear-Gus-Tommy.jpg" background="purple", SWEET TOOTH 3S 1B
+https://storage.diziyou.co/episodes/70817_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2021/06/Sweet-Tooth-Bear-Gus-Tommy.jpg" background="purple", SWEET TOOTH 3S 2B
+https://storage.diziyou.co/episodes/70818_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2021/06/Sweet-Tooth-Bear-Gus-Tommy.jpg" background="purple", SWEET TOOTH 3S 3B
+https://storage.diziyou.co/episodes/70819_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2021/06/Sweet-Tooth-Bear-Gus-Tommy.jpg" background="purple", SWEET TOOTH 3S 4B
+https://storage.diziyou.co/episodes/70820_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2021/06/Sweet-Tooth-Bear-Gus-Tommy.jpg" background="purple", SWEET TOOTH 3S 5B
+https://storage.diziyou.co/episodes/70821_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2021/06/Sweet-Tooth-Bear-Gus-Tommy.jpg" background="purple", SWEET TOOTH 3S 6B
+https://storage.diziyou.co/episodes/70822_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2021/06/Sweet-Tooth-Bear-Gus-Tommy.jpg" background="purple", SWEET TOOTH 3S 7B
+https://storage.diziyou.co/episodes/70823_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2021/06/Sweet-Tooth-Bear-Gus-Tommy.jpg" background="purple", SWEET TOOTH 3S 8B
+https://storage.diziyou.co/episodes/70824_tr/720p.m3u8
+
+
+
+
+
+
+
 
 
 
