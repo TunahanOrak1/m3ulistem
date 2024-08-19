@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Warner_Bros._logo_2023.svg/1011px-Warner_Bros._logo_2023.svg.png" background="purple", WARNER BROS
+type="video" channelId="-1" group="CARTOON NETWORK+" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Warner_Bros._logo_2023.svg/1011px-Warner_Bros._logo_2023.svg.png" background="purple", WARNER BROS
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/DC_Comics_logo.svg/800px-DC_Comics_logo.svg.png" background="purple", DC
+type="video" channelId="-1" group="CARTOON NETWORK+" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/DC_Comics_logo.svg/800px-DC_Comics_logo.svg.png" background="purple", DC
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static.wikia.nocookie.net/logopedia/images/d/d8/The_CW_%28Print%29.svg/revision/latest?cb=20180910214129" background="purple", THE CW
+type="video" channelId="-1" group="CARTOON NETWORK+" logo="https://static.wikia.nocookie.net/logopedia/images/d/d8/The_CW_%28Print%29.svg/revision/latest?cb=20180910214129" background="purple", THE CW
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://ds.static.rtbf.be/article/image/1920x1080/4/3/3/349f36aa789af083b8e26839bd498af9-1469179192.jpg" background="purple", TEEN WOLF 1S 1B
 https://storage.diziyou.co/episodes/18701_tr/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://cdn.kayiprihtim.com/wp-content/uploads/2020/06/lucifer-5-sezon-netflix-ne-zaman-tarih.jpg" background="purple", LUCİFER 1S 1B
