@@ -56,7 +56,7 @@ https://storage.diziyou.co/episodes/70801_tr/720p.m3u8
 https://storage.diziyou.co/episodes/80301_tr/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://assetsio.gnwcdn.com/-1647860761419.jpg?width=1200&height=1200&fit=bounds&quality=70&format=jpg&auto=webp" subtitles="https://storage.diziyou.co/subtitles/21051/tr.vtt" background="purple", TEKKEN BLOODLİNE 1S 1B
 https://storage.diziyou.co/episodes/21051/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://fictionhorizon.com/wp-content/uploads/2022/12/VSS1.jpg" subtitles="https://storage.diziyou.co/subtitles/83001/tr.vtt" background="purple", VİNLAND SAGA 1S 1B
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://static1.cbrimages.com/wordpress/wp-content/uploads/2023/01/thorfinn-with-a-knife.jpg" subtitles="https://storage.diziyou.co/subtitles/83001/tr.vtt" background="purple", VİNLAND SAGA 1S 1B
 https://storage.diziyou.co/episodes/83001/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://wallpapers.com/images/hd/fierce-look-of-supergirl-p4qjm4modfdugujs.jpg" background="purple", SUPERGİRL 1S 1B
 https://storage.diziyou.co/episodes/78801_tr/720p.m3u8
@@ -3299,15 +3299,15 @@ https://storage.diziyou.co/episodes/21056/720p.m3u8
 
 #EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://img-s1.onedio.com/id-54371c47e469a49b62f9e2d9/rev-0/w-1200/h-776/f-jpg/s-f5c26787c78f95424eeddd2915d4843981f923d0.jpg" background="PURPLE", GOTHAM 1S 1B
 https://storage.diziyou.co/episodes/80401_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="DC Dizieri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 1S 1B
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 1S 1B
 https://storage.diziyou.co/episodes/78301_tr/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 1S 1B (+13) (BİLİM KURGU VE DRAM)
 https://lh3.googleusercontent.com/RAdaZZZ5XURI6l4ymYCsIWUXxchJhenudk28pgkPwRHWXVt-7LGgMsOYL-zMV8w5OIJ4V8OqNkBVV8MPllJjkolPpJBrUNS5AMeJcfezsAG9M3k731j29qcv1vaQWqH9h8-BMMQiAA=m37
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2017/10/Kid-Flash-on-Legends-of-Tomorrow.jpg" background="purple", DC S LEGENDS OF TOMORROW 1S 1B
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2017/10/Kid-Flash-on-Legends-of-Tomorrow.jpg" background="purple", DC S LEGENDS OF TOMORROW 1S 1B
 https://storage.diziyou.co/episodes/80301_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://wallpapers.com/images/hd/fierce-look-of-supergirl-p4qjm4modfdugujs.jpg" background="purple", SUPERGİRL 1S 1B
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://wallpapers.com/images/hd/fierce-look-of-supergirl-p4qjm4modfdugujs.jpg" background="purple", SUPERGİRL 1S 1B
 https://storage.diziyou.co/episodes/78801_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2024/07/batman-caped-crusader-logo-over-the-poster-for-the-show.jpg" background="purple", BATMAN CAPED CRUSADER 1S 1B
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2024/07/batman-caped-crusader-logo-over-the-poster-for-the-show.jpg" background="purple", BATMAN CAPED CRUSADER 1S 1B
 https://storage.diziyou.co/episodes/99901_tr/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2021/06/Sweet-Tooth-Bear-Gus-Tommy.jpg" background="purple", SWEET TOOTH 1S 1B
 https://storage.diziyou.co/episodes/70801_tr/720p.m3u8
