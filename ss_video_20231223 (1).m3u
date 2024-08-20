@@ -5,6 +5,8 @@ type="video" channelId="-1"  logo="https://upload.wikimedia.org/wikipedia/common
 type="video" channelId="-1"  logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/DC_Comics_logo.svg/800px-DC_Comics_logo.svg.png" background="purple", DC
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/The_CW_2024.svg/1200px-The_CW_2024.svg.png" background="purple", THE CW
 type="video" channelId="-1"  logo="https://static.wikia.nocookie.net/logopedia/images/d/d8/The_CW_%28Print%29.svg/revision/latest?cb=20180910214129" background="purple", THE CW
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static1.cbrimages.com/wordpress/wp-content/uploads/2023/09/one-piece-live-action-and-manga-1.jpg" background="purple", ONE PİECE LİVE ACTİON 1S 1B
+https://storage.diziyou.co/episodes/74801_tr/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://ds.static.rtbf.be/article/image/1920x1080/4/3/3/349f36aa789af083b8e26839bd498af9-1469179192.jpg" background="purple", TEEN WOLF 1S 1B
 https://storage.diziyou.co/episodes/18701_tr/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://cdn.kayiprihtim.com/wp-content/uploads/2020/06/lucifer-5-sezon-netflix-ne-zaman-tarih.jpg" background="purple", LUCİFER 1S 1B
@@ -4282,6 +4284,71 @@ https://storage.diziyou.co/episodes/30559_tr/720p.m3u8
 https://storage.diziyou.co/episodes/30560_tr/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i0.wp.com/www.thewrap.com/wp-content/uploads/2022/06/Avatar-The-Last-Airbender.jpg?fit=1200%2C675&ssl=1" background="purple", AVATAR THE LAST AIRBANDER (ANİMATED SERİE) 3S 21B
 https://storage.diziyou.co/episodes/30561_tr/720p.m3u8
+
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://sm.ign.com/ign_tr/cover/y/young-shel/young-sheldon_n563.jpg" background="purple", YOUNG SHELDON 1S 2B
+https://storage.diziyou.co/episodes/90702_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://sm.ign.com/ign_tr/cover/y/young-shel/young-sheldon_n563.jpg" background="purple", YOUNG SHELDON 1S 3B
+https://storage.diziyou.co/episodes/90703_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://sm.ign.com/ign_tr/cover/y/young-shel/young-sheldon_n563.jpg" background="purple", YOUNG SHELDON 1S 4B
+https://storage.diziyou.co/episodes/90704_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://sm.ign.com/ign_tr/cover/y/young-shel/young-sheldon_n563.jpg" background="purple", YOUNG SHELDON 1S 5B
+https://storage.diziyou.co/episodes/90705_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://sm.ign.com/ign_tr/cover/y/young-shel/young-sheldon_n563.jpg" background="purple", YOUNG SHELDON 1S 6B
+https://storage.diziyou.co/episodes/90706_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://sm.ign.com/ign_tr/cover/y/young-shel/young-sheldon_n563.jpg" background="purple", YOUNG SHELDON 1S 7B
+https://storage.diziyou.co/episodes/90707_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://sm.ign.com/ign_tr/cover/y/young-shel/young-sheldon_n563.jpg" background="purple", YOUNG SHELDON 1S 8B
+https://storage.diziyou.co/episodes/90708_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://sm.ign.com/ign_tr/cover/y/young-shel/young-sheldon_n563.jpg" background="purple", YOUNG SHELDON 1S 9B
+https://storage.diziyou.co/episodes/90709_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://sm.ign.com/ign_tr/cover/y/young-shel/young-sheldon_n563.jpg" background="purple", YOUNG SHELDON 1S 10B
+https://storage.diziyou.co/episodes/90710_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://sm.ign.com/ign_tr/cover/y/young-shel/young-sheldon_n563.jpg" background="purple", YOUNG SHELDON 1S 11B
+https://storage.diziyou.co/episodes/90711_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://sm.ign.com/ign_tr/cover/y/young-shel/young-sheldon_n563.jpg" background="purple", YOUNG SHELDON 1S 12B
+https://storage.diziyou.co/episodes/90712_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://sm.ign.com/ign_tr/cover/y/young-shel/young-sheldon_n563.jpg" background="purple", YOUNG SHELDON 1S 13B
+https://storage.diziyou.co/episodes/90713_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://sm.ign.com/ign_tr/cover/y/young-shel/young-sheldon_n563.jpg" background="purple", YOUNG SHELDON 1S 14B
+https://storage.diziyou.co/episodes/90714_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://sm.ign.com/ign_tr/cover/y/young-shel/young-sheldon_n563.jpg" background="purple", YOUNG SHELDON 1S 15B
+https://storage.diziyou.co/episodes/90715_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://sm.ign.com/ign_tr/cover/y/young-shel/young-sheldon_n563.jpg" background="purple", YOUNG SHELDON 1S 16B
+https://storage.diziyou.co/episodes/90716_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://sm.ign.com/ign_tr/cover/y/young-shel/young-sheldon_n563.jpg" background="purple", YOUNG SHELDON 1S 17B
+https://storage.diziyou.co/episodes/90717_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://sm.ign.com/ign_tr/cover/y/young-shel/young-sheldon_n563.jpg" background="purple", YOUNG SHELDON 1S 18B
+https://storage.diziyou.co/episodes/90718_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://sm.ign.com/ign_tr/cover/y/young-shel/young-sheldon_n563.jpg" background="purple", YOUNG SHELDON 1S 19B
+https://storage.diziyou.co/episodes/90719_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://sm.ign.com/ign_tr/cover/y/young-shel/young-sheldon_n563.jpg" background="purple", YOUNG SHELDON 1S 20B
+https://storage.diziyou.co/episodes/90720_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://sm.ign.com/ign_tr/cover/y/young-shel/young-sheldon_n563.jpg" background="purple", YOUNG SHELDON 1S 21B
+https://storage.diziyou.co/episodes/90721_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://sm.ign.com/ign_tr/cover/y/young-shel/young-sheldon_n563.jpg" background="purple", YOUNG SHELDON 1S 22B
+https://storage.diziyou.co/episodes/90722_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://sm.ign.com/ign_tr/cover/y/young-shel/young-sheldon_n563.jpg" background="purple", YOUNG SHELDON 2S 1B
+https://storage.diziyou.co/episodes/90723_tr/720p.m3u8
+
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static1.cbrimages.com/wordpress/wp-content/uploads/2023/09/one-piece-live-action-and-manga-1.jpg" background="purple", ONE PİECE LİVE ACTİON 1S 2B
+https://storage.diziyou.co/episodes/74802_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static1.cbrimages.com/wordpress/wp-content/uploads/2023/09/one-piece-live-action-and-manga-1.jpg" background="purple", ONE PİECE LİVE ACTİON 1S 3B
+https://storage.diziyou.co/episodes/74803_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static1.cbrimages.com/wordpress/wp-content/uploads/2023/09/one-piece-live-action-and-manga-1.jpg" background="purple", ONE PİECE LİVE ACTİON 1S 4B
+https://storage.diziyou.co/episodes/74804_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static1.cbrimages.com/wordpress/wp-content/uploads/2023/09/one-piece-live-action-and-manga-1.jpg" background="purple", ONE PİECE LİVE ACTİON 1S 5B
+https://storage.diziyou.co/episodes/74805_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static1.cbrimages.com/wordpress/wp-content/uploads/2023/09/one-piece-live-action-and-manga-1.jpg" background="purple", ONE PİECE LİVE ACTİON 1S 6B
+https://storage.diziyou.co/episodes/74806_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static1.cbrimages.com/wordpress/wp-content/uploads/2023/09/one-piece-live-action-and-manga-1.jpg" background="purple", ONE PİECE LİVE ACTİON 1S 7B
+https://storage.diziyou.co/episodes/74807_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static1.cbrimages.com/wordpress/wp-content/uploads/2023/09/one-piece-live-action-and-manga-1.jpg" background="purple", ONE PİECE LİVE ACTİON 1S 8B
+https://storage.diziyou.co/episodes/74808_tr/720p.m3u8
+
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://resizing.flixster.com/KMR4XC4KuXbyCBYhsjlcLjnRi_U=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p18175990_b_h8_ad.jpg" background="purple", UPLOAD 1S 1B
+https://storage.diziyou.co/episodes/27601_tr/720p.m3u8
+
+
 
 
 
