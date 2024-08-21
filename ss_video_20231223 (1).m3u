@@ -9,6 +9,8 @@ type="video" channelId="-1"  logo="https://static.wikia.nocookie.net/logopedia/i
 https://storage.diziyou.co/episodes/16251/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://file.cdnhipter.xyz/images/f/f/100//hhprqdeq1bmhfk1a6szwrtytbde--1721373832.jpg" background="purple", SWEET HOME 1S 1B
 https://storage.diziyou.co/episodes/82801_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://assets.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/2022/06/09/3187017941.jpg" background="purple", ALL OF US ARE DEAD 1S 1B
+https://storage.diziyou.co/episodes/15101_tr/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://m.media-amazon.com/images/S/pv-target-images/821ab71fdbe630210e17839df164a4b40910c7a3db8f8b2685a3a09639bc9e3f.jpg" background="purple", WEDNESDAY 1S 1B
 https://storage.diziyou.co/episodes/24701_tr/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://assets-prd.ignimgs.com/2020/06/17/warrior-nun-button-1592416571452.jpg" background="purple", WARRİOR RUN 1S 1B
@@ -19,7 +21,7 @@ https://storage.diziyou.co/episodes/40901_tr/720p.m3u8
 https://storage.diziyou.co/episodes/27601_tr/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static1.cbrimages.com/wordpress/wp-content/uploads/2023/09/one-piece-live-action-and-manga-1.jpg" background="purple", ONE PİECE LİVE ACTİON 1S 1B
 https://storage.diziyou.co/episodes/74801_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://file.cdnhipter.xyz/images/f/f/100//hhprqdeq1bmhfk1a6szwrtytbde--1721373832.jpg" background="purple", HAZBİN HOTEL 1S 1B
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://images.thedirect.com/media/article_full/hazbin-hotels.jpg" background="purple", HAZBİN HOTEL 1S 1B
 https://storage.diziyou.co/episodes/85101_tr/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://ds.static.rtbf.be/article/image/1920x1080/4/3/3/349f36aa789af083b8e26839bd498af9-1469179192.jpg" background="purple", TEEN WOLF 1S 1B
 https://storage.diziyou.co/episodes/18701_tr/720p.m3u8
@@ -56,7 +58,7 @@ https://storage.diziyou.co/episodes/90701_tr/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://www.thedigitalfix.com/wp-content/sites/thedigitalfix/2023/06/disenchantment-season-5-release-date-5.jpg" background="purple", DİSENCHANTMENT 1S 1B
 https://storage.diziyou.co/episodes/11341_tr/720p.m3u8
 
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i.ytimg.com/vi/G-r5LFRaF0k/maxresdefault.jpg" background="purple", KLON SAVAŞLARI 1S 1B 
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://www.esenshop.com/Uploads/UrunResimleri/Star-Wars--Klon-Savaslari--925b.jpg" background="purple", KLON SAVAŞLARI 1S 1B 
 https://lh3.googleusercontent.com/X1LeTjYw_gU2ZPU1JPlmEVO1-_v4yxxQRDAZv161QR5MkEnWQezt8hUQGY2mtH70YyQzJFVkuLI4qKLnOotd9q2tDFCJVGOpJ2CLX7yUqTIiqBv84YlhgSUh4dd1Lv9mEjl1N2xigQ=m18
 
 #EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i.pinimg.com/236x/1a/a5/52/1aa5525ecda170b2ca7c6b7464139752.jpg" background="purple", FİNAL SPACE 1S 1B
@@ -97,8 +99,10 @@ https://storage.diziyou.co/episodes/60701_tr/720p.m3u8
 https://storage.diziyou.co/episodes/10751_tr/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://m.media-amazon.com/images/M/MV5BNTZmZjU4OTgtOThjZi00YTUyLWIzNmQtYzU4ZjZhZjAzYmJlXkEyXkFqcGdeQTNwaW5nZXN0._V1_.jpg" background="purple", VİS A VİS 1S 1B
 https://storage.diziyou.co/episodes/18851_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://assets.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/2022/06/09/3187017941.jpg" background="purple", ALL OF US ARE DEAD 1S 1B
-https://storage.diziyou.co/episodes/15101_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group="Animasyon Dizileri" logo="https://a.wattpad.com/cover/35937827-288-k494859.jpg" background="purple", ESRARENGİZ KASABA 1S 1B
+https://vod02.cdn.web.tv/lf/do/lfdoahfiiqo_,240,360,480,.mp4.urlset/playlist-f3-v1-a1.m3u8
+#EXTINF:0 type="video" channelId="-1" group="Diziler" logo="https://static.wikia.nocookie.net/antagonisten/images/c/ca/Peacemaker_%28TSS%29.jpg/revision/latest/top-crop/width/360/height/360?cb=20210809234936&path-prefix=de" background="purple", PEACEMAKER 1S 1B
+https://storage.diziyou.co/episodes/17401_tr/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://eagleeye.news/wp-content/uploads/2017/10/rick-and-morty-e1507831459637.jpg" background="purple", RİCK AND MORTY 1S 2B
 https://storage.diziyou.co/episodes/11502_tr/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://eagleeye.news/wp-content/uploads/2017/10/rick-and-morty-e1507831459637.jpg" background="purple", RİCK AND MORTY 1S 3B
@@ -825,6 +829,8 @@ https://storage.diziyou.co/episodes/11378_tr/720p.m3u8
 https://storage.diziyou.co/episodes/11379_tr/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://www.thedigitalfix.com/wp-content/sites/thedigitalfix/2023/06/disenchantment-season-5-release-date-5.jpg" background="purple", DİSENCHANTMENT 4S 10B
 https://storage.diziyou.co/episodes/11380_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group="DC Dizileri" logo="https://static.wikia.nocookie.net/antagonisten/images/c/ca/Peacemaker_%28TSS%29.jpg/revision/latest/top-crop/width/360/height/360?cb=20210809234936&path-prefix=de" background="purple", PEACEMAKER 1S 1B
+https://storage.diziyou.co/episodes/17401_tr/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i.pinimg.com/236x/1a/a5/52/1aa5525ecda170b2ca7c6b7464139752.jpg" background="purple", FİNAL SPACE 1S 2B
 https://storage.diziyou.co/episodes/11202_tr/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i.pinimg.com/236x/1a/a5/52/1aa5525ecda170b2ca7c6b7464139752.jpg" background="purple", FİNAL SPACE 1S 3B
@@ -4756,19 +4762,19 @@ https://storage.diziyou.co/episodes/82825_tr/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://file.cdnhipter.xyz/images/f/f/100//hhprqdeq1bmhfk1a6szwrtytbde--1721373832.jpg" background="purple", SWEET HOME 3S 8B
 https://storage.diziyou.co/episodes/82826_tr/720p.m3u8
 
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://file.cdnhipter.xyz/images/f/f/100//hhprqdeq1bmhfk1a6szwrtytbde--1721373832.jpg" background="purple", HAZBİN HOTEL 1S 2B
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://images.thedirect.com/media/article_full/hazbin-hotels.jpg" background="purple", HAZBİN HOTEL 1S 2B
 https://storage.diziyou.co/episodes/85102_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://file.cdnhipter.xyz/images/f/f/100//hhprqdeq1bmhfk1a6szwrtytbde--1721373832.jpg" background="purple", HAZBİN HOTEL 1S 3B
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://images.thedirect.com/media/article_full/hazbin-hotels.jpg" background="purple", HAZBİN HOTEL 1S 3B
 https://storage.diziyou.co/episodes/85103_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://file.cdnhipter.xyz/images/f/f/100//hhprqdeq1bmhfk1a6szwrtytbde--1721373832.jpg" background="purple", HAZBİN HOTEL 1S 4B
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://images.thedirect.com/media/article_full/hazbin-hotels.jpg" background="purple", HAZBİN HOTEL 1S 4B
 https://storage.diziyou.co/episodes/85104_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://file.cdnhipter.xyz/images/f/f/100//hhprqdeq1bmhfk1a6szwrtytbde--1721373832.jpg" background="purple", HAZBİN HOTEL 1S 5B
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://images.thedirect.com/media/article_full/hazbin-hotels.jpg" background="purple", HAZBİN HOTEL 1S 5B
 https://storage.diziyou.co/episodes/85105_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://file.cdnhipter.xyz/images/f/f/100//hhprqdeq1bmhfk1a6szwrtytbde--1721373832.jpg" background="purple", HAZBİN HOTEL 1S 6B
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://images.thedirect.com/media/article_full/hazbin-hotels.jpg" background="purple", HAZBİN HOTEL 1S 6B
 https://storage.diziyou.co/episodes/85106_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://file.cdnhipter.xyz/images/f/f/100//hhprqdeq1bmhfk1a6szwrtytbde--1721373832.jpg" background="purple", HAZBİN HOTEL 1S 7B
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://images.thedirect.com/media/article_full/hazbin-hotels.jpg" background="purple", HAZBİN HOTEL 1S 7B
 https://storage.diziyou.co/episodes/85107_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://file.cdnhipter.xyz/images/f/f/100//hhprqdeq1bmhfk1a6szwrtytbde--1721373832.jpg" background="purple", HAZBİN HOTEL 1S 8B
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://images.thedirect.com/media/article_full/hazbin-hotels.jpg" background="purple", HAZBİN HOTEL 1S 8B
 https://storage.diziyou.co/episodes/85108_tr/720p.m3u8
 
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://resizing.flixster.com/KMR4XC4KuXbyCBYhsjlcLjnRi_U=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p18175990_b_h8_ad.jpg" background="purple", UPLOAD 1S 2B
@@ -5011,8 +5017,116 @@ https://storage.diziyou.co/episodes/16273/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="Oyun Severlere" logo="https://ovicio.com.br/wp-content/uploads/2022/10/20221015-ovicio-vikings-valhalla-1-1024x576.jpg" background="purple", VİKİNGS VALHALLA 3S 8B
 https://storage.diziyou.co/episodes/16274/720p.m3u8
 
+#EXTINF:0 type="video" channelId="-1" group="Diziler" logo="https://static.wikia.nocookie.net/antagonisten/images/c/ca/Peacemaker_%28TSS%29.jpg/revision/latest/top-crop/width/360/height/360?cb=20210809234936&path-prefix=de" background="purple", PEACEMAKER 1S 2B
+https://storage.diziyou.co/episodes/17402_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group="Diziler" logo="https://static.wikia.nocookie.net/antagonisten/images/c/ca/Peacemaker_%28TSS%29.jpg/revision/latest/top-crop/width/360/height/360?cb=20210809234936&path-prefix=de" background="purple", PEACEMAKER 1S 3B
+https://storage.diziyou.co/episodes/17403_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group="Diziler" logo="https://static.wikia.nocookie.net/antagonisten/images/c/ca/Peacemaker_%28TSS%29.jpg/revision/latest/top-crop/width/360/height/360?cb=20210809234936&path-prefix=de" background="purple", PEACEMAKER 1S 4B
+https://storage.diziyou.co/episodes/17404_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group="Diziler" logo="https://static.wikia.nocookie.net/antagonisten/images/c/ca/Peacemaker_%28TSS%29.jpg/revision/latest/top-crop/width/360/height/360?cb=20210809234936&path-prefix=de" background="purple", PEACEMAKER 1S 5B
+https://storage.diziyou.co/episodes/17405_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group="Diziler" logo="https://static.wikia.nocookie.net/antagonisten/images/c/ca/Peacemaker_%28TSS%29.jpg/revision/latest/top-crop/width/360/height/360?cb=20210809234936&path-prefix=de" background="purple", PEACEMAKER 1S 6B
+https://storage.diziyou.co/episodes/17406_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group="Diziler" logo="https://static.wikia.nocookie.net/antagonisten/images/c/ca/Peacemaker_%28TSS%29.jpg/revision/latest/top-crop/width/360/height/360?cb=20210809234936&path-prefix=de" background="purple", PEACEMAKER 1S 7B
+https://storage.diziyou.co/episodes/17407_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group="Diziler" logo="https://static.wikia.nocookie.net/antagonisten/images/c/ca/Peacemaker_%28TSS%29.jpg/revision/latest/top-crop/width/360/height/360?cb=20210809234936&path-prefix=de" background="purple", PEACEMAKER 1S 8B
+https://storage.diziyou.co/episodes/17408_tr/720p.m3u8
 
+#EXTINF:0 type="video" channelId="-1" group="DC Dizileri" logo="https://static.wikia.nocookie.net/antagonisten/images/c/ca/Peacemaker_%28TSS%29.jpg/revision/latest/top-crop/width/360/height/360?cb=20210809234936&path-prefix=de" background="purple", PEACEMAKER 1S 2B
+https://storage.diziyou.co/episodes/17402_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group="DC Dizileri" logo="https://static.wikia.nocookie.net/antagonisten/images/c/ca/Peacemaker_%28TSS%29.jpg/revision/latest/top-crop/width/360/height/360?cb=20210809234936&path-prefix=de" background="purple", PEACEMAKER 1S 3B
+https://storage.diziyou.co/episodes/17403_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group="DC Dizileri" logo="https://static.wikia.nocookie.net/antagonisten/images/c/ca/Peacemaker_%28TSS%29.jpg/revision/latest/top-crop/width/360/height/360?cb=20210809234936&path-prefix=de" background="purple", PEACEMAKER 1S 4B
+https://storage.diziyou.co/episodes/17404_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group="DC Dizileri" logo="https://static.wikia.nocookie.net/antagonisten/images/c/ca/Peacemaker_%28TSS%29.jpg/revision/latest/top-crop/width/360/height/360?cb=20210809234936&path-prefix=de" background="purple", PEACEMAKER 1S 5B
+https://storage.diziyou.co/episodes/17405_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group="DC Dizileri" logo="https://static.wikia.nocookie.net/antagonisten/images/c/ca/Peacemaker_%28TSS%29.jpg/revision/latest/top-crop/width/360/height/360?cb=20210809234936&path-prefix=de" background="purple", PEACEMAKER 1S 6B
+https://storage.diziyou.co/episodes/17406_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group="DC Dizileri" logo="https://static.wikia.nocookie.net/antagonisten/images/c/ca/Peacemaker_%28TSS%29.jpg/revision/latest/top-crop/width/360/height/360?cb=20210809234936&path-prefix=de" background="purple", PEACEMAKER 1S 7B
+https://storage.diziyou.co/episodes/17407_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group="DC Dizileri" logo="https://static.wikia.nocookie.net/antagonisten/images/c/ca/Peacemaker_%28TSS%29.jpg/revision/latest/top-crop/width/360/height/360?cb=20210809234936&path-prefix=de" background="purple", PEACEMAKER 1S 8B
+https://storage.diziyou.co/episodes/17408_tr/720p.m3u8
 
+#EXTINF:0 type="video" channelId="-1" group="Animasyon Dizileri" logo="https://a.wattpad.com/cover/35937827-288-k494859.jpg" background="purple", ESRARENGİZ KASABA 1S 2B
+https://vod02.cdn.web.tv/eo/wa/eowaksj4mgo_,240,360,480,720,.mp4.urlset/playlist-f3-v1-a1.m3u8
+#EXTINF:0 type="video" channelId="-1" group="Animasyon Dizileri" logo="https://a.wattpad.com/cover/35937827-288-k494859.jpg" background="purple", ESRARENGİZ KASABA 1S 3B
+https://vod02.cdn.web.tv/d0/pz/d0pzihvgpbo_,240,360,480,720,.mp4.urlset/playlist-f4-v1-a1.m3u8
+#EXTINF:0 type="video" channelId="-1" group="Animasyon Dizileri" logo="https://a.wattpad.com/cover/35937827-288-k494859.jpg" background="purple", ESRARENGİZ KASABA 1S 4B
+https://vod02.cdn.web.tv/lh/nr/lhnrv4ojlis_,240,360,480,720,.mp4.urlset/playlist-f4-v1-a1.m3u8
+#EXTINF:0 type="video" channelId="-1" group="Animasyon Dizileri" logo="https://a.wattpad.com/cover/35937827-288-k494859.jpg" background="purple", ESRARENGİZ KASABA 1S 5B
+https://vod02.cdn.web.tv/o7/6w/o76wlwfnqxq_,240,360,480,720,.mp4.urlset/playlist-f3-v1-a1.m3u8
+#EXTINF:0 type="video" channelId="-1" group="Animasyon Dizileri" logo="https://a.wattpad.com/cover/35937827-288-k494859.jpg" background="purple", ESRARENGİZ KASABA 1S 6B
+https://vod02.cdn.web.tv/5j/rx/5jrxmfi0uly_,240,360,480,720,.mp4.urlset/playlist-f4-v1-a1.m3u8
+#EXTINF:0 type="video" channelId="-1" group="Animasyon Dizileri" logo="https://a.wattpad.com/cover/35937827-288-k494859.jpg" background="purple", ESRARENGİZ KASABA 1S 7B
+https://vod02.cdn.web.tv/4k/ih/4kihv2wmisc_,240,360,480,720,.mp4.urlset/playlist-f4-v1-a1.m3u8
+#EXTINF:0 type="video" channelId="-1" group="Animasyon Dizileri" logo="https://a.wattpad.com/cover/35937827-288-k494859.jpg" background="purple", ESRARENGİZ KASABA 1S 8B
+https://vod02.cdn.web.tv/wn/mc/wnmcijvhgom_,240,360,480,720,.mp4.urlset/playlist-f3-v1-a1.m3u8
+#EXTINF:0 type="video" channelId="-1" group="Animasyon Dizileri" logo="https://a.wattpad.com/cover/35937827-288-k494859.jpg" background="purple", ESRARENGİZ KASABA 1S 9B
+https://vod02.cdn.web.tv/hl/wv/hlwv43azbms_,240,360,480,720,.mp4.urlset/playlist-f4-v1-a1.m3u8
+#EXTINF:0 type="video" channelId="-1" group="Animasyon Dizileri" logo="https://a.wattpad.com/cover/35937827-288-k494859.jpg" background="purple", ESRARENGİZ KASABA 1S 10B
+https://vod02.cdn.web.tv/r3/dz/r3dzpzt2lyv_,240,360,480,720,.mp4.urlset/playlist-f2-v1-a1.m3u8
+#EXTINF:0 type="video" channelId="-1" group="Animasyon Dizileri" logo="https://a.wattpad.com/cover/35937827-288-k494859.jpg" background="purple", ESRARENGİZ KASABA 1S 11B
+https://vod02.cdn.web.tv/m2/lo/m2loggpjljs_,240,360,480,720,.mp4.urlset/playlist-f4-v1-a1.m3u8
+#EXTINF:0 type="video" channelId="-1" group="Animasyon Dizileri" logo="https://a.wattpad.com/cover/35937827-288-k494859.jpg" background="purple", ESRARENGİZ KASABA 1S 12B
+https://vod02.cdn.web.tv/ew/cm/ewcmfz6lxsy_,240,360,480,720,.mp4.urlset/playlist-f4-v1-a1.m3u8
+#EXTINF:0 type="video" channelId="-1" group="Animasyon Dizileri" logo="https://a.wattpad.com/cover/35937827-288-k494859.jpg" background="purple", ESRARENGİZ KASABA 1S 13B
+https://vod02.cdn.web.tv/6l/bs/6lbssqql6ki_,240,360,480,720,.mp4.urlset/playlist-f4-v1-a1.m3u8
+#EXTINF:0 type="video" channelId="-1" group="Animasyon Dizileri" logo="https://a.wattpad.com/cover/35937827-288-k494859.jpg" background="purple", ESRARENGİZ KASABA 1S 14B
+https://vod02.cdn.web.tv/lq/r2/lqr2kemhb4s_,240,360,480,720,.mp4.urlset/playlist-f4-v1-a1.m3u8
+#EXTINF:0 type="video" channelId="-1" group="Animasyon Dizileri" logo="https://a.wattpad.com/cover/35937827-288-k494859.jpg" background="purple", ESRARENGİZ KASABA 1S 15B
+https://vod02.cdn.web.tv/qb/lc/qblc1z0g57o_,240,360,480,720,.mp4.urlset/playlist-f4-v1-a1.m3u8
+#EXTINF:0 type="video" channelId="-1" group="Animasyon Dizileri" logo="https://a.wattpad.com/cover/35937827-288-k494859.jpg" background="purple", ESRARENGİZ KASABA 1S 16B
+https://vod02.cdn.web.tv/4o/dg/4odgkjwbe9w_,240,360,480,720,.mp4.urlset/playlist-f4-v1-a1.m3u8
+#EXTINF:0 type="video" channelId="-1" group="Animasyon Dizileri" logo="https://a.wattpad.com/cover/35937827-288-k494859.jpg" background="purple", ESRARENGİZ KASABA 1S 17B
+https://vod02.cdn.web.tv/7g/kg/7gkgkcqwxuq_,240,360,480,720,.mp4.urlset/playlist-f4-v1-a1.m3u8
+#EXTINF:0 type="video" channelId="-1" group="Animasyon Dizileri" logo="https://a.wattpad.com/cover/35937827-288-k494859.jpg" background="purple", ESRARENGİZ KASABA 1S 18B
+https://vod02.cdn.web.tv/4i/3j/4i3jvt1spve_,240,360,480,720,.mp4.urlset/playlist-f4-v1-a1.m3u8
+#EXTINF:0 type="video" channelId="-1" group="Animasyon Dizileri" logo="https://a.wattpad.com/cover/35937827-288-k494859.jpg" background="purple", ESRARENGİZ KASABA 1S 19B
+https://vod02.cdn.web.tv/ci/9q/ci9qxu89fks_,240,360,480,720,.mp4.urlset/playlist-f4-v1-a1.m3u8
+#EXTINF:0 type="video" channelId="-1" group="Animasyon Dizileri" logo="https://a.wattpad.com/cover/35937827-288-k494859.jpg" background="purple", ESRARENGİZ KASABA 1S 20B
+https://vod02.cdn.web.tv/7t/qn/7tqnvqxgd7z_,240,360,480,720,.mp4.urlset/playlist-f4-v1-a1.m3u8
+#EXTINF:0 type="video" channelId="-1" group="Animasyon Dizileri" logo="https://a.wattpad.com/cover/35937827-288-k494859.jpg" background="purple", ESRARENGİZ KASABA + BÖLÜM
+https://vod02.cdn.web.tv/p8/jd/p8jdjrxss4c_,240,360,480,720,.mp4.urlset/playlist-f4-v1-a1.m3u8
+#EXTINF:0 type="video" channelId="-1" group="Animasyon Dizileri" logo="https://a.wattpad.com/cover/35937827-288-k494859.jpg" background="purple", ESRARENGİZ KASABA 2S 1B
+https://vod02.cdn.web.tv/bk/4o/bk4oihgeecu_,240,360,480,720,.mp4.urlset/playlist-f3-v1-a1.m3u8
+#EXTINF:0 type="video" channelId="-1" group="Animasyon Dizileri" logo="https://i.imgyukle.com/2020/03/22/JLJ7pe.png" background="purple", ESRARENGİZ KASABA 2S 2B $
+type="video" channelId="-1" group="ESRARENGİZ KASABA" logo="https://i.imgyukle.com/2020/03/22/JLJ7pe.png" background="purple", ESRARENGİZ KASABA 2S 2B $
+#EXTINF:0 type="video" channelId="-1" group="Animasyon Dizileri" logo="https://i.imgyukle.com/2020/03/22/JLJ7pe.png", ESRARENGİZ KASABA 2S 3B $
+type="video" channelId="-1" group="ESRARENGİZ KASABA" logo="https://i.imgyukle.com/2020/03/22/JLJ7pe.png" background="purple", ESRARENGİZ KASABA 2S 3B $
+#EXTINF:0 type="video" channelId="-1" group="Animasyon Dizileri" logo="https://a.wattpad.com/cover/35937827-288-k494859.jpg" background="purple", ESRARENGİZ KASABA 2S 4B
+https://vod02.cdn.web.tv/pf/rz/pfrz3u4gbd2_,240,360,480,720,1080,.mp4.urlset/playlist-f3-v1-a1.m3u8
+#EXTINF:0 type="video" channelId="-1" group="Animasyon Dizileri" logo="https://a.wattpad.com/cover/35937827-288-k494859.jpg background=", ESRARENGİZ KASABA 2S 5B
+https://vod02.cdn.web.tv/sh/uu/shuupnkh1ls_,240,360,480,720,1080,.mp4.urlset/playlist-f3-v1-a1.m3u8
+#EXTINF:0 type="video" channelId="-1" group="Animasyon Dizileri" logo="https://i.imgyukle.com/2020/03/22/JLJ7pe.png" background="purple", ESRARENGİZ KASABA 2S 6B
+type="video" channelId="-1" group="ESRARENGİZ KASABA" logo="https://i.imgyukle.com/2020/03/22/JLJ7pe.png" background="purple", ESRARENGİZ KASABA 2S 6B
+#EXTINF:0 type="video" channelId="-1" group="Animasyon Dizileri" logo="https://a.wattpad.com/cover/35937827-288-k494859.jpg" background="purple", ESRARENGİZ KASABA 2S 7B
+https://vod02.cdn.web.tv/vs/fj/vsfjdhueblm_,240,360,480,720,1080,.mp4.urlset/playlist-f3-v1-a1.m3u8
+#EXTINF:0 type="video" channelId="-1" group="Animasyon Dizileri" logo="https://a.wattpad.com/cover/35937827-288-k494859.jpg" background="purple", ESRARENGİZ KASABA 2S 8B
+https://vod02.cdn.web.tv/qb/4h/qb4hx0s3te2_,240,360,480,720,1080,.mp4.urlset/playlist-f3-v1-a1.m3u8
+#EXTINF:0 type="video" channelId="-1" group="Animasyon Dizileri" logo="https://a.wattpad.com/cover/35937827-288-k494859.jpg" background="purple", ESRARENGİZ KASABA 2S 9B
+https://vod02.cdn.web.tv/xd/8r/xd8rbdu05fu_,240,360,480,720,.mp4.urlset/playlist-f3-v1-a1.m3u8
+#EXTINF:0 type="video" channelId="-1" group="Animasyon Dizileri" logo="https://a.wattpad.com/cover/35937827-288-k494859.jpg" background="purple", ESRARENGİZ KASABA 2S 10B
+https://vod02.cdn.web.tv/bv/p1/bvp1rwneifa_,240,360,480,720,1080,.mp4.urlset/playlist-f3-v1-a1.m3u8
+#EXTINF:0 type="video" channelId="-1" group="Animasyon Dizileri" logo="https://a.wattpad.com/cover/35937827-288-k494859.jpg" background="purple", ESRARENGİZ KASABA 2S 11B
+https://vod02.cdn.web.tv/ys/qy/ysqybbxfq1m_,240,360,480,720,1080,.mp4.urlset/playlist-f3-v1-a1.m3u8
+#EXTINF:0 type="video" channelId="-1" group="Animasyon Dizileri" logo="https://a.wattpad.com/cover/35937827-288-k494859.jpg" background="purple", ESRARENGİZ KASABA 2S 12B
+https://vod02.cdn.web.tv/fo/kl/foklq1xuthv_,240,360,480,720,.mp4.urlset/playlist-f3-v1-a1.m3u8
+#EXTINF:0 type="video" channelId="-1" group="Animasyon Dizileri" logo="https://a.wattpad.com/cover/35937827-288-k494859.jpg" background="purple", ESRARENGİZ KASABA 2S 13B
+https://vod02.cdn.web.tv/uu/9v/uu9vqnadv0u_,240,360,480,720,1080,.mp4.urlset/playlist-f3-v1-a1.m3u8
+#EXTINF:0 type="video" channelId="-1" group="Animasyon Dizileri" logo="https://a.wattpad.com/cover/35937827-288-k494859.jpg" background="purple", ESRARENGİZ KASABA 2S 14B
+https://vod02.cdn.web.tv/eq/q9/eqq9eq33yym_,240,360,480,720,1080,.mp4.urlset/playlist-f3-v1-a1.m3u8
+#EXTINF:0 type="video" channelId="-1" group="Animasyon Dizileri" logo="https://a.wattpad.com/cover/35937827-288-k494859.jpg" background="purple", ESRARENGİZ KASABA 2S 15B
+https://vod02.cdn.web.tv/sb/x0/sbx08iyu9ee_,240,360,480,720,1080,.mp4.urlset/playlist-f3-v1-a1.m3u8
+#EXTINF:0 type="video" channelId="-1" group="Animasyon Dizileri" logo="https://a.wattpad.com/cover/35937827-288-k494859.jpg" background="purple", ESRARENGİZ KASABA 2S 16B
+https://vod02.cdn.web.tv/qq/dj/qqdjmpnonda_,240,360,480,720,1080,.mp4.urlset/playlist-f3-v1-a1.m3u8
+#EXTINF:0 type="video" channelId="-1" group="Animasyon Dizileri" logo="https://a.wattpad.com/cover/35937827-288-k494859.jpg" background="purple", ESRARENGİZ KASABA 2S 17B
+https://vod02.cdn.web.tv/4q/tt/4qttnqcsdv6_,240,360,480,720,1080,.mp4.urlset/playlist-f3-v1-a1.m3u8
+#EXTINF:0 type="video" channelId="-1" group="Animasyon Dizileri" logo="https://a.wattpad.com/cover/35937827-288-k494859.jpg" background="purple", ESRARENGİZ KASABA 2S 18B
+https://vod02.cdn.web.tv/gp/yk/gpykeyskcpm_,240,360,480,720,1080,.mp4.urlset/playlist-f3-v1-a1.m3u8
+#EXTINF:0 type="video" channelId="-1" group="Animasyon Dizileri" logo="https://a.wattpad.com/cover/35937827-288-k494859.jpg" background="purple", ESRARENGİZ KASABA 2S 19B
+https://vod02.cdn.web.tv/qy/tr/qytrn7vcvv2_,240,360,480,720,.mp4.urlset/playlist-f3-v1-a1.m3u8
+#EXTINF:0 type="video" channelId="-1" group="Animasyon Dizileri" logo="https://a.wattpad.com/cover/35937827-288-k494859.jpg" background="purple", ESRARENGİZ KASABA 2S 20B
+https://vod02.cdn.web.tv/ok/i1/oki1qbxtiwu_,240,360,480,720,.mp4.urlset/playlist-f3-v1-a1.m3u8
 
 
 
