@@ -5,8 +5,18 @@ type="video" channelId="-1"  logo="https://upload.wikimedia.org/wikipedia/common
 type="video" channelId="-1"  logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/DC_Comics_logo.svg/800px-DC_Comics_logo.svg.png" background="purple", DC
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/The_CW_2024.svg/1200px-The_CW_2024.svg.png" background="purple", THE CW
 type="video" channelId="-1"  logo="https://static.wikia.nocookie.net/logopedia/images/d/d8/The_CW_%28Print%29.svg/revision/latest?cb=20180910214129" background="purple", THE CW
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://file.cdnhipter.xyz/images/f/f/100//hhprqdeq1bmhfk1a6szwrtytbde--1721373832.jpg" background="purple", SWEET HOME 1S 1B
+https://storage.diziyou.co/episodes/82801_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://m.media-amazon.com/images/S/pv-target-images/821ab71fdbe630210e17839df164a4b40910c7a3db8f8b2685a3a09639bc9e3f.jpg" background="purple", WEDNESDAY 1S 1B
+https://storage.diziyou.co/episodes/24701_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://media.lesechos.com/api/v1/images/view/5d023839d286c24efb4038a4/1280x720/0601400478144-web-tete.jpg" background="purple", STRANGER THİNGS 1S 1B
+https://storage.diziyou.co/episodes/40901_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://resizing.flixster.com/KMR4XC4KuXbyCBYhsjlcLjnRi_U=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p18175990_b_h8_ad.jpg" background="purple", UPLOAD 1S 1B
+https://storage.diziyou.co/episodes/27601_tr/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static1.cbrimages.com/wordpress/wp-content/uploads/2023/09/one-piece-live-action-and-manga-1.jpg" background="purple", ONE PİECE LİVE ACTİON 1S 1B
 https://storage.diziyou.co/episodes/74801_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://file.cdnhipter.xyz/images/f/f/100//hhprqdeq1bmhfk1a6szwrtytbde--1721373832.jpg" background="purple", HAZBİN HOTEL 1S 1B
+https://storage.diziyou.co/episodes/85101_tr/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://ds.static.rtbf.be/article/image/1920x1080/4/3/3/349f36aa789af083b8e26839bd498af9-1469179192.jpg" background="purple", TEEN WOLF 1S 1B
 https://storage.diziyou.co/episodes/18701_tr/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://cdn.kayiprihtim.com/wp-content/uploads/2020/06/lucifer-5-sezon-netflix-ne-zaman-tarih.jpg" background="purple", LUCİFER 1S 1B
@@ -35,8 +45,6 @@ https://storage.diziyou.co/episodes/82101_tr/720p.m3u8
 https://storage.diziyou.co/episodes/16351_tr/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://www.riotgames.com/darkroom/1440/b540da2b9afe5ec83e842a2d84f6dbb1:e95535ecd35e48592908762c9353926a/arcane-final-poster-16x9-no-text-no-border.jpg" background="purple", ARCANE 1S 1B
 https://storage.diziyou.co/episodes/13021_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i0.wp.com/www.thewrap.com/wp-content/uploads/2022/06/Avatar-The-Last-Airbender.jpg?fit=1200%2C675&ssl=1" background="purple", AVATAR THE LAST AIRBANDER (ANİMATED SERİE) 1S 1B
-https://storage.diziyou.co/episodes/30501_tr/720p.m3u8
 
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://sm.ign.com/ign_tr/cover/y/young-shel/young-sheldon_n563.jpg" background="purple", YOUNG SHELDON 1S 1B
 https://storage.diziyou.co/episodes/90701_tr/720p.m3u8
@@ -53,6 +61,8 @@ https://storage.diziyou.co/episodes/11201_tr/720p.m3u8
 https://storage.diziyou.co/episodes/10901_tr/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://sm.ign.com/t/ign_tr/news/n/netflixs-l/netflixs-live-action-avatar-the-last-airbender-gets-first-lo_bm87.1280.jpg" background="purple", AVATAR THE LAST AIRBANDER (SERİE) 1S 1B
 https://storage.diziyou.co/episodes/87701_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i0.wp.com/www.thewrap.com/wp-content/uploads/2022/06/Avatar-The-Last-Airbender.jpg?fit=1200%2C675&ssl=1" background="purple", AVATAR THE LAST AIRBANDER (ANİMATED SERİE) 1S 1B
+https://storage.diziyou.co/episodes/30501_tr/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2024/07/batman-caped-crusader-logo-over-the-poster-for-the-show.jpg" background="purple", BATMAN CAPED CRUSADER 1S 1B
 https://storage.diziyou.co/episodes/99901_tr/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2021/03/breaking-bad-2253951.jpg?tf=3840x" background="purple", BREAKİNG BAD 1S 1B
@@ -83,6 +93,8 @@ https://storage.diziyou.co/episodes/60701_tr/720p.m3u8
 https://storage.diziyou.co/episodes/10751_tr/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://m.media-amazon.com/images/M/MV5BNTZmZjU4OTgtOThjZi00YTUyLWIzNmQtYzU4ZjZhZjAzYmJlXkEyXkFqcGdeQTNwaW5nZXN0._V1_.jpg" background="purple", VİS A VİS 1S 1B
 https://storage.diziyou.co/episodes/18851_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://assets.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/2022/06/09/3187017941.jpg" background="purple", ALL OF US ARE DEAD 1S 1B
+https://storage.diziyou.co/episodes/15101_tr/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://eagleeye.news/wp-content/uploads/2017/10/rick-and-morty-e1507831459637.jpg" background="purple", RİCK AND MORTY 1S 2B
 https://storage.diziyou.co/episodes/11502_tr/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://eagleeye.news/wp-content/uploads/2017/10/rick-and-morty-e1507831459637.jpg" background="purple", RİCK AND MORTY 1S 3B
@@ -4345,8 +4357,492 @@ https://storage.diziyou.co/episodes/74807_tr/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static1.cbrimages.com/wordpress/wp-content/uploads/2023/09/one-piece-live-action-and-manga-1.jpg" background="purple", ONE PİECE LİVE ACTİON 1S 8B
 https://storage.diziyou.co/episodes/74808_tr/720p.m3u8
 
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://resizing.flixster.com/KMR4XC4KuXbyCBYhsjlcLjnRi_U=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p18175990_b_h8_ad.jpg" background="purple", UPLOAD 1S 1B
-https://storage.diziyou.co/episodes/27601_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://sm.ign.com/ign_tr/cover/y/young-shel/young-sheldon_n563.jpg" background="purple", YOUNG SHELDON 2S 2B
+https://storage.diziyou.co/episodes/90724_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://sm.ign.com/ign_tr/cover/y/young-shel/young-sheldon_n563.jpg" background="purple", YOUNG SHELDON 2S 3B
+https://storage.diziyou.co/episodes/90725_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://sm.ign.com/ign_tr/cover/y/young-shel/young-sheldon_n563.jpg" background="purple", YOUNG SHELDON 2S 4B
+https://storage.diziyou.co/episodes/90726_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://sm.ign.com/ign_tr/cover/y/young-shel/young-sheldon_n563.jpg" background="purple", YOUNG SHELDON 2S 5B
+https://storage.diziyou.co/episodes/90727_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://sm.ign.com/ign_tr/cover/y/young-shel/young-sheldon_n563.jpg" background="purple", YOUNG SHELDON 2S 6B
+https://storage.diziyou.co/episodes/90728_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://sm.ign.com/ign_tr/cover/y/young-shel/young-sheldon_n563.jpg" background="purple", YOUNG SHELDON 2S 7B
+https://storage.diziyou.co/episodes/90729_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://sm.ign.com/ign_tr/cover/y/young-shel/young-sheldon_n563.jpg" background="purple", YOUNG SHELDON 2S 8B
+https://storage.diziyou.co/episodes/90730_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://sm.ign.com/ign_tr/cover/y/young-shel/young-sheldon_n563.jpg" background="purple", YOUNG SHELDON 2S 9B
+https://storage.diziyou.co/episodes/90731_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://sm.ign.com/ign_tr/cover/y/young-shel/young-sheldon_n563.jpg" background="purple", YOUNG SHELDON 2S 10B
+https://storage.diziyou.co/episodes/90732_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://sm.ign.com/ign_tr/cover/y/young-shel/young-sheldon_n563.jpg" background="purple", YOUNG SHELDON 2S 11B
+https://storage.diziyou.co/episodes/90733_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://sm.ign.com/ign_tr/cover/y/young-shel/young-sheldon_n563.jpg" background="purple", YOUNG SHELDON 2S 12B
+https://storage.diziyou.co/episodes/90734_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://sm.ign.com/ign_tr/cover/y/young-shel/young-sheldon_n563.jpg" background="purple", YOUNG SHELDON 2S 13B
+https://storage.diziyou.co/episodes/90735_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://sm.ign.com/ign_tr/cover/y/young-shel/young-sheldon_n563.jpg" background="purple", YOUNG SHELDON 2S 14B
+https://storage.diziyou.co/episodes/90736_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://sm.ign.com/ign_tr/cover/y/young-shel/young-sheldon_n563.jpg" background="purple", YOUNG SHELDON 2S 15B
+https://storage.diziyou.co/episodes/90737_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://sm.ign.com/ign_tr/cover/y/young-shel/young-sheldon_n563.jpg" background="purple", YOUNG SHELDON 2S 16B
+https://storage.diziyou.co/episodes/90738_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://sm.ign.com/ign_tr/cover/y/young-shel/young-sheldon_n563.jpg" background="purple", YOUNG SHELDON 2S 17B
+https://storage.diziyou.co/episodes/90739_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://sm.ign.com/ign_tr/cover/y/young-shel/young-sheldon_n563.jpg" background="purple", YOUNG SHELDON 2S 18B
+https://storage.diziyou.co/episodes/90740_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://sm.ign.com/ign_tr/cover/y/young-shel/young-sheldon_n563.jpg" background="purple", YOUNG SHELDON 2S 19B
+https://storage.diziyou.co/episodes/90741_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://sm.ign.com/ign_tr/cover/y/young-shel/young-sheldon_n563.jpg" background="purple", YOUNG SHELDON 2S 20B
+https://storage.diziyou.co/episodes/90742_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://sm.ign.com/ign_tr/cover/y/young-shel/young-sheldon_n563.jpg" background="purple", YOUNG SHELDON 2S 21B
+https://storage.diziyou.co/episodes/90743_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://sm.ign.com/ign_tr/cover/y/young-shel/young-sheldon_n563.jpg" background="purple", YOUNG SHELDON 2S 22B
+https://storage.diziyou.co/episodes/90744_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://sm.ign.com/ign_tr/cover/y/young-shel/young-sheldon_n563.jpg" background="purple", YOUNG SHELDON 3S 1B
+https://storage.diziyou.co/episodes/90745_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://sm.ign.com/ign_tr/cover/y/young-shel/young-sheldon_n563.jpg" background="purple", YOUNG SHELDON 3S 2B
+https://storage.diziyou.co/episodes/90746_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://sm.ign.com/ign_tr/cover/y/young-shel/young-sheldon_n563.jpg" background="purple", YOUNG SHELDON 3S 3B
+https://storage.diziyou.co/episodes/90747_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://sm.ign.com/ign_tr/cover/y/young-shel/young-sheldon_n563.jpg" background="purple", YOUNG SHELDON 3S 4B
+https://storage.diziyou.co/episodes/90748_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://sm.ign.com/ign_tr/cover/y/young-shel/young-sheldon_n563.jpg" background="purple", YOUNG SHELDON 3S 5B
+https://storage.diziyou.co/episodes/90749_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://sm.ign.com/ign_tr/cover/y/young-shel/young-sheldon_n563.jpg" background="purple", YOUNG SHELDON 3S 6B
+https://storage.diziyou.co/episodes/90750_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://sm.ign.com/ign_tr/cover/y/young-shel/young-sheldon_n563.jpg" background="purple", YOUNG SHELDON 3S 7B
+https://storage.diziyou.co/episodes/90751_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://sm.ign.com/ign_tr/cover/y/young-shel/young-sheldon_n563.jpg" background="purple", YOUNG SHELDON 3S 8B
+https://storage.diziyou.co/episodes/90752_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://sm.ign.com/ign_tr/cover/y/young-shel/young-sheldon_n563.jpg" background="purple", YOUNG SHELDON 3S 9B
+https://storage.diziyou.co/episodes/90753_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://sm.ign.com/ign_tr/cover/y/young-shel/young-sheldon_n563.jpg" background="purple", YOUNG SHELDON 3S 10B
+https://storage.diziyou.co/episodes/90754_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://sm.ign.com/ign_tr/cover/y/young-shel/young-sheldon_n563.jpg" background="purple", YOUNG SHELDON 3S 11B
+https://storage.diziyou.co/episodes/90755_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://sm.ign.com/ign_tr/cover/y/young-shel/young-sheldon_n563.jpg" background="purple", YOUNG SHELDON 3S 12B
+https://storage.diziyou.co/episodes/90756_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://sm.ign.com/ign_tr/cover/y/young-shel/young-sheldon_n563.jpg" background="purple", YOUNG SHELDON 3S 13B
+https://storage.diziyou.co/episodes/90757_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://sm.ign.com/ign_tr/cover/y/young-shel/young-sheldon_n563.jpg" background="purple", YOUNG SHELDON 3S 14B
+https://storage.diziyou.co/episodes/90758_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://sm.ign.com/ign_tr/cover/y/young-shel/young-sheldon_n563.jpg" background="purple", YOUNG SHELDON 3S 15B
+https://storage.diziyou.co/episodes/90759_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://sm.ign.com/ign_tr/cover/y/young-shel/young-sheldon_n563.jpg" background="purple", YOUNG SHELDON 3S 16B
+https://storage.diziyou.co/episodes/90760_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://sm.ign.com/ign_tr/cover/y/young-shel/young-sheldon_n563.jpg" background="purple", YOUNG SHELDON 3S 17B
+https://storage.diziyou.co/episodes/90761_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://sm.ign.com/ign_tr/cover/y/young-shel/young-sheldon_n563.jpg" background="purple", YOUNG SHELDON 3S 18B
+https://storage.diziyou.co/episodes/90762_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://sm.ign.com/ign_tr/cover/y/young-shel/young-sheldon_n563.jpg" background="purple", YOUNG SHELDON 3S 19B
+https://storage.diziyou.co/episodes/90763_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://sm.ign.com/ign_tr/cover/y/young-shel/young-sheldon_n563.jpg" background="purple", YOUNG SHELDON 3S 20B
+https://storage.diziyou.co/episodes/90764_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://sm.ign.com/ign_tr/cover/y/young-shel/young-sheldon_n563.jpg" background="purple", YOUNG SHELDON 3S 21B
+https://storage.diziyou.co/episodes/90765_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://sm.ign.com/ign_tr/cover/y/young-shel/young-sheldon_n563.jpg" background="purple", YOUNG SHELDON 4S 1B
+https://storage.diziyou.co/episodes/90766_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://sm.ign.com/ign_tr/cover/y/young-shel/young-sheldon_n563.jpg" background="purple", YOUNG SHELDON 4S 2B
+https://storage.diziyou.co/episodes/90767_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://sm.ign.com/ign_tr/cover/y/young-shel/young-sheldon_n563.jpg" background="purple", YOUNG SHELDON 4S 3B
+https://storage.diziyou.co/episodes/90768_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://sm.ign.com/ign_tr/cover/y/young-shel/young-sheldon_n563.jpg" background="purple", YOUNG SHELDON 4S 4B
+https://storage.diziyou.co/episodes/90769_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://sm.ign.com/ign_tr/cover/y/young-shel/young-sheldon_n563.jpg" background="purple", YOUNG SHELDON 4S 5B
+https://storage.diziyou.co/episodes/90770_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://sm.ign.com/ign_tr/cover/y/young-shel/young-sheldon_n563.jpg" background="purple", YOUNG SHELDON 4S 6B
+https://storage.diziyou.co/episodes/90771_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://sm.ign.com/ign_tr/cover/y/young-shel/young-sheldon_n563.jpg" background="purple", YOUNG SHELDON 4S 7B
+https://storage.diziyou.co/episodes/90772_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://sm.ign.com/ign_tr/cover/y/young-shel/young-sheldon_n563.jpg" background="purple", YOUNG SHELDON 4S 8B
+https://storage.diziyou.co/episodes/90773_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://sm.ign.com/ign_tr/cover/y/young-shel/young-sheldon_n563.jpg" background="purple", YOUNG SHELDON 4S 9B
+https://storage.diziyou.co/episodes/90774_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://sm.ign.com/ign_tr/cover/y/young-shel/young-sheldon_n563.jpg" background="purple", YOUNG SHELDON 4S 10B
+https://storage.diziyou.co/episodes/90775_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://sm.ign.com/ign_tr/cover/y/young-shel/young-sheldon_n563.jpg" background="purple", YOUNG SHELDON 4S 11B
+https://storage.diziyou.co/episodes/90776_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://sm.ign.com/ign_tr/cover/y/young-shel/young-sheldon_n563.jpg" background="purple", YOUNG SHELDON 4S 12B
+https://storage.diziyou.co/episodes/90777_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://sm.ign.com/ign_tr/cover/y/young-shel/young-sheldon_n563.jpg" background="purple", YOUNG SHELDON 4S 13B
+https://storage.diziyou.co/episodes/90778_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://sm.ign.com/ign_tr/cover/y/young-shel/young-sheldon_n563.jpg" background="purple", YOUNG SHELDON 4S 14B
+https://storage.diziyou.co/episodes/90779_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://sm.ign.com/ign_tr/cover/y/young-shel/young-sheldon_n563.jpg" background="purple", YOUNG SHELDON 4S 15B
+https://storage.diziyou.co/episodes/90780_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://sm.ign.com/ign_tr/cover/y/young-shel/young-sheldon_n563.jpg" background="purple", YOUNG SHELDON 4S 16B
+https://storage.diziyou.co/episodes/90781_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://sm.ign.com/ign_tr/cover/y/young-shel/young-sheldon_n563.jpg" background="purple", YOUNG SHELDON 4S 17B
+https://storage.diziyou.co/episodes/90782_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://sm.ign.com/ign_tr/cover/y/young-shel/young-sheldon_n563.jpg" background="purple", YOUNG SHELDON 4S 18B
+https://storage.diziyou.co/episodes/90783_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://sm.ign.com/ign_tr/cover/y/young-shel/young-sheldon_n563.jpg" background="purple", YOUNG SHELDON 5S 1B
+https://storage.diziyou.co/episodes/90784_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://sm.ign.com/ign_tr/cover/y/young-shel/young-sheldon_n563.jpg" background="purple", YOUNG SHELDON 5S 2B
+https://storage.diziyou.co/episodes/90785_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://sm.ign.com/ign_tr/cover/y/young-shel/young-sheldon_n563.jpg" background="purple", YOUNG SHELDON 5S 3B
+https://storage.diziyou.co/episodes/90786_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://sm.ign.com/ign_tr/cover/y/young-shel/young-sheldon_n563.jpg" background="purple", YOUNG SHELDON 5S 4B
+https://storage.diziyou.co/episodes/90787_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://sm.ign.com/ign_tr/cover/y/young-shel/young-sheldon_n563.jpg" background="purple", YOUNG SHELDON 5S 5B
+https://storage.diziyou.co/episodes/90788_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://sm.ign.com/ign_tr/cover/y/young-shel/young-sheldon_n563.jpg" background="purple", YOUNG SHELDON 5S 6B
+https://storage.diziyou.co/episodes/90789_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://sm.ign.com/ign_tr/cover/y/young-shel/young-sheldon_n563.jpg" background="purple", YOUNG SHELDON 5S 7B
+https://storage.diziyou.co/episodes/90790_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://sm.ign.com/ign_tr/cover/y/young-shel/young-sheldon_n563.jpg" background="purple", YOUNG SHELDON 5S 8B
+https://storage.diziyou.co/episodes/90791_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://sm.ign.com/ign_tr/cover/y/young-shel/young-sheldon_n563.jpg" background="purple", YOUNG SHELDON 5S 9B
+https://storage.diziyou.co/episodes/90792_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://sm.ign.com/ign_tr/cover/y/young-shel/young-sheldon_n563.jpg" background="purple", YOUNG SHELDON 5S 10B
+https://storage.diziyou.co/episodes/90793_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://sm.ign.com/ign_tr/cover/y/young-shel/young-sheldon_n563.jpg" background="purple", YOUNG SHELDON 5S 11B
+https://storage.diziyou.co/episodes/90794_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://sm.ign.com/ign_tr/cover/y/young-shel/young-sheldon_n563.jpg" background="purple", YOUNG SHELDON 5S 12B
+https://storage.diziyou.co/episodes/90795_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://sm.ign.com/ign_tr/cover/y/young-shel/young-sheldon_n563.jpg" background="purple", YOUNG SHELDON 5S 13B
+https://storage.diziyou.co/episodes/90796_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://sm.ign.com/ign_tr/cover/y/young-shel/young-sheldon_n563.jpg" background="purple", YOUNG SHELDON 5S 14B
+https://storage.diziyou.co/episodes/90797_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://sm.ign.com/ign_tr/cover/y/young-shel/young-sheldon_n563.jpg" background="purple", YOUNG SHELDON 5S 15B
+https://storage.diziyou.co/episodes/90798_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://sm.ign.com/ign_tr/cover/y/young-shel/young-sheldon_n563.jpg" background="purple", YOUNG SHELDON 5S 16B
+https://storage.diziyou.co/episodes/90799_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://sm.ign.com/ign_tr/cover/y/young-shel/young-sheldon_n563.jpg" background="purple", YOUNG SHELDON 5S 17B
+https://storage.diziyou.co/episodes/90800_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://sm.ign.com/ign_tr/cover/y/young-shel/young-sheldon_n563.jpg" background="purple", YOUNG SHELDON 5S 18B
+https://storage.diziyou.co/episodes/90801_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://sm.ign.com/ign_tr/cover/y/young-shel/young-sheldon_n563.jpg" background="purple", YOUNG SHELDON 5S 19B
+https://storage.diziyou.co/episodes/90802_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://sm.ign.com/ign_tr/cover/y/young-shel/young-sheldon_n563.jpg" background="purple", YOUNG SHELDON 5S 20B
+https://storage.diziyou.co/episodes/90803_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://sm.ign.com/ign_tr/cover/y/young-shel/young-sheldon_n563.jpg" background="purple", YOUNG SHELDON 5S 21B
+https://storage.diziyou.co/episodes/90804_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://sm.ign.com/ign_tr/cover/y/young-shel/young-sheldon_n563.jpg" background="purple", YOUNG SHELDON 5S 22B
+https://storage.diziyou.co/episodes/90805_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://sm.ign.com/ign_tr/cover/y/young-shel/young-sheldon_n563.jpg" background="purple", YOUNG SHELDON 6S 1B
+https://storage.diziyou.co/episodes/90806_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://sm.ign.com/ign_tr/cover/y/young-shel/young-sheldon_n563.jpg" background="purple", YOUNG SHELDON 6S 2B
+https://storage.diziyou.co/episodes/90807_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://sm.ign.com/ign_tr/cover/y/young-shel/young-sheldon_n563.jpg" background="purple", YOUNG SHELDON 6S 3B
+https://storage.diziyou.co/episodes/90808_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://sm.ign.com/ign_tr/cover/y/young-shel/young-sheldon_n563.jpg" background="purple", YOUNG SHELDON 6S 4B
+https://storage.diziyou.co/episodes/90809_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://sm.ign.com/ign_tr/cover/y/young-shel/young-sheldon_n563.jpg" background="purple", YOUNG SHELDON 6S 5B
+https://storage.diziyou.co/episodes/90810_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://sm.ign.com/ign_tr/cover/y/young-shel/young-sheldon_n563.jpg" background="purple", YOUNG SHELDON 6S 6B
+https://storage.diziyou.co/episodes/90811_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://sm.ign.com/ign_tr/cover/y/young-shel/young-sheldon_n563.jpg" background="purple", YOUNG SHELDON 6S 7B
+https://storage.diziyou.co/episodes/90812_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://sm.ign.com/ign_tr/cover/y/young-shel/young-sheldon_n563.jpg" background="purple", YOUNG SHELDON 6S 8B
+https://storage.diziyou.co/episodes/90813_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://sm.ign.com/ign_tr/cover/y/young-shel/young-sheldon_n563.jpg" background="purple", YOUNG SHELDON 6S 9B
+https://storage.diziyou.co/episodes/90814_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://sm.ign.com/ign_tr/cover/y/young-shel/young-sheldon_n563.jpg" background="purple", YOUNG SHELDON 6S 10B
+https://storage.diziyou.co/episodes/90815_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://sm.ign.com/ign_tr/cover/y/young-shel/young-sheldon_n563.jpg" background="purple", YOUNG SHELDON 6S 11B
+https://storage.diziyou.co/episodes/90816_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://sm.ign.com/ign_tr/cover/y/young-shel/young-sheldon_n563.jpg" background="purple", YOUNG SHELDON 6S 12B
+https://storage.diziyou.co/episodes/90817_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://sm.ign.com/ign_tr/cover/y/young-shel/young-sheldon_n563.jpg" background="purple", YOUNG SHELDON 6S 13B
+https://storage.diziyou.co/episodes/90818_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://sm.ign.com/ign_tr/cover/y/young-shel/young-sheldon_n563.jpg" background="purple", YOUNG SHELDON 6S 14B
+https://storage.diziyou.co/episodes/90819_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://sm.ign.com/ign_tr/cover/y/young-shel/young-sheldon_n563.jpg" background="purple", YOUNG SHELDON 6S 15B
+https://storage.diziyou.co/episodes/90820_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://sm.ign.com/ign_tr/cover/y/young-shel/young-sheldon_n563.jpg" background="purple", YOUNG SHELDON 6S 16B
+https://storage.diziyou.co/episodes/90821_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://sm.ign.com/ign_tr/cover/y/young-shel/young-sheldon_n563.jpg" background="purple", YOUNG SHELDON 6S 17B
+https://storage.diziyou.co/episodes/90822_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://sm.ign.com/ign_tr/cover/y/young-shel/young-sheldon_n563.jpg" background="purple", YOUNG SHELDON 6S 18B
+https://storage.diziyou.co/episodes/90823_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://sm.ign.com/ign_tr/cover/y/young-shel/young-sheldon_n563.jpg" background="purple", YOUNG SHELDON 6S 19B
+https://storage.diziyou.co/episodes/90824_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://sm.ign.com/ign_tr/cover/y/young-shel/young-sheldon_n563.jpg" background="purple", YOUNG SHELDON 6S 20B
+https://storage.diziyou.co/episodes/90825_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://sm.ign.com/ign_tr/cover/y/young-shel/young-sheldon_n563.jpg" background="purple", YOUNG SHELDON 6S 21B
+https://storage.diziyou.co/episodes/90826_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://sm.ign.com/ign_tr/cover/y/young-shel/young-sheldon_n563.jpg" background="purple", YOUNG SHELDON 6S 22B
+https://storage.diziyou.co/episodes/90827_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://sm.ign.com/ign_tr/cover/y/young-shel/young-sheldon_n563.jpg" background="purple", YOUNG SHELDON 7S 1B
+https://storage.diziyou.co/episodes/90828_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://sm.ign.com/ign_tr/cover/y/young-shel/young-sheldon_n563.jpg" background="purple", YOUNG SHELDON 7S 2B
+https://storage.diziyou.co/episodes/90829_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://sm.ign.com/ign_tr/cover/y/young-shel/young-sheldon_n563.jpg" background="purple", YOUNG SHELDON 7S 3B
+https://storage.diziyou.co/episodes/90830_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://sm.ign.com/ign_tr/cover/y/young-shel/young-sheldon_n563.jpg" background="purple", YOUNG SHELDON 7S 4B
+https://storage.diziyou.co/episodes/90831_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://sm.ign.com/ign_tr/cover/y/young-shel/young-sheldon_n563.jpg" background="purple", YOUNG SHELDON 7S 5B
+https://storage.diziyou.co/episodes/90832_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://sm.ign.com/ign_tr/cover/y/young-shel/young-sheldon_n563.jpg" background="purple", YOUNG SHELDON 7S 6B
+https://storage.diziyou.co/episodes/90833_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://sm.ign.com/ign_tr/cover/y/young-shel/young-sheldon_n563.jpg" background="purple", YOUNG SHELDON 7S 7B
+https://storage.diziyou.co/episodes/90834_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://sm.ign.com/ign_tr/cover/y/young-shel/young-sheldon_n563.jpg" background="purple", YOUNG SHELDON 7S 8B
+https://storage.diziyou.co/episodes/90835_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://sm.ign.com/ign_tr/cover/y/young-shel/young-sheldon_n563.jpg" background="purple", YOUNG SHELDON 7S 9B
+https://storage.diziyou.co/episodes/90836_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://sm.ign.com/ign_tr/cover/y/young-shel/young-sheldon_n563.jpg" background="purple", YOUNG SHELDON 7S 10B
+https://storage.diziyou.co/episodes/90837_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://sm.ign.com/ign_tr/cover/y/young-shel/young-sheldon_n563.jpg" background="purple", YOUNG SHELDON 7S 11B
+https://storage.diziyou.co/episodes/90838_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://sm.ign.com/ign_tr/cover/y/young-shel/young-sheldon_n563.jpg" background="purple", YOUNG SHELDON 7S 12B
+https://storage.diziyou.co/episodes/90839_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://sm.ign.com/ign_tr/cover/y/young-shel/young-sheldon_n563.jpg" background="purple", YOUNG SHELDON 7S 13B
+https://storage.diziyou.co/episodes/90840_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://sm.ign.com/ign_tr/cover/y/young-shel/young-sheldon_n563.jpg" background="purple", YOUNG SHELDON 7S 14B
+https://storage.diziyou.co/episodes/90841_tr/720p.m3u8
+
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://media.lesechos.com/api/v1/images/view/5d023839d286c24efb4038a4/1280x720/0601400478144-web-tete.jpg" background="purple", STRANGER THİNGS 1S 2B
+https://storage.diziyou.co/episodes/40902_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://media.lesechos.com/api/v1/images/view/5d023839d286c24efb4038a4/1280x720/0601400478144-web-tete.jpg" background="purple", STRANGER THİNGS 1S 3B
+https://storage.diziyou.co/episodes/40903_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://media.lesechos.com/api/v1/images/view/5d023839d286c24efb4038a4/1280x720/0601400478144-web-tete.jpg" background="purple", STRANGER THİNGS 1S 4B
+https://storage.diziyou.co/episodes/40904_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://media.lesechos.com/api/v1/images/view/5d023839d286c24efb4038a4/1280x720/0601400478144-web-tete.jpg" background="purple", STRANGER THİNGS 1S 5B
+https://storage.diziyou.co/episodes/40905_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://media.lesechos.com/api/v1/images/view/5d023839d286c24efb4038a4/1280x720/0601400478144-web-tete.jpg" background="purple", STRANGER THİNGS 1S 6B
+https://storage.diziyou.co/episodes/40906_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://media.lesechos.com/api/v1/images/view/5d023839d286c24efb4038a4/1280x720/0601400478144-web-tete.jpg" background="purple", STRANGER THİNGS 1S 7B
+https://storage.diziyou.co/episodes/40907_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://media.lesechos.com/api/v1/images/view/5d023839d286c24efb4038a4/1280x720/0601400478144-web-tete.jpg" background="purple", STRANGER THİNGS 1S 8B
+https://storage.diziyou.co/episodes/40908_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://media.lesechos.com/api/v1/images/view/5d023839d286c24efb4038a4/1280x720/0601400478144-web-tete.jpg" background="purple", STRANGER THİNGS 2S 1B
+https://storage.diziyou.co/episodes/40909_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://media.lesechos.com/api/v1/images/view/5d023839d286c24efb4038a4/1280x720/0601400478144-web-tete.jpg" background="purple", STRANGER THİNGS 2S 2B
+https://storage.diziyou.co/episodes/40910_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://media.lesechos.com/api/v1/images/view/5d023839d286c24efb4038a4/1280x720/0601400478144-web-tete.jpg" background="purple", STRANGER THİNGS 2S 3B
+https://storage.diziyou.co/episodes/40911_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://media.lesechos.com/api/v1/images/view/5d023839d286c24efb4038a4/1280x720/0601400478144-web-tete.jpg" background="purple", STRANGER THİNGS 2S 4B
+https://storage.diziyou.co/episodes/40912_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://media.lesechos.com/api/v1/images/view/5d023839d286c24efb4038a4/1280x720/0601400478144-web-tete.jpg" background="purple", STRANGER THİNGS 2S 5B
+https://storage.diziyou.co/episodes/40913_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://media.lesechos.com/api/v1/images/view/5d023839d286c24efb4038a4/1280x720/0601400478144-web-tete.jpg" background="purple", STRANGER THİNGS 2S 6B
+https://storage.diziyou.co/episodes/40914_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://media.lesechos.com/api/v1/images/view/5d023839d286c24efb4038a4/1280x720/0601400478144-web-tete.jpg" background="purple", STRANGER THİNGS 2S 7B
+https://storage.diziyou.co/episodes/40915_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://media.lesechos.com/api/v1/images/view/5d023839d286c24efb4038a4/1280x720/0601400478144-web-tete.jpg" background="purple", STRANGER THİNGS 2S 8B
+https://storage.diziyou.co/episodes/40916_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://media.lesechos.com/api/v1/images/view/5d023839d286c24efb4038a4/1280x720/0601400478144-web-tete.jpg" background="purple", STRANGER THİNGS 2S 9B
+https://storage.diziyou.co/episodes/40916_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://media.lesechos.com/api/v1/images/view/5d023839d286c24efb4038a4/1280x720/0601400478144-web-tete.jpg" background="purple", STRANGER THİNGS 3S 1B
+https://storage.diziyou.co/episodes/40917_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://media.lesechos.com/api/v1/images/view/5d023839d286c24efb4038a4/1280x720/0601400478144-web-tete.jpg" background="purple", STRANGER THİNGS 3S 2B
+https://storage.diziyou.co/episodes/40918_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://media.lesechos.com/api/v1/images/view/5d023839d286c24efb4038a4/1280x720/0601400478144-web-tete.jpg" background="purple", STRANGER THİNGS 3S 3B
+https://storage.diziyou.co/episodes/40919_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://media.lesechos.com/api/v1/images/view/5d023839d286c24efb4038a4/1280x720/0601400478144-web-tete.jpg" background="purple", STRANGER THİNGS 3S 4B
+https://storage.diziyou.co/episodes/40920_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://media.lesechos.com/api/v1/images/view/5d023839d286c24efb4038a4/1280x720/0601400478144-web-tete.jpg" background="purple", STRANGER THİNGS 3S 5B
+https://storage.diziyou.co/episodes/40921_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://media.lesechos.com/api/v1/images/view/5d023839d286c24efb4038a4/1280x720/0601400478144-web-tete.jpg" background="purple", STRANGER THİNGS 3S 6B
+https://storage.diziyou.co/episodes/40922_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://media.lesechos.com/api/v1/images/view/5d023839d286c24efb4038a4/1280x720/0601400478144-web-tete.jpg" background="purple", STRANGER THİNGS 3S 7B
+https://storage.diziyou.co/episodes/40923_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://media.lesechos.com/api/v1/images/view/5d023839d286c24efb4038a4/1280x720/0601400478144-web-tete.jpg" background="purple", STRANGER THİNGS 3S 8B
+https://storage.diziyou.co/episodes/40924_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://media.lesechos.com/api/v1/images/view/5d023839d286c24efb4038a4/1280x720/0601400478144-web-tete.jpg" background="purple", STRANGER THİNGS 4S 1B
+https://storage.diziyou.co/episodes/40925_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://media.lesechos.com/api/v1/images/view/5d023839d286c24efb4038a4/1280x720/0601400478144-web-tete.jpg" background="purple", STRANGER THİNGS 4S 2B
+https://storage.diziyou.co/episodes/40926_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://media.lesechos.com/api/v1/images/view/5d023839d286c24efb4038a4/1280x720/0601400478144-web-tete.jpg" background="purple", STRANGER THİNGS 4S 3B
+https://storage.diziyou.co/episodes/40927_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://media.lesechos.com/api/v1/images/view/5d023839d286c24efb4038a4/1280x720/0601400478144-web-tete.jpg" background="purple", STRANGER THİNGS 4S 4B
+https://storage.diziyou.co/episodes/40928_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://media.lesechos.com/api/v1/images/view/5d023839d286c24efb4038a4/1280x720/0601400478144-web-tete.jpg" background="purple", STRANGER THİNGS 4S 5B
+https://storage.diziyou.co/episodes/40929_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://media.lesechos.com/api/v1/images/view/5d023839d286c24efb4038a4/1280x720/0601400478144-web-tete.jpg" background="purple", STRANGER THİNGS 4S 6B
+https://storage.diziyou.co/episodes/40930_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://media.lesechos.com/api/v1/images/view/5d023839d286c24efb4038a4/1280x720/0601400478144-web-tete.jpg" background="purple", STRANGER THİNGS 4S 7B
+https://storage.diziyou.co/episodes/40931_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://media.lesechos.com/api/v1/images/view/5d023839d286c24efb4038a4/1280x720/0601400478144-web-tete.jpg" background="purple", STRANGER THİNGS 4S 8B
+https://storage.diziyou.co/episodes/40932_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://media.lesechos.com/api/v1/images/view/5d023839d286c24efb4038a4/1280x720/0601400478144-web-tete.jpg" background="purple", STRANGER THİNGS 4S 9B
+https://storage.diziyou.co/episodes/40933_tr/720p.m3u8
+
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://m.media-amazon.com/images/S/pv-target-images/821ab71fdbe630210e17839df164a4b40910c7a3db8f8b2685a3a09639bc9e3f.jpg" background="purple", WEDNESDAY 1S 2B
+https://storage.diziyou.co/episodes/24702_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://m.media-amazon.com/images/S/pv-target-images/821ab71fdbe630210e17839df164a4b40910c7a3db8f8b2685a3a09639bc9e3f.jpg" background="purple", WEDNESDAY 1S 3B
+https://storage.diziyou.co/episodes/24703_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://m.media-amazon.com/images/S/pv-target-images/821ab71fdbe630210e17839df164a4b40910c7a3db8f8b2685a3a09639bc9e3f.jpg" background="purple", WEDNESDAY 1S 4B
+https://storage.diziyou.co/episodes/24704_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://m.media-amazon.com/images/S/pv-target-images/821ab71fdbe630210e17839df164a4b40910c7a3db8f8b2685a3a09639bc9e3f.jpg" background="purple", WEDNESDAY 1S 5B
+https://storage.diziyou.co/episodes/24705_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://m.media-amazon.com/images/S/pv-target-images/821ab71fdbe630210e17839df164a4b40910c7a3db8f8b2685a3a09639bc9e3f.jpg" background="purple", WEDNESDAY 1S 6B
+https://storage.diziyou.co/episodes/24706_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://m.media-amazon.com/images/S/pv-target-images/821ab71fdbe630210e17839df164a4b40910c7a3db8f8b2685a3a09639bc9e3f.jpg" background="purple", WEDNESDAY 1S 7B
+https://storage.diziyou.co/episodes/24707_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://m.media-amazon.com/images/S/pv-target-images/821ab71fdbe630210e17839df164a4b40910c7a3db8f8b2685a3a09639bc9e3f.jpg" background="purple", WEDNESDAY 1S 8B
+https://storage.diziyou.co/episodes/24708_tr/720p.m3u8
+
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://assets.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/2022/06/09/3187017941.jpg" background="purple", ALL OF US ARE DEAD 1S 2B
+https://storage.diziyou.co/episodes/15102_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://assets.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/2022/06/09/3187017941.jpg" background="purple", ALL OF US ARE DEAD 1S 3B
+https://storage.diziyou.co/episodes/15103_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://assets.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/2022/06/09/3187017941.jpg" background="purple", ALL OF US ARE DEAD 1S 4B
+https://storage.diziyou.co/episodes/15104_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://assets.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/2022/06/09/3187017941.jpg" background="purple", ALL OF US ARE DEAD 1S 5B
+https://storage.diziyou.co/episodes/15105_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://assets.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/2022/06/09/3187017941.jpg" background="purple", ALL OF US ARE DEAD 1S 6B
+https://storage.diziyou.co/episodes/15106_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://assets.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/2022/06/09/3187017941.jpg" background="purple", ALL OF US ARE DEAD 1S 7B
+https://storage.diziyou.co/episodes/15107_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://assets.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/2022/06/09/3187017941.jpg" background="purple", ALL OF US ARE DEAD 1S 8B
+https://storage.diziyou.co/episodes/15108_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://assets.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/2022/06/09/3187017941.jpg" background="purple", ALL OF US ARE DEAD 1S 9B
+https://storage.diziyou.co/episodes/15109_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://assets.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/2022/06/09/3187017941.jpg" background="purple", ALL OF US ARE DEAD 1S 10B
+https://storage.diziyou.co/episodes/15110_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://assets.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/2022/06/09/3187017941.jpg" background="purple", ALL OF US ARE DEAD 1S 11B
+https://storage.diziyou.co/episodes/15111_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://assets.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/2022/06/09/3187017941.jpg" background="purple", ALL OF US ARE DEAD 1S 12B
+https://storage.diziyou.co/episodes/15112_tr/720p.m3u8
+
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://file.cdnhipter.xyz/images/f/f/100//hhprqdeq1bmhfk1a6szwrtytbde--1721373832.jpg" background="purple", SWEET HOME 1S 2B
+https://storage.diziyou.co/episodes/82802_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://file.cdnhipter.xyz/images/f/f/100//hhprqdeq1bmhfk1a6szwrtytbde--1721373832.jpg" background="purple", SWEET HOME 1S 3B
+https://storage.diziyou.co/episodes/82803_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://file.cdnhipter.xyz/images/f/f/100//hhprqdeq1bmhfk1a6szwrtytbde--1721373832.jpg" background="purple", SWEET HOME 1S 4B
+https://storage.diziyou.co/episodes/82804_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://file.cdnhipter.xyz/images/f/f/100//hhprqdeq1bmhfk1a6szwrtytbde--1721373832.jpg" background="purple", SWEET HOME 1S 5B
+https://storage.diziyou.co/episodes/82805_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://file.cdnhipter.xyz/images/f/f/100//hhprqdeq1bmhfk1a6szwrtytbde--1721373832.jpg" background="purple", SWEET HOME 1S 6B
+https://storage.diziyou.co/episodes/82806_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://file.cdnhipter.xyz/images/f/f/100//hhprqdeq1bmhfk1a6szwrtytbde--1721373832.jpg" background="purple", SWEET HOME 1S 7B
+https://storage.diziyou.co/episodes/82807_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://file.cdnhipter.xyz/images/f/f/100//hhprqdeq1bmhfk1a6szwrtytbde--1721373832.jpg" background="purple", SWEET HOME 1S 8B
+https://storage.diziyou.co/episodes/82808_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://file.cdnhipter.xyz/images/f/f/100//hhprqdeq1bmhfk1a6szwrtytbde--1721373832.jpg" background="purple", SWEET HOME 1S 9B
+https://storage.diziyou.co/episodes/82809_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://file.cdnhipter.xyz/images/f/f/100//hhprqdeq1bmhfk1a6szwrtytbde--1721373832.jpg" background="purple", SWEET HOME 1S 10B
+https://storage.diziyou.co/episodes/82810_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://file.cdnhipter.xyz/images/f/f/100//hhprqdeq1bmhfk1a6szwrtytbde--1721373832.jpg" background="purple", SWEET HOME 2S 1B
+https://storage.diziyou.co/episodes/82811_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://file.cdnhipter.xyz/images/f/f/100//hhprqdeq1bmhfk1a6szwrtytbde--1721373832.jpg" background="purple", SWEET HOME 2S 2B
+https://storage.diziyou.co/episodes/82812_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://file.cdnhipter.xyz/images/f/f/100//hhprqdeq1bmhfk1a6szwrtytbde--1721373832.jpg" background="purple", SWEET HOME 2S 3B
+https://storage.diziyou.co/episodes/82813_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://file.cdnhipter.xyz/images/f/f/100//hhprqdeq1bmhfk1a6szwrtytbde--1721373832.jpg" background="purple", SWEET HOME 2S 4B
+https://storage.diziyou.co/episodes/82814_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://file.cdnhipter.xyz/images/f/f/100//hhprqdeq1bmhfk1a6szwrtytbde--1721373832.jpg" background="purple", SWEET HOME 2S 5B
+https://storage.diziyou.co/episodes/82815_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://file.cdnhipter.xyz/images/f/f/100//hhprqdeq1bmhfk1a6szwrtytbde--1721373832.jpg" background="purple", SWEET HOME 2S 6B
+https://storage.diziyou.co/episodes/82816_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://file.cdnhipter.xyz/images/f/f/100//hhprqdeq1bmhfk1a6szwrtytbde--1721373832.jpg" background="purple", SWEET HOME 2S 7B
+https://storage.diziyou.co/episodes/82817_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://file.cdnhipter.xyz/images/f/f/100//hhprqdeq1bmhfk1a6szwrtytbde--1721373832.jpg" background="purple", SWEET HOME 2S 8B
+https://storage.diziyou.co/episodes/82818_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://file.cdnhipter.xyz/images/f/f/100//hhprqdeq1bmhfk1a6szwrtytbde--1721373832.jpg" background="purple", SWEET HOME 3S 1B
+https://storage.diziyou.co/episodes/82819_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://file.cdnhipter.xyz/images/f/f/100//hhprqdeq1bmhfk1a6szwrtytbde--1721373832.jpg" background="purple", SWEET HOME 3S 2B
+https://storage.diziyou.co/episodes/82820_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://file.cdnhipter.xyz/images/f/f/100//hhprqdeq1bmhfk1a6szwrtytbde--1721373832.jpg" background="purple", SWEET HOME 3S 3B
+https://storage.diziyou.co/episodes/82821_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://file.cdnhipter.xyz/images/f/f/100//hhprqdeq1bmhfk1a6szwrtytbde--1721373832.jpg" background="purple", SWEET HOME 3S 4B
+https://storage.diziyou.co/episodes/82822_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://file.cdnhipter.xyz/images/f/f/100//hhprqdeq1bmhfk1a6szwrtytbde--1721373832.jpg" background="purple", SWEET HOME 3S 5B
+https://storage.diziyou.co/episodes/82823_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://file.cdnhipter.xyz/images/f/f/100//hhprqdeq1bmhfk1a6szwrtytbde--1721373832.jpg" background="purple", SWEET HOME 3S 6B
+https://storage.diziyou.co/episodes/82824_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://file.cdnhipter.xyz/images/f/f/100//hhprqdeq1bmhfk1a6szwrtytbde--1721373832.jpg" background="purple", SWEET HOME 3S 7B
+https://storage.diziyou.co/episodes/82825_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://file.cdnhipter.xyz/images/f/f/100//hhprqdeq1bmhfk1a6szwrtytbde--1721373832.jpg" background="purple", SWEET HOME 3S 8B
+https://storage.diziyou.co/episodes/82826_tr/720p.m3u8
+
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://file.cdnhipter.xyz/images/f/f/100//hhprqdeq1bmhfk1a6szwrtytbde--1721373832.jpg" background="purple", HAZBİN HOTEL 1S 2B
+https://storage.diziyou.co/episodes/85102_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://file.cdnhipter.xyz/images/f/f/100//hhprqdeq1bmhfk1a6szwrtytbde--1721373832.jpg" background="purple", HAZBİN HOTEL 1S 3B
+https://storage.diziyou.co/episodes/85103_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://file.cdnhipter.xyz/images/f/f/100//hhprqdeq1bmhfk1a6szwrtytbde--1721373832.jpg" background="purple", HAZBİN HOTEL 1S 4B
+https://storage.diziyou.co/episodes/85104_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://file.cdnhipter.xyz/images/f/f/100//hhprqdeq1bmhfk1a6szwrtytbde--1721373832.jpg" background="purple", HAZBİN HOTEL 1S 5B
+https://storage.diziyou.co/episodes/85105_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://file.cdnhipter.xyz/images/f/f/100//hhprqdeq1bmhfk1a6szwrtytbde--1721373832.jpg" background="purple", HAZBİN HOTEL 1S 6B
+https://storage.diziyou.co/episodes/85106_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://file.cdnhipter.xyz/images/f/f/100//hhprqdeq1bmhfk1a6szwrtytbde--1721373832.jpg" background="purple", HAZBİN HOTEL 1S 7B
+https://storage.diziyou.co/episodes/85107_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://file.cdnhipter.xyz/images/f/f/100//hhprqdeq1bmhfk1a6szwrtytbde--1721373832.jpg" background="purple", HAZBİN HOTEL 1S 8B
+https://storage.diziyou.co/episodes/85108_tr/720p.m3u8
+
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://resizing.flixster.com/KMR4XC4KuXbyCBYhsjlcLjnRi_U=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p18175990_b_h8_ad.jpg" background="purple", UPLOAD 1S 2B
+https://storage.diziyou.co/episodes/27602_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://resizing.flixster.com/KMR4XC4KuXbyCBYhsjlcLjnRi_U=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p18175990_b_h8_ad.jpg" background="purple", UPLOAD 1S 3B
+https://storage.diziyou.co/episodes/27603_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://resizing.flixster.com/KMR4XC4KuXbyCBYhsjlcLjnRi_U=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p18175990_b_h8_ad.jpg" background="purple", UPLOAD 1S 4B
+https://storage.diziyou.co/episodes/27604_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://resizing.flixster.com/KMR4XC4KuXbyCBYhsjlcLjnRi_U=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p18175990_b_h8_ad.jpg" background="purple", UPLOAD 1S 5B
+https://storage.diziyou.co/episodes/27605_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://resizing.flixster.com/KMR4XC4KuXbyCBYhsjlcLjnRi_U=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p18175990_b_h8_ad.jpg" background="purple", UPLOAD 1S 6B
+https://storage.diziyou.co/episodes/27606_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://resizing.flixster.com/KMR4XC4KuXbyCBYhsjlcLjnRi_U=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p18175990_b_h8_ad.jpg" background="purple", UPLOAD 1S 7B
+https://storage.diziyou.co/episodes/27607_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://resizing.flixster.com/KMR4XC4KuXbyCBYhsjlcLjnRi_U=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p18175990_b_h8_ad.jpg" background="purple", UPLOAD 1S 8B
+https://storage.diziyou.co/episodes/27608_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://resizing.flixster.com/KMR4XC4KuXbyCBYhsjlcLjnRi_U=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p18175990_b_h8_ad.jpg" background="purple", UPLOAD 1S 9B
+https://storage.diziyou.co/episodes/27609_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://resizing.flixster.com/KMR4XC4KuXbyCBYhsjlcLjnRi_U=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p18175990_b_h8_ad.jpg" background="purple", UPLOAD 1S 10B
+https://storage.diziyou.co/episodes/27610_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://resizing.flixster.com/KMR4XC4KuXbyCBYhsjlcLjnRi_U=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p18175990_b_h8_ad.jpg" background="purple", UPLOAD 2S 1B
+https://storage.diziyou.co/episodes/27611_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://resizing.flixster.com/KMR4XC4KuXbyCBYhsjlcLjnRi_U=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p18175990_b_h8_ad.jpg" background="purple", UPLOAD 2S 2B
+https://storage.diziyou.co/episodes/27612_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://resizing.flixster.com/KMR4XC4KuXbyCBYhsjlcLjnRi_U=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p18175990_b_h8_ad.jpg" background="purple", UPLOAD 2S 3B
+https://storage.diziyou.co/episodes/27613_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://resizing.flixster.com/KMR4XC4KuXbyCBYhsjlcLjnRi_U=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p18175990_b_h8_ad.jpg" background="purple", UPLOAD 2S 4B
+https://storage.diziyou.co/episodes/27614_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://resizing.flixster.com/KMR4XC4KuXbyCBYhsjlcLjnRi_U=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p18175990_b_h8_ad.jpg" background="purple", UPLOAD 2S 5B
+https://storage.diziyou.co/episodes/27615_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://resizing.flixster.com/KMR4XC4KuXbyCBYhsjlcLjnRi_U=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p18175990_b_h8_ad.jpg" background="purple", UPLOAD 2S 6B
+https://storage.diziyou.co/episodes/27616_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://resizing.flixster.com/KMR4XC4KuXbyCBYhsjlcLjnRi_U=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p18175990_b_h8_ad.jpg" background="purple", UPLOAD 2S 7B
+https://storage.diziyou.co/episodes/27617_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://resizing.flixster.com/KMR4XC4KuXbyCBYhsjlcLjnRi_U=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p18175990_b_h8_ad.jpg" background="purple", UPLOAD 3S 1B
+https://storage.diziyou.co/episodes/27618_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://resizing.flixster.com/KMR4XC4KuXbyCBYhsjlcLjnRi_U=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p18175990_b_h8_ad.jpg" background="purple", UPLOAD 3S 2B
+https://storage.diziyou.co/episodes/27619_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://resizing.flixster.com/KMR4XC4KuXbyCBYhsjlcLjnRi_U=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p18175990_b_h8_ad.jpg" background="purple", UPLOAD 3S 3B
+https://storage.diziyou.co/episodes/27620_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://resizing.flixster.com/KMR4XC4KuXbyCBYhsjlcLjnRi_U=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p18175990_b_h8_ad.jpg" background="purple", UPLOAD 3S 4B
+https://storage.diziyou.co/episodes/27621_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://resizing.flixster.com/KMR4XC4KuXbyCBYhsjlcLjnRi_U=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p18175990_b_h8_ad.jpg" background="purple", UPLOAD 3S 5B
+https://storage.diziyou.co/episodes/27622_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://resizing.flixster.com/KMR4XC4KuXbyCBYhsjlcLjnRi_U=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p18175990_b_h8_ad.jpg" background="purple", UPLOAD 3S 6B
+https://storage.diziyou.co/episodes/27623_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://resizing.flixster.com/KMR4XC4KuXbyCBYhsjlcLjnRi_U=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p18175990_b_h8_ad.jpg" background="purple", UPLOAD 3S 7B
+https://storage.diziyou.co/episodes/27624_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://resizing.flixster.com/KMR4XC4KuXbyCBYhsjlcLjnRi_U=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p18175990_b_h8_ad.jpg" background="purple", UPLOAD 3S 8B
+https://storage.diziyou.co/episodes/27625_tr/720p.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
