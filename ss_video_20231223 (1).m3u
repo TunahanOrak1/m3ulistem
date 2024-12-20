@@ -7,22 +7,10 @@ type="video" channelId="-1"  logo="https://upload.wikimedia.org/wikipedia/common
 type="video" channelId="-1"  logo="https://static.wikia.nocookie.net/logopedia/images/d/d8/The_CW_%28Print%29.svg/revision/latest?cb=20180910214129" background="purple", THE CW
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://m.media-amazon.com/images/S/pv-target-images/d9862844dfbf66d1277dddd35561b0897422748c08e182974b7528ed64ae3bf5.jpg" background="purple", DEXTER 1S 1B
 https://storage.diziyou.co/episodes/25601_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://ovicio.com.br/wp-content/uploads/2022/10/20221015-ovicio-vikings-valhalla-1-1024x576.jpg" background="purple", VİKİNGS VALHALLA 1S 1B
-https://storage.diziyou.co/episodes/16251_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://file.cdnhipter.xyz/images/f/f/100//hhprqdeq1bmhfk1a6szwrtytbde--1721373832.jpg" background="purple", SWEET HOME 1S 1B
-https://storage.diziyou.co/episodes/82801_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://assets.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/2022/06/09/3187017941.jpg" background="purple", ALL OF US ARE DEAD 1S 1B
-https://storage.diziyou.co/episodes/15101_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://m.media-amazon.com/images/S/pv-target-images/821ab71fdbe630210e17839df164a4b40910c7a3db8f8b2685a3a09639bc9e3f.jpg" background="purple", WEDNESDAY 1S 1B
-https://storage.diziyou.co/episodes/24701_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://assets-prd.ignimgs.com/2020/06/17/warrior-nun-button-1592416571452.jpg" background="purple", WARRİOR RUN 1S 1B
-https://storage.diziyou.co/episodes/24401_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://media.lesechos.com/api/v1/images/view/5d023839d286c24efb4038a4/1280x720/0601400478144-web-tete.jpg" background="purple", STRANGER THİNGS 1S 1B
-https://storage.diziyou.co/episodes/40901_tr/720p.m3u8
+
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://resizing.flixster.com/KMR4XC4KuXbyCBYhsjlcLjnRi_U=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p18175990_b_h8_ad.jpg" background="purple", UPLOAD 1S 1B
 https://storage.diziyou.co/episodes/27601_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static1.cbrimages.com/wordpress/wp-content/uploads/2023/09/one-piece-live-action-and-manga-1.jpg" background="purple", ONE PİECE LİVE ACTİON 1S 1B
-https://storage.diziyou.co/episodes/74801_tr/720p.m3u8
+
 #EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://images.thedirect.com/media/article_full/hazbin-hotels.jpg" background="purple", HAZBİN HOTEL 1S 1B
 https://storage.diziyou.co/episodes/85101_tr/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://ds.static.rtbf.be/article/image/1920x1080/4/3/3/349f36aa789af083b8e26839bd498af9-1469179192.jpg" background="purple", TEEN WOLF 1S 1B
@@ -33,8 +21,7 @@ https://storage.diziyou.co/episodes/10151_tr/720p.m3u8
 https://storage.diziyou.co/episodes/17701_tr/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://ntvb.tmsimg.com/assets/p18078200_b_h8_ae.jpg?w=1280&h=720" background="purple", THE 100 1S 1B
 https://storage.diziyou.co/episodes/60901_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://www.beyondgames.biz/wp-content/uploads/2022/12/Cyberpunk-Edgerunners-S1-Poster-en.jpg" subtitles="https://storage.diziyou.co/subtitles/22001/tr.vtt" background="purple", CYBERPUNK EDGERUNNERS 1S 1B
-https://storage.diziyou.co/episodes/22001/720p.m3u8
+
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://img-s1.onedio.com/id-54371c47e469a49b62f9e2d9/rev-0/w-1200/h-776/f-jpg/s-f5c26787c78f95424eeddd2915d4843981f923d0.jpg" background="PURPLE", GOTHAM 1S 1B
 https://storage.diziyou.co/episodes/80401_tr/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 1S 1B
@@ -51,14 +38,10 @@ https://storage.diziyou.co/episodes/95001_tr/720p.m3u8
 https://storage.diziyou.co/episodes/82101_tr/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://m.media-amazon.com/images/S/pv-target-images/8642101cece661111dbabfdc38762dbad90f63983f85a83667c0a5fa12cab50e.jpg" background="purple", THE LEGEND OF VOX MACHİNA 1S 1B
 https://storage.diziyou.co/episodes/16351_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://www.riotgames.com/darkroom/1440/b540da2b9afe5ec83e842a2d84f6dbb1:e95535ecd35e48592908762c9353926a/arcane-final-poster-16x9-no-text-no-border.jpg" background="purple", ARCANE 1S 1B
-https://storage.diziyou.co/episodes/13021_tr/720p.m3u8
+
 
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://sm.ign.com/ign_tr/cover/y/young-shel/young-sheldon_n563.jpg" background="purple", YOUNG SHELDON 1S 1B
 https://storage.diziyou.co/episodes/90701_tr/720p.m3u8
-
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://www.thedigitalfix.com/wp-content/sites/thedigitalfix/2023/06/disenchantment-season-5-release-date-5.jpg" background="purple", DİSENCHANTMENT 1S 1B
-https://storage.diziyou.co/episodes/11341_tr/720p.m3u8
 
 #EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i.ytimg.com/vi/G-r5LFRaF0k/maxresdefault.jpg" background="purple", KLON SAVAŞLARI 1S 1B 
 https://lh3.googleusercontent.com/X1LeTjYw_gU2ZPU1JPlmEVO1-_v4yxxQRDAZv161QR5MkEnWQezt8hUQGY2mtH70YyQzJFVkuLI4qKLnOotd9q2tDFCJVGOpJ2CLX7yUqTIiqBv84YlhgSUh4dd1Lv9mEjl1N2xigQ=m18
@@ -69,38 +52,20 @@ https://storage.diziyou.co/episodes/11201_tr/720p.m3u8
 https://storage.diziyou.co/episodes/10901_tr/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://wallpapers.com/images/hd/fierce-look-of-supergirl-p4qjm4modfdugujs.jpg" background="purple", SUPERGİRL 1S 1B
 https://storage.diziyou.co/episodes/78801_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://sm.ign.com/t/ign_tr/news/n/netflixs-l/netflixs-live-action-avatar-the-last-airbender-gets-first-lo_bm87.1280.jpg" background="purple", AVATAR THE LAST AIRBANDER (SERİE) 1S 1B
-https://storage.diziyou.co/episodes/87701_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i0.wp.com/www.thewrap.com/wp-content/uploads/2022/06/Avatar-The-Last-Airbender.jpg?fit=1200%2C675&ssl=1" background="purple", AVATAR THE LAST AIRBANDER (ANİMATED SERİE) 1S 1B
-https://storage.diziyou.co/episodes/30501_tr/720p.m3u8
+
 #EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2024/07/batman-caped-crusader-logo-over-the-poster-for-the-show.jpg" background="purple", BATMAN CAPED CRUSADER 1S 1B
 https://storage.diziyou.co/episodes/99901_tr/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2021/03/breaking-bad-2253951.jpg?tf=3840x" background="purple", BREAKİNG BAD 1S 1B
 https://storage.diziyou.co/episodes/10551_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2021/06/Sweet-Tooth-Bear-Gus-Tommy.jpg" background="purple", SWEET TOOTH 1S 1B
-https://storage.diziyou.co/episodes/70801_tr/720p.m3u8
+
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2017/10/Kid-Flash-on-Legends-of-Tomorrow.jpg" background="purple", DC S LEGENDS OF TOMORROW 1S 1B
 https://storage.diziyou.co/episodes/80301_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://assetsio.gnwcdn.com/-1647860761419.jpg?width=1200&height=1200&fit=bounds&quality=70&format=jpg&auto=webp" subtitles="https://storage.diziyou.co/subtitles/21051/tr.vtt" background="purple", TEKKEN BLOODLİNE 1S 1B
-https://storage.diziyou.co/episodes/21051/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://static1.cbrimages.com/wordpress/wp-content/uploads/2023/01/thorfinn-with-a-knife.jpg" subtitles="https://storage.diziyou.co/subtitles/83001/tr.vtt" background="purple", VİNLAND SAGA 1S 1B
 https://storage.diziyou.co/episodes/83001/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://cinepop.com.br/wp-content/uploads/2021/12/la-casa-de-papel-1.jpg" background="purple", LA CASA DE PAPEL 1S 1B
-https://storage.diziyou.co/episodes/10501_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://cerkezkoybakiscomtr.teimg.com/crop/1280x720/cerkezkoybakis-com-tr/uploads/2023/12/netflix-berlin-dizisi-oyunculari.jpg" background="purple", BERLİN 1S 1B
-https://storage.diziyou.co/episodes/84301_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://blog.r10.net/storage/uploads/post/2024/08/1280/720/squid-game-2-sezon-fragmani.jpg" background="purple", SQUİD GAME 1S 1B
-https://storage.diziyou.co/episodes/11111_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://miro.medium.com/v2/resize:fit:1000/0*0qZeBU5Ajfc9WtKL.jpg" background="purple", SQUİD GAME CHALLENGE 1S 1B 
-https://storage.diziyou.co/episodes/81201_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://assets-prd.ignimgs.com/2023/09/28/castlevania-blogroll-1695870862819.jpg" background="purple", CASTLEVANİA NOCTURE 1S 1B
-https://storage.diziyou.co/episodes/76801_tr/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://media.a24.com/p/c2ec722ac450341e6847bb079babd887/adjuntos/296/imagenes/008/754/0008754009/1200x675/smart/lost-disney-plusjpg.jpg" background="purple", LOST 1S 1B
 https://storage.diziyou.co/episodes/60701_tr/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static1.colliderimages.com/wordpress/wp-content/uploads/2024/06/peaky-blinders-movie-ewksf.jpg" background="purple", PEAKY BLİNDERS 1S 1B
 https://storage.diziyou.co/episodes/10751_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://m.media-amazon.com/images/M/MV5BNTZmZjU4OTgtOThjZi00YTUyLWIzNmQtYzU4ZjZhZjAzYmJlXkEyXkFqcGdeQTNwaW5nZXN0._V1_.jpg" background="purple", VİS A VİS 1S 1B
-https://storage.diziyou.co/episodes/18851_tr/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group="Animasyon Dizileri" logo="https://i1.imgiz.com/rshots/8987/esrarengiz-kasaba-en-iyi-delik-hangisi_8987121-32230_1280x720.jpg" background="purple", ESRARENGİZ KASABA 1S 1B
 https://vod02.cdn.web.tv/lf/do/lfdoahfiiqo_,240,360,480,.mp4.urlset/playlist-f3-v1-a1.m3u8
 #EXTINF:0 type="video" channelId="-1" group="Diziler" logo="https://static.wikia.nocookie.net/antagonisten/images/c/ca/Peacemaker_%28TSS%29.jpg/revision/latest/top-crop/width/360/height/360?cb=20210809234936&path-prefix=de" background="purple", PEACEMAKER 1S 1B
@@ -753,84 +718,6 @@ https://storage.diziyou.co/episodes/609082_tr/720p.m3u8
 https://storage.diziyou.co/episodes/609083_tr/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://ntvb.tmsimg.com/assets/p18078200_b_h8_ae.jpg?w=1280&h=720" background="purple", THE 100 6S 13B
 https://storage.diziyou.co/episodes/609084_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://www.thedigitalfix.com/wp-content/sites/thedigitalfix/2023/06/disenchantment-season-5-release-date-5.jpg" background="purple", DİSENCHANTMENT 1S 2B
-https://storage.diziyou.co/episodes/11342_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://www.thedigitalfix.com/wp-content/sites/thedigitalfix/2023/06/disenchantment-season-5-release-date-5.jpg" background="purple", DİSENCHANTMENT 1S 3B
-https://storage.diziyou.co/episodes/11343_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://www.thedigitalfix.com/wp-content/sites/thedigitalfix/2023/06/disenchantment-season-5-release-date-5.jpg" background="purple", DİSENCHANTMENT 1S 4B
-https://storage.diziyou.co/episodes/11344_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://www.thedigitalfix.com/wp-content/sites/thedigitalfix/2023/06/disenchantment-season-5-release-date-5.jpg" background="purple", DİSENCHANTMENT 1S 5B
-https://storage.diziyou.co/episodes/11345_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://www.thedigitalfix.com/wp-content/sites/thedigitalfix/2023/06/disenchantment-season-5-release-date-5.jpg" background="purple", DİSENCHANTMENT 1S 6B
-https://storage.diziyou.co/episodes/11346_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://www.thedigitalfix.com/wp-content/sites/thedigitalfix/2023/06/disenchantment-season-5-release-date-5.jpg" background="purple", DİSENCHANTMENT 1S 7B
-https://storage.diziyou.co/episodes/11347_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://www.thedigitalfix.com/wp-content/sites/thedigitalfix/2023/06/disenchantment-season-5-release-date-5.jpg" background="purple", DİSENCHANTMENT 1S 8B
-https://storage.diziyou.co/episodes/11348_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://www.thedigitalfix.com/wp-content/sites/thedigitalfix/2023/06/disenchantment-season-5-release-date-5.jpg" background="purple", DİSENCHANTMENT 1S 9B
-https://storage.diziyou.co/episodes/11349_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://www.thedigitalfix.com/wp-content/sites/thedigitalfix/2023/06/disenchantment-season-5-release-date-5.jpg" background="purple", DİSENCHANTMENT 1S 10B
-https://storage.diziyou.co/episodes/113450_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://www.thedigitalfix.com/wp-content/sites/thedigitalfix/2023/06/disenchantment-season-5-release-date-5.jpg" background="purple", DİSENCHANTMENT 2S 1B
-https://storage.diziyou.co/episodes/11351_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://www.thedigitalfix.com/wp-content/sites/thedigitalfix/2023/06/disenchantment-season-5-release-date-5.jpg" background="purple", DİSENCHANTMENT 2S 2B
-https://storage.diziyou.co/episodes/11352_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://www.thedigitalfix.com/wp-content/sites/thedigitalfix/2023/06/disenchantment-season-5-release-date-5.jpg" background="purple", DİSENCHANTMENT 2S 3B
-https://storage.diziyou.co/episodes/11353_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://www.thedigitalfix.com/wp-content/sites/thedigitalfix/2023/06/disenchantment-season-5-release-date-5.jpg" background="purple", DİSENCHANTMENT 2S 4B
-https://storage.diziyou.co/episodes/11354_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://www.thedigitalfix.com/wp-content/sites/thedigitalfix/2023/06/disenchantment-season-5-release-date-5.jpg" background="purple", DİSENCHANTMENT 2S 5B
-https://storage.diziyou.co/episodes/11355_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://www.thedigitalfix.com/wp-content/sites/thedigitalfix/2023/06/disenchantment-season-5-release-date-5.jpg" background="purple", DİSENCHANTMENT 2S 6B
-https://storage.diziyou.co/episodes/11356_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://www.thedigitalfix.com/wp-content/sites/thedigitalfix/2023/06/disenchantment-season-5-release-date-5.jpg" background="purple", DİSENCHANTMENT 2S 7B
-https://storage.diziyou.co/episodes/11357_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://www.thedigitalfix.com/wp-content/sites/thedigitalfix/2023/06/disenchantment-season-5-release-date-5.jpg" background="purple", DİSENCHANTMENT 2S 8B
-https://storage.diziyou.co/episodes/11358_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://www.thedigitalfix.com/wp-content/sites/thedigitalfix/2023/06/disenchantment-season-5-release-date-5.jpg" background="purple", DİSENCHANTMENT 2S 9B
-https://storage.diziyou.co/episodes/11359_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://www.thedigitalfix.com/wp-content/sites/thedigitalfix/2023/06/disenchantment-season-5-release-date-5.jpg" background="purple", DİSENCHANTMENT 2S 10B
-https://storage.diziyou.co/episodes/11360_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://www.thedigitalfix.com/wp-content/sites/thedigitalfix/2023/06/disenchantment-season-5-release-date-5.jpg" background="purple", DİSENCHANTMENT 3S 1B
-https://storage.diziyou.co/episodes/11361_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://www.thedigitalfix.com/wp-content/sites/thedigitalfix/2023/06/disenchantment-season-5-release-date-5.jpg" background="purple", DİSENCHANTMENT 3S 2B
-https://storage.diziyou.co/episodes/11362_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://www.thedigitalfix.com/wp-content/sites/thedigitalfix/2023/06/disenchantment-season-5-release-date-5.jpg" background="purple", DİSENCHANTMENT 3S 3B
-https://storage.diziyou.co/episodes/11363_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://www.thedigitalfix.com/wp-content/sites/thedigitalfix/2023/06/disenchantment-season-5-release-date-5.jpg" background="purple", DİSENCHANTMENT 3S 4B
-https://storage.diziyou.co/episodes/11364_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://www.thedigitalfix.com/wp-content/sites/thedigitalfix/2023/06/disenchantment-season-5-release-date-5.jpg" background="purple", DİSENCHANTMENT 3S 5B
-https://storage.diziyou.co/episodes/11365_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://www.thedigitalfix.com/wp-content/sites/thedigitalfix/2023/06/disenchantment-season-5-release-date-5.jpg" background="purple", DİSENCHANTMENT 3S 6B
-https://storage.diziyou.co/episodes/11366_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://www.thedigitalfix.com/wp-content/sites/thedigitalfix/2023/06/disenchantment-season-5-release-date-5.jpg" background="purple", DİSENCHANTMENT 3S 7B
-https://storage.diziyou.co/episodes/11367_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://www.thedigitalfix.com/wp-content/sites/thedigitalfix/2023/06/disenchantment-season-5-release-date-5.jpg" background="purple", DİSENCHANTMENT 3S 8B
-https://storage.diziyou.co/episodes/11368_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://www.thedigitalfix.com/wp-content/sites/thedigitalfix/2023/06/disenchantment-season-5-release-date-5.jpg" background="purple", DİSENCHANTMENT 3S 9B
-https://storage.diziyou.co/episodes/11369_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://www.thedigitalfix.com/wp-content/sites/thedigitalfix/2023/06/disenchantment-season-5-release-date-5.jpg" background="purple", DİSENCHANTMENT 3S 10B
-https://storage.diziyou.co/episodes/11370_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://www.thedigitalfix.com/wp-content/sites/thedigitalfix/2023/06/disenchantment-season-5-release-date-5.jpg" background="purple", DİSENCHANTMENT 4S 1B
-https://storage.diziyou.co/episodes/11371_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://www.thedigitalfix.com/wp-content/sites/thedigitalfix/2023/06/disenchantment-season-5-release-date-5.jpg" background="purple", DİSENCHANTMENT 4S 2B
-https://storage.diziyou.co/episodes/11372_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://www.thedigitalfix.com/wp-content/sites/thedigitalfix/2023/06/disenchantment-season-5-release-date-5.jpg" background="purple", DİSENCHANTMENT 4S 3B
-https://storage.diziyou.co/episodes/11373_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://www.thedigitalfix.com/wp-content/sites/thedigitalfix/2023/06/disenchantment-season-5-release-date-5.jpg" background="purple", DİSENCHANTMENT 4S 4B
-https://storage.diziyou.co/episodes/11374_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://www.thedigitalfix.com/wp-content/sites/thedigitalfix/2023/06/disenchantment-season-5-release-date-5.jpg" background="purple", DİSENCHANTMENT 4S 5B
-https://storage.diziyou.co/episodes/11375_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://www.thedigitalfix.com/wp-content/sites/thedigitalfix/2023/06/disenchantment-season-5-release-date-5.jpg" background="purple", DİSENCHANTMENT 4S 6B
-https://storage.diziyou.co/episodes/11376_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://www.thedigitalfix.com/wp-content/sites/thedigitalfix/2023/06/disenchantment-season-5-release-date-5.jpg" background="purple", DİSENCHANTMENT 4S 7B
-https://storage.diziyou.co/episodes/11377_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://www.thedigitalfix.com/wp-content/sites/thedigitalfix/2023/06/disenchantment-season-5-release-date-5.jpg" background="purple", DİSENCHANTMENT 4S 8B
-https://storage.diziyou.co/episodes/11378_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://www.thedigitalfix.com/wp-content/sites/thedigitalfix/2023/06/disenchantment-season-5-release-date-5.jpg" background="purple", DİSENCHANTMENT 4S 9B
-https://storage.diziyou.co/episodes/11379_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://www.thedigitalfix.com/wp-content/sites/thedigitalfix/2023/06/disenchantment-season-5-release-date-5.jpg" background="purple", DİSENCHANTMENT 4S 10B
-https://storage.diziyou.co/episodes/11380_tr/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group="DC Dizileri" logo="https://static.wikia.nocookie.net/antagonisten/images/c/ca/Peacemaker_%28TSS%29.jpg/revision/latest/top-crop/width/360/height/360?cb=20210809234936&path-prefix=de" background="purple", PEACEMAKER 1S 1B
 https://storage.diziyou.co/episodes/17401_tr/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i.pinimg.com/236x/1a/a5/52/1aa5525ecda170b2ca7c6b7464139752.jpg" background="purple", FİNAL SPACE 1S 2B
@@ -1887,288 +1774,6 @@ https://storage.diziyou.co/episodes/17821_tr/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://metadata-static.plex.tv/c/gracenote/c77e6a9ee68fede9b68b0e02434db772.jpg" background="purple", RİVERDALE 6S 22B
 https://storage.diziyou.co/episodes/17822_tr/720p.m3u8
 
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://cinepop.com.br/wp-content/uploads/2021/12/la-casa-de-papel-1.jpg" background="purple", LA CASA DE PAPEL 1S 2B
-https://storage.diziyou.co/episodes/10502_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://cinepop.com.br/wp-content/uploads/2021/12/la-casa-de-papel-1.jpg" background="purple", LA CASA DE PAPEL 1S 3B
-https://storage.diziyou.co/episodes/10503_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://cinepop.com.br/wp-content/uploads/2021/12/la-casa-de-papel-1.jpg" background="purple", LA CASA DE PAPEL 1S 4B
-https://storage.diziyou.co/episodes/10504_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://cinepop.com.br/wp-content/uploads/2021/12/la-casa-de-papel-1.jpg" background="purple", LA CASA DE PAPEL 1S 5B
-https://storage.diziyou.co/episodes/10505_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://cinepop.com.br/wp-content/uploads/2021/12/la-casa-de-papel-1.jpg" background="purple", LA CASA DE PAPEL 1S 6B
-https://storage.diziyou.co/episodes/10506_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://cinepop.com.br/wp-content/uploads/2021/12/la-casa-de-papel-1.jpg" background="purple", LA CASA DE PAPEL 1S 7B
-https://storage.diziyou.co/episodes/10507_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://cinepop.com.br/wp-content/uploads/2021/12/la-casa-de-papel-1.jpg" background="purple", LA CASA DE PAPEL 1S 8B
-https://storage.diziyou.co/episodes/10508_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://cinepop.com.br/wp-content/uploads/2021/12/la-casa-de-papel-1.jpg" background="purple", LA CASA DE PAPEL 1S 9B
-https://storage.diziyou.co/episodes/10509_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://cinepop.com.br/wp-content/uploads/2021/12/la-casa-de-papel-1.jpg" background="purple", LA CASA DE PAPEL 1S 10B
-https://storage.diziyou.co/episodes/10510_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://cinepop.com.br/wp-content/uploads/2021/12/la-casa-de-papel-1.jpg" background="purple", LA CASA DE PAPEL 1S 11B
-https://storage.diziyou.co/episodes/10511_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://cinepop.com.br/wp-content/uploads/2021/12/la-casa-de-papel-1.jpg" background="purple", LA CASA DE PAPEL 1S 12B
-https://storage.diziyou.co/episodes/10512_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://cinepop.com.br/wp-content/uploads/2021/12/la-casa-de-papel-1.jpg" background="purple", LA CASA DE PAPEL 1S 13B
-https://storage.diziyou.co/episodes/10513_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://cinepop.com.br/wp-content/uploads/2021/12/la-casa-de-papel-1.jpg" background="purple", LA CASA DE PAPEL 2S 1B
-https://storage.diziyou.co/episodes/10514_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://cinepop.com.br/wp-content/uploads/2021/12/la-casa-de-papel-1.jpg" background="purple", LA CASA DE PAPEL 2S 2B
-https://storage.diziyou.co/episodes/10515_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://cinepop.com.br/wp-content/uploads/2021/12/la-casa-de-papel-1.jpg" background="purple", LA CASA DE PAPEL 2S 3B
-https://storage.diziyou.co/episodes/10516_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://cinepop.com.br/wp-content/uploads/2021/12/la-casa-de-papel-1.jpg" background="purple", LA CASA DE PAPEL 2S 4B
-https://storage.diziyou.co/episodes/10517_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://cinepop.com.br/wp-content/uploads/2021/12/la-casa-de-papel-1.jpg" background="purple", LA CASA DE PAPEL 2S 5B
-https://storage.diziyou.co/episodes/10518_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://cinepop.com.br/wp-content/uploads/2021/12/la-casa-de-papel-1.jpg" background="purple", LA CASA DE PAPEL 2S 6B
-https://storage.diziyou.co/episodes/10519_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://cinepop.com.br/wp-content/uploads/2021/12/la-casa-de-papel-1.jpg" background="purple", LA CASA DE PAPEL 2S 7B
-https://storage.diziyou.co/episodes/10520_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://cinepop.com.br/wp-content/uploads/2021/12/la-casa-de-papel-1.jpg" background="purple", LA CASA DE PAPEL 2S 8B
-https://storage.diziyou.co/episodes/10521_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://cinepop.com.br/wp-content/uploads/2021/12/la-casa-de-papel-1.jpg" background="purple", LA CASA DE PAPEL 2S 9B
-https://storage.diziyou.co/episodes/10522_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://cinepop.com.br/wp-content/uploads/2021/12/la-casa-de-papel-1.jpg" background="purple", LA CASA DE PAPEL 3S 1B
-https://storage.diziyou.co/episodes/10523_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://cinepop.com.br/wp-content/uploads/2021/12/la-casa-de-papel-1.jpg" background="purple", LA CASA DE PAPEL 3S 2B
-https://storage.diziyou.co/episodes/10524_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://cinepop.com.br/wp-content/uploads/2021/12/la-casa-de-papel-1.jpg" background="purple", LA CASA DE PAPEL 3S 3B
-https://storage.diziyou.co/episodes/10525_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://cinepop.com.br/wp-content/uploads/2021/12/la-casa-de-papel-1.jpg" background="purple", LA CASA DE PAPEL 3S 4B
-https://storage.diziyou.co/episodes/10526_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://cinepop.com.br/wp-content/uploads/2021/12/la-casa-de-papel-1.jpg" background="purple", LA CASA DE PAPEL 3S 5B
-https://storage.diziyou.co/episodes/10527_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://cinepop.com.br/wp-content/uploads/2021/12/la-casa-de-papel-1.jpg" background="purple", LA CASA DE PAPEL 3S 6B
-https://storage.diziyou.co/episodes/10528_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://cinepop.com.br/wp-content/uploads/2021/12/la-casa-de-papel-1.jpg" background="purple", LA CASA DE PAPEL 3S 7B
-https://storage.diziyou.co/episodes/10529_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://cinepop.com.br/wp-content/uploads/2021/12/la-casa-de-papel-1.jpg" background="purple", LA CASA DE PAPEL 3S 8B
-https://storage.diziyou.co/episodes/10530_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://cinepop.com.br/wp-content/uploads/2021/12/la-casa-de-papel-1.jpg" background="purple", LA CASA DE PAPEL 4S 1B
-https://storage.diziyou.co/episodes/10531_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://cinepop.com.br/wp-content/uploads/2021/12/la-casa-de-papel-1.jpg" background="purple", LA CASA DE PAPEL 4S 2B
-https://storage.diziyou.co/episodes/10532_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://cinepop.com.br/wp-content/uploads/2021/12/la-casa-de-papel-1.jpg" background="purple", LA CASA DE PAPEL 4S 3B
-https://storage.diziyou.co/episodes/10533_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://cinepop.com.br/wp-content/uploads/2021/12/la-casa-de-papel-1.jpg" background="purple", LA CASA DE PAPEL 4S 4B
-https://storage.diziyou.co/episodes/10534_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://cinepop.com.br/wp-content/uploads/2021/12/la-casa-de-papel-1.jpg" background="purple", LA CASA DE PAPEL 4S 5B
-https://storage.diziyou.co/episodes/105235_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://cinepop.com.br/wp-content/uploads/2021/12/la-casa-de-papel-1.jpg" background="purple", LA CASA DE PAPEL 4S 6B
-https://storage.diziyou.co/episodes/10536_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://cinepop.com.br/wp-content/uploads/2021/12/la-casa-de-papel-1.jpg" background="purple", LA CASA DE PAPEL 4S 7B
-https://storage.diziyou.co/episodes/10537_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://cinepop.com.br/wp-content/uploads/2021/12/la-casa-de-papel-1.jpg" background="purple", LA CASA DE PAPEL 4S 8B
-https://storage.diziyou.co/episodes/10538_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://cinepop.com.br/wp-content/uploads/2021/12/la-casa-de-papel-1.jpg" background="purple", LA CASA DE PAPEL 5S 1B
-https://storage.diziyou.co/episodes/10539_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://cinepop.com.br/wp-content/uploads/2021/12/la-casa-de-papel-1.jpg" background="purple", LA CASA DE PAPEL 5S 2B
-https://storage.diziyou.co/episodes/10540_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://cinepop.com.br/wp-content/uploads/2021/12/la-casa-de-papel-1.jpg" background="purple", LA CASA DE PAPEL 5S 3B
-https://storage.diziyou.co/episodes/10541_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://cinepop.com.br/wp-content/uploads/2021/12/la-casa-de-papel-1.jpg" background="purple", LA CASA DE PAPEL 5S 4B
-https://storage.diziyou.co/episodes/10542_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://cinepop.com.br/wp-content/uploads/2021/12/la-casa-de-papel-1.jpg" background="purple", LA CASA DE PAPEL 5S 5B
-https://storage.diziyou.co/episodes/10543_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://cinepop.com.br/wp-content/uploads/2021/12/la-casa-de-papel-1.jpg" background="purple", LA CASA DE PAPEL 5S 6B
-https://storage.diziyou.co/episodes/10544_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://cinepop.com.br/wp-content/uploads/2021/12/la-casa-de-papel-1.jpg" background="purple", LA CASA DE PAPEL 5S 7B
-https://storage.diziyou.co/episodes/10545_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://cinepop.com.br/wp-content/uploads/2021/12/la-casa-de-papel-1.jpg" background="purple", LA CASA DE PAPEL 5S 8B
-https://storage.diziyou.co/episodes/10546_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://cinepop.com.br/wp-content/uploads/2021/12/la-casa-de-papel-1.jpg" background="purple", LA CASA DE PAPEL 5S 9B
-https://storage.diziyou.co/episodes/10547_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://cinepop.com.br/wp-content/uploads/2021/12/la-casa-de-papel-1.jpg" background="purple", LA CASA DE PAPEL 5S 10B
-https://storage.diziyou.co/episodes/10548_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://cerkezkoybakiscomtr.teimg.com/crop/1280x720/cerkezkoybakis-com-tr/uploads/2023/12/netflix-berlin-dizisi-oyunculari.jpg" background="purple", BERLİN 1S 2B
-https://storage.diziyou.co/episodes/84302_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://cerkezkoybakiscomtr.teimg.com/crop/1280x720/cerkezkoybakis-com-tr/uploads/2023/12/netflix-berlin-dizisi-oyunculari.jpg" background="purple", BERLİN 1S 3B
-https://storage.diziyou.co/episodes/84303_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://cerkezkoybakiscomtr.teimg.com/crop/1280x720/cerkezkoybakis-com-tr/uploads/2023/12/netflix-berlin-dizisi-oyunculari.jpg" background="purple", BERLİN 1S 4B
-https://storage.diziyou.co/episodes/84304_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://cerkezkoybakiscomtr.teimg.com/crop/1280x720/cerkezkoybakis-com-tr/uploads/2023/12/netflix-berlin-dizisi-oyunculari.jpg" background="purple", BERLİN 1S 5B
-https://storage.diziyou.co/episodes/84305_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://cerkezkoybakiscomtr.teimg.com/crop/1280x720/cerkezkoybakis-com-tr/uploads/2023/12/netflix-berlin-dizisi-oyunculari.jpg" background="purple", BERLİN 1S 6B
-https://storage.diziyou.co/episodes/84306_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://cerkezkoybakiscomtr.teimg.com/crop/1280x720/cerkezkoybakis-com-tr/uploads/2023/12/netflix-berlin-dizisi-oyunculari.jpg" background="purple", BERLİN 1S 7B
-https://storage.diziyou.co/episodes/84307_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://cerkezkoybakiscomtr.teimg.com/crop/1280x720/cerkezkoybakis-com-tr/uploads/2023/12/netflix-berlin-dizisi-oyunculari.jpg" background="purple", BERLİN 1S 8B
-https://storage.diziyou.co/episodes/84308_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2021/06/Sweet-Tooth-Bear-Gus-Tommy.jpg" background="purple", SWEET TOOTH 1S 2B
-https://storage.diziyou.co/episodes/70802_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2021/06/Sweet-Tooth-Bear-Gus-Tommy.jpg" background="purple", SWEET TOOTH 1S 3B
-https://storage.diziyou.co/episodes/70803_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2021/06/Sweet-Tooth-Bear-Gus-Tommy.jpg" background="purple", SWEET TOOTH 1S 4B
-https://storage.diziyou.co/episodes/70804_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2021/06/Sweet-Tooth-Bear-Gus-Tommy.jpg" background="purple", SWEET TOOTH 1S 5B
-https://storage.diziyou.co/episodes/70805_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2021/06/Sweet-Tooth-Bear-Gus-Tommy.jpg" background="purple", SWEET TOOTH 1S 6B
-https://storage.diziyou.co/episodes/70806_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2021/06/Sweet-Tooth-Bear-Gus-Tommy.jpg" background="purple", SWEET TOOTH 1S 7B
-https://storage.diziyou.co/episodes/70807_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2021/06/Sweet-Tooth-Bear-Gus-Tommy.jpg" background="purple", SWEET TOOTH 1S 8B
-https://storage.diziyou.co/episodes/70808_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2021/06/Sweet-Tooth-Bear-Gus-Tommy.jpg" background="purple", SWEET TOOTH 2S 1B
-https://storage.diziyou.co/episodes/70809_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2021/06/Sweet-Tooth-Bear-Gus-Tommy.jpg" background="purple", SWEET TOOTH 2S 2B
-https://storage.diziyou.co/episodes/70810_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2021/06/Sweet-Tooth-Bear-Gus-Tommy.jpg" background="purple", SWEET TOOTH 2S 3B
-https://storage.diziyou.co/episodes/70811_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2021/06/Sweet-Tooth-Bear-Gus-Tommy.jpg" background="purple", SWEET TOOTH 2S 4B
-https://storage.diziyou.co/episodes/70812_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2021/06/Sweet-Tooth-Bear-Gus-Tommy.jpg" background="purple", SWEET TOOTH 2S 5B
-https://storage.diziyou.co/episodes/70813_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2021/06/Sweet-Tooth-Bear-Gus-Tommy.jpg" background="purple", SWEET TOOTH 2S 6B
-https://storage.diziyou.co/episodes/70814_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2021/06/Sweet-Tooth-Bear-Gus-Tommy.jpg" background="purple", SWEET TOOTH 2S 7B
-https://storage.diziyou.co/episodes/70815_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2021/06/Sweet-Tooth-Bear-Gus-Tommy.jpg" background="purple", SWEET TOOTH 2S 8B
-https://storage.diziyou.co/episodes/70816_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2021/06/Sweet-Tooth-Bear-Gus-Tommy.jpg" background="purple", SWEET TOOTH 3S 1B
-https://storage.diziyou.co/episodes/70817_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2021/06/Sweet-Tooth-Bear-Gus-Tommy.jpg" background="purple", SWEET TOOTH 3S 2B
-https://storage.diziyou.co/episodes/70818_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2021/06/Sweet-Tooth-Bear-Gus-Tommy.jpg" background="purple", SWEET TOOTH 3S 3B
-https://storage.diziyou.co/episodes/70819_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2021/06/Sweet-Tooth-Bear-Gus-Tommy.jpg" background="purple", SWEET TOOTH 3S 4B
-https://storage.diziyou.co/episodes/70820_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2021/06/Sweet-Tooth-Bear-Gus-Tommy.jpg" background="purple", SWEET TOOTH 3S 5B
-https://storage.diziyou.co/episodes/70821_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2021/06/Sweet-Tooth-Bear-Gus-Tommy.jpg" background="purple", SWEET TOOTH 3S 6B
-https://storage.diziyou.co/episodes/70822_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2021/06/Sweet-Tooth-Bear-Gus-Tommy.jpg" background="purple", SWEET TOOTH 3S 7B
-https://storage.diziyou.co/episodes/70823_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2021/06/Sweet-Tooth-Bear-Gus-Tommy.jpg" background="purple", SWEET TOOTH 3S 8B
-https://storage.diziyou.co/episodes/70824_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://assets-prd.ignimgs.com/2023/09/28/castlevania-blogroll-1695870862819.jpg" background="purple", CASTLEVANİA NOCTURE 1S 2B
-https://storage.diziyou.co/episodes/76802_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://assets-prd.ignimgs.com/2023/09/28/castlevania-blogroll-1695870862819.jpg" background="purple", CASTLEVANİA NOCTURE 1S 3B
-https://storage.diziyou.co/episodes/76803_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://assets-prd.ignimgs.com/2023/09/28/castlevania-blogroll-1695870862819.jpg" background="purple", CASTLEVANİA NOCTURE 1S 4B
-https://storage.diziyou.co/episodes/76804_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://assets-prd.ignimgs.com/2023/09/28/castlevania-blogroll-1695870862819.jpg" background="purple", CASTLEVANİA NOCTURE 1S 5B
-https://storage.diziyou.co/episodes/76805_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://assets-prd.ignimgs.com/2023/09/28/castlevania-blogroll-1695870862819.jpg" background="purple", CASTLEVANİA NOCTURE 1S 6B
-https://storage.diziyou.co/episodes/76806_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://assets-prd.ignimgs.com/2023/09/28/castlevania-blogroll-1695870862819.jpg" background="purple", CASTLEVANİA NOCTURE 1S 7B
-https://storage.diziyou.co/episodes/76807_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://assets-prd.ignimgs.com/2023/09/28/castlevania-blogroll-1695870862819.jpg" background="purple", CASTLEVANİA NOCTURE 1S 8B
-https://storage.diziyou.co/episodes/76808_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://blog.r10.net/storage/uploads/post/2024/08/1280/720/squid-game-2-sezon-fragmani.jpg" background="purple", SQUİD GAME 1S 2B
-https://storage.diziyou.co/episodes/11112_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://blog.r10.net/storage/uploads/post/2024/08/1280/720/squid-game-2-sezon-fragmani.jpg" background="purple", SQUİD GAME 1S 3B
-https://storage.diziyou.co/episodes/11113_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://blog.r10.net/storage/uploads/post/2024/08/1280/720/squid-game-2-sezon-fragmani.jpg" background="purple", SQUİD GAME 1S 4B
-https://storage.diziyou.co/episodes/11114_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://blog.r10.net/storage/uploads/post/2024/08/1280/720/squid-game-2-sezon-fragmani.jpg" background="purple", SQUİD GAME 1S 5B
-https://storage.diziyou.co/episodes/11115_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://blog.r10.net/storage/uploads/post/2024/08/1280/720/squid-game-2-sezon-fragmani.jpg" background="purple", SQUİD GAME 1S 6B
-https://storage.diziyou.co/episodes/11116_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://blog.r10.net/storage/uploads/post/2024/08/1280/720/squid-game-2-sezon-fragmani.jpg" background="purple", SQUİD GAME 1S 7B
-https://storage.diziyou.co/episodes/11117_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://blog.r10.net/storage/uploads/post/2024/08/1280/720/squid-game-2-sezon-fragmani.jpg" background="purple", SQUİD GAME 1S 8B
-https://storage.diziyou.co/episodes/11118_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://blog.r10.net/storage/uploads/post/2024/08/1280/720/squid-game-2-sezon-fragmani.jpg" background="purple", SQUİD GAME 1S 9B
-https://storage.diziyou.co/episodes/11119_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://miro.medium.com/v2/resize:fit:1000/0*0qZeBU5Ajfc9WtKL.jpg" background="purple", SQUİD GAME CHALLENGE 1S 2B 
-https://storage.diziyou.co/episodes/81202_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://miro.medium.com/v2/resize:fit:1000/0*0qZeBU5Ajfc9WtKL.jpg" background="purple", SQUİD GAME CHALLENGE 1S 3B 
-https://storage.diziyou.co/episodes/81203_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://miro.medium.com/v2/resize:fit:1000/0*0qZeBU5Ajfc9WtKL.jpg" background="purple", SQUİD GAME CHALLENGE 1S 4B 
-https://storage.diziyou.co/episodes/81204_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://miro.medium.com/v2/resize:fit:1000/0*0qZeBU5Ajfc9WtKL.jpg" background="purple", SQUİD GAME CHALLENGE 1S 5B 
-https://storage.diziyou.co/episodes/81205_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://miro.medium.com/v2/resize:fit:1000/0*0qZeBU5Ajfc9WtKL.jpg" background="purple", SQUİD GAME CHALLENGE 1S 6B 
-https://storage.diziyou.co/episodes/81206_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://miro.medium.com/v2/resize:fit:1000/0*0qZeBU5Ajfc9WtKL.jpg" background="purple", SQUİD GAME CHALLENGE 1S 7B 
-https://storage.diziyou.co/episodes/81207_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://miro.medium.com/v2/resize:fit:1000/0*0qZeBU5Ajfc9WtKL.jpg" background="purple", SQUİD GAME CHALLENGE 1S 8B 
-https://storage.diziyou.co/episodes/81208_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://miro.medium.com/v2/resize:fit:1000/0*0qZeBU5Ajfc9WtKL.jpg" background="purple", SQUİD GAME CHALLENGE 1S 9B 
-https://storage.diziyou.co/episodes/81209_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://miro.medium.com/v2/resize:fit:1000/0*0qZeBU5Ajfc9WtKL.jpg" background="purple", SQUİD GAME CHALLENGE 1S 10B 
-https://storage.diziyou.co/episodes/81210_tr/720p.m3u8
-
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://m.media-amazon.com/images/M/MV5BNTZmZjU4OTgtOThjZi00YTUyLWIzNmQtYzU4ZjZhZjAzYmJlXkEyXkFqcGdeQTNwaW5nZXN0._V1_.jpg" background="purple", VİS A VİS 1S 2B
-https://storage.diziyou.co/episodes/18852_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://m.media-amazon.com/images/M/MV5BNTZmZjU4OTgtOThjZi00YTUyLWIzNmQtYzU4ZjZhZjAzYmJlXkEyXkFqcGdeQTNwaW5nZXN0._V1_.jpg" background="purple", VİS A VİS 1S 3B
-https://storage.diziyou.co/episodes/18853_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://m.media-amazon.com/images/M/MV5BNTZmZjU4OTgtOThjZi00YTUyLWIzNmQtYzU4ZjZhZjAzYmJlXkEyXkFqcGdeQTNwaW5nZXN0._V1_.jpg" background="purple", VİS A VİS 1S 4B
-https://storage.diziyou.co/episodes/18854_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://m.media-amazon.com/images/M/MV5BNTZmZjU4OTgtOThjZi00YTUyLWIzNmQtYzU4ZjZhZjAzYmJlXkEyXkFqcGdeQTNwaW5nZXN0._V1_.jpg" background="purple", VİS A VİS 1S 5B
-https://storage.diziyou.co/episodes/18855_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://m.media-amazon.com/images/M/MV5BNTZmZjU4OTgtOThjZi00YTUyLWIzNmQtYzU4ZjZhZjAzYmJlXkEyXkFqcGdeQTNwaW5nZXN0._V1_.jpg" background="purple", VİS A VİS 1S 6B
-https://storage.diziyou.co/episodes/18856_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://m.media-amazon.com/images/M/MV5BNTZmZjU4OTgtOThjZi00YTUyLWIzNmQtYzU4ZjZhZjAzYmJlXkEyXkFqcGdeQTNwaW5nZXN0._V1_.jpg" background="purple", VİS A VİS 1S 7B
-https://storage.diziyou.co/episodes/18857_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://m.media-amazon.com/images/M/MV5BNTZmZjU4OTgtOThjZi00YTUyLWIzNmQtYzU4ZjZhZjAzYmJlXkEyXkFqcGdeQTNwaW5nZXN0._V1_.jpg" background="purple", VİS A VİS 1S 8B
-https://storage.diziyou.co/episodes/18858_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://m.media-amazon.com/images/M/MV5BNTZmZjU4OTgtOThjZi00YTUyLWIzNmQtYzU4ZjZhZjAzYmJlXkEyXkFqcGdeQTNwaW5nZXN0._V1_.jpg" background="purple", VİS A VİS 1S 9B
-https://storage.diziyou.co/episodes/18859_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://m.media-amazon.com/images/M/MV5BNTZmZjU4OTgtOThjZi00YTUyLWIzNmQtYzU4ZjZhZjAzYmJlXkEyXkFqcGdeQTNwaW5nZXN0._V1_.jpg" background="purple", VİS A VİS 1S 10B
-https://storage.diziyou.co/episodes/18860_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://m.media-amazon.com/images/M/MV5BNTZmZjU4OTgtOThjZi00YTUyLWIzNmQtYzU4ZjZhZjAzYmJlXkEyXkFqcGdeQTNwaW5nZXN0._V1_.jpg" background="purple", VİS A VİS 1S 11B
-https://storage.diziyou.co/episodes/18861_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://m.media-amazon.com/images/M/MV5BNTZmZjU4OTgtOThjZi00YTUyLWIzNmQtYzU4ZjZhZjAzYmJlXkEyXkFqcGdeQTNwaW5nZXN0._V1_.jpg" background="purple", VİS A VİS 2S 1B
-https://storage.diziyou.co/episodes/18862_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://m.media-amazon.com/images/M/MV5BNTZmZjU4OTgtOThjZi00YTUyLWIzNmQtYzU4ZjZhZjAzYmJlXkEyXkFqcGdeQTNwaW5nZXN0._V1_.jpg" background="purple", VİS A VİS 2S 2B
-https://storage.diziyou.co/episodes/18863_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://m.media-amazon.com/images/M/MV5BNTZmZjU4OTgtOThjZi00YTUyLWIzNmQtYzU4ZjZhZjAzYmJlXkEyXkFqcGdeQTNwaW5nZXN0._V1_.jpg" background="purple", VİS A VİS 2S 3B
-https://storage.diziyou.co/episodes/18864_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://m.media-amazon.com/images/M/MV5BNTZmZjU4OTgtOThjZi00YTUyLWIzNmQtYzU4ZjZhZjAzYmJlXkEyXkFqcGdeQTNwaW5nZXN0._V1_.jpg" background="purple", VİS A VİS 2S 4B
-https://storage.diziyou.co/episodes/18865_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://m.media-amazon.com/images/M/MV5BNTZmZjU4OTgtOThjZi00YTUyLWIzNmQtYzU4ZjZhZjAzYmJlXkEyXkFqcGdeQTNwaW5nZXN0._V1_.jpg" background="purple", VİS A VİS 2S 5B
-https://storage.diziyou.co/episodes/18866_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://m.media-amazon.com/images/M/MV5BNTZmZjU4OTgtOThjZi00YTUyLWIzNmQtYzU4ZjZhZjAzYmJlXkEyXkFqcGdeQTNwaW5nZXN0._V1_.jpg" background="purple", VİS A VİS 2S 6B
-https://storage.diziyou.co/episodes/18867_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://m.media-amazon.com/images/M/MV5BNTZmZjU4OTgtOThjZi00YTUyLWIzNmQtYzU4ZjZhZjAzYmJlXkEyXkFqcGdeQTNwaW5nZXN0._V1_.jpg" background="purple", VİS A VİS 2S 7B
-https://storage.diziyou.co/episodes/18868_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://m.media-amazon.com/images/M/MV5BNTZmZjU4OTgtOThjZi00YTUyLWIzNmQtYzU4ZjZhZjAzYmJlXkEyXkFqcGdeQTNwaW5nZXN0._V1_.jpg" background="purple", VİS A VİS 2S 8B
-https://storage.diziyou.co/episodes/18869_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://m.media-amazon.com/images/M/MV5BNTZmZjU4OTgtOThjZi00YTUyLWIzNmQtYzU4ZjZhZjAzYmJlXkEyXkFqcGdeQTNwaW5nZXN0._V1_.jpg" background="purple", VİS A VİS 2S 9B
-https://storage.diziyou.co/episodes/18870_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://m.media-amazon.com/images/M/MV5BNTZmZjU4OTgtOThjZi00YTUyLWIzNmQtYzU4ZjZhZjAzYmJlXkEyXkFqcGdeQTNwaW5nZXN0._V1_.jpg" background="purple", VİS A VİS 2S 10B
-https://storage.diziyou.co/episodes/18871_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://m.media-amazon.com/images/M/MV5BNTZmZjU4OTgtOThjZi00YTUyLWIzNmQtYzU4ZjZhZjAzYmJlXkEyXkFqcGdeQTNwaW5nZXN0._V1_.jpg" background="purple", VİS A VİS 2S 11B
-https://storage.diziyou.co/episodes/18872_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://m.media-amazon.com/images/M/MV5BNTZmZjU4OTgtOThjZi00YTUyLWIzNmQtYzU4ZjZhZjAzYmJlXkEyXkFqcGdeQTNwaW5nZXN0._V1_.jpg" background="purple", VİS A VİS 2S 12B
-https://storage.diziyou.co/episodes/18873_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://m.media-amazon.com/images/M/MV5BNTZmZjU4OTgtOThjZi00YTUyLWIzNmQtYzU4ZjZhZjAzYmJlXkEyXkFqcGdeQTNwaW5nZXN0._V1_.jpg" background="purple", VİS A VİS 2S 13B
-https://storage.diziyou.co/episodes/18874_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://m.media-amazon.com/images/M/MV5BNTZmZjU4OTgtOThjZi00YTUyLWIzNmQtYzU4ZjZhZjAzYmJlXkEyXkFqcGdeQTNwaW5nZXN0._V1_.jpg" background="purple", VİS A VİS 3S 1B
-https://storage.diziyou.co/episodes/18875_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://m.media-amazon.com/images/M/MV5BNTZmZjU4OTgtOThjZi00YTUyLWIzNmQtYzU4ZjZhZjAzYmJlXkEyXkFqcGdeQTNwaW5nZXN0._V1_.jpg" background="purple", VİS A VİS 3S 2B
-https://storage.diziyou.co/episodes/18876_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://m.media-amazon.com/images/M/MV5BNTZmZjU4OTgtOThjZi00YTUyLWIzNmQtYzU4ZjZhZjAzYmJlXkEyXkFqcGdeQTNwaW5nZXN0._V1_.jpg" background="purple", VİS A VİS 3S 3B
-https://storage.diziyou.co/episodes/18877_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://m.media-amazon.com/images/M/MV5BNTZmZjU4OTgtOThjZi00YTUyLWIzNmQtYzU4ZjZhZjAzYmJlXkEyXkFqcGdeQTNwaW5nZXN0._V1_.jpg" background="purple", VİS A VİS 3S 4B
-https://storage.diziyou.co/episodes/18878_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://m.media-amazon.com/images/M/MV5BNTZmZjU4OTgtOThjZi00YTUyLWIzNmQtYzU4ZjZhZjAzYmJlXkEyXkFqcGdeQTNwaW5nZXN0._V1_.jpg" background="purple", VİS A VİS 3S 5B
-https://storage.diziyou.co/episodes/18879_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://m.media-amazon.com/images/M/MV5BNTZmZjU4OTgtOThjZi00YTUyLWIzNmQtYzU4ZjZhZjAzYmJlXkEyXkFqcGdeQTNwaW5nZXN0._V1_.jpg" background="purple", VİS A VİS 3S 6B
-https://storage.diziyou.co/episodes/18880_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://m.media-amazon.com/images/M/MV5BNTZmZjU4OTgtOThjZi00YTUyLWIzNmQtYzU4ZjZhZjAzYmJlXkEyXkFqcGdeQTNwaW5nZXN0._V1_.jpg" background="purple", VİS A VİS 3S 7B
-https://storage.diziyou.co/episodes/18881_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://m.media-amazon.com/images/M/MV5BNTZmZjU4OTgtOThjZi00YTUyLWIzNmQtYzU4ZjZhZjAzYmJlXkEyXkFqcGdeQTNwaW5nZXN0._V1_.jpg" background="purple", VİS A VİS 3S 8B
-https://storage.diziyou.co/episodes/18882_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://m.media-amazon.com/images/M/MV5BNTZmZjU4OTgtOThjZi00YTUyLWIzNmQtYzU4ZjZhZjAzYmJlXkEyXkFqcGdeQTNwaW5nZXN0._V1_.jpg" background="purple", VİS A VİS 4S 1B
-https://storage.diziyou.co/episodes/18883_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://m.media-amazon.com/images/M/MV5BNTZmZjU4OTgtOThjZi00YTUyLWIzNmQtYzU4ZjZhZjAzYmJlXkEyXkFqcGdeQTNwaW5nZXN0._V1_.jpg" background="purple", VİS A VİS 4S 2B
-https://storage.diziyou.co/episodes/18884_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://m.media-amazon.com/images/M/MV5BNTZmZjU4OTgtOThjZi00YTUyLWIzNmQtYzU4ZjZhZjAzYmJlXkEyXkFqcGdeQTNwaW5nZXN0._V1_.jpg" background="purple", VİS A VİS 4S 3B
-https://storage.diziyou.co/episodes/18885_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://m.media-amazon.com/images/M/MV5BNTZmZjU4OTgtOThjZi00YTUyLWIzNmQtYzU4ZjZhZjAzYmJlXkEyXkFqcGdeQTNwaW5nZXN0._V1_.jpg" background="purple", VİS A VİS 4S 4B
-https://storage.diziyou.co/episodes/18886_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://m.media-amazon.com/images/M/MV5BNTZmZjU4OTgtOThjZi00YTUyLWIzNmQtYzU4ZjZhZjAzYmJlXkEyXkFqcGdeQTNwaW5nZXN0._V1_.jpg" background="purple", VİS A VİS 4S 5B
-https://storage.diziyou.co/episodes/18887_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://m.media-amazon.com/images/M/MV5BNTZmZjU4OTgtOThjZi00YTUyLWIzNmQtYzU4ZjZhZjAzYmJlXkEyXkFqcGdeQTNwaW5nZXN0._V1_.jpg" background="purple", VİS A VİS 4S 6B
-https://storage.diziyou.co/episodes/18888_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://m.media-amazon.com/images/M/MV5BNTZmZjU4OTgtOThjZi00YTUyLWIzNmQtYzU4ZjZhZjAzYmJlXkEyXkFqcGdeQTNwaW5nZXN0._V1_.jpg" background="purple", VİS A VİS 4S 7B
-https://storage.diziyou.co/episodes/18889_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://m.media-amazon.com/images/M/MV5BNTZmZjU4OTgtOThjZi00YTUyLWIzNmQtYzU4ZjZhZjAzYmJlXkEyXkFqcGdeQTNwaW5nZXN0._V1_.jpg" background="purple", VİS A VİS 4S 8B
-https://storage.diziyou.co/episodes/18890_tr/720p.m3u8
-
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 1S 2B
 https://storage.diziyou.co/episodes/78302_tr/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 1S 3B
@@ -3070,23 +2675,6 @@ https://storage.diziyou.co/episodes/16373_tr/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://m.media-amazon.com/images/S/pv-target-images/8642101cece661111dbabfdc38762dbad90f63983f85a83667c0a5fa12cab50e.jpg" background="purple", THE LEGEND OF VOX MACHİNA 2S 12B
 https://storage.diziyou.co/episodes/16374_tr/720p.m3u8
 
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://www.riotgames.com/darkroom/1440/b540da2b9afe5ec83e842a2d84f6dbb1:e95535ecd35e48592908762c9353926a/arcane-final-poster-16x9-no-text-no-border.jpg" background="purple", ARCANE 1S 2B
-https://storage.diziyou.co/episodes/13022_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://www.riotgames.com/darkroom/1440/b540da2b9afe5ec83e842a2d84f6dbb1:e95535ecd35e48592908762c9353926a/arcane-final-poster-16x9-no-text-no-border.jpg" background="purple", ARCANE 1S 3B
-https://storage.diziyou.co/episodes/13023_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://www.riotgames.com/darkroom/1440/b540da2b9afe5ec83e842a2d84f6dbb1:e95535ecd35e48592908762c9353926a/arcane-final-poster-16x9-no-text-no-border.jpg" background="purple", ARCANE 1S 4B
-https://storage.diziyou.co/episodes/13024_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://www.riotgames.com/darkroom/1440/b540da2b9afe5ec83e842a2d84f6dbb1:e95535ecd35e48592908762c9353926a/arcane-final-poster-16x9-no-text-no-border.jpg" background="purple", ARCANE 1S 5B
-https://storage.diziyou.co/episodes/13025_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://www.riotgames.com/darkroom/1440/b540da2b9afe5ec83e842a2d84f6dbb1:e95535ecd35e48592908762c9353926a/arcane-final-poster-16x9-no-text-no-border.jpg" background="purple", ARCANE 1S 6B
-https://storage.diziyou.co/episodes/13026_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://www.riotgames.com/darkroom/1440/b540da2b9afe5ec83e842a2d84f6dbb1:e95535ecd35e48592908762c9353926a/arcane-final-poster-16x9-no-text-no-border.jpg" background="purple", ARCANE 1S 7B
-https://storage.diziyou.co/episodes/13027_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://www.riotgames.com/darkroom/1440/b540da2b9afe5ec83e842a2d84f6dbb1:e95535ecd35e48592908762c9353926a/arcane-final-poster-16x9-no-text-no-border.jpg" background="purple", ARCANE 1S 8B
-https://storage.diziyou.co/episodes/13028_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://www.riotgames.com/darkroom/1440/b540da2b9afe5ec83e842a2d84f6dbb1:e95535ecd35e48592908762c9353926a/arcane-final-poster-16x9-no-text-no-border.jpg" background="purple", ARCANE 1S 9B
-https://storage.diziyou.co/episodes/13029_tr/720p.m3u8
-
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://ares.shiftdelete.net/2022/01/halo-dizisi-yayin-tarihi-yeni-fragman.jpg" background="purple", HALO 1S 2B
 https://storage.diziyou.co/episodes/88702_tr/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://ares.shiftdelete.net/2022/01/halo-dizisi-yayin-tarihi-yeni-fragman.jpg" background="purple", HALO 1S 3B
@@ -3119,32 +2707,6 @@ https://storage.diziyou.co/episodes/88715_tr/720p.m3u8
 https://storage.diziyou.co/episodes/88716_tr/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://ares.shiftdelete.net/2022/01/halo-dizisi-yayin-tarihi-yeni-fragman.jpg" background="purple", HALO 2S 8B
 https://storage.diziyou.co/episodes/88717_tr/720p.m3u8
-
-#EXTINF:0 type="video" channelId="-1" group-title="Oyun Severlere" logo="https://www.beyondgames.biz/wp-content/uploads/2022/12/Cyberpunk-Edgerunners-S1-Poster-en.jpg" subtitles="https://storage.diziyou.co/subtitles/22001/tr.vtt" background="purple", CYBERPUNK EDGERUNNERS 1S 1B
-https://storage.diziyou.co/episodes/22001/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Oyun Severlere" logo="https://www.riotgames.com/darkroom/1440/b540da2b9afe5ec83e842a2d84f6dbb1:e95535ecd35e48592908762c9353926a/arcane-final-poster-16x9-no-text-no-border.jpg" background="purple", ARCANE 1S 1B
-https://storage.diziyou.co/episodes/13021_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Oyun Severlere" logo="https://assetsio.gnwcdn.com/-1647860761419.jpg?width=1200&height=1200&fit=bounds&quality=70&format=jpg&auto=webp" subtitles="https://storage.diziyou.co/subtitles/21051/tr.vtt" background="purple", TEKKEN BLOODLİNE 1S 1B
-https://storage.diziyou.co/episodes/21051/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Oyun Severlere" logo="https://ares.shiftdelete.net/2022/01/halo-dizisi-yayin-tarihi-yeni-fragman.jpg" background="purple", HALO 1S 1B
-https://storage.diziyou.co/episodes/88701_tr/720p.m3u8
-
-#EXTINF:0 type="video" channelId="-1" group-title="Oyun Severlere" logo="https://www.riotgames.com/darkroom/1440/b540da2b9afe5ec83e842a2d84f6dbb1:e95535ecd35e48592908762c9353926a/arcane-final-poster-16x9-no-text-no-border.jpg" background="purple", ARCANE 1S 2B
-https://storage.diziyou.co/episodes/13022_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Oyun Severlere" logo="https://www.riotgames.com/darkroom/1440/b540da2b9afe5ec83e842a2d84f6dbb1:e95535ecd35e48592908762c9353926a/arcane-final-poster-16x9-no-text-no-border.jpg" background="purple", ARCANE 1S 3B
-https://storage.diziyou.co/episodes/13023_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Oyun Severlere" logo="https://www.riotgames.com/darkroom/1440/b540da2b9afe5ec83e842a2d84f6dbb1:e95535ecd35e48592908762c9353926a/arcane-final-poster-16x9-no-text-no-border.jpg" background="purple", ARCANE 1S 4B
-https://storage.diziyou.co/episodes/13024_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Oyun Severlere" logo="https://www.riotgames.com/darkroom/1440/b540da2b9afe5ec83e842a2d84f6dbb1:e95535ecd35e48592908762c9353926a/arcane-final-poster-16x9-no-text-no-border.jpg" background="purple", ARCANE 1S 5B
-https://storage.diziyou.co/episodes/13025_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Oyun Severlere" logo="https://www.riotgames.com/darkroom/1440/b540da2b9afe5ec83e842a2d84f6dbb1:e95535ecd35e48592908762c9353926a/arcane-final-poster-16x9-no-text-no-border.jpg" background="purple", ARCANE 1S 6B
-https://storage.diziyou.co/episodes/13026_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Oyun Severlere" logo="https://www.riotgames.com/darkroom/1440/b540da2b9afe5ec83e842a2d84f6dbb1:e95535ecd35e48592908762c9353926a/arcane-final-poster-16x9-no-text-no-border.jpg" background="purple", ARCANE 1S 7B
-https://storage.diziyou.co/episodes/13027_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Oyun Severlere" logo="https://www.riotgames.com/darkroom/1440/b540da2b9afe5ec83e842a2d84f6dbb1:e95535ecd35e48592908762c9353926a/arcane-final-poster-16x9-no-text-no-border.jpg" background="purple", ARCANE 1S 8B
-https://storage.diziyou.co/episodes/13028_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Oyun Severlere" logo="https://www.riotgames.com/darkroom/1440/b540da2b9afe5ec83e842a2d84f6dbb1:e95535ecd35e48592908762c9353926a/arcane-final-poster-16x9-no-text-no-border.jpg" background="purple", ARCANE 1S 9B
-https://storage.diziyou.co/episodes/13029_tr/720p.m3u8
 
 #EXTINF:0 type="video" channelId="-1" group-title="Oyun Severlere" logo="https://ares.shiftdelete.net/2022/01/halo-dizisi-yayin-tarihi-yeni-fragman.jpg" background="purple", HALO 1S 2B
 https://storage.diziyou.co/episodes/88702_tr/720p.m3u8
@@ -3179,34 +2741,6 @@ https://storage.diziyou.co/episodes/88716_tr/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="Oyun Severlere" logo="https://ares.shiftdelete.net/2022/01/halo-dizisi-yayin-tarihi-yeni-fragman.jpg" background="purple", HALO 2S 8B
 https://storage.diziyou.co/episodes/88717_tr/720p.m3u8
 
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://www.beyondgames.biz/wp-content/uploads/2022/12/Cyberpunk-Edgerunners-S1-Poster-en.jpg" subtitles="https://storage.diziyou.co/subtitles/22002/tr.vtt" background="purple", CYBERPUNK EDGERUNNERS 1S 2B
-https://storage.diziyou.co/episodes/22002/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://www.beyondgames.biz/wp-content/uploads/2022/12/Cyberpunk-Edgerunners-S1-Poster-en.jpg" subtitles="https://storage.diziyou.co/subtitles/22003/tr.vtt" background="purple", CYBERPUNK EDGERUNNERS 1S 3B
-https://storage.diziyou.co/episodes/22003/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://www.beyondgames.biz/wp-content/uploads/2022/12/Cyberpunk-Edgerunners-S1-Poster-en.jpg" subtitles="https://storage.diziyou.co/subtitles/22004/tr.vtt" background="purple", CYBERPUNK EDGERUNNERS 1S 4B
-https://storage.diziyou.co/episodes/22004/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://www.beyondgames.biz/wp-content/uploads/2022/12/Cyberpunk-Edgerunners-S1-Poster-en.jpg" subtitles="https://storage.diziyou.co/subtitles/22005/tr.vtt" background="purple", CYBERPUNK EDGERUNNERS 1S 5B
-https://storage.diziyou.co/episodes/22005/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://www.beyondgames.biz/wp-content/uploads/2022/12/Cyberpunk-Edgerunners-S1-Poster-en.jpg" subtitles="https://storage.diziyou.co/subtitles/22006/tr.vtt" background="purple", CYBERPUNK EDGERUNNERS 1S 6B
-https://storage.diziyou.co/episodes/22006/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://www.beyondgames.biz/wp-content/uploads/2022/12/Cyberpunk-Edgerunners-S1-Poster-en.jpg" subtitles="https://storage.diziyou.co/subtitles/22007/tr.vtt" background="purple", CYBERPUNK EDGERUNNERS 1S 7B
-https://storage.diziyou.co/episodes/22007/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://www.beyondgames.biz/wp-content/uploads/2022/12/Cyberpunk-Edgerunners-S1-Poster-en.jpg" subtitles="https://storage.diziyou.co/subtitles/22008/tr.vtt" background="purple", CYBERPUNK EDGERUNNERS 1S 8B
-https://storage.diziyou.co/episodes/22008/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://www.beyondgames.biz/wp-content/uploads/2022/12/Cyberpunk-Edgerunners-S1-Poster-en.jpg" subtitles="https://storage.diziyou.co/subtitles/22009/tr.vtt" background="purple", CYBERPUNK EDGERUNNERS 1S 9B
-https://storage.diziyou.co/episodes/22009/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://www.beyondgames.biz/wp-content/uploads/2022/12/Cyberpunk-Edgerunners-S1-Poster-en.jpg" subtitles="https://storage.diziyou.co/subtitles/22010/tr.vtt" background="purple", CYBERPUNK EDGERUNNERS 1S 10B
-https://storage.diziyou.co/episodes/22010/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://assetsio.gnwcdn.com/-1647860761419.jpg?width=1200&height=1200&fit=bounds&quality=70&format=jpg&auto=webp" subtitles="https://storage.diziyou.co/subtitles/21052/tr.vtt" background="purple", TEKKEN BLOODLİNE 1S 2B
-https://storage.diziyou.co/episodes/21052/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://assetsio.gnwcdn.com/-1647860761419.jpg?width=1200&height=1200&fit=bounds&quality=70&format=jpg&auto=webp" subtitles="https://storage.diziyou.co/subtitles/21053/tr.vtt" background="purple", TEKKEN BLOODLİNE 1S 3B
-https://storage.diziyou.co/episodes/21053/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://assetsio.gnwcdn.com/-1647860761419.jpg?width=1200&height=1200&fit=bounds&quality=70&format=jpg&auto=webp" subtitles="https://storage.diziyou.co/subtitles/21054/tr.vtt" background="purple", TEKKEN BLOODLİNE 1S 4B
-https://storage.diziyou.co/episodes/21054/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://assetsio.gnwcdn.com/-1647860761419.jpg?width=1200&height=1200&fit=bounds&quality=70&format=jpg&auto=webp" subtitles="https://storage.diziyou.co/subtitles/21055/tr.vtt" background="purple", TEKKEN BLOODLİNE 1S 5B
-https://storage.diziyou.co/episodes/21055/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://assetsio.gnwcdn.com/-1647860761419.jpg?width=1200&height=1200&fit=bounds&quality=70&format=jpg&auto=webp" subtitles="https://storage.diziyou.co/subtitles/21056/tr.vtt" background="purple", TEKKEN BLOODLİNE 1S 6B
-https://storage.diziyou.co/episodes/21056/720p.m3u8
 
 #EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://fictionhorizon.com/wp-content/uploads/2022/12/VSS1.jpg" subtitles="https://storage.diziyou.co/subtitles/83002/tr.vtt" background="purple", VİNLAND SAGA 1S 2B
 https://storage.diziyou.co/episodes/83002/720p.m3u8
@@ -3301,35 +2835,6 @@ https://storage.diziyou.co/episodes/83046/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://fictionhorizon.com/wp-content/uploads/2022/12/VSS1.jpg" subtitles="https://storage.diziyou.co/subtitles/83047/tr.vtt" background="purple", VİNLAND SAGA 2S 24B
 https://storage.diziyou.co/episodes/83047/720p.m3u8
 
-#EXTINF:0 type="video" channelId="-1" group-title="Oyun Severlere" logo="https://www.beyondgames.biz/wp-content/uploads/2022/12/Cyberpunk-Edgerunners-S1-Poster-en.jpg" subtitles="https://storage.diziyou.co/subtitles/22002/tr.vtt" background="purple", CYBERPUNK EDGERUNNERS 1S 2B
-https://storage.diziyou.co/episodes/22002/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Oyun Severlere" logo="https://www.beyondgames.biz/wp-content/uploads/2022/12/Cyberpunk-Edgerunners-S1-Poster-en.jpg" subtitles="https://storage.diziyou.co/subtitles/22003/tr.vtt" background="purple", CYBERPUNK EDGERUNNERS 1S 3B
-https://storage.diziyou.co/episodes/22003/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Oyun Severlere" logo="https://www.beyondgames.biz/wp-content/uploads/2022/12/Cyberpunk-Edgerunners-S1-Poster-en.jpg" subtitles="https://storage.diziyou.co/subtitles/22004/tr.vtt" background="purple", CYBERPUNK EDGERUNNERS 1S 4B
-https://storage.diziyou.co/episodes/22004/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Oyun Severlere" logo="https://www.beyondgames.biz/wp-content/uploads/2022/12/Cyberpunk-Edgerunners-S1-Poster-en.jpg" subtitles="https://storage.diziyou.co/subtitles/22005/tr.vtt" background="purple", CYBERPUNK EDGERUNNERS 1S 5B
-https://storage.diziyou.co/episodes/22005/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Oyun Severlere" logo="https://www.beyondgames.biz/wp-content/uploads/2022/12/Cyberpunk-Edgerunners-S1-Poster-en.jpg" subtitles="https://storage.diziyou.co/subtitles/22006/tr.vtt" background="purple", CYBERPUNK EDGERUNNERS 1S 6B
-https://storage.diziyou.co/episodes/22006/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Oyun Severlere" logo="https://www.beyondgames.biz/wp-content/uploads/2022/12/Cyberpunk-Edgerunners-S1-Poster-en.jpg" subtitles="https://storage.diziyou.co/subtitles/22007/tr.vtt" background="purple", CYBERPUNK EDGERUNNERS 1S 7B
-https://storage.diziyou.co/episodes/22007/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Oyun Severlere" logo="https://www.beyondgames.biz/wp-content/uploads/2022/12/Cyberpunk-Edgerunners-S1-Poster-en.jpg" subtitles="https://storage.diziyou.co/subtitles/22008/tr.vtt" background="purple", CYBERPUNK EDGERUNNERS 1S 8B
-https://storage.diziyou.co/episodes/22008/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Oyun Severlere" logo="https://www.beyondgames.biz/wp-content/uploads/2022/12/Cyberpunk-Edgerunners-S1-Poster-en.jpg" subtitles="https://storage.diziyou.co/subtitles/22009/tr.vtt" background="purple", CYBERPUNK EDGERUNNERS 1S 9B
-https://storage.diziyou.co/episodes/22009/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Oyun Severlere" logo="https://www.beyondgames.biz/wp-content/uploads/2022/12/Cyberpunk-Edgerunners-S1-Poster-en.jpg" subtitles="https://storage.diziyou.co/subtitles/22010/tr.vtt" background="purple", CYBERPUNK EDGERUNNERS 1S 10B
-https://storage.diziyou.co/episodes/22010/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Oyun Severlere" logo="https://assetsio.gnwcdn.com/-1647860761419.jpg?width=1200&height=1200&fit=bounds&quality=70&format=jpg&auto=webp" subtitles="https://storage.diziyou.co/subtitles/21052/tr.vtt" background="purple", TEKKEN BLOODLİNE 1S 2B
-https://storage.diziyou.co/episodes/21052/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Oyun Severlere" logo="https://assetsio.gnwcdn.com/-1647860761419.jpg?width=1200&height=1200&fit=bounds&quality=70&format=jpg&auto=webp" subtitles="https://storage.diziyou.co/subtitles/21053/tr.vtt" background="purple", TEKKEN BLOODLİNE 1S 3B
-https://storage.diziyou.co/episodes/21053/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Oyun Severlere" logo="https://assetsio.gnwcdn.com/-1647860761419.jpg?width=1200&height=1200&fit=bounds&quality=70&format=jpg&auto=webp" subtitles="https://storage.diziyou.co/subtitles/21054/tr.vtt" background="purple", TEKKEN BLOODLİNE 1S 4B
-https://storage.diziyou.co/episodes/21054/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Oyun Severlere" logo="https://assetsio.gnwcdn.com/-1647860761419.jpg?width=1200&height=1200&fit=bounds&quality=70&format=jpg&auto=webp" subtitles="https://storage.diziyou.co/subtitles/21055/tr.vtt" background="purple", TEKKEN BLOODLİNE 1S 5B
-https://storage.diziyou.co/episodes/21055/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Oyun Severlere" logo="https://assetsio.gnwcdn.com/-1647860761419.jpg?width=1200&height=1200&fit=bounds&quality=70&format=jpg&auto=webp" subtitles="https://storage.diziyou.co/subtitles/21056/tr.vtt" background="purple", TEKKEN BLOODLİNE 1S 6B
-https://storage.diziyou.co/episodes/21056/720p.m3u8
-
 #EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://img-s1.onedio.com/id-54371c47e469a49b62f9e2d9/rev-0/w-1200/h-776/f-jpg/s-f5c26787c78f95424eeddd2915d4843981f923d0.jpg" background="PURPLE", GOTHAM 1S 1B
 https://storage.diziyou.co/episodes/80401_tr/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 1S 1B
@@ -3342,8 +2847,7 @@ https://storage.diziyou.co/episodes/80301_tr/720p.m3u8
 https://storage.diziyou.co/episodes/78801_tr/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2024/07/batman-caped-crusader-logo-over-the-poster-for-the-show.jpg" background="purple", BATMAN CAPED CRUSADER 1S 1B
 https://storage.diziyou.co/episodes/99901_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2021/06/Sweet-Tooth-Bear-Gus-Tommy.jpg" background="purple", SWEET TOOTH 1S 1B
-https://storage.diziyou.co/episodes/70801_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2021/06/Sweet-Tooth-Bear-Gus-Tommy.jpg" background="purple", 
 
 #EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 1S 2B
 https://storage.diziyou.co/episodes/78302_tr/720p.m3u8
@@ -4127,189 +3631,7 @@ https://lh3.googleusercontent.com/_eBEr8lH2iAXLPW_ha7eiZLJ8BKY8RubDNtV8XAQ0ycG8y
 #EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 4S 23B
 https://lh3.googleusercontent.com/gQ7wyZ5kYCXfwHRFEeKmY2X8KzwH0UlCqMjFHJOefxcL0XcguJM3JfniTjHEr0Nghvnc4K03svD6r_mNkoYT9H0gcKNATyJkwc51UPfCv0Uo-TosCERq-UiIyH_9WxxiEdLhA6ERcA=m22
 
-#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2021/06/Sweet-Tooth-Bear-Gus-Tommy.jpg" background="purple", SWEET TOOTH 1S 2B
-https://storage.diziyou.co/episodes/70802_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2021/06/Sweet-Tooth-Bear-Gus-Tommy.jpg" background="purple", SWEET TOOTH 1S 3B
-https://storage.diziyou.co/episodes/70803_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2021/06/Sweet-Tooth-Bear-Gus-Tommy.jpg" background="purple", SWEET TOOTH 1S 4B
-https://storage.diziyou.co/episodes/70804_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2021/06/Sweet-Tooth-Bear-Gus-Tommy.jpg" background="purple", SWEET TOOTH 1S 5B
-https://storage.diziyou.co/episodes/70805_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2021/06/Sweet-Tooth-Bear-Gus-Tommy.jpg" background="purple", SWEET TOOTH 1S 6B
-https://storage.diziyou.co/episodes/70806_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2021/06/Sweet-Tooth-Bear-Gus-Tommy.jpg" background="purple", SWEET TOOTH 1S 7B
-https://storage.diziyou.co/episodes/70807_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2021/06/Sweet-Tooth-Bear-Gus-Tommy.jpg" background="purple", SWEET TOOTH 1S 8B
-https://storage.diziyou.co/episodes/70808_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2021/06/Sweet-Tooth-Bear-Gus-Tommy.jpg" background="purple", SWEET TOOTH 2S 1B
-https://storage.diziyou.co/episodes/70809_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2021/06/Sweet-Tooth-Bear-Gus-Tommy.jpg" background="purple", SWEET TOOTH 2S 2B
-https://storage.diziyou.co/episodes/70810_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2021/06/Sweet-Tooth-Bear-Gus-Tommy.jpg" background="purple", SWEET TOOTH 2S 3B
-https://storage.diziyou.co/episodes/70811_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2021/06/Sweet-Tooth-Bear-Gus-Tommy.jpg" background="purple", SWEET TOOTH 2S 4B
-https://storage.diziyou.co/episodes/70812_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2021/06/Sweet-Tooth-Bear-Gus-Tommy.jpg" background="purple", SWEET TOOTH 2S 5B
-https://storage.diziyou.co/episodes/70813_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2021/06/Sweet-Tooth-Bear-Gus-Tommy.jpg" background="purple", SWEET TOOTH 2S 6B
-https://storage.diziyou.co/episodes/70814_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2021/06/Sweet-Tooth-Bear-Gus-Tommy.jpg" background="purple", SWEET TOOTH 2S 7B
-https://storage.diziyou.co/episodes/70815_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2021/06/Sweet-Tooth-Bear-Gus-Tommy.jpg" background="purple", SWEET TOOTH 2S 8B
-https://storage.diziyou.co/episodes/70816_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2021/06/Sweet-Tooth-Bear-Gus-Tommy.jpg" background="purple", SWEET TOOTH 3S 1B
-https://storage.diziyou.co/episodes/70817_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2021/06/Sweet-Tooth-Bear-Gus-Tommy.jpg" background="purple", SWEET TOOTH 3S 2B
-https://storage.diziyou.co/episodes/70818_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2021/06/Sweet-Tooth-Bear-Gus-Tommy.jpg" background="purple", SWEET TOOTH 3S 3B
-https://storage.diziyou.co/episodes/70819_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2021/06/Sweet-Tooth-Bear-Gus-Tommy.jpg" background="purple", SWEET TOOTH 3S 4B
-https://storage.diziyou.co/episodes/70820_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2021/06/Sweet-Tooth-Bear-Gus-Tommy.jpg" background="purple", SWEET TOOTH 3S 5B
-https://storage.diziyou.co/episodes/70821_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2021/06/Sweet-Tooth-Bear-Gus-Tommy.jpg" background="purple", SWEET TOOTH 3S 6B
-https://storage.diziyou.co/episodes/70822_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2021/06/Sweet-Tooth-Bear-Gus-Tommy.jpg" background="purple", SWEET TOOTH 3S 7B
-https://storage.diziyou.co/episodes/70823_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2021/06/Sweet-Tooth-Bear-Gus-Tommy.jpg" background="purple", SWEET TOOTH 3S 8B
-https://storage.diziyou.co/episodes/70824_tr/720p.m3u8
 
-
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://sm.ign.com/t/ign_tr/news/n/netflixs-l/netflixs-live-action-avatar-the-last-airbender-gets-first-lo_bm87.1280.jpg" background="purple", AVATAR THE LAST AIRBANDER (SERİE) 1S 2B
-https://storage.diziyou.co/episodes/87702_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://sm.ign.com/t/ign_tr/news/n/netflixs-l/netflixs-live-action-avatar-the-last-airbender-gets-first-lo_bm87.1280.jpg" background="purple", AVATAR THE LAST AIRBANDER (SERİE) 1S 3B
-https://storage.diziyou.co/episodes/87703_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://sm.ign.com/t/ign_tr/news/n/netflixs-l/netflixs-live-action-avatar-the-last-airbender-gets-first-lo_bm87.1280.jpg" background="purple", AVATAR THE LAST AIRBANDER (SERİE) 1S 4B
-https://storage.diziyou.co/episodes/87704_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://sm.ign.com/t/ign_tr/news/n/netflixs-l/netflixs-live-action-avatar-the-last-airbender-gets-first-lo_bm87.1280.jpg" background="purple", AVATAR THE LAST AIRBANDER (SERİE) 1S 5B
-https://storage.diziyou.co/episodes/87705_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://sm.ign.com/t/ign_tr/news/n/netflixs-l/netflixs-live-action-avatar-the-last-airbender-gets-first-lo_bm87.1280.jpg" background="purple", AVATAR THE LAST AIRBANDER (SERİE) 1S 6B
-https://storage.diziyou.co/episodes/87706_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://sm.ign.com/t/ign_tr/news/n/netflixs-l/netflixs-live-action-avatar-the-last-airbender-gets-first-lo_bm87.1280.jpg" background="purple", AVATAR THE LAST AIRBANDER (SERİE) 1S 7B
-https://storage.diziyou.co/episodes/87707_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://sm.ign.com/t/ign_tr/news/n/netflixs-l/netflixs-live-action-avatar-the-last-airbender-gets-first-lo_bm87.1280.jpg" background="purple", AVATAR THE LAST AIRBANDER (SERİE) 1S 8B
-https://storage.diziyou.co/episodes/87708_tr/720p.m3u8
-
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i0.wp.com/www.thewrap.com/wp-content/uploads/2022/06/Avatar-The-Last-Airbender.jpg?fit=1200%2C675&ssl=1" background="purple", AVATAR THE LAST AIRBANDER (ANİMATED SERİE) 1S 2B
-https://storage.diziyou.co/episodes/30502_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i0.wp.com/www.thewrap.com/wp-content/uploads/2022/06/Avatar-The-Last-Airbender.jpg?fit=1200%2C675&ssl=1" background="purple", AVATAR THE LAST AIRBANDER (ANİMATED SERİE) 1S 3B
-https://storage.diziyou.co/episodes/30503_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i0.wp.com/www.thewrap.com/wp-content/uploads/2022/06/Avatar-The-Last-Airbender.jpg?fit=1200%2C675&ssl=1" background="purple", AVATAR THE LAST AIRBANDER (ANİMATED SERİE) 1S 4B
-https://storage.diziyou.co/episodes/30504_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i0.wp.com/www.thewrap.com/wp-content/uploads/2022/06/Avatar-The-Last-Airbender.jpg?fit=1200%2C675&ssl=1" background="purple", AVATAR THE LAST AIRBANDER (ANİMATED SERİE) 1S 5B
-https://storage.diziyou.co/episodes/30505_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i0.wp.com/www.thewrap.com/wp-content/uploads/2022/06/Avatar-The-Last-Airbender.jpg?fit=1200%2C675&ssl=1" background="purple", AVATAR THE LAST AIRBANDER (ANİMATED SERİE) 1S 6B
-https://storage.diziyou.co/episodes/30506_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i0.wp.com/www.thewrap.com/wp-content/uploads/2022/06/Avatar-The-Last-Airbender.jpg?fit=1200%2C675&ssl=1" background="purple", AVATAR THE LAST AIRBANDER (ANİMATED SERİE) 1S 7B
-https://storage.diziyou.co/episodes/30507_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i0.wp.com/www.thewrap.com/wp-content/uploads/2022/06/Avatar-The-Last-Airbender.jpg?fit=1200%2C675&ssl=1" background="purple", AVATAR THE LAST AIRBANDER (ANİMATED SERİE) 1S 8B
-https://storage.diziyou.co/episodes/30508_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i0.wp.com/www.thewrap.com/wp-content/uploads/2022/06/Avatar-The-Last-Airbender.jpg?fit=1200%2C675&ssl=1" background="purple", AVATAR THE LAST AIRBANDER (ANİMATED SERİE) 1S 9B
-https://storage.diziyou.co/episodes/30509_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i0.wp.com/www.thewrap.com/wp-content/uploads/2022/06/Avatar-The-Last-Airbender.jpg?fit=1200%2C675&ssl=1" background="purple", AVATAR THE LAST AIRBANDER (ANİMATED SERİE) 1S 10B
-https://storage.diziyou.co/episodes/30510_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i0.wp.com/www.thewrap.com/wp-content/uploads/2022/06/Avatar-The-Last-Airbender.jpg?fit=1200%2C675&ssl=1" background="purple", AVATAR THE LAST AIRBANDER (ANİMATED SERİE) 1S 11B
-https://storage.diziyou.co/episodes/30511_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i0.wp.com/www.thewrap.com/wp-content/uploads/2022/06/Avatar-The-Last-Airbender.jpg?fit=1200%2C675&ssl=1" background="purple", AVATAR THE LAST AIRBANDER (ANİMATED SERİE) 1S 12B
-https://storage.diziyou.co/episodes/30512_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i0.wp.com/www.thewrap.com/wp-content/uploads/2022/06/Avatar-The-Last-Airbender.jpg?fit=1200%2C675&ssl=1" background="purple", AVATAR THE LAST AIRBANDER (ANİMATED SERİE) 1S 13B
-https://storage.diziyou.co/episodes/30513_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i0.wp.com/www.thewrap.com/wp-content/uploads/2022/06/Avatar-The-Last-Airbender.jpg?fit=1200%2C675&ssl=1" background="purple", AVATAR THE LAST AIRBANDER (ANİMATED SERİE) 1S 14B
-https://storage.diziyou.co/episodes/30514_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i0.wp.com/www.thewrap.com/wp-content/uploads/2022/06/Avatar-The-Last-Airbender.jpg?fit=1200%2C675&ssl=1" background="purple", AVATAR THE LAST AIRBANDER (ANİMATED SERİE) 1S 15B
-https://storage.diziyou.co/episodes/30515_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i0.wp.com/www.thewrap.com/wp-content/uploads/2022/06/Avatar-The-Last-Airbender.jpg?fit=1200%2C675&ssl=1" background="purple", AVATAR THE LAST AIRBANDER (ANİMATED SERİE) 1S 16B
-https://storage.diziyou.co/episodes/30516_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i0.wp.com/www.thewrap.com/wp-content/uploads/2022/06/Avatar-The-Last-Airbender.jpg?fit=1200%2C675&ssl=1" background="purple", AVATAR THE LAST AIRBANDER (ANİMATED SERİE) 1S 17B
-https://storage.diziyou.co/episodes/30517_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i0.wp.com/www.thewrap.com/wp-content/uploads/2022/06/Avatar-The-Last-Airbender.jpg?fit=1200%2C675&ssl=1" background="purple", AVATAR THE LAST AIRBANDER (ANİMATED SERİE) 1S 18B
-https://storage.diziyou.co/episodes/30518_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i0.wp.com/www.thewrap.com/wp-content/uploads/2022/06/Avatar-The-Last-Airbender.jpg?fit=1200%2C675&ssl=1" background="purple", AVATAR THE LAST AIRBANDER (ANİMATED SERİE) 1S 19B
-https://storage.diziyou.co/episodes/30519_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i0.wp.com/www.thewrap.com/wp-content/uploads/2022/06/Avatar-The-Last-Airbender.jpg?fit=1200%2C675&ssl=1" background="purple", AVATAR THE LAST AIRBANDER (ANİMATED SERİE) 1S 20B
-https://storage.diziyou.co/episodes/30520_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i0.wp.com/www.thewrap.com/wp-content/uploads/2022/06/Avatar-The-Last-Airbender.jpg?fit=1200%2C675&ssl=1" background="purple", AVATAR THE LAST AIRBANDER (ANİMATED SERİE) 2S 1B
-https://storage.diziyou.co/episodes/30521_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i0.wp.com/www.thewrap.com/wp-content/uploads/2022/06/Avatar-The-Last-Airbender.jpg?fit=1200%2C675&ssl=1" background="purple", AVATAR THE LAST AIRBANDER (ANİMATED SERİE) 2S 2B
-https://storage.diziyou.co/episodes/30522_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i0.wp.com/www.thewrap.com/wp-content/uploads/2022/06/Avatar-The-Last-Airbender.jpg?fit=1200%2C675&ssl=1" background="purple", AVATAR THE LAST AIRBANDER (ANİMATED SERİE) 2S 3B
-https://storage.diziyou.co/episodes/30523_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i0.wp.com/www.thewrap.com/wp-content/uploads/2022/06/Avatar-The-Last-Airbender.jpg?fit=1200%2C675&ssl=1" background="purple", AVATAR THE LAST AIRBANDER (ANİMATED SERİE) 2S 4B
-https://storage.diziyou.co/episodes/30524_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i0.wp.com/www.thewrap.com/wp-content/uploads/2022/06/Avatar-The-Last-Airbender.jpg?fit=1200%2C675&ssl=1" background="purple", AVATAR THE LAST AIRBANDER (ANİMATED SERİE) 2S 5B
-https://storage.diziyou.co/episodes/30525_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i0.wp.com/www.thewrap.com/wp-content/uploads/2022/06/Avatar-The-Last-Airbender.jpg?fit=1200%2C675&ssl=1" background="purple", AVATAR THE LAST AIRBANDER (ANİMATED SERİE) 2S 6B
-https://storage.diziyou.co/episodes/30526_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i0.wp.com/www.thewrap.com/wp-content/uploads/2022/06/Avatar-The-Last-Airbender.jpg?fit=1200%2C675&ssl=1" background="purple", AVATAR THE LAST AIRBANDER (ANİMATED SERİE) 2S 7B
-https://storage.diziyou.co/episodes/30527_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i0.wp.com/www.thewrap.com/wp-content/uploads/2022/06/Avatar-The-Last-Airbender.jpg?fit=1200%2C675&ssl=1" background="purple", AVATAR THE LAST AIRBANDER (ANİMATED SERİE) 2S 8B
-https://storage.diziyou.co/episodes/30528_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i0.wp.com/www.thewrap.com/wp-content/uploads/2022/06/Avatar-The-Last-Airbender.jpg?fit=1200%2C675&ssl=1" background="purple", AVATAR THE LAST AIRBANDER (ANİMATED SERİE) 2S 9B
-https://storage.diziyou.co/episodes/30529_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i0.wp.com/www.thewrap.com/wp-content/uploads/2022/06/Avatar-The-Last-Airbender.jpg?fit=1200%2C675&ssl=1" background="purple", AVATAR THE LAST AIRBANDER (ANİMATED SERİE) 2S 10B
-https://storage.diziyou.co/episodes/30530_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i0.wp.com/www.thewrap.com/wp-content/uploads/2022/06/Avatar-The-Last-Airbender.jpg?fit=1200%2C675&ssl=1" background="purple", AVATAR THE LAST AIRBANDER (ANİMATED SERİE) 2S 11B
-https://storage.diziyou.co/episodes/30531_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i0.wp.com/www.thewrap.com/wp-content/uploads/2022/06/Avatar-The-Last-Airbender.jpg?fit=1200%2C675&ssl=1" background="purple", AVATAR THE LAST AIRBANDER (ANİMATED SERİE) 2S 12B
-https://storage.diziyou.co/episodes/30532_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i0.wp.com/www.thewrap.com/wp-content/uploads/2022/06/Avatar-The-Last-Airbender.jpg?fit=1200%2C675&ssl=1" background="purple", AVATAR THE LAST AIRBANDER (ANİMATED SERİE) 2S 13B
-https://storage.diziyou.co/episodes/30533_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i0.wp.com/www.thewrap.com/wp-content/uploads/2022/06/Avatar-The-Last-Airbender.jpg?fit=1200%2C675&ssl=1" background="purple", AVATAR THE LAST AIRBANDER (ANİMATED SERİE) 2S 14B
-https://storage.diziyou.co/episodes/30534_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i0.wp.com/www.thewrap.com/wp-content/uploads/2022/06/Avatar-The-Last-Airbender.jpg?fit=1200%2C675&ssl=1" background="purple", AVATAR THE LAST AIRBANDER (ANİMATED SERİE) 2S 15B
-https://storage.diziyou.co/episodes/30535_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i0.wp.com/www.thewrap.com/wp-content/uploads/2022/06/Avatar-The-Last-Airbender.jpg?fit=1200%2C675&ssl=1" background="purple", AVATAR THE LAST AIRBANDER (ANİMATED SERİE) 2S 16B
-https://storage.diziyou.co/episodes/30536_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i0.wp.com/www.thewrap.com/wp-content/uploads/2022/06/Avatar-The-Last-Airbender.jpg?fit=1200%2C675&ssl=1" background="purple", AVATAR THE LAST AIRBANDER (ANİMATED SERİE) 2S 17B
-https://storage.diziyou.co/episodes/30537_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i0.wp.com/www.thewrap.com/wp-content/uploads/2022/06/Avatar-The-Last-Airbender.jpg?fit=1200%2C675&ssl=1" background="purple", AVATAR THE LAST AIRBANDER (ANİMATED SERİE) 2S 18B
-https://storage.diziyou.co/episodes/30538_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i0.wp.com/www.thewrap.com/wp-content/uploads/2022/06/Avatar-The-Last-Airbender.jpg?fit=1200%2C675&ssl=1" background="purple", AVATAR THE LAST AIRBANDER (ANİMATED SERİE) 2S 19B
-https://storage.diziyou.co/episodes/30539_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i0.wp.com/www.thewrap.com/wp-content/uploads/2022/06/Avatar-The-Last-Airbender.jpg?fit=1200%2C675&ssl=1" background="purple", AVATAR THE LAST AIRBANDER (ANİMATED SERİE) 2S 20B
-https://storage.diziyou.co/episodes/30540_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i0.wp.com/www.thewrap.com/wp-content/uploads/2022/06/Avatar-The-Last-Airbender.jpg?fit=1200%2C675&ssl=1" background="purple", AVATAR THE LAST AIRBANDER (ANİMATED SERİE) 3S 1B
-https://storage.diziyou.co/episodes/30541_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i0.wp.com/www.thewrap.com/wp-content/uploads/2022/06/Avatar-The-Last-Airbender.jpg?fit=1200%2C675&ssl=1" background="purple", AVATAR THE LAST AIRBANDER (ANİMATED SERİE) 3S 2B
-https://storage.diziyou.co/episodes/30542_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i0.wp.com/www.thewrap.com/wp-content/uploads/2022/06/Avatar-The-Last-Airbender.jpg?fit=1200%2C675&ssl=1" background="purple", AVATAR THE LAST AIRBANDER (ANİMATED SERİE) 3S 3B
-https://storage.diziyou.co/episodes/30543_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i0.wp.com/www.thewrap.com/wp-content/uploads/2022/06/Avatar-The-Last-Airbender.jpg?fit=1200%2C675&ssl=1" background="purple", AVATAR THE LAST AIRBANDER (ANİMATED SERİE) 3S 4B
-https://storage.diziyou.co/episodes/30544_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i0.wp.com/www.thewrap.com/wp-content/uploads/2022/06/Avatar-The-Last-Airbender.jpg?fit=1200%2C675&ssl=1" background="purple", AVATAR THE LAST AIRBANDER (ANİMATED SERİE) 3S 5B
-https://storage.diziyou.co/episodes/30545_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i0.wp.com/www.thewrap.com/wp-content/uploads/2022/06/Avatar-The-Last-Airbender.jpg?fit=1200%2C675&ssl=1" background="purple", AVATAR THE LAST AIRBANDER (ANİMATED SERİE) 3S 6B
-https://storage.diziyou.co/episodes/30546_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i0.wp.com/www.thewrap.com/wp-content/uploads/2022/06/Avatar-The-Last-Airbender.jpg?fit=1200%2C675&ssl=1" background="purple", AVATAR THE LAST AIRBANDER (ANİMATED SERİE) 3S 7B
-https://storage.diziyou.co/episodes/30547_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i0.wp.com/www.thewrap.com/wp-content/uploads/2022/06/Avatar-The-Last-Airbender.jpg?fit=1200%2C675&ssl=1" background="purple", AVATAR THE LAST AIRBANDER (ANİMATED SERİE) 3S 8B
-https://storage.diziyou.co/episodes/30548_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i0.wp.com/www.thewrap.com/wp-content/uploads/2022/06/Avatar-The-Last-Airbender.jpg?fit=1200%2C675&ssl=1" background="purple", AVATAR THE LAST AIRBANDER (ANİMATED SERİE) 3S 9B
-https://storage.diziyou.co/episodes/30549_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i0.wp.com/www.thewrap.com/wp-content/uploads/2022/06/Avatar-The-Last-Airbender.jpg?fit=1200%2C675&ssl=1" background="purple", AVATAR THE LAST AIRBANDER (ANİMATED SERİE) 3S 10B
-https://storage.diziyou.co/episodes/30550_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i0.wp.com/www.thewrap.com/wp-content/uploads/2022/06/Avatar-The-Last-Airbender.jpg?fit=1200%2C675&ssl=1" background="purple", AVATAR THE LAST AIRBANDER (ANİMATED SERİE) 3S 11B
-https://storage.diziyou.co/episodes/30551_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i0.wp.com/www.thewrap.com/wp-content/uploads/2022/06/Avatar-The-Last-Airbender.jpg?fit=1200%2C675&ssl=1" background="purple", AVATAR THE LAST AIRBANDER (ANİMATED SERİE) 3S 12B
-https://storage.diziyou.co/episodes/30552_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i0.wp.com/www.thewrap.com/wp-content/uploads/2022/06/Avatar-The-Last-Airbender.jpg?fit=1200%2C675&ssl=1" background="purple", AVATAR THE LAST AIRBANDER (ANİMATED SERİE) 3S 13B
-https://storage.diziyou.co/episodes/30553_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i0.wp.com/www.thewrap.com/wp-content/uploads/2022/06/Avatar-The-Last-Airbender.jpg?fit=1200%2C675&ssl=1" background="purple", AVATAR THE LAST AIRBANDER (ANİMATED SERİE) 3S 14B
-https://storage.diziyou.co/episodes/30554_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i0.wp.com/www.thewrap.com/wp-content/uploads/2022/06/Avatar-The-Last-Airbender.jpg?fit=1200%2C675&ssl=1" background="purple", AVATAR THE LAST AIRBANDER (ANİMATED SERİE) 3S 15B
-https://storage.diziyou.co/episodes/30555_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i0.wp.com/www.thewrap.com/wp-content/uploads/2022/06/Avatar-The-Last-Airbender.jpg?fit=1200%2C675&ssl=1" background="purple", AVATAR THE LAST AIRBANDER (ANİMATED SERİE) 3S 16B
-https://storage.diziyou.co/episodes/30556_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i0.wp.com/www.thewrap.com/wp-content/uploads/2022/06/Avatar-The-Last-Airbender.jpg?fit=1200%2C675&ssl=1" background="purple", AVATAR THE LAST AIRBANDER (ANİMATED SERİE) 3S 17B
-https://storage.diziyou.co/episodes/30557_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i0.wp.com/www.thewrap.com/wp-content/uploads/2022/06/Avatar-The-Last-Airbender.jpg?fit=1200%2C675&ssl=1" background="purple", AVATAR THE LAST AIRBANDER (ANİMATED SERİE) 3S 18B
-https://storage.diziyou.co/episodes/30558_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i0.wp.com/www.thewrap.com/wp-content/uploads/2022/06/Avatar-The-Last-Airbender.jpg?fit=1200%2C675&ssl=1" background="purple", AVATAR THE LAST AIRBANDER (ANİMATED SERİE) 3S 19B
-https://storage.diziyou.co/episodes/30559_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i0.wp.com/www.thewrap.com/wp-content/uploads/2022/06/Avatar-The-Last-Airbender.jpg?fit=1200%2C675&ssl=1" background="purple", AVATAR THE LAST AIRBANDER (ANİMATED SERİE) 3S 20B
-https://storage.diziyou.co/episodes/30560_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i0.wp.com/www.thewrap.com/wp-content/uploads/2022/06/Avatar-The-Last-Airbender.jpg?fit=1200%2C675&ssl=1" background="purple", AVATAR THE LAST AIRBANDER (ANİMATED SERİE) 3S 21B
-https://storage.diziyou.co/episodes/30561_tr/720p.m3u8
 
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://sm.ign.com/ign_tr/cover/y/young-shel/young-sheldon_n563.jpg" background="purple", YOUNG SHELDON 1S 2B
 https://storage.diziyou.co/episodes/90702_tr/720p.m3u8
@@ -4356,20 +3678,7 @@ https://storage.diziyou.co/episodes/90722_tr/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://sm.ign.com/ign_tr/cover/y/young-shel/young-sheldon_n563.jpg" background="purple", YOUNG SHELDON 2S 1B
 https://storage.diziyou.co/episodes/90723_tr/720p.m3u8
 
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static1.cbrimages.com/wordpress/wp-content/uploads/2023/09/one-piece-live-action-and-manga-1.jpg" background="purple", ONE PİECE LİVE ACTİON 1S 2B
-https://storage.diziyou.co/episodes/74802_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static1.cbrimages.com/wordpress/wp-content/uploads/2023/09/one-piece-live-action-and-manga-1.jpg" background="purple", ONE PİECE LİVE ACTİON 1S 3B
-https://storage.diziyou.co/episodes/74803_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static1.cbrimages.com/wordpress/wp-content/uploads/2023/09/one-piece-live-action-and-manga-1.jpg" background="purple", ONE PİECE LİVE ACTİON 1S 4B
-https://storage.diziyou.co/episodes/74804_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static1.cbrimages.com/wordpress/wp-content/uploads/2023/09/one-piece-live-action-and-manga-1.jpg" background="purple", ONE PİECE LİVE ACTİON 1S 5B
-https://storage.diziyou.co/episodes/74805_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static1.cbrimages.com/wordpress/wp-content/uploads/2023/09/one-piece-live-action-and-manga-1.jpg" background="purple", ONE PİECE LİVE ACTİON 1S 6B
-https://storage.diziyou.co/episodes/74806_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static1.cbrimages.com/wordpress/wp-content/uploads/2023/09/one-piece-live-action-and-manga-1.jpg" background="purple", ONE PİECE LİVE ACTİON 1S 7B
-https://storage.diziyou.co/episodes/74807_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static1.cbrimages.com/wordpress/wp-content/uploads/2023/09/one-piece-live-action-and-manga-1.jpg" background="purple", ONE PİECE LİVE ACTİON 1S 8B
-https://storage.diziyou.co/episodes/74808_tr/720p.m3u8
+
 
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://sm.ign.com/ign_tr/cover/y/young-shel/young-sheldon_n563.jpg" background="purple", YOUNG SHELDON 2S 2B
 https://storage.diziyou.co/episodes/90724_tr/720p.m3u8
@@ -4608,161 +3917,7 @@ https://storage.diziyou.co/episodes/90840_tr/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://sm.ign.com/ign_tr/cover/y/young-shel/young-sheldon_n563.jpg" background="purple", YOUNG SHELDON 7S 14B
 https://storage.diziyou.co/episodes/90841_tr/720p.m3u8
 
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://media.lesechos.com/api/v1/images/view/5d023839d286c24efb4038a4/1280x720/0601400478144-web-tete.jpg" background="purple", STRANGER THİNGS 1S 2B
-https://storage.diziyou.co/episodes/40902_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://media.lesechos.com/api/v1/images/view/5d023839d286c24efb4038a4/1280x720/0601400478144-web-tete.jpg" background="purple", STRANGER THİNGS 1S 3B
-https://storage.diziyou.co/episodes/40903_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://media.lesechos.com/api/v1/images/view/5d023839d286c24efb4038a4/1280x720/0601400478144-web-tete.jpg" background="purple", STRANGER THİNGS 1S 4B
-https://storage.diziyou.co/episodes/40904_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://media.lesechos.com/api/v1/images/view/5d023839d286c24efb4038a4/1280x720/0601400478144-web-tete.jpg" background="purple", STRANGER THİNGS 1S 5B
-https://storage.diziyou.co/episodes/40905_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://media.lesechos.com/api/v1/images/view/5d023839d286c24efb4038a4/1280x720/0601400478144-web-tete.jpg" background="purple", STRANGER THİNGS 1S 6B
-https://storage.diziyou.co/episodes/40906_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://media.lesechos.com/api/v1/images/view/5d023839d286c24efb4038a4/1280x720/0601400478144-web-tete.jpg" background="purple", STRANGER THİNGS 1S 7B
-https://storage.diziyou.co/episodes/40907_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://media.lesechos.com/api/v1/images/view/5d023839d286c24efb4038a4/1280x720/0601400478144-web-tete.jpg" background="purple", STRANGER THİNGS 1S 8B
-https://storage.diziyou.co/episodes/40908_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://media.lesechos.com/api/v1/images/view/5d023839d286c24efb4038a4/1280x720/0601400478144-web-tete.jpg" background="purple", STRANGER THİNGS 2S 1B
-https://storage.diziyou.co/episodes/40909_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://media.lesechos.com/api/v1/images/view/5d023839d286c24efb4038a4/1280x720/0601400478144-web-tete.jpg" background="purple", STRANGER THİNGS 2S 2B
-https://storage.diziyou.co/episodes/40910_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://media.lesechos.com/api/v1/images/view/5d023839d286c24efb4038a4/1280x720/0601400478144-web-tete.jpg" background="purple", STRANGER THİNGS 2S 3B
-https://storage.diziyou.co/episodes/40911_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://media.lesechos.com/api/v1/images/view/5d023839d286c24efb4038a4/1280x720/0601400478144-web-tete.jpg" background="purple", STRANGER THİNGS 2S 4B
-https://storage.diziyou.co/episodes/40912_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://media.lesechos.com/api/v1/images/view/5d023839d286c24efb4038a4/1280x720/0601400478144-web-tete.jpg" background="purple", STRANGER THİNGS 2S 5B
-https://storage.diziyou.co/episodes/40913_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://media.lesechos.com/api/v1/images/view/5d023839d286c24efb4038a4/1280x720/0601400478144-web-tete.jpg" background="purple", STRANGER THİNGS 2S 6B
-https://storage.diziyou.co/episodes/40914_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://media.lesechos.com/api/v1/images/view/5d023839d286c24efb4038a4/1280x720/0601400478144-web-tete.jpg" background="purple", STRANGER THİNGS 2S 7B
-https://storage.diziyou.co/episodes/40915_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://media.lesechos.com/api/v1/images/view/5d023839d286c24efb4038a4/1280x720/0601400478144-web-tete.jpg" background="purple", STRANGER THİNGS 2S 8B
-https://storage.diziyou.co/episodes/40916_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://media.lesechos.com/api/v1/images/view/5d023839d286c24efb4038a4/1280x720/0601400478144-web-tete.jpg" background="purple", STRANGER THİNGS 2S 9B
-https://storage.diziyou.co/episodes/40916_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://media.lesechos.com/api/v1/images/view/5d023839d286c24efb4038a4/1280x720/0601400478144-web-tete.jpg" background="purple", STRANGER THİNGS 3S 1B
-https://storage.diziyou.co/episodes/40917_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://media.lesechos.com/api/v1/images/view/5d023839d286c24efb4038a4/1280x720/0601400478144-web-tete.jpg" background="purple", STRANGER THİNGS 3S 2B
-https://storage.diziyou.co/episodes/40918_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://media.lesechos.com/api/v1/images/view/5d023839d286c24efb4038a4/1280x720/0601400478144-web-tete.jpg" background="purple", STRANGER THİNGS 3S 3B
-https://storage.diziyou.co/episodes/40919_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://media.lesechos.com/api/v1/images/view/5d023839d286c24efb4038a4/1280x720/0601400478144-web-tete.jpg" background="purple", STRANGER THİNGS 3S 4B
-https://storage.diziyou.co/episodes/40920_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://media.lesechos.com/api/v1/images/view/5d023839d286c24efb4038a4/1280x720/0601400478144-web-tete.jpg" background="purple", STRANGER THİNGS 3S 5B
-https://storage.diziyou.co/episodes/40921_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://media.lesechos.com/api/v1/images/view/5d023839d286c24efb4038a4/1280x720/0601400478144-web-tete.jpg" background="purple", STRANGER THİNGS 3S 6B
-https://storage.diziyou.co/episodes/40922_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://media.lesechos.com/api/v1/images/view/5d023839d286c24efb4038a4/1280x720/0601400478144-web-tete.jpg" background="purple", STRANGER THİNGS 3S 7B
-https://storage.diziyou.co/episodes/40923_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://media.lesechos.com/api/v1/images/view/5d023839d286c24efb4038a4/1280x720/0601400478144-web-tete.jpg" background="purple", STRANGER THİNGS 3S 8B
-https://storage.diziyou.co/episodes/40924_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://media.lesechos.com/api/v1/images/view/5d023839d286c24efb4038a4/1280x720/0601400478144-web-tete.jpg" background="purple", STRANGER THİNGS 4S 1B
-https://storage.diziyou.co/episodes/40925_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://media.lesechos.com/api/v1/images/view/5d023839d286c24efb4038a4/1280x720/0601400478144-web-tete.jpg" background="purple", STRANGER THİNGS 4S 2B
-https://storage.diziyou.co/episodes/40926_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://media.lesechos.com/api/v1/images/view/5d023839d286c24efb4038a4/1280x720/0601400478144-web-tete.jpg" background="purple", STRANGER THİNGS 4S 3B
-https://storage.diziyou.co/episodes/40927_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://media.lesechos.com/api/v1/images/view/5d023839d286c24efb4038a4/1280x720/0601400478144-web-tete.jpg" background="purple", STRANGER THİNGS 4S 4B
-https://storage.diziyou.co/episodes/40928_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://media.lesechos.com/api/v1/images/view/5d023839d286c24efb4038a4/1280x720/0601400478144-web-tete.jpg" background="purple", STRANGER THİNGS 4S 5B
-https://storage.diziyou.co/episodes/40929_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://media.lesechos.com/api/v1/images/view/5d023839d286c24efb4038a4/1280x720/0601400478144-web-tete.jpg" background="purple", STRANGER THİNGS 4S 6B
-https://storage.diziyou.co/episodes/40930_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://media.lesechos.com/api/v1/images/view/5d023839d286c24efb4038a4/1280x720/0601400478144-web-tete.jpg" background="purple", STRANGER THİNGS 4S 7B
-https://storage.diziyou.co/episodes/40931_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://media.lesechos.com/api/v1/images/view/5d023839d286c24efb4038a4/1280x720/0601400478144-web-tete.jpg" background="purple", STRANGER THİNGS 4S 8B
-https://storage.diziyou.co/episodes/40932_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://media.lesechos.com/api/v1/images/view/5d023839d286c24efb4038a4/1280x720/0601400478144-web-tete.jpg" background="purple", STRANGER THİNGS 4S 9B
-https://storage.diziyou.co/episodes/40933_tr/720p.m3u8
 
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://m.media-amazon.com/images/S/pv-target-images/821ab71fdbe630210e17839df164a4b40910c7a3db8f8b2685a3a09639bc9e3f.jpg" background="purple", WEDNESDAY 1S 2B
-https://storage.diziyou.co/episodes/24702_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://m.media-amazon.com/images/S/pv-target-images/821ab71fdbe630210e17839df164a4b40910c7a3db8f8b2685a3a09639bc9e3f.jpg" background="purple", WEDNESDAY 1S 3B
-https://storage.diziyou.co/episodes/24703_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://m.media-amazon.com/images/S/pv-target-images/821ab71fdbe630210e17839df164a4b40910c7a3db8f8b2685a3a09639bc9e3f.jpg" background="purple", WEDNESDAY 1S 4B
-https://storage.diziyou.co/episodes/24704_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://m.media-amazon.com/images/S/pv-target-images/821ab71fdbe630210e17839df164a4b40910c7a3db8f8b2685a3a09639bc9e3f.jpg" background="purple", WEDNESDAY 1S 5B
-https://storage.diziyou.co/episodes/24705_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://m.media-amazon.com/images/S/pv-target-images/821ab71fdbe630210e17839df164a4b40910c7a3db8f8b2685a3a09639bc9e3f.jpg" background="purple", WEDNESDAY 1S 6B
-https://storage.diziyou.co/episodes/24706_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://m.media-amazon.com/images/S/pv-target-images/821ab71fdbe630210e17839df164a4b40910c7a3db8f8b2685a3a09639bc9e3f.jpg" background="purple", WEDNESDAY 1S 7B
-https://storage.diziyou.co/episodes/24707_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://m.media-amazon.com/images/S/pv-target-images/821ab71fdbe630210e17839df164a4b40910c7a3db8f8b2685a3a09639bc9e3f.jpg" background="purple", WEDNESDAY 1S 8B
-https://storage.diziyou.co/episodes/24708_tr/720p.m3u8
-
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://assets.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/2022/06/09/3187017941.jpg" background="purple", ALL OF US ARE DEAD 1S 2B
-https://storage.diziyou.co/episodes/15102_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://assets.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/2022/06/09/3187017941.jpg" background="purple", ALL OF US ARE DEAD 1S 3B
-https://storage.diziyou.co/episodes/15103_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://assets.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/2022/06/09/3187017941.jpg" background="purple", ALL OF US ARE DEAD 1S 4B
-https://storage.diziyou.co/episodes/15104_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://assets.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/2022/06/09/3187017941.jpg" background="purple", ALL OF US ARE DEAD 1S 5B
-https://storage.diziyou.co/episodes/15105_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://assets.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/2022/06/09/3187017941.jpg" background="purple", ALL OF US ARE DEAD 1S 6B
-https://storage.diziyou.co/episodes/15106_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://assets.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/2022/06/09/3187017941.jpg" background="purple", ALL OF US ARE DEAD 1S 7B
-https://storage.diziyou.co/episodes/15107_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://assets.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/2022/06/09/3187017941.jpg" background="purple", ALL OF US ARE DEAD 1S 8B
-https://storage.diziyou.co/episodes/15108_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://assets.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/2022/06/09/3187017941.jpg" background="purple", ALL OF US ARE DEAD 1S 9B
-https://storage.diziyou.co/episodes/15109_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://assets.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/2022/06/09/3187017941.jpg" background="purple", ALL OF US ARE DEAD 1S 10B
-https://storage.diziyou.co/episodes/15110_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://assets.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/2022/06/09/3187017941.jpg" background="purple", ALL OF US ARE DEAD 1S 11B
-https://storage.diziyou.co/episodes/15111_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://assets.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/2022/06/09/3187017941.jpg" background="purple", ALL OF US ARE DEAD 1S 12B
-https://storage.diziyou.co/episodes/15112_tr/720p.m3u8
-
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://file.cdnhipter.xyz/images/f/f/100//hhprqdeq1bmhfk1a6szwrtytbde--1721373832.jpg" background="purple", SWEET HOME 1S 2B
-https://storage.diziyou.co/episodes/82802_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://file.cdnhipter.xyz/images/f/f/100//hhprqdeq1bmhfk1a6szwrtytbde--1721373832.jpg" background="purple", SWEET HOME 1S 3B
-https://storage.diziyou.co/episodes/82803_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://file.cdnhipter.xyz/images/f/f/100//hhprqdeq1bmhfk1a6szwrtytbde--1721373832.jpg" background="purple", SWEET HOME 1S 4B
-https://storage.diziyou.co/episodes/82804_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://file.cdnhipter.xyz/images/f/f/100//hhprqdeq1bmhfk1a6szwrtytbde--1721373832.jpg" background="purple", SWEET HOME 1S 5B
-https://storage.diziyou.co/episodes/82805_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://file.cdnhipter.xyz/images/f/f/100//hhprqdeq1bmhfk1a6szwrtytbde--1721373832.jpg" background="purple", SWEET HOME 1S 6B
-https://storage.diziyou.co/episodes/82806_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://file.cdnhipter.xyz/images/f/f/100//hhprqdeq1bmhfk1a6szwrtytbde--1721373832.jpg" background="purple", SWEET HOME 1S 7B
-https://storage.diziyou.co/episodes/82807_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://file.cdnhipter.xyz/images/f/f/100//hhprqdeq1bmhfk1a6szwrtytbde--1721373832.jpg" background="purple", SWEET HOME 1S 8B
-https://storage.diziyou.co/episodes/82808_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://file.cdnhipter.xyz/images/f/f/100//hhprqdeq1bmhfk1a6szwrtytbde--1721373832.jpg" background="purple", SWEET HOME 1S 9B
-https://storage.diziyou.co/episodes/82809_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://file.cdnhipter.xyz/images/f/f/100//hhprqdeq1bmhfk1a6szwrtytbde--1721373832.jpg" background="purple", SWEET HOME 1S 10B
-https://storage.diziyou.co/episodes/82810_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://file.cdnhipter.xyz/images/f/f/100//hhprqdeq1bmhfk1a6szwrtytbde--1721373832.jpg" background="purple", SWEET HOME 2S 1B
-https://storage.diziyou.co/episodes/82811_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://file.cdnhipter.xyz/images/f/f/100//hhprqdeq1bmhfk1a6szwrtytbde--1721373832.jpg" background="purple", SWEET HOME 2S 2B
-https://storage.diziyou.co/episodes/82812_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://file.cdnhipter.xyz/images/f/f/100//hhprqdeq1bmhfk1a6szwrtytbde--1721373832.jpg" background="purple", SWEET HOME 2S 3B
-https://storage.diziyou.co/episodes/82813_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://file.cdnhipter.xyz/images/f/f/100//hhprqdeq1bmhfk1a6szwrtytbde--1721373832.jpg" background="purple", SWEET HOME 2S 4B
-https://storage.diziyou.co/episodes/82814_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://file.cdnhipter.xyz/images/f/f/100//hhprqdeq1bmhfk1a6szwrtytbde--1721373832.jpg" background="purple", SWEET HOME 2S 5B
-https://storage.diziyou.co/episodes/82815_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://file.cdnhipter.xyz/images/f/f/100//hhprqdeq1bmhfk1a6szwrtytbde--1721373832.jpg" background="purple", SWEET HOME 2S 6B
-https://storage.diziyou.co/episodes/82816_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://file.cdnhipter.xyz/images/f/f/100//hhprqdeq1bmhfk1a6szwrtytbde--1721373832.jpg" background="purple", SWEET HOME 2S 7B
-https://storage.diziyou.co/episodes/82817_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://file.cdnhipter.xyz/images/f/f/100//hhprqdeq1bmhfk1a6szwrtytbde--1721373832.jpg" background="purple", SWEET HOME 2S 8B
-https://storage.diziyou.co/episodes/82818_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://file.cdnhipter.xyz/images/f/f/100//hhprqdeq1bmhfk1a6szwrtytbde--1721373832.jpg" background="purple", SWEET HOME 3S 1B
-https://storage.diziyou.co/episodes/82819_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://file.cdnhipter.xyz/images/f/f/100//hhprqdeq1bmhfk1a6szwrtytbde--1721373832.jpg" background="purple", SWEET HOME 3S 2B
-https://storage.diziyou.co/episodes/82820_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://file.cdnhipter.xyz/images/f/f/100//hhprqdeq1bmhfk1a6szwrtytbde--1721373832.jpg" background="purple", SWEET HOME 3S 3B
-https://storage.diziyou.co/episodes/82821_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://file.cdnhipter.xyz/images/f/f/100//hhprqdeq1bmhfk1a6szwrtytbde--1721373832.jpg" background="purple", SWEET HOME 3S 4B
-https://storage.diziyou.co/episodes/82822_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://file.cdnhipter.xyz/images/f/f/100//hhprqdeq1bmhfk1a6szwrtytbde--1721373832.jpg" background="purple", SWEET HOME 3S 5B
-https://storage.diziyou.co/episodes/82823_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://file.cdnhipter.xyz/images/f/f/100//hhprqdeq1bmhfk1a6szwrtytbde--1721373832.jpg" background="purple", SWEET HOME 3S 6B
-https://storage.diziyou.co/episodes/82824_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://file.cdnhipter.xyz/images/f/f/100//hhprqdeq1bmhfk1a6szwrtytbde--1721373832.jpg" background="purple", SWEET HOME 3S 7B
-https://storage.diziyou.co/episodes/82825_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://file.cdnhipter.xyz/images/f/f/100//hhprqdeq1bmhfk1a6szwrtytbde--1721373832.jpg" background="purple", SWEET HOME 3S 8B
-https://storage.diziyou.co/episodes/82826_tr/720p.m3u8
 
 #EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://images.thedirect.com/media/article_full/hazbin-hotels.jpg" background="purple", HAZBİN HOTEL 1S 2B
 https://storage.diziyou.co/episodes/85102_tr/720p.m3u8
@@ -4828,87 +3983,7 @@ https://storage.diziyou.co/episodes/27624_tr/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://resizing.flixster.com/KMR4XC4KuXbyCBYhsjlcLjnRi_U=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p18175990_b_h8_ad.jpg" background="purple", UPLOAD 3S 8B
 https://storage.diziyou.co/episodes/27625_tr/720p.m3u8
 
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://assets-prd.ignimgs.com/2020/06/17/warrior-nun-button-1592416571452.jpg" background="purple", WARRİOR RUN 1S 2B
-https://storage.diziyou.co/episodes/24402_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://assets-prd.ignimgs.com/2020/06/17/warrior-nun-button-1592416571452.jpg" background="purple", WARRİOR RUN 1S 3B
-https://storage.diziyou.co/episodes/24403_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://assets-prd.ignimgs.com/2020/06/17/warrior-nun-button-1592416571452.jpg" background="purple", WARRİOR RUN 1S 4B
-https://storage.diziyou.co/episodes/24404_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://assets-prd.ignimgs.com/2020/06/17/warrior-nun-button-1592416571452.jpg" background="purple", WARRİOR RUN 1S 5B
-https://storage.diziyou.co/episodes/24405_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://assets-prd.ignimgs.com/2020/06/17/warrior-nun-button-1592416571452.jpg" background="purple", WARRİOR RUN 1S 6B
-https://storage.diziyou.co/episodes/24406_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://assets-prd.ignimgs.com/2020/06/17/warrior-nun-button-1592416571452.jpg" background="purple", WARRİOR RUN 1S 7B
-https://storage.diziyou.co/episodes/24407_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://assets-prd.ignimgs.com/2020/06/17/warrior-nun-button-1592416571452.jpg" background="purple", WARRİOR RUN 1S 8B
-https://storage.diziyou.co/episodes/24408_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://assets-prd.ignimgs.com/2020/06/17/warrior-nun-button-1592416571452.jpg" background="purple", WARRİOR RUN 1S 9B
-https://storage.diziyou.co/episodes/24409_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://assets-prd.ignimgs.com/2020/06/17/warrior-nun-button-1592416571452.jpg" background="purple", WARRİOR RUN 1S 10B
-https://storage.diziyou.co/episodes/244010_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://assets-prd.ignimgs.com/2020/06/17/warrior-nun-button-1592416571452.jpg" background="purple", WARRİOR RUN 2S 1B
-https://storage.diziyou.co/episodes/244011_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://assets-prd.ignimgs.com/2020/06/17/warrior-nun-button-1592416571452.jpg" background="purple", WARRİOR RUN 2S 2B
-https://storage.diziyou.co/episodes/244012_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://assets-prd.ignimgs.com/2020/06/17/warrior-nun-button-1592416571452.jpg" background="purple", WARRİOR RUN 2S 3B
-https://storage.diziyou.co/episodes/244013_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://assets-prd.ignimgs.com/2020/06/17/warrior-nun-button-1592416571452.jpg" background="purple", WARRİOR RUN 2S 4B
-https://storage.diziyou.co/episodes/244014_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://assets-prd.ignimgs.com/2020/06/17/warrior-nun-button-1592416571452.jpg" background="purple", WARRİOR RUN 2S 5B
-https://storage.diziyou.co/episodes/244015_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://assets-prd.ignimgs.com/2020/06/17/warrior-nun-button-1592416571452.jpg" background="purple", WARRİOR RUN 2S 6B
-https://storage.diziyou.co/episodes/244016_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://assets-prd.ignimgs.com/2020/06/17/warrior-nun-button-1592416571452.jpg" background="purple", WARRİOR RUN 2S 7B
-https://storage.diziyou.co/episodes/244017_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://assets-prd.ignimgs.com/2020/06/17/warrior-nun-button-1592416571452.jpg" background="purple", WARRİOR RUN 2S 8B
-https://storage.diziyou.co/episodes/244018_tr/720p.m3u8
 
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://ovicio.com.br/wp-content/uploads/2022/10/20221015-ovicio-vikings-valhalla-1-1024x576.jpg" background="purple", VİKİNGS VALHALLA 1S 2B
-https://storage.diziyou.co/episodes/16252/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://ovicio.com.br/wp-content/uploads/2022/10/20221015-ovicio-vikings-valhalla-1-1024x576.jpg" background="purple", VİKİNGS VALHALLA 1S 3B
-https://storage.diziyou.co/episodes/16253/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://ovicio.com.br/wp-content/uploads/2022/10/20221015-ovicio-vikings-valhalla-1-1024x576.jpg" background="purple", VİKİNGS VALHALLA 1S 4B
-https://storage.diziyou.co/episodes/16254/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://ovicio.com.br/wp-content/uploads/2022/10/20221015-ovicio-vikings-valhalla-1-1024x576.jpg" background="purple", VİKİNGS VALHALLA 1S 5B
-https://storage.diziyou.co/episodes/16255/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://ovicio.com.br/wp-content/uploads/2022/10/20221015-ovicio-vikings-valhalla-1-1024x576.jpg" background="purple", VİKİNGS VALHALLA 1S 6B
-https://storage.diziyou.co/episodes/16256/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://ovicio.com.br/wp-content/uploads/2022/10/20221015-ovicio-vikings-valhalla-1-1024x576.jpg" background="purple", VİKİNGS VALHALLA 1S 7B
-https://storage.diziyou.co/episodes/16257/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://ovicio.com.br/wp-content/uploads/2022/10/20221015-ovicio-vikings-valhalla-1-1024x576.jpg" background="purple", VİKİNGS VALHALLA 1S 8B
-https://storage.diziyou.co/episodes/16258/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://ovicio.com.br/wp-content/uploads/2022/10/20221015-ovicio-vikings-valhalla-1-1024x576.jpg" background="purple", VİKİNGS VALHALLA 2S 1B
-https://storage.diziyou.co/episodes/16259/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://ovicio.com.br/wp-content/uploads/2022/10/20221015-ovicio-vikings-valhalla-1-1024x576.jpg" background="purple", VİKİNGS VALHALLA 2S 2B
-https://storage.diziyou.co/episodes/16260/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://ovicio.com.br/wp-content/uploads/2022/10/20221015-ovicio-vikings-valhalla-1-1024x576.jpg" background="purple", VİKİNGS VALHALLA 2S 3B
-https://storage.diziyou.co/episodes/16261/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://ovicio.com.br/wp-content/uploads/2022/10/20221015-ovicio-vikings-valhalla-1-1024x576.jpg" background="purple", VİKİNGS VALHALLA 2S 4B
-https://storage.diziyou.co/episodes/16262/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://ovicio.com.br/wp-content/uploads/2022/10/20221015-ovicio-vikings-valhalla-1-1024x576.jpg" background="purple", VİKİNGS VALHALLA 2S 5B
-https://storage.diziyou.co/episodes/16263/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://ovicio.com.br/wp-content/uploads/2022/10/20221015-ovicio-vikings-valhalla-1-1024x576.jpg" background="purple", VİKİNGS VALHALLA 2S 6B
-https://storage.diziyou.co/episodes/16264/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://ovicio.com.br/wp-content/uploads/2022/10/20221015-ovicio-vikings-valhalla-1-1024x576.jpg" background="purple", VİKİNGS VALHALLA 2S 7B
-https://storage.diziyou.co/episodes/16265/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://ovicio.com.br/wp-content/uploads/2022/10/20221015-ovicio-vikings-valhalla-1-1024x576.jpg" background="purple", VİKİNGS VALHALLA 2S 8B
-https://storage.diziyou.co/episodes/16266/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://ovicio.com.br/wp-content/uploads/2022/10/20221015-ovicio-vikings-valhalla-1-1024x576.jpg" background="purple", VİKİNGS VALHALLA 3S 1B
-https://storage.diziyou.co/episodes/16267/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://ovicio.com.br/wp-content/uploads/2022/10/20221015-ovicio-vikings-valhalla-1-1024x576.jpg" background="purple", VİKİNGS VALHALLA 3S 2B
-https://storage.diziyou.co/episodes/16268/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://ovicio.com.br/wp-content/uploads/2022/10/20221015-ovicio-vikings-valhalla-1-1024x576.jpg" background="purple", VİKİNGS VALHALLA 3S 3B
-https://storage.diziyou.co/episodes/16269/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://ovicio.com.br/wp-content/uploads/2022/10/20221015-ovicio-vikings-valhalla-1-1024x576.jpg" background="purple", VİKİNGS VALHALLA 3S 4B
-https://storage.diziyou.co/episodes/16270/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://ovicio.com.br/wp-content/uploads/2022/10/20221015-ovicio-vikings-valhalla-1-1024x576.jpg" background="purple", VİKİNGS VALHALLA 3S 5B
-https://storage.diziyou.co/episodes/16271/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://ovicio.com.br/wp-content/uploads/2022/10/20221015-ovicio-vikings-valhalla-1-1024x576.jpg" background="purple", VİKİNGS VALHALLA 3S 6B
-https://storage.diziyou.co/episodes/16272/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://ovicio.com.br/wp-content/uploads/2022/10/20221015-ovicio-vikings-valhalla-1-1024x576.jpg" background="purple", VİKİNGS VALHALLA 3S 7B
-https://storage.diziyou.co/episodes/16273/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://ovicio.com.br/wp-content/uploads/2022/10/20221015-ovicio-vikings-valhalla-1-1024x576.jpg" background="purple", VİKİNGS VALHALLA 3S 8B
-https://storage.diziyou.co/episodes/16274/720p.m3u8
 
 #EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://eagleeye.news/wp-content/uploads/2017/10/rick-and-morty-e1507831459637.jpg" background="purple", RİCK AND MORTY 6S 1B
 https://storage.diziyou.co/episodes/25201_tr/720p.m3u8
@@ -4951,73 +4026,6 @@ https://storage.diziyou.co/episodes/25219_tr/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://eagleeye.news/wp-content/uploads/2017/10/rick-and-morty-e1507831459637.jpg" background="purple", RİCK AND MORTY 7S 10B
 https://storage.diziyou.co/episodes/25220_tr/720p.m3u8
 
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://www.thedigitalfix.com/wp-content/sites/thedigitalfix/2023/06/disenchantment-season-5-release-date-5.jpg" background="purple", DİSENCHANTMENT 5S 1B
-https://storage.diziyou.co/episodes/11381_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://www.thedigitalfix.com/wp-content/sites/thedigitalfix/2023/06/disenchantment-season-5-release-date-5.jpg" background="purple", DİSENCHANTMENT 5S 2B
-https://storage.diziyou.co/episodes/11382_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://www.thedigitalfix.com/wp-content/sites/thedigitalfix/2023/06/disenchantment-season-5-release-date-5.jpg" background="purple", DİSENCHANTMENT 5S 3B
-https://storage.diziyou.co/episodes/11383_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://www.thedigitalfix.com/wp-content/sites/thedigitalfix/2023/06/disenchantment-season-5-release-date-5.jpg" background="purple", DİSENCHANTMENT 5S 4B
-https://storage.diziyou.co/episodes/11384_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://www.thedigitalfix.com/wp-content/sites/thedigitalfix/2023/06/disenchantment-season-5-release-date-5.jpg" background="purple", DİSENCHANTMENT 5S 5B
-https://storage.diziyou.co/episodes/11385_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://www.thedigitalfix.com/wp-content/sites/thedigitalfix/2023/06/disenchantment-season-5-release-date-5.jpg" background="purple", DİSENCHANTMENT 5S 6B
-https://storage.diziyou.co/episodes/11386_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://www.thedigitalfix.com/wp-content/sites/thedigitalfix/2023/06/disenchantment-season-5-release-date-5.jpg" background="purple", DİSENCHANTMENT 5S 7B
-https://storage.diziyou.co/episodes/11387_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://www.thedigitalfix.com/wp-content/sites/thedigitalfix/2023/06/disenchantment-season-5-release-date-5.jpg" background="purple", DİSENCHANTMENT 5S 8B
-https://storage.diziyou.co/episodes/11388_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://www.thedigitalfix.com/wp-content/sites/thedigitalfix/2023/06/disenchantment-season-5-release-date-5.jpg" background="purple", DİSENCHANTMENT 5S 9B
-https://storage.diziyou.co/episodes/11389_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://www.thedigitalfix.com/wp-content/sites/thedigitalfix/2023/06/disenchantment-season-5-release-date-5.jpg" background="purple", DİSENCHANTMENT 5S 10B
-https://storage.diziyou.co/episodes/11390_tr/720p.m3u8
-
-#EXTINF:0 type="video" channelId="-1" group-title="Oyun Severlere" logo="https://ovicio.com.br/wp-content/uploads/2022/10/20221015-ovicio-vikings-valhalla-1-1024x576.jpg" background="purple", VİKİNGS VALHALLA 1S 2B
-https://storage.diziyou.co/episodes/16252/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Oyun Severlere" logo="https://ovicio.com.br/wp-content/uploads/2022/10/20221015-ovicio-vikings-valhalla-1-1024x576.jpg" background="purple", VİKİNGS VALHALLA 1S 3B
-https://storage.diziyou.co/episodes/16253/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Oyun Severlere" logo="https://ovicio.com.br/wp-content/uploads/2022/10/20221015-ovicio-vikings-valhalla-1-1024x576.jpg" background="purple", VİKİNGS VALHALLA 1S 4B
-https://storage.diziyou.co/episodes/16254/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Oyun Severlere" logo="https://ovicio.com.br/wp-content/uploads/2022/10/20221015-ovicio-vikings-valhalla-1-1024x576.jpg" background="purple", VİKİNGS VALHALLA 1S 5B
-https://storage.diziyou.co/episodes/16255/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Oyun Severlere" logo="https://ovicio.com.br/wp-content/uploads/2022/10/20221015-ovicio-vikings-valhalla-1-1024x576.jpg" background="purple", VİKİNGS VALHALLA 1S 6B
-https://storage.diziyou.co/episodes/16256/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Oyun Severlere" logo="https://ovicio.com.br/wp-content/uploads/2022/10/20221015-ovicio-vikings-valhalla-1-1024x576.jpg" background="purple", VİKİNGS VALHALLA 1S 7B
-https://storage.diziyou.co/episodes/16257/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Oyun Severlere" logo="https://ovicio.com.br/wp-content/uploads/2022/10/20221015-ovicio-vikings-valhalla-1-1024x576.jpg" background="purple", VİKİNGS VALHALLA 1S 8B
-https://storage.diziyou.co/episodes/16258/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Oyun Severlere" logo="https://ovicio.com.br/wp-content/uploads/2022/10/20221015-ovicio-vikings-valhalla-1-1024x576.jpg" background="purple", VİKİNGS VALHALLA 2S 1B
-https://storage.diziyou.co/episodes/16259/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Oyun Severlere" logo="https://ovicio.com.br/wp-content/uploads/2022/10/20221015-ovicio-vikings-valhalla-1-1024x576.jpg" background="purple", VİKİNGS VALHALLA 2S 2B
-https://storage.diziyou.co/episodes/16260/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Oyun Severlere" logo="https://ovicio.com.br/wp-content/uploads/2022/10/20221015-ovicio-vikings-valhalla-1-1024x576.jpg" background="purple", VİKİNGS VALHALLA 2S 3B
-https://storage.diziyou.co/episodes/16261/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Oyun Severlere" logo="https://ovicio.com.br/wp-content/uploads/2022/10/20221015-ovicio-vikings-valhalla-1-1024x576.jpg" background="purple", VİKİNGS VALHALLA 2S 4B
-https://storage.diziyou.co/episodes/16262/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Oyun Severlere" logo="https://ovicio.com.br/wp-content/uploads/2022/10/20221015-ovicio-vikings-valhalla-1-1024x576.jpg" background="purple", VİKİNGS VALHALLA 2S 5B
-https://storage.diziyou.co/episodes/16263/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Oyun Severlere" logo="https://ovicio.com.br/wp-content/uploads/2022/10/20221015-ovicio-vikings-valhalla-1-1024x576.jpg" background="purple", VİKİNGS VALHALLA 2S 6B
-https://storage.diziyou.co/episodes/16264/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Oyun Severlere" logo="https://ovicio.com.br/wp-content/uploads/2022/10/20221015-ovicio-vikings-valhalla-1-1024x576.jpg" background="purple", VİKİNGS VALHALLA 2S 7B
-https://storage.diziyou.co/episodes/16265/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Oyun Severlere" logo="https://ovicio.com.br/wp-content/uploads/2022/10/20221015-ovicio-vikings-valhalla-1-1024x576.jpg" background="purple", VİKİNGS VALHALLA 2S 8B
-https://storage.diziyou.co/episodes/16266/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Oyun Severlere" logo="https://ovicio.com.br/wp-content/uploads/2022/10/20221015-ovicio-vikings-valhalla-1-1024x576.jpg" background="purple", VİKİNGS VALHALLA 3S 1B
-https://storage.diziyou.co/episodes/16267/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Oyun Severlere" logo="https://ovicio.com.br/wp-content/uploads/2022/10/20221015-ovicio-vikings-valhalla-1-1024x576.jpg" background="purple", VİKİNGS VALHALLA 3S 2B
-https://storage.diziyou.co/episodes/16268/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Oyun Severlere" logo="https://ovicio.com.br/wp-content/uploads/2022/10/20221015-ovicio-vikings-valhalla-1-1024x576.jpg" background="purple", VİKİNGS VALHALLA 3S 3B
-https://storage.diziyou.co/episodes/16269/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Oyun Severlere" logo="https://ovicio.com.br/wp-content/uploads/2022/10/20221015-ovicio-vikings-valhalla-1-1024x576.jpg" background="purple", VİKİNGS VALHALLA 3S 4B
-https://storage.diziyou.co/episodes/16270/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Oyun Severlere" logo="https://ovicio.com.br/wp-content/uploads/2022/10/20221015-ovicio-vikings-valhalla-1-1024x576.jpg" background="purple", VİKİNGS VALHALLA 3S 5B
-https://storage.diziyou.co/episodes/16271/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Oyun Severlere" logo="https://ovicio.com.br/wp-content/uploads/2022/10/20221015-ovicio-vikings-valhalla-1-1024x576.jpg" background="purple", VİKİNGS VALHALLA 3S 6B
-https://storage.diziyou.co/episodes/16272/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Oyun Severlere" logo="https://ovicio.com.br/wp-content/uploads/2022/10/20221015-ovicio-vikings-valhalla-1-1024x576.jpg" background="purple", VİKİNGS VALHALLA 3S 7B
-https://storage.diziyou.co/episodes/16273/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Oyun Severlere" logo="https://ovicio.com.br/wp-content/uploads/2022/10/20221015-ovicio-vikings-valhalla-1-1024x576.jpg" background="purple", VİKİNGS VALHALLA 3S 8B
-https://storage.diziyou.co/episodes/16274/720p.m3u8
 
 #EXTINF:0 type="video" channelId="-1" group="Diziler" logo="https://static.wikia.nocookie.net/antagonisten/images/c/ca/Peacemaker_%28TSS%29.jpg/revision/latest/top-crop/width/360/height/360?cb=20210809234936&path-prefix=de" background="purple", PEACEMAKER 1S 2B
 https://storage.diziyou.co/episodes/17402_tr/720p.m3u8
@@ -5152,7 +4160,6 @@ https://storage.diziyou.co/episodes/25610_tr/720p.m3u8
 https://storage.diziyou.co/episodes/256011_tr/720p.m3u8    
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://m.media-amazon.com/images/S/pv-target-images/d9862844dfbf66d1277dddd35561b0897422748c08e182974b7528ed64ae3bf5.jpg" background="purple", DEXTER 1S 12B
 https://storage.diziyou.co/episodes/256012_tr/720p.m3u8
-
 
 
 
