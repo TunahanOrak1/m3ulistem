@@ -5,8 +5,10 @@ type="video" channelId="-1"  logo="https://upload.wikimedia.org/wikipedia/common
 type="video" channelId="-1"  logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/DC_Comics_logo.svg/800px-DC_Comics_logo.svg.png" background="purple", DC
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/The_CW_2024.svg/1200px-The_CW_2024.svg.png" background="purple", THE CW
 type="video" channelId="-1"  logo="https://static.wikia.nocookie.net/logopedia/images/d/d8/The_CW_%28Print%29.svg/revision/latest?cb=20180910214129" background="purple", THE CW
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://m.media-amazon.com/images/S/pv-target-images/d9862844dfbf66d1277dddd35561b0897422748c08e182974b7528ed64ae3bf5.jpg" background="purple", DEXTER 1S 1B
+https://storage.diziyou.co/episodes/25601_tr/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://ovicio.com.br/wp-content/uploads/2022/10/20221015-ovicio-vikings-valhalla-1-1024x576.jpg" background="purple", VİKİNGS VALHALLA 1S 1B
-https://gogo.party/my-hero-academia/1/1/480.mp4
+https://storage.diziyou.co/episodes/16251_tr/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://file.cdnhipter.xyz/images/f/f/100//hhprqdeq1bmhfk1a6szwrtytbde--1721373832.jpg" background="purple", SWEET HOME 1S 1B
 https://storage.diziyou.co/episodes/82801_tr/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://assets.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/2022/06/09/3187017941.jpg" background="purple", ALL OF US ARE DEAD 1S 1B
@@ -5128,6 +5130,28 @@ https://vod02.cdn.web.tv/qy/tr/qytrn7vcvv2_,240,360,480,720,.mp4.urlset/playlist
 #EXTINF:0 type="video" channelId="-1" group="Animasyon Dizileri" logo="https://i1.imgiz.com/rshots/8987/esrarengiz-kasaba-en-iyi-delik-hangisi_8987121-32230_1280x720.jpg" background="purple", ESRARENGİZ KASABA 2S 20B
 https://vod02.cdn.web.tv/ok/i1/oki1qbxtiwu_,240,360,480,720,.mp4.urlset/playlist-f3-v1-a1.m3u8
 
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://m.media-amazon.com/images/S/pv-target-images/d9862844dfbf66d1277dddd35561b0897422748c08e182974b7528ed64ae3bf5.jpg" background="purple", DEXTER 1S 2B
+https://storage.diziyou.co/episodes/25602_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://m.media-amazon.com/images/S/pv-target-images/d9862844dfbf66d1277dddd35561b0897422748c08e182974b7528ed64ae3bf5.jpg" background="purple", DEXTER 1S 3B
+https://storage.diziyou.co/episodes/25603_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://m.media-amazon.com/images/S/pv-target-images/d9862844dfbf66d1277dddd35561b0897422748c08e182974b7528ed64ae3bf5.jpg" background="purple", DEXTER 1S 4B
+https://storage.diziyou.co/episodes/25604_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://m.media-amazon.com/images/S/pv-target-images/d9862844dfbf66d1277dddd35561b0897422748c08e182974b7528ed64ae3bf5.jpg" background="purple", DEXTER 1S 5B
+https://storage.diziyou.co/episodes/25605_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://m.media-amazon.com/images/S/pv-target-images/d9862844dfbf66d1277dddd35561b0897422748c08e182974b7528ed64ae3bf5.jpg" background="purple", DEXTER 1S 6B
+https://storage.diziyou.co/episodes/25606_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://m.media-amazon.com/images/S/pv-target-images/d9862844dfbf66d1277dddd35561b0897422748c08e182974b7528ed64ae3bf5.jpg" background="purple", DEXTER 1S 7B
+https://storage.diziyou.co/episodes/25607_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://m.media-amazon.com/images/S/pv-target-images/d9862844dfbf66d1277dddd35561b0897422748c08e182974b7528ed64ae3bf5.jpg" background="purple", DEXTER 1S 8B
+https://storage.diziyou.co/episodes/25608_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://m.media-amazon.com/images/S/pv-target-images/d9862844dfbf66d1277dddd35561b0897422748c08e182974b7528ed64ae3bf5.jpg" background="purple", DEXTER 1S 9B
+https://storage.diziyou.co/episodes/25609_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://m.media-amazon.com/images/S/pv-target-images/d9862844dfbf66d1277dddd35561b0897422748c08e182974b7528ed64ae3bf5.jpg" background="purple", DEXTER 1S 10B
+https://storage.diziyou.co/episodes/25610_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://m.media-amazon.com/images/S/pv-target-images/d9862844dfbf66d1277dddd35561b0897422748c08e182974b7528ed64ae3bf5.jpg" background="purple", DEXTER 1S 11B
+https://storage.diziyou.co/episodes/256011_tr/720p.m3u8    
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://m.media-amazon.com/images/S/pv-target-images/d9862844dfbf66d1277dddd35561b0897422748c08e182974b7528ed64ae3bf5.jpg" background="purple", DEXTER 1S 12B
+https://storage.diziyou.co/episodes/256012_tr/720p.m3u8
 
 
 
