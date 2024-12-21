@@ -5,10 +5,10 @@ type="video" channelId="-1"  logo="https://upload.wikimedia.org/wikipedia/common
 type="video" channelId="-1"  logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/DC_Comics_logo.svg/800px-DC_Comics_logo.svg.png" background="purple", DC
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/The_CW_2024.svg/1200px-The_CW_2024.svg.png" background="purple", THE CW
 type="video" channelId="-1"  logo="https://static.wikia.nocookie.net/logopedia/images/d/d8/The_CW_%28Print%29.svg/revision/latest?cb=20180910214129" background="purple", THE CW
-https://gogo.party/naruto/1/1/1080.mp4
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://m.media-amazon.com/images/S/pv-target-images/d9862844dfbf66d1277dddd35561b0897422748c08e182974b7528ed64ae3bf5.jpg" background="purple", DEXTER 1S 1B
 https://storage.diziyou.co/episodes/25601_tr/720p.m3u8
-
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://xb-static.nm-ovp.nelonenmedia.fi/xb/styles/640x360/public/img/b20e6bedc2b9655db6b9488f8b86285f9ee2a7c7-Dexter-New-Blood_3840x2160_SERIES_LANDSCAPE_NOBRAND_ENG_0000701029.jpg" background="purple", DEXTER 2 NEW BLOOD 1S 1B
+https://storage.diziyou.co/episodes/25701_tr/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://resizing.flixster.com/KMR4XC4KuXbyCBYhsjlcLjnRi_U=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p18175990_b_h8_ad.jpg" background="purple", UPLOAD 1S 1B
 https://storage.diziyou.co/episodes/27601_tr/720p.m3u8
 
@@ -819,8 +819,6 @@ https://lh3.googleusercontent.com/qagCWEorFvi6j8SD2G7EEX7OufkDty4XNbDf-Jcbo2qhBQ
 https://lh3.googleusercontent.com/5bNp9mApqcl-ttaokkHbvVHGHqpvHyl2XCgUwTC0Ca3IV_70-zhw1TKnxmYaImyBZy35W89H7-GA1SPAKVzeksFP-FjHCj8uWK_n6vORDP2T0-JTJxG_To0w5I_zBxGFAOtIVMpp_Q=m18
 #EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i.ytimg.com/vi/G-r5LFRaF0k/maxresdefault.jpg" background="purple", KLON SAVAŞLARI 1S 15B
 https://lh3.googleusercontent.com/V5vT9uob_5jeZfIuoPTRIvQR19JNCNb-nAPpfX1I7zUBQuKo0N08fyYC9Z3rws3J3Ql9nPs3jL4a9-Zy74Zn28UJ8J9QKlYqQw57xd_K8OY_8t-8htrOr3TKDzkDI1v1mm62JHyrdw=m18
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i.ytimg.com/vi/kjEIJR7S5jo/maxresdefault.jpg" background="purple", FOSTERİN HAYALİ DOSTLAR MEKANI 1S 2B
-https://vod02.cdn.web.tv/9w/lm/9wlmmzx6saw_,240,360,480,.mp4.urlset/playlist-f3-v1-a1.m3u8?st=_8Lw-0TX4CUE_R86NSRDVg&e=1678847769
 #EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i.ytimg.com/vi/G-r5LFRaF0k/maxresdefault.jpg" background="purple", KLON SAVAŞLARI 1S 16B
 https://lh3.googleusercontent.com/JrCGl7zNV5sPO14XdLqrR9eHDhXWiUZGsMbJD22nm9Q666ox8NCgEoAFcTQqRaPElF1D2sTGCQNC70mcNRPMI1hRnuqMLF4WcOm4pZQ_VXHShigzzUj2N0bOU9RU7n3Er9-qoqNo6w=m18
 #EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i.ytimg.com/vi/G-r5LFRaF0k/maxresdefault.jpg" background="purple", KLON SAVAŞLARI 1S 17B
@@ -4158,9 +4156,400 @@ https://storage.diziyou.co/episodes/25609_tr/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://m.media-amazon.com/images/S/pv-target-images/d9862844dfbf66d1277dddd35561b0897422748c08e182974b7528ed64ae3bf5.jpg" background="purple", DEXTER 1S 10B
 https://storage.diziyou.co/episodes/25610_tr/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://m.media-amazon.com/images/S/pv-target-images/d9862844dfbf66d1277dddd35561b0897422748c08e182974b7528ed64ae3bf5.jpg" background="purple", DEXTER 1S 11B
-https://storage.diziyou.co/episodes/256011_tr/720p.m3u8    
+https://storage.diziyou.co/episodes/25611_tr/720p.m3u8    
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://m.media-amazon.com/images/S/pv-target-images/d9862844dfbf66d1277dddd35561b0897422748c08e182974b7528ed64ae3bf5.jpg" background="purple", DEXTER 1S 12B
-https://storage.diziyou.co/episodes/256012_tr/720p.m3u8
+https://storage.diziyou.co/episodes/25612_tr/720p.m3u8
+
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://m.media-amazon.com/images/S/pv-target-images/d9862844dfbf66d1277dddd35561b0897422748c08e182974b7528ed64ae3bf5.jpg" background="purple", DEXTER 2S 1B
+https://storage.diziyou.co/episodes/25613_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://m.media-amazon.com/images/S/pv-target-images/d9862844dfbf66d1277dddd35561b0897422748c08e182974b7528ed64ae3bf5.jpg" background="purple", DEXTER 2S 2B
+https://storage.diziyou.co/episodes/25614_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://m.media-amazon.com/images/S/pv-target-images/d9862844dfbf66d1277dddd35561b0897422748c08e182974b7528ed64ae3bf5.jpg" background="purple", DEXTER 2S 3B
+https://storage.diziyou.co/episodes/25615_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://m.media-amazon.com/images/S/pv-target-images/d9862844dfbf66d1277dddd35561b0897422748c08e182974b7528ed64ae3bf5.jpg" background="purple", DEXTER 2S 4B
+https://storage.diziyou.co/episodes/25616_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://m.media-amazon.com/images/S/pv-target-images/d9862844dfbf66d1277dddd35561b0897422748c08e182974b7528ed64ae3bf5.jpg" background="purple", DEXTER 2S 5B
+https://storage.diziyou.co/episodes/25617_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://m.media-amazon.com/images/S/pv-target-images/d9862844dfbf66d1277dddd35561b0897422748c08e182974b7528ed64ae3bf5.jpg" background="purple", DEXTER 2S 6B
+https://storage.diziyou.co/episodes/25618_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://m.media-amazon.com/images/S/pv-target-images/d9862844dfbf66d1277dddd35561b0897422748c08e182974b7528ed64ae3bf5.jpg" background="purple", DEXTER 2S 7B
+https://storage.diziyou.co/episodes/25619_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://m.media-amazon.com/images/S/pv-target-images/d9862844dfbf66d1277dddd35561b0897422748c08e182974b7528ed64ae3bf5.jpg" background="purple", DEXTER 2S 8B
+https://storage.diziyou.co/episodes/25620_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://m.media-amazon.com/images/S/pv-target-images/d9862844dfbf66d1277dddd35561b0897422748c08e182974b7528ed64ae3bf5.jpg" background="purple", DEXTER 2S 9B
+https://storage.diziyou.co/episodes/25621_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://m.media-amazon.com/images/S/pv-target-images/d9862844dfbf66d1277dddd35561b0897422748c08e182974b7528ed64ae3bf5.jpg" background="purple", DEXTER 2S 10B
+https://storage.diziyou.co/episodes/25622_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://m.media-amazon.com/images/S/pv-target-images/d9862844dfbf66d1277dddd35561b0897422748c08e182974b7528ed64ae3bf5.jpg" background="purple", DEXTER 2S 11B
+https://storage.diziyou.co/episodes/25623_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://m.media-amazon.com/images/S/pv-target-images/d9862844dfbf66d1277dddd35561b0897422748c08e182974b7528ed64ae3bf5.jpg" background="purple", DEXTER 2S 12B
+https://storage.diziyou.co/episodes/25624_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://m.media-amazon.com/images/S/pv-target-images/d9862844dfbf66d1277dddd35561b0897422748c08e182974b7528ed64ae3bf5.jpg" background="purple", DEXTER 3S 1B
+https://storage.diziyou.co/episodes/25625_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://m.media-amazon.com/images/S/pv-target-images/d9862844dfbf66d1277dddd35561b0897422748c08e182974b7528ed64ae3bf5.jpg" background="purple", DEXTER 3S 2B
+https://storage.diziyou.co/episodes/25626_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://m.media-amazon.com/images/S/pv-target-images/d9862844dfbf66d1277dddd35561b0897422748c08e182974b7528ed64ae3bf5.jpg" background="purple", DEXTER 3S 3B
+https://storage.diziyou.co/episodes/25627_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://m.media-amazon.com/images/S/pv-target-images/d9862844dfbf66d1277dddd35561b0897422748c08e182974b7528ed64ae3bf5.jpg" background="purple", DEXTER 3S 4B
+https://storage.diziyou.co/episodes/25628_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://m.media-amazon.com/images/S/pv-target-images/d9862844dfbf66d1277dddd35561b0897422748c08e182974b7528ed64ae3bf5.jpg" background="purple", DEXTER 3S 5B
+https://storage.diziyou.co/episodes/25629_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://m.media-amazon.com/images/S/pv-target-images/d9862844dfbf66d1277dddd35561b0897422748c08e182974b7528ed64ae3bf5.jpg" background="purple", DEXTER 3S 6B
+https://storage.diziyou.co/episodes/25630_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://m.media-amazon.com/images/S/pv-target-images/d9862844dfbf66d1277dddd35561b0897422748c08e182974b7528ed64ae3bf5.jpg" background="purple", DEXTER 3S 7B
+https://storage.diziyou.co/episodes/25631_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://m.media-amazon.com/images/S/pv-target-images/d9862844dfbf66d1277dddd35561b0897422748c08e182974b7528ed64ae3bf5.jpg" background="purple", DEXTER 3S 8B
+https://storage.diziyou.co/episodes/25632_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://m.media-amazon.com/images/S/pv-target-images/d9862844dfbf66d1277dddd35561b0897422748c08e182974b7528ed64ae3bf5.jpg" background="purple", DEXTER 3S 9B
+https://storage.diziyou.co/episodes/25633_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://m.media-amazon.com/images/S/pv-target-images/d9862844dfbf66d1277dddd35561b0897422748c08e182974b7528ed64ae3bf5.jpg" background="purple", DEXTER 3S 10B
+https://storage.diziyou.co/episodes/25634_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://m.media-amazon.com/images/S/pv-target-images/d9862844dfbf66d1277dddd35561b0897422748c08e182974b7528ed64ae3bf5.jpg" background="purple", DEXTER 3S 11B
+https://storage.diziyou.co/episodes/25635_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://m.media-amazon.com/images/S/pv-target-images/d9862844dfbf66d1277dddd35561b0897422748c08e182974b7528ed64ae3bf5.jpg" background="purple", DEXTER 3S 12B
+https://storage.diziyou.co/episodes/25636_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://m.media-amazon.com/images/S/pv-target-images/d9862844dfbf66d1277dddd35561b0897422748c08e182974b7528ed64ae3bf5.jpg" background="purple", DEXTER 4S 1B
+https://storage.diziyou.co/episodes/25637_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://m.media-amazon.com/images/S/pv-target-images/d9862844dfbf66d1277dddd35561b0897422748c08e182974b7528ed64ae3bf5.jpg" background="purple", DEXTER 4S 2B
+https://storage.diziyou.co/episodes/25638_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://m.media-amazon.com/images/S/pv-target-images/d9862844dfbf66d1277dddd35561b0897422748c08e182974b7528ed64ae3bf5.jpg" background="purple", DEXTER 4S 3B
+https://storage.diziyou.co/episodes/25639_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://m.media-amazon.com/images/S/pv-target-images/d9862844dfbf66d1277dddd35561b0897422748c08e182974b7528ed64ae3bf5.jpg" background="purple", DEXTER 4S 4B
+https://storage.diziyou.co/episodes/25640_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://m.media-amazon.com/images/S/pv-target-images/d9862844dfbf66d1277dddd35561b0897422748c08e182974b7528ed64ae3bf5.jpg" background="purple", DEXTER 4S 5B
+https://storage.diziyou.co/episodes/25641_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://m.media-amazon.com/images/S/pv-target-images/d9862844dfbf66d1277dddd35561b0897422748c08e182974b7528ed64ae3bf5.jpg" background="purple", DEXTER 4S 6B
+https://storage.diziyou.co/episodes/25642_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://m.media-amazon.com/images/S/pv-target-images/d9862844dfbf66d1277dddd35561b0897422748c08e182974b7528ed64ae3bf5.jpg" background="purple", DEXTER 4S 7B
+https://storage.diziyou.co/episodes/25643_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://m.media-amazon.com/images/S/pv-target-images/d9862844dfbf66d1277dddd35561b0897422748c08e182974b7528ed64ae3bf5.jpg" background="purple", DEXTER 4S 8B
+https://storage.diziyou.co/episodes/25644_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://m.media-amazon.com/images/S/pv-target-images/d9862844dfbf66d1277dddd35561b0897422748c08e182974b7528ed64ae3bf5.jpg" background="purple", DEXTER 4S 9B
+https://storage.diziyou.co/episodes/25645_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://m.media-amazon.com/images/S/pv-target-images/d9862844dfbf66d1277dddd35561b0897422748c08e182974b7528ed64ae3bf5.jpg" background="purple", DEXTER 4S 10B
+https://storage.diziyou.co/episodes/25646_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://m.media-amazon.com/images/S/pv-target-images/d9862844dfbf66d1277dddd35561b0897422748c08e182974b7528ed64ae3bf5.jpg" background="purple", DEXTER 4S 11B
+https://storage.diziyou.co/episodes/25647_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://m.media-amazon.com/images/S/pv-target-images/d9862844dfbf66d1277dddd35561b0897422748c08e182974b7528ed64ae3bf5.jpg" background="purple", DEXTER 4S 12B
+https://storage.diziyou.co/episodes/25648_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://m.media-amazon.com/images/S/pv-target-images/d9862844dfbf66d1277dddd35561b0897422748c08e182974b7528ed64ae3bf5.jpg" background="purple", DEXTER 5S 1B
+https://storage.diziyou.co/episodes/25649_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://m.media-amazon.com/images/S/pv-target-images/d9862844dfbf66d1277dddd35561b0897422748c08e182974b7528ed64ae3bf5.jpg" background="purple", DEXTER 5S 2B
+https://storage.diziyou.co/episodes/25650_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://m.media-amazon.com/images/S/pv-target-images/d9862844dfbf66d1277dddd35561b0897422748c08e182974b7528ed64ae3bf5.jpg" background="purple", DEXTER 5S 3B
+https://storage.diziyou.co/episodes/25651_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://m.media-amazon.com/images/S/pv-target-images/d9862844dfbf66d1277dddd35561b0897422748c08e182974b7528ed64ae3bf5.jpg" background="purple", DEXTER 5S 4B
+https://storage.diziyou.co/episodes/25652_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://m.media-amazon.com/images/S/pv-target-images/d9862844dfbf66d1277dddd35561b0897422748c08e182974b7528ed64ae3bf5.jpg" background="purple", DEXTER 5S 5B
+https://storage.diziyou.co/episodes/25653_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://m.media-amazon.com/images/S/pv-target-images/d9862844dfbf66d1277dddd35561b0897422748c08e182974b7528ed64ae3bf5.jpg" background="purple", DEXTER 5S 6B
+https://storage.diziyou.co/episodes/25654_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://m.media-amazon.com/images/S/pv-target-images/d9862844dfbf66d1277dddd35561b0897422748c08e182974b7528ed64ae3bf5.jpg" background="purple", DEXTER 5S 7B
+https://storage.diziyou.co/episodes/25655_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://m.media-amazon.com/images/S/pv-target-images/d9862844dfbf66d1277dddd35561b0897422748c08e182974b7528ed64ae3bf5.jpg" background="purple", DEXTER 5S 8B
+https://storage.diziyou.co/episodes/25656_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://m.media-amazon.com/images/S/pv-target-images/d9862844dfbf66d1277dddd35561b0897422748c08e182974b7528ed64ae3bf5.jpg" background="purple", DEXTER 5S 9B
+https://storage.diziyou.co/episodes/25657_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://m.media-amazon.com/images/S/pv-target-images/d9862844dfbf66d1277dddd35561b0897422748c08e182974b7528ed64ae3bf5.jpg" background="purple", DEXTER 5S 10B
+https://storage.diziyou.co/episodes/25658_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://m.media-amazon.com/images/S/pv-target-images/d9862844dfbf66d1277dddd35561b0897422748c08e182974b7528ed64ae3bf5.jpg" background="purple", DEXTER 5S 11B
+https://storage.diziyou.co/episodes/25659_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://m.media-amazon.com/images/S/pv-target-images/d9862844dfbf66d1277dddd35561b0897422748c08e182974b7528ed64ae3bf5.jpg" background="purple", DEXTER 5S 12B
+https://storage.diziyou.co/episodes/25660_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://m.media-amazon.com/images/S/pv-target-images/d9862844dfbf66d1277dddd35561b0897422748c08e182974b7528ed64ae3bf5.jpg" background="purple", DEXTER 6S 1B
+https://storage.diziyou.co/episodes/25661_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://m.media-amazon.com/images/S/pv-target-images/d9862844dfbf66d1277dddd35561b0897422748c08e182974b7528ed64ae3bf5.jpg" background="purple", DEXTER 6S 2B
+https://storage.diziyou.co/episodes/25662_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://m.media-amazon.com/images/S/pv-target-images/d9862844dfbf66d1277dddd35561b0897422748c08e182974b7528ed64ae3bf5.jpg" background="purple", DEXTER 6S 3B
+https://storage.diziyou.co/episodes/25663_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://m.media-amazon.com/images/S/pv-target-images/d9862844dfbf66d1277dddd35561b0897422748c08e182974b7528ed64ae3bf5.jpg" background="purple", DEXTER 6S 4B
+https://storage.diziyou.co/episodes/25664_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://m.media-amazon.com/images/S/pv-target-images/d9862844dfbf66d1277dddd35561b0897422748c08e182974b7528ed64ae3bf5.jpg" background="purple", DEXTER 6S 5B
+https://storage.diziyou.co/episodes/25665_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://m.media-amazon.com/images/S/pv-target-images/d9862844dfbf66d1277dddd35561b0897422748c08e182974b7528ed64ae3bf5.jpg" background="purple", DEXTER 6S 6B
+https://storage.diziyou.co/episodes/25666_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://m.media-amazon.com/images/S/pv-target-images/d9862844dfbf66d1277dddd35561b0897422748c08e182974b7528ed64ae3bf5.jpg" background="purple", DEXTER 6S 7B
+https://storage.diziyou.co/episodes/25667_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://m.media-amazon.com/images/S/pv-target-images/d9862844dfbf66d1277dddd35561b0897422748c08e182974b7528ed64ae3bf5.jpg" background="purple", DEXTER 6S 8B
+https://storage.diziyou.co/episodes/25668_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://m.media-amazon.com/images/S/pv-target-images/d9862844dfbf66d1277dddd35561b0897422748c08e182974b7528ed64ae3bf5.jpg" background="purple", DEXTER 6S 9B
+https://storage.diziyou.co/episodes/25669_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://m.media-amazon.com/images/S/pv-target-images/d9862844dfbf66d1277dddd35561b0897422748c08e182974b7528ed64ae3bf5.jpg" background="purple", DEXTER 6S 10B
+https://storage.diziyou.co/episodes/25670_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://m.media-amazon.com/images/S/pv-target-images/d9862844dfbf66d1277dddd35561b0897422748c08e182974b7528ed64ae3bf5.jpg" background="purple", DEXTER 6S 11B
+https://storage.diziyou.co/episodes/25671_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://m.media-amazon.com/images/S/pv-target-images/d9862844dfbf66d1277dddd35561b0897422748c08e182974b7528ed64ae3bf5.jpg" background="purple", DEXTER 6S 12B
+https://storage.diziyou.co/episodes/25672_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://m.media-amazon.com/images/S/pv-target-images/d9862844dfbf66d1277dddd35561b0897422748c08e182974b7528ed64ae3bf5.jpg" background="purple", DEXTER 7S 1B
+https://storage.diziyou.co/episodes/25673_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://m.media-amazon.com/images/S/pv-target-images/d9862844dfbf66d1277dddd35561b0897422748c08e182974b7528ed64ae3bf5.jpg" background="purple", DEXTER 7S 2B
+https://storage.diziyou.co/episodes/25674_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://m.media-amazon.com/images/S/pv-target-images/d9862844dfbf66d1277dddd35561b0897422748c08e182974b7528ed64ae3bf5.jpg" background="purple", DEXTER 7S 3B
+https://storage.diziyou.co/episodes/25675_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://m.media-amazon.com/images/S/pv-target-images/d9862844dfbf66d1277dddd35561b0897422748c08e182974b7528ed64ae3bf5.jpg" background="purple", DEXTER 7S 4B
+https://storage.diziyou.co/episodes/25676_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://m.media-amazon.com/images/S/pv-target-images/d9862844dfbf66d1277dddd35561b0897422748c08e182974b7528ed64ae3bf5.jpg" background="purple", DEXTER 7S 5B
+https://storage.diziyou.co/episodes/25677_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://m.media-amazon.com/images/S/pv-target-images/d9862844dfbf66d1277dddd35561b0897422748c08e182974b7528ed64ae3bf5.jpg" background="purple", DEXTER 7S 6B
+https://storage.diziyou.co/episodes/25678_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://m.media-amazon.com/images/S/pv-target-images/d9862844dfbf66d1277dddd35561b0897422748c08e182974b7528ed64ae3bf5.jpg" background="purple", DEXTER 7S 7B
+https://storage.diziyou.co/episodes/25679_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://m.media-amazon.com/images/S/pv-target-images/d9862844dfbf66d1277dddd35561b0897422748c08e182974b7528ed64ae3bf5.jpg" background="purple", DEXTER 7S 8B
+https://storage.diziyou.co/episodes/25680_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://m.media-amazon.com/images/S/pv-target-images/d9862844dfbf66d1277dddd35561b0897422748c08e182974b7528ed64ae3bf5.jpg" background="purple", DEXTER 7S 9B
+https://storage.diziyou.co/episodes/25681_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://m.media-amazon.com/images/S/pv-target-images/d9862844dfbf66d1277dddd35561b0897422748c08e182974b7528ed64ae3bf5.jpg" background="purple", DEXTER 7S 10B
+https://storage.diziyou.co/episodes/25682_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://m.media-amazon.com/images/S/pv-target-images/d9862844dfbf66d1277dddd35561b0897422748c08e182974b7528ed64ae3bf5.jpg" background="purple", DEXTER 7S 11B
+https://storage.diziyou.co/episodes/25683_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://m.media-amazon.com/images/S/pv-target-images/d9862844dfbf66d1277dddd35561b0897422748c08e182974b7528ed64ae3bf5.jpg" background="purple", DEXTER 7S 12B
+https://storage.diziyou.co/episodes/25684_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://m.media-amazon.com/images/S/pv-target-images/d9862844dfbf66d1277dddd35561b0897422748c08e182974b7528ed64ae3bf5.jpg" background="purple", DEXTER 8S 1B
+https://storage.diziyou.co/episodes/25685_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://m.media-amazon.com/images/S/pv-target-images/d9862844dfbf66d1277dddd35561b0897422748c08e182974b7528ed64ae3bf5.jpg" background="purple", DEXTER 8S 2B
+https://storage.diziyou.co/episodes/25686_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://m.media-amazon.com/images/S/pv-target-images/d9862844dfbf66d1277dddd35561b0897422748c08e182974b7528ed64ae3bf5.jpg" background="purple", DEXTER 8S 3B
+https://storage.diziyou.co/episodes/25687_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://m.media-amazon.com/images/S/pv-target-images/d9862844dfbf66d1277dddd35561b0897422748c08e182974b7528ed64ae3bf5.jpg" background="purple", DEXTER 8S 4B
+https://storage.diziyou.co/episodes/25688_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://m.media-amazon.com/images/S/pv-target-images/d9862844dfbf66d1277dddd35561b0897422748c08e182974b7528ed64ae3bf5.jpg" background="purple", DEXTER 8S 5B
+https://storage.diziyou.co/episodes/25689_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://m.media-amazon.com/images/S/pv-target-images/d9862844dfbf66d1277dddd35561b0897422748c08e182974b7528ed64ae3bf5.jpg" background="purple", DEXTER 8S 6B
+https://storage.diziyou.co/episodes/25690_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://m.media-amazon.com/images/S/pv-target-images/d9862844dfbf66d1277dddd35561b0897422748c08e182974b7528ed64ae3bf5.jpg" background="purple", DEXTER 8S 7B
+https://storage.diziyou.co/episodes/25691_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://m.media-amazon.com/images/S/pv-target-images/d9862844dfbf66d1277dddd35561b0897422748c08e182974b7528ed64ae3bf5.jpg" background="purple", DEXTER 8S 8B
+https://storage.diziyou.co/episodes/25692_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://m.media-amazon.com/images/S/pv-target-images/d9862844dfbf66d1277dddd35561b0897422748c08e182974b7528ed64ae3bf5.jpg" background="purple", DEXTER 8S 9B
+https://storage.diziyou.co/episodes/25693_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://m.media-amazon.com/images/S/pv-target-images/d9862844dfbf66d1277dddd35561b0897422748c08e182974b7528ed64ae3bf5.jpg" background="purple", DEXTER 8S 10B
+https://storage.diziyou.co/episodes/25694_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://m.media-amazon.com/images/S/pv-target-images/d9862844dfbf66d1277dddd35561b0897422748c08e182974b7528ed64ae3bf5.jpg" background="purple", DEXTER 8S 11B
+https://storage.diziyou.co/episodes/25695_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://m.media-amazon.com/images/S/pv-target-images/d9862844dfbf66d1277dddd35561b0897422748c08e182974b7528ed64ae3bf5.jpg" background="purple", DEXTER 8S 12B
+https://storage.diziyou.co/episodes/25696_tr/720p.m3u8
+
+
+
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://xb-static.nm-ovp.nelonenmedia.fi/xb/styles/640x360/public/img/b20e6bedc2b9655db6b9488f8b86285f9ee2a7c7-Dexter-New-Blood_3840x2160_SERIES_LANDSCAPE_NOBRAND_ENG_0000701029.jpg" background="purple", DEXTER 2 NEW BLOOD 1S 2B
+https://storage.diziyou.co/episodes/25702_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://xb-static.nm-ovp.nelonenmedia.fi/xb/styles/640x360/public/img/b20e6bedc2b9655db6b9488f8b86285f9ee2a7c7-Dexter-New-Blood_3840x2160_SERIES_LANDSCAPE_NOBRAND_ENG_0000701029.jpg" background="purple", DEXTER 2 NEW BLOOD 1S 3B
+https://storage.diziyou.co/episodes/25703_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://xb-static.nm-ovp.nelonenmedia.fi/xb/styles/640x360/public/img/b20e6bedc2b9655db6b9488f8b86285f9ee2a7c7-Dexter-New-Blood_3840x2160_SERIES_LANDSCAPE_NOBRAND_ENG_0000701029.jpg" background="purple", DEXTER 2 NEW BLOOD 1S 4B
+https://storage.diziyou.co/episodes/25704_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://xb-static.nm-ovp.nelonenmedia.fi/xb/styles/640x360/public/img/b20e6bedc2b9655db6b9488f8b86285f9ee2a7c7-Dexter-New-Blood_3840x2160_SERIES_LANDSCAPE_NOBRAND_ENG_0000701029.jpg" background="purple", DEXTER 2 NEW BLOOD 1S 5B
+https://storage.diziyou.co/episodes/25705_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://xb-static.nm-ovp.nelonenmedia.fi/xb/styles/640x360/public/img/b20e6bedc2b9655db6b9488f8b86285f9ee2a7c7-Dexter-New-Blood_3840x2160_SERIES_LANDSCAPE_NOBRAND_ENG_0000701029.jpg" background="purple", DEXTER 2 NEW BLOOD 1S 6B
+https://storage.diziyou.co/episodes/25706_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://xb-static.nm-ovp.nelonenmedia.fi/xb/styles/640x360/public/img/b20e6bedc2b9655db6b9488f8b86285f9ee2a7c7-Dexter-New-Blood_3840x2160_SERIES_LANDSCAPE_NOBRAND_ENG_0000701029.jpg" background="purple", DEXTER 2 NEW BLOOD 1S 7B
+https://storage.diziyou.co/episodes/25707_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://xb-static.nm-ovp.nelonenmedia.fi/xb/styles/640x360/public/img/b20e6bedc2b9655db6b9488f8b86285f9ee2a7c7-Dexter-New-Blood_3840x2160_SERIES_LANDSCAPE_NOBRAND_ENG_0000701029.jpg" background="purple", DEXTER 2 NEW BLOOD 1S 8B
+https://storage.diziyou.co/episodes/25708_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://xb-static.nm-ovp.nelonenmedia.fi/xb/styles/640x360/public/img/b20e6bedc2b9655db6b9488f8b86285f9ee2a7c7-Dexter-New-Blood_3840x2160_SERIES_LANDSCAPE_NOBRAND_ENG_0000701029.jpg" background="purple", DEXTER 2 NEW BLOOD 1S 9B
+https://storage.diziyou.co/episodes/25709_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://xb-static.nm-ovp.nelonenmedia.fi/xb/styles/640x360/public/img/b20e6bedc2b9655db6b9488f8b86285f9ee2a7c7-Dexter-New-Blood_3840x2160_SERIES_LANDSCAPE_NOBRAND_ENG_0000701029.jpg" background="purple", DEXTER 2 NEW BLOOD 1S 10B
+https://storage.diziyou.co/episodes/257010_tr/720p.m3u8
+
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2017/10/Kid-Flash-on-Legends-of-Tomorrow.jpg" background="purple", DC S LEGENDS OF TOMORROW 1S 2B
+https://storage.diziyou.co/episodes/80302_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2017/10/Kid-Flash-on-Legends-of-Tomorrow.jpg" background="purple", DC S LEGENDS OF TOMORROW 1S 3B
+https://storage.diziyou.co/episodes/80303_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2017/10/Kid-Flash-on-Legends-of-Tomorrow.jpg" background="purple", DC S LEGENDS OF TOMORROW 1S 4B
+https://storage.diziyou.co/episodes/80304_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2017/10/Kid-Flash-on-Legends-of-Tomorrow.jpg" background="purple", DC S LEGENDS OF TOMORROW 1S 5B
+https://storage.diziyou.co/episodes/80305_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2017/10/Kid-Flash-on-Legends-of-Tomorrow.jpg" background="purple", DC S LEGENDS OF TOMORROW 1S 6B
+https://storage.diziyou.co/episodes/80306_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2017/10/Kid-Flash-on-Legends-of-Tomorrow.jpg" background="purple", DC S LEGENDS OF TOMORROW 1S 7B
+https://storage.diziyou.co/episodes/80307_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2017/10/Kid-Flash-on-Legends-of-Tomorrow.jpg" background="purple", DC S LEGENDS OF TOMORROW 1S 8B
+https://storage.diziyou.co/episodes/80308_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2017/10/Kid-Flash-on-Legends-of-Tomorrow.jpg" background="purple", DC S LEGENDS OF TOMORROW 1S 9B
+https://storage.diziyou.co/episodes/80309_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2017/10/Kid-Flash-on-Legends-of-Tomorrow.jpg" background="purple", DC S LEGENDS OF TOMORROW 1S 10B
+https://storage.diziyou.co/episodes/80310_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2017/10/Kid-Flash-on-Legends-of-Tomorrow.jpg" background="purple", DC S LEGENDS OF TOMORROW 1S 11B
+https://storage.diziyou.co/episodes/80311_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2017/10/Kid-Flash-on-Legends-of-Tomorrow.jpg" background="purple", DC S LEGENDS OF TOMORROW 1S 12B
+https://storage.diziyou.co/episodes/80312_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2017/10/Kid-Flash-on-Legends-of-Tomorrow.jpg" background="purple", DC S LEGENDS OF TOMORROW 1S 13B
+https://storage.diziyou.co/episodes/80313_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2017/10/Kid-Flash-on-Legends-of-Tomorrow.jpg" background="purple", DC S LEGENDS OF TOMORROW 1S 14B
+https://storage.diziyou.co/episodes/80314_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2017/10/Kid-Flash-on-Legends-of-Tomorrow.jpg" background="purple", DC S LEGENDS OF TOMORROW 1S 15B
+https://storage.diziyou.co/episodes/80315_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2017/10/Kid-Flash-on-Legends-of-Tomorrow.jpg" background="purple", DC S LEGENDS OF TOMORROW 1S 16B
+https://storage.diziyou.co/episodes/80316_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2017/10/Kid-Flash-on-Legends-of-Tomorrow.jpg" background="purple", DC S LEGENDS OF TOMORROW 2S 1B
+https://storage.diziyou.co/episodes/80317_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2017/10/Kid-Flash-on-Legends-of-Tomorrow.jpg" background="purple", DC S LEGENDS OF TOMORROW 2S 2B
+https://storage.diziyou.co/episodes/80318_tr/720p.m3u8
+
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2017/10/Kid-Flash-on-Legends-of-Tomorrow.jpg" background="purple", DC S LEGENDS OF TOMORROW 2S 3B
+https://storage.diziyou.co/episodes/80319_tr/720p.m3u8
+
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2017/10/Kid-Flash-on-Legends-of-Tomorrow.jpg" background="purple", DC S LEGENDS OF TOMORROW 2S 4B
+https://storage.diziyou.co/episodes/80320_tr/720p.m3u8
+
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2017/10/Kid-Flash-on-Legends-of-Tomorrow.jpg" background="purple", DC S LEGENDS OF TOMORROW 2S 5B
+https://storage.diziyou.co/episodes/80321_tr/720p.m3u8
+
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2017/10/Kid-Flash-on-Legends-of-Tomorrow.jpg" background="purple", DC S LEGENDS OF TOMORROW 2S 6B
+https://storage.diziyou.co/episodes/80322_tr/720p.m3u8
+
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2017/10/Kid-Flash-on-Legends-of-Tomorrow.jpg" background="purple", DC S LEGENDS OF TOMORROW 2S 7B
+https://storage.diziyou.co/episodes/80323_tr/720p.m3u8
+
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2017/10/Kid-Flash-on-Legends-of-Tomorrow.jpg" background="purple", DC S LEGENDS OF TOMORROW 2S 8B
+https://storage.diziyou.co/episodes/80324_tr/720p.m3u8
+
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2017/10/Kid-Flash-on-Legends-of-Tomorrow.jpg" background="purple", DC S LEGENDS OF TOMORROW 2S 9B
+https://storage.diziyou.co/episodes/80325_tr/720p.m3u8
+
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2017/10/Kid-Flash-on-Legends-of-Tomorrow.jpg" background="purple", DC S LEGENDS OF TOMORROW 2S 10B
+https://storage.diziyou.co/episodes/80326_tr/720p.m3u8
+
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2017/10/Kid-Flash-on-Legends-of-Tomorrow.jpg" background="purple", DC S LEGENDS OF TOMORROW 2S 11B
+https://storage.diziyou.co/episodes/80327_tr/720p.m3u8
+
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2017/10/Kid-Flash-on-Legends-of-Tomorrow.jpg" background="purple", DC S LEGENDS OF TOMORROW 2S 12B
+https://storage.diziyou.co/episodes/80328_tr/720p.m3u8
+
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2017/10/Kid-Flash-on-Legends-of-Tomorrow.jpg" background="purple", DC S LEGENDS OF TOMORROW 2S 13B
+https://storage.diziyou.co/episodes/80329_tr/720p.m3u8
+
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2017/10/Kid-Flash-on-Legends-of-Tomorrow.jpg" background="purple", DC S LEGENDS OF TOMORROW 2S 14B
+https://storage.diziyou.co/episodes/80330_tr/720p.m3u8
+
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2017/10/Kid-Flash-on-Legends-of-Tomorrow.jpg" background="purple", DC S LEGENDS OF TOMORROW 2S 15B
+https://storage.diziyou.co/episodes/80331_tr/720p.m3u8
+
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2017/10/Kid-Flash-on-Legends-of-Tomorrow.jpg" background="purple", DC S LEGENDS OF TOMORROW 2S 16B
+https://storage.diziyou.co/episodes/80332_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2017/10/Kid-Flash-on-Legends-of-Tomorrow.jpg" background="purple", DC S LEGENDS OF TOMORROW 2S 1B
+https://storage.diziyou.co/episodes/80333_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2017/10/Kid-Flash-on-Legends-of-Tomorrow.jpg" background="purple", DC S LEGENDS OF TOMORROW 3S 1B
+https://storage.diziyou.co/episodes/80334_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2017/10/Kid-Flash-on-Legends-of-Tomorrow.jpg" background="purple", DC S LEGENDS OF TOMORROW 3S 2B
+https://storage.diziyou.co/episodes/80335_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2017/10/Kid-Flash-on-Legends-of-Tomorrow.jpg" background="purple", DC S LEGENDS OF TOMORROW 3S 3B
+https://storage.diziyou.co/episodes/80336_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2017/10/Kid-Flash-on-Legends-of-Tomorrow.jpg" background="purple", DC S LEGENDS OF TOMORROW 3S 4B
+https://storage.diziyou.co/episodes/80337_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2017/10/Kid-Flash-on-Legends-of-Tomorrow.jpg" background="purple", DC S LEGENDS OF TOMORROW 3S 5B
+https://storage.diziyou.co/episodes/80338_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2017/10/Kid-Flash-on-Legends-of-Tomorrow.jpg" background="purple", DC S LEGENDS OF TOMORROW 3S 6B
+https://storage.diziyou.co/episodes/80339_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2017/10/Kid-Flash-on-Legends-of-Tomorrow.jpg" background="purple", DC S LEGENDS OF TOMORROW 3S 7B
+https://storage.diziyou.co/episodes/80340_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2017/10/Kid-Flash-on-Legends-of-Tomorrow.jpg" background="purple", DC S LEGENDS OF TOMORROW 3S 8B
+https://storage.diziyou.co/episodes/80341_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2017/10/Kid-Flash-on-Legends-of-Tomorrow.jpg" background="purple", DC S LEGENDS OF TOMORROW 3S 9B
+https://storage.diziyou.co/episodes/80342_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2017/10/Kid-Flash-on-Legends-of-Tomorrow.jpg" background="purple", DC S LEGENDS OF TOMORROW 3S 10B
+https://storage.diziyou.co/episodes/80343_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2017/10/Kid-Flash-on-Legends-of-Tomorrow.jpg" background="purple", DC S LEGENDS OF TOMORROW 3S 11B
+https://storage.diziyou.co/episodes/80344_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2017/10/Kid-Flash-on-Legends-of-Tomorrow.jpg" background="purple", DC S LEGENDS OF TOMORROW 3S 12B
+https://storage.diziyou.co/episodes/80345_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2017/10/Kid-Flash-on-Legends-of-Tomorrow.jpg" background="purple", DC S LEGENDS OF TOMORROW 3S 13B
+https://storage.diziyou.co/episodes/80346_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2017/10/Kid-Flash-on-Legends-of-Tomorrow.jpg" background="purple", DC S LEGENDS OF TOMORROW 3S 14B
+https://storage.diziyou.co/episodes/80347_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2017/10/Kid-Flash-on-Legends-of-Tomorrow.jpg" background="purple", DC S LEGENDS OF TOMORROW 3S 15B
+https://storage.diziyou.co/episodes/80348_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2017/10/Kid-Flash-on-Legends-of-Tomorrow.jpg" background="purple", DC S LEGENDS OF TOMORROW 3S 16B
+https://storage.diziyou.co/episodes/80349_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2017/10/Kid-Flash-on-Legends-of-Tomorrow.jpg" background="purple", DC S LEGENDS OF TOMORROW 3S 17B
+https://storage.diziyou.co/episodes/80350_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2017/10/Kid-Flash-on-Legends-of-Tomorrow.jpg" background="purple", DC S LEGENDS OF TOMORROW 3S 18B
+https://storage.diziyou.co/episodes/80351_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2017/10/Kid-Flash-on-Legends-of-Tomorrow.jpg" background="purple", DC S LEGENDS OF TOMORROW 4S 1B
+https://storage.diziyou.co/episodes/80352_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2017/10/Kid-Flash-on-Legends-of-Tomorrow.jpg" background="purple", DC S LEGENDS OF TOMORROW 4S 2B
+https://storage.diziyou.co/episodes/80353_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2017/10/Kid-Flash-on-Legends-of-Tomorrow.jpg" background="purple", DC S LEGENDS OF TOMORROW 4S 3B
+https://storage.diziyou.co/episodes/80354_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2017/10/Kid-Flash-on-Legends-of-Tomorrow.jpg" background="purple", DC S LEGENDS OF TOMORROW 4S 4B
+https://storage.diziyou.co/episodes/80355_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2017/10/Kid-Flash-on-Legends-of-Tomorrow.jpg" background="purple", DC S LEGENDS OF TOMORROW 4S 5B
+https://storage.diziyou.co/episodes/80356_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2017/10/Kid-Flash-on-Legends-of-Tomorrow.jpg" background="purple", DC S LEGENDS OF TOMORROW 4S 6B
+https://storage.diziyou.co/episodes/80357_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2017/10/Kid-Flash-on-Legends-of-Tomorrow.jpg" background="purple", DC S LEGENDS OF TOMORROW 4S 7B
+https://storage.diziyou.co/episodes/80358_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2017/10/Kid-Flash-on-Legends-of-Tomorrow.jpg" background="purple", DC S LEGENDS OF TOMORROW 4S 8B
+https://storage.diziyou.co/episodes/80359_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2017/10/Kid-Flash-on-Legends-of-Tomorrow.jpg" background="purple", DC S LEGENDS OF TOMORROW 4S 9B
+https://storage.diziyou.co/episodes/80360_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2017/10/Kid-Flash-on-Legends-of-Tomorrow.jpg" background="purple", DC S LEGENDS OF TOMORROW 4S 10B
+https://storage.diziyou.co/episodes/80361_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2017/10/Kid-Flash-on-Legends-of-Tomorrow.jpg" background="purple", DC S LEGENDS OF TOMORROW 4S 11B
+https://storage.diziyou.co/episodes/80362_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2017/10/Kid-Flash-on-Legends-of-Tomorrow.jpg" background="purple", DC S LEGENDS OF TOMORROW 4S 12B
+https://storage.diziyou.co/episodes/80363_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2017/10/Kid-Flash-on-Legends-of-Tomorrow.jpg" background="purple", DC S LEGENDS OF TOMORROW 4S 13B
+https://storage.diziyou.co/episodes/80364_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2017/10/Kid-Flash-on-Legends-of-Tomorrow.jpg" background="purple", DC S LEGENDS OF TOMORROW 4S 14B
+https://storage.diziyou.co/episodes/80365_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2017/10/Kid-Flash-on-Legends-of-Tomorrow.jpg" background="purple", DC S LEGENDS OF TOMORROW 4S 15B
+https://storage.diziyou.co/episodes/80366_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2017/10/Kid-Flash-on-Legends-of-Tomorrow.jpg" background="purple", DC S LEGENDS OF TOMORROW 4S 16B
+https://storage.diziyou.co/episodes/80367_tr/720p.m3u8
+
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2017/10/Kid-Flash-on-Legends-of-Tomorrow.jpg" background="purple", DC S LEGENDS OF TOMORROW 5S 1B
+https://storage.diziyou.co/episodes/80368_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2017/10/Kid-Flash-on-Legends-of-Tomorrow.jpg" background="purple", DC S LEGENDS OF TOMORROW 5S 2B
+https://storage.diziyou.co/episodes/80369_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2017/10/Kid-Flash-on-Legends-of-Tomorrow.jpg" background="purple", DC S LEGENDS OF TOMORROW 5S 3B
+https://storage.diziyou.co/episodes/80370_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2017/10/Kid-Flash-on-Legends-of-Tomorrow.jpg" background="purple", DC S LEGENDS OF TOMORROW 5S 4B
+https://storage.diziyou.co/episodes/80371_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2017/10/Kid-Flash-on-Legends-of-Tomorrow.jpg" background="purple", DC S LEGENDS OF TOMORROW 5S 5B
+https://storage.diziyou.co/episodes/80372_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2017/10/Kid-Flash-on-Legends-of-Tomorrow.jpg" background="purple", DC S LEGENDS OF TOMORROW 5S 6B
+https://storage.diziyou.co/episodes/80373_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2017/10/Kid-Flash-on-Legends-of-Tomorrow.jpg" background="purple", DC S LEGENDS OF TOMORROW 5S 7B
+https://storage.diziyou.co/episodes/80374_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2017/10/Kid-Flash-on-Legends-of-Tomorrow.jpg" background="purple", DC S LEGENDS OF TOMORROW 5S 8B
+https://storage.diziyou.co/episodes/80375_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2017/10/Kid-Flash-on-Legends-of-Tomorrow.jpg" background="purple", DC S LEGENDS OF TOMORROW 5S 9B
+https://storage.diziyou.co/episodes/80376_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2017/10/Kid-Flash-on-Legends-of-Tomorrow.jpg" background="purple", DC S LEGENDS OF TOMORROW 5S 10B
+https://storage.diziyou.co/episodes/80377_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2017/10/Kid-Flash-on-Legends-of-Tomorrow.jpg" background="purple", DC S LEGENDS OF TOMORROW 5S 11B
+https://storage.diziyou.co/episodes/80378_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2017/10/Kid-Flash-on-Legends-of-Tomorrow.jpg" background="purple", DC S LEGENDS OF TOMORROW 5S 12B
+https://storage.diziyou.co/episodes/80379_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2017/10/Kid-Flash-on-Legends-of-Tomorrow.jpg" background="purple", DC S LEGENDS OF TOMORROW 5S 13B
+https://storage.diziyou.co/episodes/80380_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2017/10/Kid-Flash-on-Legends-of-Tomorrow.jpg" background="purple", DC S LEGENDS OF TOMORROW 5S 14B
+https://storage.diziyou.co/episodes/80381_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2017/10/Kid-Flash-on-Legends-of-Tomorrow.jpg" background="purple", DC S LEGENDS OF TOMORROW 5S 15B
+https://storage.diziyou.co/episodes/80382_tr/720p.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
