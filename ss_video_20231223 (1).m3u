@@ -5,6 +5,8 @@ type="video" channelId="-1"  logo="https://upload.wikimedia.org/wikipedia/common
 type="video" channelId="-1"  logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/DC_Comics_logo.svg/800px-DC_Comics_logo.svg.png" background="purple", DC
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/The_CW_2024.svg/1200px-The_CW_2024.svg.png" background="purple", THE CW
 type="video" channelId="-1"  logo="https://static.wikia.nocookie.net/logopedia/images/d/d8/The_CW_%28Print%29.svg/revision/latest?cb=20180910214129" background="purple", THE CW
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Prime_Video_logo_%282024%29.svg/1024px-Prime_Video_logo_%282024%29.svg.png" background="purple", PRİME VİDEO
+
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://m.media-amazon.com/images/S/pv-target-images/d9862844dfbf66d1277dddd35561b0897422748c08e182974b7528ed64ae3bf5.jpg" background="purple", DEXTER 1S 1B
 https://storage.diziyou.co/episodes/25601_tr/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://xb-static.nm-ovp.nelonenmedia.fi/xb/styles/640x360/public/img/b20e6bedc2b9655db6b9488f8b86285f9ee2a7c7-Dexter-New-Blood_3840x2160_SERIES_LANDSCAPE_NOBRAND_ENG_0000701029.jpg" background="purple", DEXTER 2 NEW BLOOD 1S 1B
@@ -71,6 +73,40 @@ https://storage.diziyou.co/episodes/10751_tr/720p.m3u8
 https://vod02.cdn.web.tv/lf/do/lfdoahfiiqo_,240,360,480,.mp4.urlset/playlist-f3-v1-a1.m3u8
 #EXTINF:0 type="video" channelId="-1" group="Diziler" logo="https://static.wikia.nocookie.net/antagonisten/images/c/ca/Peacemaker_%28TSS%29.jpg/revision/latest/top-crop/width/360/height/360?cb=20210809234936&path-prefix=de" background="purple", PEACEMAKER 1S 1B
 https://storage.diziyou.co/episodes/17401_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Anime 1080p" logo="https://d.newsweek.com/en/full/1955557/attack-titan.jpg?w=1600&h=1600&q=88&f=8e7407b61cadba7bad4bced68d2082cb" background="purple", ATTACK ON TİTAN 1S 1B
+https://gogo.party/shingeki-no-kyojin-attack-on-titan/1/1/1080.mp4
+#EXTINF:0 type="video" channelId="-1" group-title="Anime 1080p" logo="https://i.scdn.co/image/ab67616d0000b273b88b4c8e59c780fa3a65de57" background="purple", CHAINSaw MAN 1S 1B
+https://gogo.party/chainsaw-man/1/1/1080.mp4
+#EXTINF:0 type="video" channelId="-1" group-title="Anime 1080p" logo="https://img.odcdn.com.br/cdn-cgi/image/width=1200,height=1200,fit=cover/wp-content/uploads/2021/09/jujutsu-kaisen-2.jpg" background="purple", JUJUTSU KAİSEN 1S 1B
+https://gogo.party/jujutsu-kaisen/1/1/1080.mp4
+#EXTINF:0 type="video" channelId="-1" group-title="Anime 1080p" logo="https://i.blogs.es/95ef39/critica-myheroacademia-fichatv/375_375.jpeg" background="purple", MY HERO ACADEMY 1S 1B
+https://gogo.party/my-hero-academia/1/1/720.mp4
+#EXTINF:0 type="video" channelId="-1" group-title="Anime 1080p" logo="https://hips.hearstapps.com/hmg-prod/images/demon-slayer-1657889450.jpeg?crop=0.563xw:1.00xh;0.229xw,0&resize=1200:*" background="purple", DEMON SLAYER 1S 1B
+https://gogo.party/demon-slayer-kimetsu-no-yaiba/1/1/1080.mp4
+#EXTINF:0 type="video" channelId="-1" group-title="Anime 1080p" logo="https://m.media-amazon.com/images/S/pv-target-images/0c9ce4e037546965d6b1f3807e9f8f549a113d32066b2bdb22ada5d179c0d89a.jpg" background="purple", NARUTO 1S 1B
+https://gogo.party/naruto/1/1/1080.mp4
+#EXTINF:0 type="video" channelId="-1" group-title="Anime 1080p" logo="https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p11944294_b_v8_ab.jpg" background="purple", NARUTO SHİPPUDEN 1S 1B
+https://gogo.party/naruto-shippuden/1/1/480.mp4
+#EXTINF:0 type="video" channelId="-1" group-title="Anime 1080p" logo="https://pbs.twimg.com/profile_images/1640001832461139968/h37H0y6j_400x400.jpg" background="purple", BORUTO 1S 1B
+https://gogo.party/boruto-naruto-next-generations/1/1/1080.mp4
+#EXTINF:0 type="video" channelId="-1" group-title="Anime 1080p" logo="https://i0.wp.com/ovicio.com.br/wp-content/uploads/2021/11/20211119-ovicio-one-piece-cosplay-luffy.jpg?resize=555%2C555&ssl=1" background="purple", ONE PIECE 1S 1B
+https://gogo.party/one-piece/1/1/1080.mp4
+#EXTINF:0 type="video" channelId="-1" group-title="Anime 1080p" logo="https://pbs.twimg.com/profile_images/1809294396120350720/LIOAd1Ij_400x400.jpg" background="purple", BLUE LOCK 1S 1B
+https://gogo.party/blue-lock/1/1/1080.mp4
+#EXTINF:0 type="video" channelId="-1" group-title="Anime 1080p" logo="https://assets1.ignimgs.com/2019/05/29/dr-stone-button-1559160554100.jpg" background="purple", DR STONE 1S 1B
+https://gogo.party/dr-stone/1/1/1080.mp4
+#EXTINF:0 type="video" channelId="-1" group-title="Anime 1080p" logo="https://comicvine.gamespot.com/a/uploads/square_small/6/67663/4413591-5429447989-82781.jpg" background="purple", BLACK CLOVER 1S 1B
+https://gogo.party/black-clover/1/1/1080.mp4
+#EXTINF:0 type="video" channelId="-1" group-title="Anime 1080p" logo="https://i.scdn.co/image/ab67616d0000b27364ce43799f53366b384be263" background="purple", SPY X FAMİLY 1S 1B
+https://gogo.party/spy-x-family/1/1/1080.mp4
+#EXTINF:0 type="video" channelId="-1" group-title="Anime 1080p" logo="https://roppongi.fr/wp-content/uploads/images-articles_14_-1-1024x1024.webp" background="purple", SWORD ART ONLİNE 1S 1B
+https://gogo.party/sword-art-online/1/1/1080.mp4
+#EXTINF:0 type="video" channelId="-1" group-title="Anime 1080p" logo="https://roppongi.fr/wp-content/uploads/Tokyo-ghoul.jpg" background="purple", TOKYO GHOUL 1S 1B
+https://gogo.party/tokyo-ghoul/1/1/1080.mp4
+#EXTINF:0 type="video" channelId="-1" group-title="Anime 1080p" logo="https://i0.wp.com/ovicio.com.br/wp-content/uploads/2022/08/20220803-20220803_214217.jpg?resize=555%2C555&ssl=1" background="purple", ONE PUNCH MAN 1S 1B
+https://gogo.party/one-punch-man/1/1/1080.mp4
+#EXTINF:0 type="video" channelId="-1" group-title="Anime 1080p" logo="https://i.pinimg.com/736x/39/be/77/39be77ca4e4e330eec47eea41666bc76.jpg" background="purple", DORORO 1S 1B
+https://gogo.party/dororo/1/1/1080.mp4
 #EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://eagleeye.news/wp-content/uploads/2017/10/rick-and-morty-e1507831459637.jpg" background="purple", RİCK AND MORTY 1S 2B
 https://storage.diziyou.co/episodes/11502_tr/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://eagleeye.news/wp-content/uploads/2017/10/rick-and-morty-e1507831459637.jpg" background="purple", RİCK AND MORTY 1S 3B
@@ -369,8 +405,6 @@ https://storage.diziyou.co/episodes/18798_tr/720p.m3u8
 https://storage.diziyou.co/episodes/18799_tr/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://ds.static.rtbf.be/article/image/1920x1080/4/3/3/349f36aa789af083b8e26839bd498af9-1469179192.jpg" background="purple", TEEN WOLF 6S 20B
 https://storage.diziyou.co/episodes/18800_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Oyun Severlere" logo="https://ovicio.com.br/wp-content/uploads/2022/10/20221015-ovicio-vikings-valhalla-1-1024x576.jpg" background="purple", VİKİNGS VALHALLA 1S 1B
-https://storage.diziyou.co/episodes/16251/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 1S 2B
 https://lh3.googleusercontent.com/K1_6Je8-eI47VWICXWfSIgoSuT9eKO0B_Q5WsGy9J3cyIAU9G8BouhpwTpe35GYCVzZw_QbYVJJmZg35a6Th-mybe_GmN-rcw0FZwoltGzGLk7btsaMkvoPDPfK-htnM9x2lbh9aHQ=m18
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 1S 3B
@@ -2707,39 +2741,6 @@ https://storage.diziyou.co/episodes/88716_tr/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://ares.shiftdelete.net/2022/01/halo-dizisi-yayin-tarihi-yeni-fragman.jpg" background="purple", HALO 2S 8B
 https://storage.diziyou.co/episodes/88717_tr/720p.m3u8
 
-#EXTINF:0 type="video" channelId="-1" group-title="Oyun Severlere" logo="https://ares.shiftdelete.net/2022/01/halo-dizisi-yayin-tarihi-yeni-fragman.jpg" background="purple", HALO 1S 2B
-https://storage.diziyou.co/episodes/88702_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Oyun Severlere" logo="https://ares.shiftdelete.net/2022/01/halo-dizisi-yayin-tarihi-yeni-fragman.jpg" background="purple", HALO 1S 3B
-https://storage.diziyou.co/episodes/88703_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Oyun Severlere" logo="https://ares.shiftdelete.net/2022/01/halo-dizisi-yayin-tarihi-yeni-fragman.jpg" background="purple", HALO 1S 4B
-https://storage.diziyou.co/episodes/88704_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Oyun Severlere" logo="https://ares.shiftdelete.net/2022/01/halo-dizisi-yayin-tarihi-yeni-fragman.jpg" background="purple", HALO 1S 5B
-https://storage.diziyou.co/episodes/88705_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Oyun Severlere" logo="https://ares.shiftdelete.net/2022/01/halo-dizisi-yayin-tarihi-yeni-fragman.jpg" background="purple", HALO 1S 6B
-https://storage.diziyou.co/episodes/88706_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Oyun Severlere" logo="https://ares.shiftdelete.net/2022/01/halo-dizisi-yayin-tarihi-yeni-fragman.jpg" background="purple", HALO 1S 7B
-https://storage.diziyou.co/episodes/88707_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Oyun Severlere" logo="https://ares.shiftdelete.net/2022/01/halo-dizisi-yayin-tarihi-yeni-fragman.jpg" background="purple", HALO 1S 8B
-https://storage.diziyou.co/episodes/88708_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Oyun Severlere" logo="https://ares.shiftdelete.net/2022/01/halo-dizisi-yayin-tarihi-yeni-fragman.jpg" background="purple", HALO 1S 9B
-https://storage.diziyou.co/episodes/88709_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Oyun Severlere" logo="https://ares.shiftdelete.net/2022/01/halo-dizisi-yayin-tarihi-yeni-fragman.jpg" background="purple", HALO 2S 1B
-https://storage.diziyou.co/episodes/88710_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Oyun Severlere" logo="https://ares.shiftdelete.net/2022/01/halo-dizisi-yayin-tarihi-yeni-fragman.jpg" background="purple", HALO 2S 2B
-https://storage.diziyou.co/episodes/88711_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Oyun Severlere" logo="https://ares.shiftdelete.net/2022/01/halo-dizisi-yayin-tarihi-yeni-fragman.jpg" background="purple", HALO 2S 3B
-https://storage.diziyou.co/episodes/88712_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Oyun Severlere" logo="https://ares.shiftdelete.net/2022/01/halo-dizisi-yayin-tarihi-yeni-fragman.jpg" background="purple", HALO 2S 4B
-https://storage.diziyou.co/episodes/88713_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Oyun Severlere" logo="https://ares.shiftdelete.net/2022/01/halo-dizisi-yayin-tarihi-yeni-fragman.jpg" background="purple", HALO 2S 5B
-https://storage.diziyou.co/episodes/88714_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Oyun Severlere" logo="https://ares.shiftdelete.net/2022/01/halo-dizisi-yayin-tarihi-yeni-fragman.jpg" background="purple", HALO 2S 6B
-https://storage.diziyou.co/episodes/88715_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Oyun Severlere" logo="https://ares.shiftdelete.net/2022/01/halo-dizisi-yayin-tarihi-yeni-fragman.jpg" background="purple", HALO 2S 7B
-https://storage.diziyou.co/episodes/88716_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Oyun Severlere" logo="https://ares.shiftdelete.net/2022/01/halo-dizisi-yayin-tarihi-yeni-fragman.jpg" background="purple", HALO 2S 8B
-https://storage.diziyou.co/episodes/88717_tr/720p.m3u8
-
 
 #EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://fictionhorizon.com/wp-content/uploads/2022/12/VSS1.jpg" subtitles="https://storage.diziyou.co/subtitles/83002/tr.vtt" background="purple", VİNLAND SAGA 1S 2B
 https://storage.diziyou.co/episodes/83002/720p.m3u8
@@ -4775,40 +4776,6 @@ https://storage.diziyou.co/episodes/60819_tr/720p.m3u8
 https://storage.diziyou.co/episodes/60820_tr/720p.m3u8
 
 
-#EXTINF:0 type="video" channelId="-1" group-title="Anime 1080p" logo="https://d.newsweek.com/en/full/1955557/attack-titan.jpg?w=1600&h=1600&q=88&f=8e7407b61cadba7bad4bced68d2082cb" background="purple", ATTACK ON TİTAN 1S 1B
-https://gogo.party/shingeki-no-kyojin-attack-on-titan/1/1/1080.mp4
-#EXTINF:0 type="video" channelId="-1" group-title="Anime 1080p" logo="https://i.scdn.co/image/ab67616d0000b273b88b4c8e59c780fa3a65de57" background="purple", CHAINSaw MAN 1S 1B
-https://gogo.party/chainsaw-man/1/1/1080.mp4
-#EXTINF:0 type="video" channelId="-1" group-title="Anime 1080p" logo="https://img.odcdn.com.br/cdn-cgi/image/width=1200,height=1200,fit=cover/wp-content/uploads/2021/09/jujutsu-kaisen-2.jpg" background="purple", JUJUTSU KAİSEN 1S 1B
-https://gogo.party/jujutsu-kaisen/1/1/1080.mp4
-#EXTINF:0 type="video" channelId="-1" group-title="Anime 1080p" logo="https://i.blogs.es/95ef39/critica-myheroacademia-fichatv/375_375.jpeg" background="purple", MY HERO ACADEMY 1S 1B
-https://gogo.party/my-hero-academia/1/1/720.mp4
-#EXTINF:0 type="video" channelId="-1" group-title="Anime 1080p" logo="https://hips.hearstapps.com/hmg-prod/images/demon-slayer-1657889450.jpeg?crop=0.563xw:1.00xh;0.229xw,0&resize=1200:*" background="purple", DEMON SLAYER 1S 1B
-https://gogo.party/demon-slayer-kimetsu-no-yaiba/1/1/1080.mp4
-#EXTINF:0 type="video" channelId="-1" group-title="Anime 1080p" logo="https://m.media-amazon.com/images/S/pv-target-images/0c9ce4e037546965d6b1f3807e9f8f549a113d32066b2bdb22ada5d179c0d89a.jpg" background="purple", NARUTO 1S 1B
-https://gogo.party/naruto/1/1/1080.mp4
-#EXTINF:0 type="video" channelId="-1" group-title="Anime 1080p" logo="https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p11944294_b_v8_ab.jpg" background="purple", NARUTO SHİPPUDEN 1S 1B
-https://gogo.party/naruto-shippuden/1/1/480.mp4
-#EXTINF:0 type="video" channelId="-1" group-title="Anime 1080p" logo="https://pbs.twimg.com/profile_images/1640001832461139968/h37H0y6j_400x400.jpg" background="purple", BORUTO 1S 1B
-https://gogo.party/boruto-naruto-next-generations/1/1/1080.mp4
-#EXTINF:0 type="video" channelId="-1" group-title="Anime 1080p" logo="https://i0.wp.com/ovicio.com.br/wp-content/uploads/2021/11/20211119-ovicio-one-piece-cosplay-luffy.jpg?resize=555%2C555&ssl=1" background="purple", ONE PIECE 1S 1B
-https://gogo.party/one-piece/1/1/1080.mp4
-#EXTINF:0 type="video" channelId="-1" group-title="Anime 1080p" logo="https://pbs.twimg.com/profile_images/1809294396120350720/LIOAd1Ij_400x400.jpg" background="purple", BLUE LOCK 1S 1B
-https://gogo.party/blue-lock/1/1/1080.mp4
-#EXTINF:0 type="video" channelId="-1" group-title="Anime 1080p" logo="https://assets1.ignimgs.com/2019/05/29/dr-stone-button-1559160554100.jpg" background="purple", DR STONE 1S 1B
-https://gogo.party/dr-stone/1/1/1080.mp4
-#EXTINF:0 type="video" channelId="-1" group-title="Anime 1080p" logo="https://comicvine.gamespot.com/a/uploads/square_small/6/67663/4413591-5429447989-82781.jpg" background="purple", BLACK CLOVER 1S 1B
-https://gogo.party/black-clover/1/1/1080.mp4
-#EXTINF:0 type="video" channelId="-1" group-title="Anime 1080p" logo="https://i.scdn.co/image/ab67616d0000b27364ce43799f53366b384be263" background="purple", SPY X FAMİLY 1S 1B
-https://gogo.party/spy-x-family/1/1/1080.mp4
-#EXTINF:0 type="video" channelId="-1" group-title="Anime 1080p" logo="https://roppongi.fr/wp-content/uploads/images-articles_14_-1-1024x1024.webp" background="purple", SWORD ART ONLİNE 1S 1B
-https://gogo.party/sword-art-online/1/1/1080.mp4
-#EXTINF:0 type="video" channelId="-1" group-title="Anime 1080p" logo="https://roppongi.fr/wp-content/uploads/Tokyo-ghoul.jpg" background="purple", TOKYO GHOUL 1S 1B
-https://gogo.party/tokyo-ghoul/1/1/1080.mp4
-#EXTINF:0 type="video" channelId="-1" group-title="Anime 1080p" logo="https://i0.wp.com/ovicio.com.br/wp-content/uploads/2022/08/20220803-20220803_214217.jpg?resize=555%2C555&ssl=1" background="purple", ONE PUNCH MAN 1S 1B
-https://gogo.party/one-punch-man/1/1/1080.mp4
-#EXTINF:0 type="video" channelId="-1" group-title="Anime 1080p" logo="https://i.pinimg.com/736x/39/be/77/39be77ca4e4e330eec47eea41666bc76.jpg" background="purple", DORORO 1S 1B
-https://gogo.party/dororo/1/1/1080.mp4
 #EXTINF:0 type="video" channelId="-1" group-title="Anime 1080p" logo="https://img.odcdn.com.br/cdn-cgi/image/width=1200,height=1200,fit=cover/wp-content/uploads/2021/09/jujutsu-kaisen-2.jpg" background="purple", JUJUTSU KAİSEN 1S 2B
 https://gogo.party/jujutsu-kaisen/1/2/1080.mp4
 #EXTINF:0 type="video" channelId="-1" group-title="Anime 1080p" logo="https://img.odcdn.com.br/cdn-cgi/image/width=1200,height=1200,fit=cover/wp-content/uploads/2021/09/jujutsu-kaisen-2.jpg" background="purple", JUJUTSU KAİSEN 1S 3B
