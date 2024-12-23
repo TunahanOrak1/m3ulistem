@@ -1,11 +1,26 @@
 #EXTM3U
+
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://png.pngtree.com/png-clipart/20230805/original/pngtree-error-flat-red-color-icon-error-exclamation-mark-notice-vector-picture-image_9756809.png" background="purple", DİKKAT (DİZİLERİN İLK BÖLÜMLERİ BAŞTADIR ARAMA KISMINDAN TÜM BÖLÜMLERE ULAŞABİLİRSİNİZ VE ANİMELERİ SS İPTV DESTEKLEMEZ)
+https://storage.diziyou.co/episodes/10151_tr/720p.m3u8
+
+
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Warner_Bros._logo_2023.svg/1011px-Warner_Bros._logo_2023.svg.png" background="purple", WARNER BROS
-type="video" channelId="-1"  logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Warner_Bros._logo_2023.svg/1011px-Warner_Bros._logo_2023.svg.png" background="purple", WARNER BROS
+https://storage.diziyou.co/episodes/10151_tr/720p.m3u8
+
 #EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/DC_Comics_logo.svg/800px-DC_Comics_logo.svg.png" background="purple", DC
-type="video" channelId="-1"  logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/DC_Comics_logo.svg/800px-DC_Comics_logo.svg.png" background="purple", DC
+https://storage.diziyou.co/episodes/78301_tr/720p.m3u8
+
+
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/The_CW_2024.svg/1200px-The_CW_2024.svg.png" background="purple", THE CW
-type="video" channelId="-1"  logo="https://static.wikia.nocookie.net/logopedia/images/d/d8/The_CW_%28Print%29.svg/revision/latest?cb=20180910214129" background="purple", THE CW
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Prime_Video_logo_%282024%29.svg/1024px-Prime_Video_logo_%282024%29.svg.png" background="purple", PRİME VİDEO
+https://storage.diziyou.co/episodes/60901_tr/720p.m3u8
+
+
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Amazon_Prime_Video_logo.svg/1024px-Amazon_Prime_Video_logo.svg.png" background="purple", PRİME VİDEO
+https://storage.diziyou.co/episodes/95001_tr/720p.m3u8
+
+#EXTINF:0 type="video" channelId="-1" group-title="Anime 1080p" logo="https://cdn.bynogame.com/games/1723584932100.webp" background="purple", CRUNCHYROLL (ANİMELER)
+https://gogo.party/naruto/1/1/1080.mp4
+
 
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://m.media-amazon.com/images/S/pv-target-images/d9862844dfbf66d1277dddd35561b0897422748c08e182974b7528ed64ae3bf5.jpg" background="purple", DEXTER 1S 1B
 https://storage.diziyou.co/episodes/25601_tr/720p.m3u8
@@ -12505,6 +12520,8 @@ düşük kaliteli animeler buradan itibaren
 
 
 
+#EXTINF:0 type="video" channelId="-1" group-title="Anime 480p" logo="https://cdn.bynogame.com/games/1723584932100.webp" background="purple", CRUNCHYROLL (ANİMELER)
+https://gogo.party/naruto/1/1/480.mp4
 
 
 
