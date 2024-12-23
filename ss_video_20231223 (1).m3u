@@ -18,6 +18,9 @@ https://storage.diziyou.co/episodes/60901_tr/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Amazon_Prime_Video_logo.svg/1024px-Amazon_Prime_Video_logo.svg.png" background="purple", PRİME VİDEO
 https://storage.diziyou.co/episodes/95001_tr/720p.m3u8
 
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://www.pngall.com/wp-content/uploads/13/Adult-Swim-Logo-PNG.png" background="purple", ADULT SWİM
+https://storage.diziyou.co/episodes/11502_tr/720p.m3u8
+
 #EXTINF:0 type="video" channelId="-1" group-title="Anime 1080p" logo="https://cdn.bynogame.com/games/1723584932100.webp" background="purple", CRUNCHYROLL (ANİMELER)
 https://gogo.party/naruto/1/1/1080.mp4
 
