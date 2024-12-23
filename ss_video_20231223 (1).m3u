@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://i.imgur.com/Ll0yd6v.jpeg" background="purple", JUDEX BİLGİLENDİRME VE KILAVUZ
-https://vod02.cdn.web.tv/le/z4/lez43d73gnm_,240,360,480,720,.mp4.urlset/playlist-f4-v1-a1.m3u8?st=FE8tsZ5fQW2_t6a9M4z3wg&e=1734980456
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://i.imgur.com/Ll0yd6v.jpeg" background="purple", BİLGİLENDİRME VE KILAVUZ
+https://vod02.cdn.web.tv/n4/bs/n4bsn3kkcxs_,240,360,480,720,.mp4.urlset/playlist-f4-v1-a1.m3u8?st=rYtz-9S2YEUqViK4drqt7w&e=1734982934
 
 
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Warner_Bros._logo_2023.svg/1011px-Warner_Bros._logo_2023.svg.png" background="purple", WARNER BROS
@@ -50,7 +50,7 @@ https://storage.diziyou.co/episodes/80401_tr/720p.m3u8
 https://storage.diziyou.co/episodes/78301_tr/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://ares.shiftdelete.net/2022/01/halo-dizisi-yayin-tarihi-yeni-fragman.jpg" background="purple", HALO 1S 1B
 https://storage.diziyou.co/episodes/88701_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 1S 1B (+13) (BİLİM KURGU VE DRAM)
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 1S 1B (+13)
 https://lh3.googleusercontent.com/RAdaZZZ5XURI6l4ymYCsIWUXxchJhenudk28pgkPwRHWXVt-7LGgMsOYL-zMV8w5OIJ4V8OqNkBVV8MPllJjkolPpJBrUNS5AMeJcfezsAG9M3k731j29qcv1vaQWqH9h8-BMMQiAA=m37
 #EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://eagleeye.news/wp-content/uploads/2017/10/rick-and-morty-e1507831459637.jpg" background="purple", RİCK AND MORTY 1S 1B
 https://storage.diziyou.co/episodes/11502_tr/720p.m3u8
