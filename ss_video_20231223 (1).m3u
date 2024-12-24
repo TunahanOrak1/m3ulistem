@@ -93,8 +93,6 @@ https://storage.diziyou.co/episodes/80301_tr/720p.m3u8
 https://storage.diziyou.co/episodes/60701_tr/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static1.colliderimages.com/wordpress/wp-content/uploads/2024/06/peaky-blinders-movie-ewksf.jpg" background="purple", PEAKY BLİNDERS 1S 1B
 https://storage.diziyou.co/episodes/10751_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i1.imgiz.com/rshots/8987/esrarengiz-kasaba-en-iyi-delik-hangisi_8987121-32230_1280x720.jpg" background="purple", ESRARENGİZ KASABA 1S 1B
-https://vod02.cdn.web.tv/lf/do/lfdoahfiiqo_,240,360,480,.mp4.urlset/playlist-f3-v1-a1.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static.wikia.nocookie.net/antagonisten/images/c/ca/Peacemaker_%28TSS%29.jpg/revision/latest/top-crop/width/360/height/360?cb=20210809234936&path-prefix=de" background="purple", PEACEMAKER 1S 1B
 https://storage.diziyou.co/episodes/17401_tr/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://pbs.twimg.com/profile_images/1230481511448580096/d6e1AgFf.jpg" background="purple", SAMURAİ JACK 1S 1B
@@ -4548,87 +4546,6 @@ https://storage.diziyou.co/episodes/17406_tr/720p.m3u8
 https://storage.diziyou.co/episodes/17407_tr/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://static.wikia.nocookie.net/antagonisten/images/c/ca/Peacemaker_%28TSS%29.jpg/revision/latest/top-crop/width/360/height/360?cb=20210809234936&path-prefix=de" background="purple", PEACEMAKER 1S 8B
 https://storage.diziyou.co/episodes/17408_tr/720p.m3u8
-
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i1.imgiz.com/rshots/8987/esrarengiz-kasaba-en-iyi-delik-hangisi_8987121-32230_1280x720.jpg" background="purple", ESRARENGİZ KASABA 1S 2B
-https://vod02.cdn.web.tv/eo/wa/eowaksj4mgo_,240,360,480,720,.mp4.urlset/playlist-f3-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i1.imgiz.com/rshots/8987/esrarengiz-kasaba-en-iyi-delik-hangisi_8987121-32230_1280x720.jpg" background="purple", ESRARENGİZ KASABA 1S 3B
-https://vod02.cdn.web.tv/eq/kz/eqkzswdcq8m_,240,360,480,720,.mp4.urlset/playlist-f4-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i1.imgiz.com/rshots/8987/esrarengiz-kasaba-en-iyi-delik-hangisi_8987121-32230_1280x720.jpg" background="purple", ESRARENGİZ KASABA 1S 4B
-https://vod02.cdn.web.tv/lh/nr/lhnrv4ojlis_,240,360,480,720,.mp4.urlset/playlist-f4-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i1.imgiz.com/rshots/8987/esrarengiz-kasaba-en-iyi-delik-hangisi_8987121-32230_1280x720.jpg" background="purple", ESRARENGİZ KASABA 1S 5B
-https://vod02.cdn.web.tv/o7/6w/o76wlwfnqxq_,240,360,480,720,.mp4.urlset/playlist-f3-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i1.imgiz.com/rshots/8987/esrarengiz-kasaba-en-iyi-delik-hangisi_8987121-32230_1280x720.jpg" background="purple", ESRARENGİZ KASABA 1S 6B
-https://vod02.cdn.web.tv/5j/rx/5jrxmfi0uly_,240,360,480,720,.mp4.urlset/playlist-f4-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i1.imgiz.com/rshots/8987/esrarengiz-kasaba-en-iyi-delik-hangisi_8987121-32230_1280x720.jpg" background="purple", ESRARENGİZ KASABA 1S 7B
-https://vod02.cdn.web.tv/4k/ih/4kihv2wmisc_,240,360,480,720,.mp4.urlset/playlist-f4-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i1.imgiz.com/rshots/8987/esrarengiz-kasaba-en-iyi-delik-hangisi_8987121-32230_1280x720.jpg" background="purple", ESRARENGİZ KASABA 1S 8B
-https://vod02.cdn.web.tv/wn/mc/wnmcijvhgom_,240,360,480,720,.mp4.urlset/playlist-f3-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i1.imgiz.com/rshots/8987/esrarengiz-kasaba-en-iyi-delik-hangisi_8987121-32230_1280x720.jpg" background="purple", ESRARENGİZ KASABA 1S 9B
-https://vod02.cdn.web.tv/hl/wv/hlwv43azbms_,240,360,480,720,.mp4.urlset/playlist-f4-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i1.imgiz.com/rshots/8987/esrarengiz-kasaba-en-iyi-delik-hangisi_8987121-32230_1280x720.jpg" background="purple", ESRARENGİZ KASABA 1S 10B
-https://vod02.cdn.web.tv/r3/dz/r3dzpzt2lyv_,240,360,480,720,.mp4.urlset/playlist-f2-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i1.imgiz.com/rshots/8987/esrarengiz-kasaba-en-iyi-delik-hangisi_8987121-32230_1280x720.jpg" background="purple", ESRARENGİZ KASABA 1S 11B
-https://vod02.cdn.web.tv/m2/lo/m2loggpjljs_,240,360,480,720,.mp4.urlset/playlist-f4-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i1.imgiz.com/rshots/8987/esrarengiz-kasaba-en-iyi-delik-hangisi_8987121-32230_1280x720.jpg" background="purple", ESRARENGİZ KASABA 1S 12B
-https://vod02.cdn.web.tv/ew/cm/ewcmfz6lxsy_,240,360,480,720,.mp4.urlset/playlist-f4-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i1.imgiz.com/rshots/8987/esrarengiz-kasaba-en-iyi-delik-hangisi_8987121-32230_1280x720.jpg" background="purple", ESRARENGİZ KASABA 1S 13B
-https://vod02.cdn.web.tv/6l/bs/6lbssqql6ki_,240,360,480,720,.mp4.urlset/playlist-f4-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i1.imgiz.com/rshots/8987/esrarengiz-kasaba-en-iyi-delik-hangisi_8987121-32230_1280x720.jpg" background="purple", ESRARENGİZ KASABA 1S 14B
-https://vod02.cdn.web.tv/lq/r2/lqr2kemhb4s_,240,360,480,720,.mp4.urlset/playlist-f4-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i1.imgiz.com/rshots/8987/esrarengiz-kasaba-en-iyi-delik-hangisi_8987121-32230_1280x720.jpg" background="purple", ESRARENGİZ KASABA 1S 15B
-https://vod02.cdn.web.tv/qb/lc/qblc1z0g57o_,240,360,480,720,.mp4.urlset/playlist-f4-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i1.imgiz.com/rshots/8987/esrarengiz-kasaba-en-iyi-delik-hangisi_8987121-32230_1280x720.jpg" background="purple", ESRARENGİZ KASABA 1S 16B
-https://vod02.cdn.web.tv/4o/dg/4odgkjwbe9w_,240,360,480,720,.mp4.urlset/playlist-f4-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i1.imgiz.com/rshots/8987/esrarengiz-kasaba-en-iyi-delik-hangisi_8987121-32230_1280x720.jpg" background="purple", ESRARENGİZ KASABA 1S 17B
-https://vod02.cdn.web.tv/7g/kg/7gkgkcqwxuq_,240,360,480,720,.mp4.urlset/playlist-f4-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i1.imgiz.com/rshots/8987/esrarengiz-kasaba-en-iyi-delik-hangisi_8987121-32230_1280x720.jpg" background="purple", ESRARENGİZ KASABA 1S 18B
-https://vod02.cdn.web.tv/4i/3j/4i3jvt1spve_,240,360,480,720,.mp4.urlset/playlist-f4-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i1.imgiz.com/rshots/8987/esrarengiz-kasaba-en-iyi-delik-hangisi_8987121-32230_1280x720.jpg" background="purple", ESRARENGİZ KASABA 1S 19B
-https://vod02.cdn.web.tv/ci/9q/ci9qxu89fks_,240,360,480,720,.mp4.urlset/playlist-f4-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i1.imgiz.com/rshots/8987/esrarengiz-kasaba-en-iyi-delik-hangisi_8987121-32230_1280x720.jpg" background="purple", ESRARENGİZ KASABA 1S 20B
-https://vod02.cdn.web.tv/7t/qn/7tqnvqxgd7z_,240,360,480,720,.mp4.urlset/playlist-f4-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i1.imgiz.com/rshots/8987/esrarengiz-kasaba-en-iyi-delik-hangisi_8987121-32230_1280x720.jpg" background="purple", ESRARENGİZ KASABA + BÖLÜM
-https://vod02.cdn.web.tv/p8/jd/p8jdjrxss4c_,240,360,480,720,.mp4.urlset/playlist-f4-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i1.imgiz.com/rshots/8987/esrarengiz-kasaba-en-iyi-delik-hangisi_8987121-32230_1280x720.jpg" background="purple", ESRARENGİZ KASABA 2S 1B
-https://vod02.cdn.web.tv/bk/4o/bk4oihgeecu_,240,360,480,720,.mp4.urlset/playlist-f3-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i.imgyukle.com/2020/03/22/JLJ7pe.png" background="purple", ESRARENGİZ KASABA 2S 2B $
-type="video" channelId="-1" group-title="ESRARENGİZ KASABA" logo="https://i.imgyukle.com/2020/03/22/JLJ7pe.png" background="purple", ESRARENGİZ KASABA 2S 2B $
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i.imgyukle.com/2020/03/22/JLJ7pe.png", ESRARENGİZ KASABA 2S 3B $
-type="video" channelId="-1" group-title="ESRARENGİZ KASABA" logo="https://i.imgyukle.com/2020/03/22/JLJ7pe.png" background="purple", ESRARENGİZ KASABA 2S 3B $
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i1.imgiz.com/rshots/8987/esrarengiz-kasaba-en-iyi-delik-hangisi_8987121-32230_1280x720.jpg" background="purple", ESRARENGİZ KASABA 2S 4B
-https://vod02.cdn.web.tv/pf/rz/pfrz3u4gbd2_,240,360,480,720,1080,.mp4.urlset/playlist-f3-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i1.imgiz.com/rshots/8987/esrarengiz-kasaba-en-iyi-delik-hangisi_8987121-32230_1280x720.jpg background=", ESRARENGİZ KASABA 2S 5B
-https://vod02.cdn.web.tv/sh/uu/shuupnkh1ls_,240,360,480,720,1080,.mp4.urlset/playlist-f3-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i.imgyukle.com/2020/03/22/JLJ7pe.png" background="purple", ESRARENGİZ KASABA 2S 6B
-type="video" channelId="-1" group-title="ESRARENGİZ KASABA" logo="https://i.imgyukle.com/2020/03/22/JLJ7pe.png" background="purple", ESRARENGİZ KASABA 2S 6B
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i1.imgiz.com/rshots/8987/esrarengiz-kasaba-en-iyi-delik-hangisi_8987121-32230_1280x720.jpg" background="purple", ESRARENGİZ KASABA 2S 7B
-https://vod02.cdn.web.tv/vs/fj/vsfjdhueblm_,240,360,480,720,1080,.mp4.urlset/playlist-f3-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i1.imgiz.com/rshots/8987/esrarengiz-kasaba-en-iyi-delik-hangisi_8987121-32230_1280x720.jpg" background="purple", ESRARENGİZ KASABA 2S 8B
-https://vod02.cdn.web.tv/qb/4h/qb4hx0s3te2_,240,360,480,720,1080,.mp4.urlset/playlist-f3-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i1.imgiz.com/rshots/8987/esrarengiz-kasaba-en-iyi-delik-hangisi_8987121-32230_1280x720.jpg" background="purple", ESRARENGİZ KASABA 2S 9B
-https://vod02.cdn.web.tv/xd/8r/xd8rbdu05fu_,240,360,480,720,.mp4.urlset/playlist-f3-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i1.imgiz.com/rshots/8987/esrarengiz-kasaba-en-iyi-delik-hangisi_8987121-32230_1280x720.jpg" background="purple", ESRARENGİZ KASABA 2S 10B
-https://vod02.cdn.web.tv/bv/p1/bvp1rwneifa_,240,360,480,720,1080,.mp4.urlset/playlist-f3-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i1.imgiz.com/rshots/8987/esrarengiz-kasaba-en-iyi-delik-hangisi_8987121-32230_1280x720.jpg" background="purple", ESRARENGİZ KASABA 2S 11B
-https://vod02.cdn.web.tv/ys/qy/ysqybbxfq1m_,240,360,480,720,1080,.mp4.urlset/playlist-f3-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i1.imgiz.com/rshots/8987/esrarengiz-kasaba-en-iyi-delik-hangisi_8987121-32230_1280x720.jpg" background="purple", ESRARENGİZ KASABA 2S 12B
-https://vod02.cdn.web.tv/fo/kl/foklq1xuthv_,240,360,480,720,.mp4.urlset/playlist-f3-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i1.imgiz.com/rshots/8987/esrarengiz-kasaba-en-iyi-delik-hangisi_8987121-32230_1280x720.jpg" background="purple", ESRARENGİZ KASABA 2S 13B
-https://vod02.cdn.web.tv/uu/9v/uu9vqnadv0u_,240,360,480,720,1080,.mp4.urlset/playlist-f3-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i1.imgiz.com/rshots/8987/esrarengiz-kasaba-en-iyi-delik-hangisi_8987121-32230_1280x720.jpg" background="purple", ESRARENGİZ KASABA 2S 14B
-https://vod02.cdn.web.tv/eq/q9/eqq9eq33yym_,240,360,480,720,1080,.mp4.urlset/playlist-f3-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i1.imgiz.com/rshots/8987/esrarengiz-kasaba-en-iyi-delik-hangisi_8987121-32230_1280x720.jpg" background="purple", ESRARENGİZ KASABA 2S 15B
-https://vod02.cdn.web.tv/sb/x0/sbx08iyu9ee_,240,360,480,720,1080,.mp4.urlset/playlist-f3-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i1.imgiz.com/rshots/8987/esrarengiz-kasaba-en-iyi-delik-hangisi_8987121-32230_1280x720.jpg" background="purple", ESRARENGİZ KASABA 2S 16B
-https://vod02.cdn.web.tv/qq/dj/qqdjmpnonda_,240,360,480,720,1080,.mp4.urlset/playlist-f3-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i1.imgiz.com/rshots/8987/esrarengiz-kasaba-en-iyi-delik-hangisi_8987121-32230_1280x720.jpg" background="purple", ESRARENGİZ KASABA 2S 17B
-https://vod02.cdn.web.tv/4q/tt/4qttnqcsdv6_,240,360,480,720,1080,.mp4.urlset/playlist-f3-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i1.imgiz.com/rshots/8987/esrarengiz-kasaba-en-iyi-delik-hangisi_8987121-32230_1280x720.jpg" background="purple", ESRARENGİZ KASABA 2S 18B
-https://vod02.cdn.web.tv/gp/yk/gpykeyskcpm_,240,360,480,720,1080,.mp4.urlset/playlist-f3-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i1.imgiz.com/rshots/8987/esrarengiz-kasaba-en-iyi-delik-hangisi_8987121-32230_1280x720.jpg" background="purple", ESRARENGİZ KASABA 2S 19B
-https://vod02.cdn.web.tv/qy/tr/qytrn7vcvv2_,240,360,480,720,.mp4.urlset/playlist-f3-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i1.imgiz.com/rshots/8987/esrarengiz-kasaba-en-iyi-delik-hangisi_8987121-32230_1280x720.jpg" background="purple", ESRARENGİZ KASABA 2S 20B
-https://vod02.cdn.web.tv/ok/i1/oki1qbxtiwu_,240,360,480,720,.mp4.urlset/playlist-f3-v1-a1.m3u8
 
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://m.media-amazon.com/images/S/pv-target-images/d9862844dfbf66d1277dddd35561b0897422748c08e182974b7528ed64ae3bf5.jpg" background="purple", DEXTER 1S 2B
 https://storage.diziyou.co/episodes/25602_tr/720p.m3u8
