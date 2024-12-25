@@ -50,7 +50,7 @@ https://storage.diziyou.co/episodes/80401_tr/720p.m3u8
 https://storage.diziyou.co/episodes/78301_tr/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://ares.shiftdelete.net/2022/01/halo-dizisi-yayin-tarihi-yeni-fragman.jpg" background="purple", HALO 1S 1B
 https://storage.diziyou.co/episodes/88701_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 1S 1B (+13)
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 1S 1B 
 https://lh3.googleusercontent.com/RAdaZZZ5XURI6l4ymYCsIWUXxchJhenudk28pgkPwRHWXVt-7LGgMsOYL-zMV8w5OIJ4V8OqNkBVV8MPllJjkolPpJBrUNS5AMeJcfezsAG9M3k731j29qcv1vaQWqH9h8-BMMQiAA=m37
 #EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://eagleeye.news/wp-content/uploads/2017/10/rick-and-morty-e1507831459637.jpg" background="purple", RİCK AND MORTY 1S 1B
 https://storage.diziyou.co/episodes/11502_tr/720p.m3u8
@@ -95,6 +95,12 @@ https://storage.diziyou.co/episodes/60701_tr/720p.m3u8
 https://storage.diziyou.co/episodes/10751_tr/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static.wikia.nocookie.net/antagonisten/images/c/ca/Peacemaker_%28TSS%29.jpg/revision/latest/top-crop/width/360/height/360?cb=20210809234936&path-prefix=de" background="purple", PEACEMAKER 1S 1B
 https://storage.diziyou.co/episodes/17401_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://img.elo7.com.br/product/600x380/1EA5368/kit-festa-ben-10-ben10.jpg" background="purple", BEN 10 1S 1B (2005)
+https://cdn.dzen.ru/vod/converted-video/vod-content/40/06/87/60/84/09/40/85/89/0/b1b80542-354a-46b1-a287-3f6845db634c/kaltura/desc_5fc54e1ccca875c828bd0de4b1745075/vtQUHY-HL12Q/vw=1280,vh=720,fps=25.00,vbrt=1090857,abrt=131546,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=1
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://picfiles.alphacoders.com/448/thumb-448547.jpg" background="purple", BEN 10 ALİEN FORCE 1S 1B (2008)
+https://cdn.dzen.ru/vod/converted-video/vod-content/63/45/56/83/42/55/13/19/70/3/62859a4b-2069-46e8-9e06-27c52321ffb4/kaltura/desc_5982c2a0e913c8129fa0b137c31b0bc7/v_JlrZBu3GR0/vw=1280,vh=720,fps=24.00,vbrt=717102,abrt=129385,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=1
+
+
 #EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://pbs.twimg.com/profile_images/1230481511448580096/d6e1AgFf.jpg" background="purple", SAMURAİ JACK 1S 1B
 https://cdn.dzen.ru/vod/converted-video/vod-content/72/64/28/85/26/41/31/48/11/9/a33964a1-b492-4bf9-b69a-57ce5415fcfe/kaltura/desc_da980770f1a66da1d93526328916619c/vzEdB3AKyJSQ/vw=960,vh=720,fps=24.00,vbrt=612686,abrt=129512,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f5-v1-a1.m3u8?redundant=3
 #EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://images.mubicdn.net/images/film/311688/cache-694580-1625792890/image-w1280.jpg?size=640x" background="purple", MEGAS XLR 1S 1B
@@ -642,155 +648,155 @@ https://storage.diziyou.co/episodes/60908_tr/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://ntvb.tmsimg.com/assets/p18078200_b_h8_ae.jpg?w=1280&h=720" background="purple", THE 100 1S 9B
 https://storage.diziyou.co/episodes/60909_tr/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://ntvb.tmsimg.com/assets/p18078200_b_h8_ae.jpg?w=1280&h=720" background="purple", THE 100 1S 10B
-https://storage.diziyou.co/episodes/609010_tr/720p.m3u8
+https://storage.diziyou.co/episodes/60910_tr/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://ntvb.tmsimg.com/assets/p18078200_b_h8_ae.jpg?w=1280&h=720" background="purple", THE 100 1S 11B
-https://storage.diziyou.co/episodes/609011_tr/720p.m3u8
+https://storage.diziyou.co/episodes/60911_tr/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://ntvb.tmsimg.com/assets/p18078200_b_h8_ae.jpg?w=1280&h=720" background="purple", THE 100 1S 12B
-https://storage.diziyou.co/episodes/609012_tr/720p.m3u8
+https://storage.diziyou.co/episodes/60912_tr/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://ntvb.tmsimg.com/assets/p18078200_b_h8_ae.jpg?w=1280&h=720" background="purple", THE 100 1S 13B
-https://storage.diziyou.co/episodes/609013_tr/720p.m3u8
+https://storage.diziyou.co/episodes/60913_tr/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://ntvb.tmsimg.com/assets/p18078200_b_h8_ae.jpg?w=1280&h=720" background="purple", THE 100 2S 1B
-https://storage.diziyou.co/episodes/609014_tr/720p.m3u8
+https://storage.diziyou.co/episodes/60914_tr/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://ntvb.tmsimg.com/assets/p18078200_b_h8_ae.jpg?w=1280&h=720" background="purple", THE 100 2S 2B
-https://storage.diziyou.co/episodes/609015_tr/720p.m3u8
+https://storage.diziyou.co/episodes/60915_tr/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://ntvb.tmsimg.com/assets/p18078200_b_h8_ae.jpg?w=1280&h=720" background="purple", THE 100 2S 3B
-https://storage.diziyou.co/episodes/609016_tr/720p.m3u8
+https://storage.diziyou.co/episodes/60916_tr/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://ntvb.tmsimg.com/assets/p18078200_b_h8_ae.jpg?w=1280&h=720" background="purple", THE 100 2S 4B
-https://storage.diziyou.co/episodes/609017_tr/720p.m3u8
+https://storage.diziyou.co/episodes/60917_tr/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://ntvb.tmsimg.com/assets/p18078200_b_h8_ae.jpg?w=1280&h=720" background="purple", THE 100 2S 5B
-https://storage.diziyou.co/episodes/609018_tr/720p.m3u8
+https://storage.diziyou.co/episodes/60918_tr/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://ntvb.tmsimg.com/assets/p18078200_b_h8_ae.jpg?w=1280&h=720" background="purple", THE 100 2S 6B
-https://storage.diziyou.co/episodes/609019_tr/720p.m3u8
+https://storage.diziyou.co/episodes/60919_tr/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://ntvb.tmsimg.com/assets/p18078200_b_h8_ae.jpg?w=1280&h=720" background="purple", THE 100 2S 7B
-https://storage.diziyou.co/episodes/609020_tr/720p.m3u8
+https://storage.diziyou.co/episodes/60920_tr/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://ntvb.tmsimg.com/assets/p18078200_b_h8_ae.jpg?w=1280&h=720" background="purple", THE 100 2S 8B
-https://storage.diziyou.co/episodes/609021_tr/720p.m3u8
+https://storage.diziyou.co/episodes/60921_tr/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://ntvb.tmsimg.com/assets/p18078200_b_h8_ae.jpg?w=1280&h=720" background="purple", THE 100 2S 9B
-https://storage.diziyou.co/episodes/609022_tr/720p.m3u8
+https://storage.diziyou.co/episodes/60922_tr/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://ntvb.tmsimg.com/assets/p18078200_b_h8_ae.jpg?w=1280&h=720" background="purple", THE 100 2S 10B
-https://storage.diziyou.co/episodes/609023_tr/720p.m3u8
+https://storage.diziyou.co/episodes/60923_tr/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://ntvb.tmsimg.com/assets/p18078200_b_h8_ae.jpg?w=1280&h=720" background="purple", THE 100 2S 11B
-https://storage.diziyou.co/episodes/609024_tr/720p.m3u8
+https://storage.diziyou.co/episodes/60924_tr/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://ntvb.tmsimg.com/assets/p18078200_b_h8_ae.jpg?w=1280&h=720" background="purple", THE 100 2S 12B
-https://storage.diziyou.co/episodes/609025_tr/720p.m3u8
+https://storage.diziyou.co/episodes/60925_tr/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://ntvb.tmsimg.com/assets/p18078200_b_h8_ae.jpg?w=1280&h=720" background="purple", THE 100 2S 13B
-https://storage.diziyou.co/episodes/609026_tr/720p.m3u8
+https://storage.diziyou.co/episodes/60926_tr/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://ntvb.tmsimg.com/assets/p18078200_b_h8_ae.jpg?w=1280&h=720" background="purple", THE 100 2S 14B
-https://storage.diziyou.co/episodes/609027_tr/720p.m3u8
+https://storage.diziyou.co/episodes/60927_tr/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://ntvb.tmsimg.com/assets/p18078200_b_h8_ae.jpg?w=1280&h=720" background="purple", THE 100 2S 15B
-https://storage.diziyou.co/episodes/609028_tr/720p.m3u8
+https://storage.diziyou.co/episodes/60928_tr/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://ntvb.tmsimg.com/assets/p18078200_b_h8_ae.jpg?w=1280&h=720" background="purple", THE 100 2S 16B
-https://storage.diziyou.co/episodes/609029_tr/720p.m3u8
+https://storage.diziyou.co/episodes/60929_tr/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://ntvb.tmsimg.com/assets/p18078200_b_h8_ae.jpg?w=1280&h=720" background="purple", THE 100 3S 1B
-https://storage.diziyou.co/episodes/609030_tr/720p.m3u8
+https://storage.diziyou.co/episodes/60930_tr/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://ntvb.tmsimg.com/assets/p18078200_b_h8_ae.jpg?w=1280&h=720" background="purple", THE 100 3S 2B
-https://storage.diziyou.co/episodes/609031_tr/720p.m3u8
+https://storage.diziyou.co/episodes/60931_tr/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://ntvb.tmsimg.com/assets/p18078200_b_h8_ae.jpg?w=1280&h=720" background="purple", THE 100 3S 3B
-https://storage.diziyou.co/episodes/609032_tr/720p.m3u8
+https://storage.diziyou.co/episodes/60932_tr/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://ntvb.tmsimg.com/assets/p18078200_b_h8_ae.jpg?w=1280&h=720" background="purple", THE 100 3S 4B
-https://storage.diziyou.co/episodes/609033_tr/720p.m3u8
+https://storage.diziyou.co/episodes/60933_tr/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://ntvb.tmsimg.com/assets/p18078200_b_h8_ae.jpg?w=1280&h=720" background="purple", THE 100 3S 5B
-https://storage.diziyou.co/episodes/609034_tr/720p.m3u8
+https://storage.diziyou.co/episodes/60934_tr/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://ntvb.tmsimg.com/assets/p18078200_b_h8_ae.jpg?w=1280&h=720" background="purple", THE 100 3S 6B
-https://storage.diziyou.co/episodes/609035_tr/720p.m3u8
+https://storage.diziyou.co/episodes/60935_tr/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://ntvb.tmsimg.com/assets/p18078200_b_h8_ae.jpg?w=1280&h=720" background="purple", THE 100 3S 7B
-https://storage.diziyou.co/episodes/609036_tr/720p.m3u8
+https://storage.diziyou.co/episodes/60936_tr/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://ntvb.tmsimg.com/assets/p18078200_b_h8_ae.jpg?w=1280&h=720" background="purple", THE 100 3S 8B
-https://storage.diziyou.co/episodes/609037_tr/720p.m3u8
+https://storage.diziyou.co/episodes/60937_tr/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://ntvb.tmsimg.com/assets/p18078200_b_h8_ae.jpg?w=1280&h=720" background="purple", THE 100 3S 9B
-https://storage.diziyou.co/episodes/609038_tr/720p.m3u8
+https://storage.diziyou.co/episodes/60938_tr/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://ntvb.tmsimg.com/assets/p18078200_b_h8_ae.jpg?w=1280&h=720" background="purple", THE 100 3S 10B
-https://storage.diziyou.co/episodes/609039_tr/720p.m3u8
+https://storage.diziyou.co/episodes/60939_tr/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://ntvb.tmsimg.com/assets/p18078200_b_h8_ae.jpg?w=1280&h=720" background="purple", THE 100 3S 11B
-https://storage.diziyou.co/episodes/609040_tr/720p.m3u8
+https://storage.diziyou.co/episodes/60940_tr/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://ntvb.tmsimg.com/assets/p18078200_b_h8_ae.jpg?w=1280&h=720" background="purple", THE 100 3S 12B
-https://storage.diziyou.co/episodes/609041_tr/720p.m3u8
+https://storage.diziyou.co/episodes/60941_tr/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://ntvb.tmsimg.com/assets/p18078200_b_h8_ae.jpg?w=1280&h=720" background="purple", THE 100 3S 13B
-https://storage.diziyou.co/episodes/609042_tr/720p.m3u8
+https://storage.diziyou.co/episodes/60942_tr/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://ntvb.tmsimg.com/assets/p18078200_b_h8_ae.jpg?w=1280&h=720" background="purple", THE 100 3S 14B
-https://storage.diziyou.co/episodes/609043_tr/720p.m3u8
+https://storage.diziyou.co/episodes/60943_tr/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://ntvb.tmsimg.com/assets/p18078200_b_h8_ae.jpg?w=1280&h=720" background="purple", THE 100 3S 15B
-https://storage.diziyou.co/episodes/609044_tr/720p.m3u8
+https://storage.diziyou.co/episodes/60944_tr/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://ntvb.tmsimg.com/assets/p18078200_b_h8_ae.jpg?w=1280&h=720" background="purple", THE 100 3S 16B
-https://storage.diziyou.co/episodes/609045_tr/720p.m3u8
+https://storage.diziyou.co/episodes/60945_tr/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://ntvb.tmsimg.com/assets/p18078200_b_h8_ae.jpg?w=1280&h=720" background="purple", THE 100 4S 1B
-https://storage.diziyou.co/episodes/609046_tr/720p.m3u8
+https://storage.diziyou.co/episodes/60946_tr/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://ntvb.tmsimg.com/assets/p18078200_b_h8_ae.jpg?w=1280&h=720" background="purple", THE 100 4S 2B
-https://storage.diziyou.co/episodes/609047_tr/720p.m3u8
+https://storage.diziyou.co/episodes/60947_tr/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://ntvb.tmsimg.com/assets/p18078200_b_h8_ae.jpg?w=1280&h=720" background="purple", THE 100 4S 3B
-https://storage.diziyou.co/episodes/609048_tr/720p.m3u8
+https://storage.diziyou.co/episodes/60948_tr/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://ntvb.tmsimg.com/assets/p18078200_b_h8_ae.jpg?w=1280&h=720" background="purple", THE 100 4S 4B
-https://storage.diziyou.co/episodes/609049_tr/720p.m3u8
+https://storage.diziyou.co/episodes/60949_tr/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://ntvb.tmsimg.com/assets/p18078200_b_h8_ae.jpg?w=1280&h=720" background="purple", THE 100 4S 5B
-https://storage.diziyou.co/episodes/609050_tr/720p.m3u8
+https://storage.diziyou.co/episodes/60950_tr/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://ntvb.tmsimg.com/assets/p18078200_b_h8_ae.jpg?w=1280&h=720" background="purple", THE 100 4S 6B
-https://storage.diziyou.co/episodes/609051_tr/720p.m3u8
+https://storage.diziyou.co/episodes/60951_tr/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://ntvb.tmsimg.com/assets/p18078200_b_h8_ae.jpg?w=1280&h=720" background="purple", THE 100 4S 7B
-https://storage.diziyou.co/episodes/609052_tr/720p.m3u8
+https://storage.diziyou.co/episodes/60952_tr/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://ntvb.tmsimg.com/assets/p18078200_b_h8_ae.jpg?w=1280&h=720" background="purple", THE 100 4S 8B
-https://storage.diziyou.co/episodes/609053_tr/720p.m3u8
+https://storage.diziyou.co/episodes/60953_tr/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://ntvb.tmsimg.com/assets/p18078200_b_h8_ae.jpg?w=1280&h=720" background="purple", THE 100 4S 9B
-https://storage.diziyou.co/episodes/609054_tr/720p.m3u8
+https://storage.diziyou.co/episodes/60954_tr/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://ntvb.tmsimg.com/assets/p18078200_b_h8_ae.jpg?w=1280&h=720" background="purple", THE 100 4S 10B
-https://storage.diziyou.co/episodes/609055_tr/720p.m3u8
+https://storage.diziyou.co/episodes/60955_tr/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://ntvb.tmsimg.com/assets/p18078200_b_h8_ae.jpg?w=1280&h=720" background="purple", THE 100 4S 11B
-https://storage.diziyou.co/episodes/609056_tr/720p.m3u8
+https://storage.diziyou.co/episodes/60956_tr/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://ntvb.tmsimg.com/assets/p18078200_b_h8_ae.jpg?w=1280&h=720" background="purple", THE 100 4S 12B
-https://storage.diziyou.co/episodes/609057_tr/720p.m3u8
+https://storage.diziyou.co/episodes/60957_tr/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://ntvb.tmsimg.com/assets/p18078200_b_h8_ae.jpg?w=1280&h=720" background="purple", THE 100 4S 13B
-https://storage.diziyou.co/episodes/609058_tr/720p.m3u8
+https://storage.diziyou.co/episodes/60958_tr/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://ntvb.tmsimg.com/assets/p18078200_b_h8_ae.jpg?w=1280&h=720" background="purple", THE 100 5S 1B
-https://storage.diziyou.co/episodes/609059_tr/720p.m3u8
+https://storage.diziyou.co/episodes/60959_tr/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://ntvb.tmsimg.com/assets/p18078200_b_h8_ae.jpg?w=1280&h=720" background="purple", THE 100 5S 2B
-https://storage.diziyou.co/episodes/609060_tr/720p.m3u8
+https://storage.diziyou.co/episodes/60960_tr/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://ntvb.tmsimg.com/assets/p18078200_b_h8_ae.jpg?w=1280&h=720" background="purple", THE 100 5S 3B
-https://storage.diziyou.co/episodes/609061_tr/720p.m3u8
+https://storage.diziyou.co/episodes/60961_tr/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://ntvb.tmsimg.com/assets/p18078200_b_h8_ae.jpg?w=1280&h=720" background="purple", THE 100 5S 4B
-https://storage.diziyou.co/episodes/609062_tr/720p.m3u8
+https://storage.diziyou.co/episodes/60962_tr/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://ntvb.tmsimg.com/assets/p18078200_b_h8_ae.jpg?w=1280&h=720" background="purple", THE 100 5S 5B
-https://storage.diziyou.co/episodes/609063_tr/720p.m3u8
+https://storage.diziyou.co/episodes/60963_tr/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://ntvb.tmsimg.com/assets/p18078200_b_h8_ae.jpg?w=1280&h=720" background="purple", THE 100 5S 6B
-https://storage.diziyou.co/episodes/609064_tr/720p.m3u8
+https://storage.diziyou.co/episodes/60964_tr/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://ntvb.tmsimg.com/assets/p18078200_b_h8_ae.jpg?w=1280&h=720" background="purple", THE 100 5S 7B
-https://storage.diziyou.co/episodes/609065_tr/720p.m3u8
+https://storage.diziyou.co/episodes/60965_tr/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://ntvb.tmsimg.com/assets/p18078200_b_h8_ae.jpg?w=1280&h=720" background="purple", THE 100 5S 8B
-https://storage.diziyou.co/episodes/609066_tr/720p.m3u8
+https://storage.diziyou.co/episodes/60966_tr/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://ntvb.tmsimg.com/assets/p18078200_b_h8_ae.jpg?w=1280&h=720" background="purple", THE 100 5S 9B
-https://storage.diziyou.co/episodes/609067_tr/720p.m3u8
+https://storage.diziyou.co/episodes/60967_tr/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://ntvb.tmsimg.com/assets/p18078200_b_h8_ae.jpg?w=1280&h=720" background="purple", THE 100 5S 10B
-https://storage.diziyou.co/episodes/609068_tr/720p.m3u8
+https://storage.diziyou.co/episodes/60968_tr/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://ntvb.tmsimg.com/assets/p18078200_b_h8_ae.jpg?w=1280&h=720" background="purple", THE 100 5S 11B
-https://storage.diziyou.co/episodes/609069_tr/720p.m3u8
+https://storage.diziyou.co/episodes/60969_tr/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://ntvb.tmsimg.com/assets/p18078200_b_h8_ae.jpg?w=1280&h=720" background="purple", THE 100 5S 12B
-https://storage.diziyou.co/episodes/609070_tr/720p.m3u8
+https://storage.diziyou.co/episodes/60970_tr/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://ntvb.tmsimg.com/assets/p18078200_b_h8_ae.jpg?w=1280&h=720" background="purple", THE 100 5S 13B
-https://storage.diziyou.co/episodes/609071_tr/720p.m3u8
+https://storage.diziyou.co/episodes/60971_tr/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://ntvb.tmsimg.com/assets/p18078200_b_h8_ae.jpg?w=1280&h=720" background="purple", THE 100 6S 1B
-https://storage.diziyou.co/episodes/609072_tr/720p.m3u8
+https://storage.diziyou.co/episodes/60972_tr/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://ntvb.tmsimg.com/assets/p18078200_b_h8_ae.jpg?w=1280&h=720" background="purple", THE 100 6S 2B
-https://storage.diziyou.co/episodes/609073_tr/720p.m3u8
+https://storage.diziyou.co/episodes/60973_tr/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://ntvb.tmsimg.com/assets/p18078200_b_h8_ae.jpg?w=1280&h=720" background="purple", THE 100 6S 3B
-https://storage.diziyou.co/episodes/609074_tr/720p.m3u8
+https://storage.diziyou.co/episodes/60974_tr/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://ntvb.tmsimg.com/assets/p18078200_b_h8_ae.jpg?w=1280&h=720" background="purple", THE 100 6S 4B
-https://storage.diziyou.co/episodes/609075_tr/720p.m3u8
+https://storage.diziyou.co/episodes/60975_tr/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://ntvb.tmsimg.com/assets/p18078200_b_h8_ae.jpg?w=1280&h=720" background="purple", THE 100 6S 5B
-https://storage.diziyou.co/episodes/609076_tr/720p.m3u8
+https://storage.diziyou.co/episodes/60976_tr/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://ntvb.tmsimg.com/assets/p18078200_b_h8_ae.jpg?w=1280&h=720" background="purple", THE 100 6S 6B
-https://storage.diziyou.co/episodes/609077_tr/720p.m3u8
+https://storage.diziyou.co/episodes/60977_tr/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://ntvb.tmsimg.com/assets/p18078200_b_h8_ae.jpg?w=1280&h=720" background="purple", THE 100 6S 7B
-https://storage.diziyou.co/episodes/609078_tr/720p.m3u8
+https://storage.diziyou.co/episodes/60978_tr/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://ntvb.tmsimg.com/assets/p18078200_b_h8_ae.jpg?w=1280&h=720" background="purple", THE 100 6S 8B
-https://storage.diziyou.co/episodes/609079_tr/720p.m3u8
+https://storage.diziyou.co/episodes/60979_tr/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://ntvb.tmsimg.com/assets/p18078200_b_h8_ae.jpg?w=1280&h=720" background="purple", THE 100 6S 9B
-https://storage.diziyou.co/episodes/609080_tr/720p.m3u8
+https://storage.diziyou.co/episodes/60980_tr/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://ntvb.tmsimg.com/assets/p18078200_b_h8_ae.jpg?w=1280&h=720" background="purple", THE 100 6S 10B
-https://storage.diziyou.co/episodes/609081_tr/720p.m3u8
+https://storage.diziyou.co/episodes/60981_tr/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://ntvb.tmsimg.com/assets/p18078200_b_h8_ae.jpg?w=1280&h=720" background="purple", THE 100 6S 11B
-https://storage.diziyou.co/episodes/609082_tr/720p.m3u8
+https://storage.diziyou.co/episodes/60982_tr/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://ntvb.tmsimg.com/assets/p18078200_b_h8_ae.jpg?w=1280&h=720" background="purple", THE 100 6S 12B
-https://storage.diziyou.co/episodes/609083_tr/720p.m3u8
+https://storage.diziyou.co/episodes/60983_tr/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://ntvb.tmsimg.com/assets/p18078200_b_h8_ae.jpg?w=1280&h=720" background="purple", THE 100 6S 13B
-https://storage.diziyou.co/episodes/609084_tr/720p.m3u8
+https://storage.diziyou.co/episodes/60984_tr/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://static.wikia.nocookie.net/antagonisten/images/c/ca/Peacemaker_%28TSS%29.jpg/revision/latest/top-crop/width/360/height/360?cb=20210809234936&path-prefix=de" background="purple", PEACEMAKER 1S 1B
 https://storage.diziyou.co/episodes/17401_tr/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i.pinimg.com/236x/1a/a5/52/1aa5525ecda170b2ca7c6b7464139752.jpg" background="purple", FİNAL SPACE 1S 2B
@@ -3078,8 +3084,8 @@ https://storage.diziyou.co/episodes/88717_tr/720p.m3u8
 DC UNİVERSE DİZİLERİ BURADAN BAŞLİCAK
 
 
-
-
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 1S 1B 
+https://lh3.googleusercontent.com/RAdaZZZ5XURI6l4ymYCsIWUXxchJhenudk28pgkPwRHWXVt-7LGgMsOYL-zMV8w5OIJ4V8OqNkBVV8MPllJjkolPpJBrUNS5AMeJcfezsAG9M3k731j29qcv1vaQWqH9h8-BMMQiAA=m37
 #EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://img-s1.onedio.com/id-54371c47e469a49b62f9e2d9/rev-0/w-1200/h-776/f-jpg/s-f5c26787c78f95424eeddd2915d4843981f923d0.jpg" background="PURPLE", GOTHAM 1S 1B
 https://storage.diziyou.co/episodes/80401_tr/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 1S 1B
@@ -3093,6 +3099,190 @@ https://storage.diziyou.co/episodes/78801_tr/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2024/07/batman-caped-crusader-logo-over-the-poster-for-the-show.jpg" background="purple", BATMAN CAPED CRUSADER 1S 1B
 https://storage.diziyou.co/episodes/99901_tr/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2021/06/Sweet-Tooth-Bear-Gus-Tommy.jpg" background="purple", 
+
+
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 1S 2B
+https://lh3.googleusercontent.com/K1_6Je8-eI47VWICXWfSIgoSuT9eKO0B_Q5WsGy9J3cyIAU9G8BouhpwTpe35GYCVzZw_QbYVJJmZg35a6Th-mybe_GmN-rcw0FZwoltGzGLk7btsaMkvoPDPfK-htnM9x2lbh9aHQ=m18
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 1S 3B
+https://lh3.googleusercontent.com/L31YwfEHSFrQ8KOhU_I71YiarGjxt9vbO2-E8zeBCLGVc8f5GGgJLUYUQqpI8MjLxsNSGUmFnstz6diL4rR3X6XtDFMt-dS02jXpHzsdKe9qb6iDgJ7KuOca2zJpfC1TUCtiLsoIIA=m18
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 1S 4B
+https://lh3.googleusercontent.com/ioZNvJlR8lDy8QFf3M1P38LoSWDTIN6tglk74MmtGrm4EIwT0D7_fBl1l-K_eNwuYPlSnfoT3BObrJgdBsLpaN2BgklYywczGbm47jQRYnV87taihWzATcXfRWKKZt9e-vZOqXGqpw=m18
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 1S 5B
+https://lh3.googleusercontent.com/bwIfswRhLJugOuQ57EENxIDTyPDJhQtAhh1UOa02WAtQSpk-rgdE1Wuk81HZamCWxjg_hIQ5n0iSnJAvxG8xTFdSN2sMFDYmeNMClU_LQG5PmuxaakqsZgWzQz_sCKBbk8vFurslew=m18
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 1S 6B
+https://lh3.googleusercontent.com/MpfqdtH1foU8qZp8j-9LZD6MuDP9KW61Na-YQiAXoUp8jsr36qTVct3R-uxD9IXW20ITxT1QijQPuos4laWt8x994WCqnwV1TIgJ1Pu-Bfks7ZLzLJcDeAQR54APsd1a7ZuBHdbv7w=m18
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 1S 7B (ALTYAZI)
+https://e1.ygve.com/storage/media/cf4eb39e4c9ce8c6e4d7a4be6ca8fc7e-720.mp4/master.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 1S 8B (ALTYAZI)
+https://t1.ygve.com/storage/media/b9f8b053361681d95b6a38506fa77bc3-720.mp4/master.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 1S 9B (ALTYAZI)
+https://t1.ygve.com/storage/media/ab73d9d116fa2306438d433981767b77-720.mp4/master.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 1S 10B (ALTYAZI)
+https://t1.ygve.com/storage/media/5bd1006358780aca293b200358db58e8-720.mp4/master.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 1S 11B
+https://lh3.googleusercontent.com/oMoz23KqNOIl7HyjA3T7wy1aK4tEh9qrV04VUaPUADQtqslQVqbnDhuy_px_RQ2fk_ncGV3h4C3SDtvsWaDvP13d18AHruYI0j1cK9J8Ef-skqH8DB2P3MYVIEMv4ZUqwRZipNBEeQ=m18
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 1S 12B
+https://lh3.googleusercontent.com/HhmGifu0AQyFN__Q5pbqRINpQgAF2ZqixjhkNlOfHhJiGqsTLSShC5VHPs418Ao-ShdCiIOB2QBtU-gLhh1PsLcZJoeZOX-Ym9KUW_hiUH3oQ36YYXAGTxu39Q4iaTnTScepk3pf-g=m18
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 1S 13B
+https://lh3.googleusercontent.com/xLtJMPRtQ_fn6qn04EZKQmLGlfXKxoraofo5WFPQox2V_7VFR07FtLbh_A8EU1PJgtFOQd-EfL_GaEUswly4l5t1QvKJwbi_oNxB-gXijJM4K18vcOaFuev7D7NzFBzvLoWz9fEJGQ=m18
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 1S 14B
+https://lh3.googleusercontent.com/X3c4y3NDsIxWRNkVf9B_oE5mqRTqDiieuHO07gpPKu2Dk8weigjm0OMd5pUR3Hhs7m7fspA2qLeCyQMv6JyGB9Cil7aqyYUUzas-1akSKPalLQAMLmZNzbflPu5TZFwYMutnAW1Efw=m18
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 1S 15B
+https://lh3.googleusercontent.com/EYOLIj8Hjq6_jalfY6V6sqsuht9eu473ly0rkoU5p02ovRTn5ombdm4qZQTMDMAgDBYIsENYk7uDZKpwJV-9eOQ7OSQfjB3K1fXhmlrQuEJXesu0I41Gc2o05kyejbUnpDo67JAtgg=m18
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 1S 16B
+https://lh3.googleusercontent.com/oUjFQTOP9z58saI1CFm5iBCf2oEIu3yOKdjPm51PD_N9UozGPdfG-6qy8wx3X4KNDz3PO27cNJ85-D2NSOUuf4zpsN8YY1p5pNy1ZB1MfFYVBJdGMIR616kn_buAtxbcsMWgAoIyVw=m18
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 1S 17B
+https://lh3.googleusercontent.com/WuraxKUz49RBLsC1aggXSsSH9UTWX2K3J8wk_zdtIkTT3jQNRBJtyR8UML_uWNIPRuxB57QQjw8XnQXVVqD_GPZHYoD1vQu5SuQrbu68oWYNu5Z7XxgvxRpGnEo_6r4EsFQm_vsQSw=m18
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 1S 18B
+https://lh3.googleusercontent.com/ke86Uujn_RpRG9F0-DTpFt4zEhlREf_bMwSoG3SxKBOxr6SYSpRfLRnpici5oXXeNZfvcGj1mrx2kuqyC0FZtlUIaY8E3Cw1ZMgAEmWvHG66FNXYENRD6_qa9OoyG__V-ZtxFDvKFw=m18
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 1S 19B
+https://lh3.googleusercontent.com/xEpBuOIdONOfp8Fun2YEM3OiLP0--LBZT27US05ICMYTLhLcH0W-EWJVSArfeAJncaHDv0Id4rc5evigMStsDzMA5x8KJbfgvEZNtUxxInDi030JjTVYi3VuLPoWfVuhmf_AkgZEng=m18
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 1S 20B
+https://lh3.googleusercontent.com/mLuKJQ5XpCOKOYnk5bl86nVVIG5j8fGbJ3Dkut-9AD15f59V7fyTD-NkB3NguIapAMlqKtmYWILnrzagkgERONdI_OStGBURn4xpgNx2kAEnLOeDdVXGvFC8tg0AdkIz-wW4cA0UOg=m18
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 1S 21B
+https://lh3.googleusercontent.com/i1XJ78_LCfXBaybandCx66UyTueUBVCnB0lE8Rh4NLCKy1MC9Rlvc1QqEMvsP8ImLqEZ7gKMr60DZ-CiCNq8UNxzcEabKLZeKNV4Ji-ZYlwkZNnkrkQXuD43o8-B_Nx5jtcWgaKsng=m18
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 1S 22B
+https://lh3.googleusercontent.com/8VzZzaTCc_1iauAoz3DpZq1DGdGyr7AFA8b77ADtHLBsbRxTVKvZJHf8E2pqHcFFCJCJzkUcnqxb7uTx8UGsUCH4NfSJDvvRmxmUYx0ZbMxrGjwto8Yl_IEggrtd9gtDkxf22w4u6g=m18
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 1S 23B (ALTYAZI)
+https://e1.ygve.com/storage/media/66f0e2282059e0b40ab090a8651c0e8a-720.mp4/master.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 2S 1B
+https://lh3.googleusercontent.com/SlmxZxnCINrgUOtkqpMfDGYFvtQRD-IgJreEeYEKN0YVIbnIcadrn4HbLKYdkqQEPNt6C0siWeDQ0fb8AjSy29yFBGq8rZK7y_84YNW_5g0xx3UIy5HCIzAdtArd-r4adt1blmaN7g=m18
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 2S 2B (ALTYAZI)
+https://t1.ygve.com/storage/media/889d15f792efa3fc9ba330ed561a681c-720.mp4/master.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 2S 3B (ALTYAZI)
+https://t1.ygve.com/storage/media/89ae574aa0fe85ac4301fcac64966bae-720.mp4/master.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 2S 4B
+https://lh3.googleusercontent.com/MnDZXGzZW44C_ATUxyA7u2Y4OX2O2VRui7PQ7ayLY6FU7uLq_Hz45SjJ_Oopb8UyDMNcCaMr_vB79PMby_S8Vs4pzoFcHzv2keNklZOYaVJawjVBg1HIPvEy61ockO_QAxRLThj-8A=m18
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 2S 5B
+https://lh3.googleusercontent.com/g69HrXanhfNMcstluQzVAcw85RtVmIkSjqR1bJB59jw6-su-FH63T-ku9rcY_HFr9chV89vKnMXgM8oIPBR-GL3593BlrNN0_JEVN-8TwA1pcaNNpyPHjfZtU76LkFOUhgbZgVZpiQ=m18
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 2S 6B
+https://lh3.googleusercontent.com/8psAm8RgTpbdgcxfEzGvuvjfXWjJ9XMgMComoH_2cgtlkCEbknlWB6bjj2n16olttOgTuOWkKWUTHLCbMxs_gypQWRuSVUAtnL-qK3b3KIGFTd8U-Zf_JorjPCM3jMvrdCnc0U5hHQ=m18
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 2S 7B
+https://lh3.googleusercontent.com/TJfaS27qNNSCQ7PHchPT4hxg11kZMczGCP1vFy2zxpvlnapGloMjywq0WmOz7dLnV6xSjOaIftW6IXxvylJ2iJyzdBfmRrdEAxibyxyVHZ2JmgEADlh5ZFtcShVgQjt4XnSRucmc4g=m18
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 2S 8B
+https://lh3.googleusercontent.com/UnEP1tekQRSL_o8oy9Sp4rYq2xxAdEgsMSWgk_rxhk95iqTUFEc9PdDaTlZgRASX4uMTIfR8N3oRuL7QYsl6j7hl5uXj39Y2ParGhNRTB3SJFAdeXzPQ04q1NFv6vWfV3j8ffXgAcw=m18
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 2S 9B
+https://lh3.googleusercontent.com/ZrQsETOiCuFD9d1FFGGP4Lh_PLNEcopb5NtDk5694VQ4OrXuOkG5VmdaaVq9-hLZT_GxL2dsgvBEQbdHj2CZEXb0njsC5h0e6LaZSNEAxggGJpuIaQcisONVr39g2sFYvDa7rbIG5w=m18
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 2S 10B
+https://lh3.googleusercontent.com/k2-ayz94TIO3zWAdOP8xyimlK2-dNiD-lb8_XQs9kKU_hcdyorexbk1-UXpnH1DkitANnqZKN0ZzmRORoTlgW2hIOc_rgQk2U4ZI1UwmO3n_RGbaOLCIASek1qCWJhi8OzwHInZ9kg=m18
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 2S 11B
+https://lh3.googleusercontent.com/HntROnic_g5wxcLo25zJT0sbovMmJ2Kj2JEcLE2HK_AAXGexEvzp7ek1jmBMVvvDcmPGJlR9ATOrhbGlElk-F277LrQYGktjWOQ2JUeXYsYrlVDUSBpV3xJ3Mto6W-bCCF25o4PvOQ=m18
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 2S 12B
+https://lh3.googleusercontent.com/ipNAxINRdjQ0DYQO3cQZjOpBl7OYNxnN8DB9JbIfNl9qus1vi4Fsdm7I16XI6aQ0BIvqakCO15Tr1KlRCeJn5jjNoAXpDKINns78Gc0APTCTbTgzy-IaIfOYy-PEg_QYsfPcfjklgg=m18
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 2S 13B
+https://lh3.googleusercontent.com/PiWZ3_PAlUyyaDGrrbD1ylijNAzI2FCBp92hUwyUVoxu6kJVvEsRzhhq2YnpUUJEilUWKAtiyEQH_x8XkvAWnPwyfxQjQMH-olpA8N2v5mGPe6owj9lB_ibnBQJmIrDYj445eFhSmw=m18
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 2S 14B
+https://lh3.googleusercontent.com/_r72OkoaOvrBZBoLnM4r67jX_-0Av7DQ581sJvzUSwztxvKMEWAUWddWIMLrwW0ZAP1L7PcPE-9tTiD83RyGnCwlSlYTRVNdmuWwcBVZJRvdo3-vy-QWcEZayR9ckgnSWco0iBpkNA=m18
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 2S 15B (ALTYAZI)
+https://e1.ygve.com/storage/media/5415a5df3b4ae530e38b9e5b5695899c-720.mp4/master.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 2S 16B (ALTYAZI)
+https://e1.ygve.com/storage/media/e76c80c7fba58d724760a86b47d1b3fb-720.mp4/master.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 2S 17B
+https://lh3.googleusercontent.com/3f46JDmasW1FKvJ1rC4U2ReUC263Gai5_0ITXPpODYS7LuGcwEE2xjXiFk2mwErRAKMU3Z68NWt6fk4FViTPlR_4-ZByRB3YlVxdXFaXBnax_7r3hQs90kluMihYc86bukuVCjPEmg=m18
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 2S 18B
+https://lh3.googleusercontent.com/yYqBR-gO88GtsG1zVVuZqPNiRx1CRC05kO0gEzUaC1KE6NbVcM9zo5TFI4lDLpQccBwnQY43tCsqn-shJqdyLSktuyp9wsRuncSL1gdJpLcYfCPhdxyqBMLKXY-PzhrOw1x9j1x2_A=m18
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 2S 19B
+https://lh3.googleusercontent.com/fdMGmv33OTaWiySq8l5K0-HGaOApW1QfBjNEtKcMUxtQodTt5z52G7ftFpWVuyii-aA1JwvgSCAlreH945VcTp_q-u_yVXsUTADqRKVFzfPamtTV5pdxRjfZuAeQ28NLoU5XCibMaA=m18
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 2S 20B (ALTYAZI)
+https://e1.ygve.com/storage/media/63a167d3b87eafebd0a2ba025c94de53-720.mp4/master.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 2S 21B (ALTYAZI)
+https://e1.ygve.com/storage/media/5726f13b7b9bed3e97327c57a797056b-720.mp4/master.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 2S 22B
+https://lh3.googleusercontent.com/nkT6oMIczLjIbGOvsuVUuVtMZIl0ux0m5tvp9qwRj4Kvrlbn8vk6vQlurRNHcJwrmmXqT76D1t-UXB57cEfLZqXZOCWygdYCEHYGPaKB4nqPetHcSWjzAOH50GwavdsdCfQt3e3pHA=m18
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 2S 23B
+https://lh3.googleusercontent.com/KgEfQ_kB2er2GLjTos6sdIcheVdZr9WOpIiADbpaGAURbfskZotrQOysY6yUWJb-iDmMaJI6vJx1ZlZgbX9mEm7s55NvIBam6-5OoBv8lKfhUummss7wkI6WuE4IAwjwFR4k6yngVw=m18
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 3S 1B (ALTYAZI)
+https://e1.ygve.com/storage/media/1c575f13ae1a459a38293c171bacc3ef-720.mp4/master.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 3S 2B
+https://lh3.googleusercontent.com/FnPEsKpHr3gBSbhmiEC_yGEu6LPJFTzDtkHZdjcqwvnnTpzIqvXiKLK3cY0bKYnfgy6BZreeIsOroAoyQTcprY76xuAmdaENr2pKj1K2rhwK_NmZlCKtXE-pMfSJudVyQK7ETadb3A=m18
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 3S 3B
+https://lh3.googleusercontent.com/q5eTgR5A_jfqV3wH2Hc8PUkoZS91XCzn-pSRH7YZv-a0W-cO28l9kgcYhnRRlju6nCOIwqhh8D3WcaNolXVe5L6BTMEk1Z8bByM4ueGs1VsHtfnLvYzqXDNa6LdUwbxXlzaxUlZCjw=m18
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 3S 4B
+https://lh3.googleusercontent.com/3xBSz3WwTNUguGlq1a9oMNMK5eSVt830I8uJLQHd5bsrTTQHI6iobNZ2P6axy4RpOoOFRGorrNh4NPuiADXA7anDXF5F-e0KIkfB8LyW4Q1KNI0Vj0FTC54X28lPP3awTZEgkOufMA=m18
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 3S 5B
+https://lh3.googleusercontent.com/dtZGeIAmJGstzjc8cHGCklTvasAeIdCxzELByR9mxx6E7LDoM6jY7XJIK6NFrlQ72TW478t3WbgPhTgco90SaTjkUi82v4At8lc5jtwlcuD5R0nqWbGOd5ZEhp8gyhh4PUhEU9nviQ=m18
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 3S 6B
+https://lh3.googleusercontent.com/1VGIHFtSTDXTEjDp2Qke0_4uI__joD8NmAoCW5BQoWdyMZZUJCVHqWmh01TmBT-WF4CgSIlLPkmq7OTNfedM7ITang7SFSxuIlRua_26uukKRnPh317Lj7ZKhcfTSq7GXVY-ZSBG9Q=m18
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 3S 7B
+https://lh3.googleusercontent.com/rtg4EQ-yJWMJoV85s5OcVr8SyuVko-wGHW9EcP2_K7UjjcOBmizFJOCYeR3T8SBUgKsXlX_qT2BS_3qToRo0IOi4LzER_mQ_4E_2MxXw4EznIzembFkUwO3FuJWdD1zmYWQ9h0oiBw=m18
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 3S 8B (ALTYAZI)
+https://e1.ygve.com/storage/media/e49cec35f988d5db10e3d37b4d7ef377-720.mp4/master.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 3S 9B
+https://lh3.googleusercontent.com/rvmhnPQDjqL_nyOscY10V2cG1oSbX-ri6IIyvR_2Mfj5zFXirUn7OjBtestfQLpMd0LG4hc0MLGF_3dotE0SfAWnuRfw4CyfKkZDbfL3Wwbe2IL4nPhLEMD7JbBwaLuOEIKj4NfCxA=m18
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 3S 10B (ALTYAZI)
+https://t1.ygve.com/storage/media/d6f2bd63898e0d1e5517cf5ae8a1cf8f-720.mp4/master.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 3S 11B (ALTYAZI)
+https://t1.ygve.com/storage/media/ac27ea7735c2c031327149c8bb6a3647-720.mp4/master.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 3S 12B
+https://lh3.googleusercontent.com/8RE5RZcXBG1SvO9X4f0I19DIY-WRJefQJYw3ZnNMRhS5km7iXpkLRU31VIZxzx6H9OAuWEsFZa3zl9KUcTiiI1v1tvchBpqE44mMnNyWbEK-PCPFRDlUTYtwjckcKOTsrO6lmA6TBA=m18
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 3S 13B
+https://lh3.googleusercontent.com/vdJYXrwO_YtK8iv-sF5-kSkVOKLvwWtP7HcEk5jI0X7cKsgNKsK789RrL1neEJcRaf0ZU5PsU_B47i39weMYRK28jn_mlv2nUvIUgAcb_GhunTLbMcJLA8JpF6RtF1AAwgupaKfFHg=m18
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 3S 14B
+https://lh3.googleusercontent.com/C2b_6rt8Dt85r0b1xJF_LKpj2C1Z1nbD_i2pY_Ug4G8TNpoW8OgoLYyUYUFD75I5GHJsUPwiOr5Q8YMJqACmXEhChNNshCO1vtdTQ7f7O7Til0xmsy9_ZJOz4O5D9R1c75NfosXe3A=m18
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 3S 15B
+https://lh3.googleusercontent.com/qCVb9m4grN5f_IL7d8Ys1vpnYXVzBw-R57sN6zGCoh_IqO6j-C8LWarhcNvGHOUKpj0kMx2oFQ-pege6qrttPEWETZN-d-9xxiHOhKO_dHiJytiCk2is8mCOXqZL5vfMLHPmbsjJJg=m18
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 3S 16B
+https://lh3.googleusercontent.com/xtgpGNhpt2gtpMcR7wVh-iHrvk_JTs7BTzpaTdvg7IImetJ9yCWtK0t7CEkjFhmh5XNRtzOqJqFD6FbSlqnPaP3SALjkaqxt4PlsQM2CIYqJLIZPynHhhcx4Latm4V1W36VKxAZOEQ=m18
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 3S 17B
+https://lh3.googleusercontent.com/P5fKMwFyhjWAyEjC_YSHo9wVgCd9ISOPLWa-XFScblrHedpDV8e45dU_HY36KHZ5Nd0OVAKZ8-jo5_sCe4Q6jA0RGR31SvVfs_aGz3Ts-KVBs1ulaRkatSRMBDd5hKRdfX6foBxncw=m18
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 3S 18B
+https://lh3.googleusercontent.com/CS3JVMuREs1T1QGvh7jut7DU3UcRnW_qZDsTUaOehhLXj6hHiEUyfVm7HJb8A-9KAeNUdumYLTIY2pM6DK5SPQ382OiMXLbcCk5CNLYstkZFo5jnmNnVuq3PiiJf1gtsCfOADXNlTg=m18
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 3S 19B
+https://lh3.googleusercontent.com/zWSm1Ezz2wa9eOBTm91SRgNegYluKJikxV2C7__IfHYjESkdYF7QrbpERkLjeHYlGjerAbd6VVxwuKUBCBWKiY2Z1F0GK-blevDI96fOxACD3Vtospd9uiZmIFoJa7hVMxyDNOfsOQ=m18
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 3S 20B
+https://lh3.googleusercontent.com/c5VrJZZG6LWWm2LxiASN4Bg1X8oXmv8fUnyk7i3ev4YLuVLd86ohtJP3Chn9goFAfbP03Liz8pi44878rChoOZD1S6IFbfmu795JNZTd4tmAXP1jmHLWxSHIYwOeJi3iHGxYu8jv8g=m18
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 3S 21B
+https://lh3.googleusercontent.com/JZ0vIUyQMNFKMqwUOBkdbsXCLINAZ5NjnRGHRQRA9_ePtoy3qoG5KlV59pCT2RwpTXe9UUhcfFHdoLVisZjdwr_4z1FUx52krEewS8S1_txulQIfkt7AIlwD5rDWFUMusQX0n1wEvg=m18
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 3S 22B
+https://lh3.googleusercontent.com/WWhtvV6ARV17KHLP67Y4xBeFT-NhM_VbazoNhoe2dH1jX9JWgi-tWm_izX_6u4DZpCBIG1hzPL_CPX9mvbS2w7F_CwpA8FQ0PgXrtEhJjPCGZyBBr6qga_L8x5tZeO1EYtrG-G4eTg=m18
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 3S 23B
+https://lh3.googleusercontent.com/mQ39nepalMn-7rEzgAKYQR9V_tzwZ6TzhMcqvAyX6L_BfAcfgSvjvQvpucbO2dTlUEXJWQ1X7B6OTJ8wnftl4pxLjTK1n_YFrW5h_U7NHaeslLSpgtIq3f0eRndJDc8INSDYRKw2hA=m18
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 4S 1B
+https://lh3.googleusercontent.com/ZUCCi4VbuxhSFkBNHOjx550-gXrcJwF6Pe11VTpFbNG0ZIwvmntls6i3t1mbrR9eBdxJLbdXDM7RTAQ2HtzDFbVH0BUoNCEAsdf251UAKptI1X8CGdqwRDgevFaAFY4gYu5Ywslceg=m22
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 4S 2B
+https://lh3.googleusercontent.com/B-wfjov4Ar0XawC_TmI6tle39yxjD3IpvtGRdaumMFNA2p_dzl9pyM0No30YbKJ9duO1Us0a8mr484Ne-sDZxpVcXydwoqPvIZUxwt0gYGxcxoyjPKh_chCQPsQHx6Nf4bUt_aOGuA=m22
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 4S 3B
+https://lh3.googleusercontent.com/ZB9YXjKWKS6y7Tbzp0JmgHTUh2jlOljcBhRlj5Xf59NmR0aWCfKwHvTVK7bKr-gizJ-ZxIFusBvufG4ZEPEx3meT62C9YNYr-b3CO6JoMdujn9aX6fBCE4hKwSS8edLPKot77B3Ffg=m22
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 4S 4B
+https://lh3.googleusercontent.com/FDtfBNn7B_kLTv6F-O8yBYTtQgdc7At_g9LSpNlfN2xhDNEqeBEwd2X5P6hHibWEFf83DE6BDyHgFAtc6nGpcaWViwN1qEnXNSV6F73t8nO5W-7jJUsd-EZYFiBIhlOAhRb4yJ62Mw=m22
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 4S 5B
+https://lh3.googleusercontent.com/IzdtJIRbX1RPkMMjdSP-IyZkAQrSs1hABbMknPZbrKMOeWIDYURLZQhVIZ1IciUQDONWstGRK3gqU8Jbj_K7JSK55hwkSQsX_D_gwt-Zl8VDTYjFddsq2GDmiv0fvTYBKCciH2MLIA=m22
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 4S 6B
+https://lh3.googleusercontent.com/ArsJIqKmmBnkIS8RvJVuRN5mqJJQexzBOe0ahnsSEoLTuj1GGPYVRxHP9_dxOQJBFkinV_PBYrw5o0i9fBqQEqLgRWOncWREL3zM6V39gZNJjFumRNLZU1_fsMnhOwJ7JpWlWP747w=m22
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 4S 7B
+https://lh3.googleusercontent.com/8tKkDcGuydXUI-FJh_Bm1XugCdUhWHOc_UZwFkpfeaKTygLDMqXG9pIKencTdwtazawz2UWiyNbrHKN4b58XDbN6GITylVihCgt2IDZmoTQD-w0x3cWv9hn5G-s8BNWVt1RuaCtYZg=m22
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 4S 8B
+https://lh3.googleusercontent.com/-fTr9yiDyBMsKd5b6Vq3D2kvz3h45X9-GzREb745MYG9NWSAn33XPZ2tkl0s_guTt4XcUx12ZG7KEAU8jhXegZoXxaFSncJLBCIW_A_wo9gmCoVH3ERS8o7px8Aboyfy-0_Rr_q4gQ=m22
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 4S 9B
+https://lh3.googleusercontent.com/YGZ3zC2yPJDVdpEO55FBvpYsb_ooGF7j0QHhgY_TR9Gv2uaGJQRHER-50gK8GZcndebCDmtPYX2nZL9pE7zDtid5ndoS4FOV1iRgJRkQ-oW1UDvNS3sX-ZoKvfm4GkdzQ6kqSDwWrw=m22
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 4S 10B
+https://lh3.googleusercontent.com/B4N2WHvWsEI5cLtjObf6IFyBsvClLdQ11GwjaE1ceYt_BjqADq7X5M0KKmfOdcYhhqwACqn3tfVGzJW3nlwQGPZULAsd-H6rJvtoxTMvtmpf9j6PUf0XXk_JmYaK15qn5mEU6xfs2Q=m22
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 4S 11B
+https://lh3.googleusercontent.com/hdE_MEbFdunN8kDpPJpDZnF-OlpHOuxQhiHgvhVOCI4aIF0Z0LDKabPEhYOczot8u4Er3flszf4VXbrZz7LlwGklJrXYH2ayKLo4fJRQIvT3K2C7usL2NlQItNjW7wRQsZsyV_47HA=m22
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 4S 12B
+https://lh3.googleusercontent.com/huI5W8btkJ-SilD9365wn2j0GNU7aJXo_iOdsyeK13AaxB2ftLD74kUxYP4NThHMZtzmG8r5WixMdemTzGl5r-vPwSrpZST4pc5cusQ3LX1DXn_RJ-wdmy78bnSgpd7kumD2zCFCQw=m22
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 4S 13B
+https://lh3.googleusercontent.com/yYifHaMAIWw5ZU8EwC96k-zlHjmBlTGRYj4Qt8VwBxCOLFHMHRyBA-dCL1jEfswp8GfKnDqkTQzrhOe2CiQmrPcxCUCswV3iDzOr3bTl9lsVjh5z5p_h9_FK_IBheiL-l3p-fJE84A=m22
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 4S 14B
+https://lh3.googleusercontent.com/q94E4bPAC3h9LPg9QQILE5dFOmxJsGuHtX_zBZgpDJdg0MahJNz6Cn7RmfhGUfTFv15H2-W_Fx3vxwRFkknkRdYn2zkNTX-0KgiR3v4dwEmwftz0-ybs94zwlvMYNL2ETUbkqZY8Gg=m22
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 4S 15B
+https://lh3.googleusercontent.com/HeTryz2wrS8O6uNAYPt3Hhaaa96XOKGuF8xdD8lNsDfSLcezG4vwmVd8ptk1DOR6Y3m7hs0gpEiHWqotqLRo9gqrZfak9FyYV9OcDCyypvrFKrNZQsOH2f2vmHxkI0Pn2kV-RqIeEA=m22
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 4S 16B
+https://lh3.googleusercontent.com/vseAd7kFmEiPtOe-conqegSo4KHNoZhfdttHliKw0w-KyBX3qnSZJzwkL1k3J2XuVTA1S9iPMKZ9llh8yPnSGlgd7JxzNBcFNGV8xMB4gdMWwaRSATham9o44k5j8fg8sjs0bid8YQ=m22
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 4S 17B
+https://lh3.googleusercontent.com/RCpShES7yHlBC3iJMRFf-QI4i3TFXXeHt-ZWRtHXosgYZzmPuiw9TObnkGybc77mBMYfQCE-HNBMNGv8mwqKavdqEpaanbu5TEdGfyruMK7njjoiubVMloVPt_iylGh8K8vnnIHifQ=m22
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 4S 18B
+https://lh3.googleusercontent.com/BqF8yLI2FBXxHfl2SS97Ebt9JpoV9vtbj4FZZygGHyE2sjK5JD3r02gyf3YOr5paeuPnheyISdO7fQ4_o1qBvWoAqKb13iJSbHX2Aa5KfNa37GyaQQV52mmBWtdSAQA2eQPJW5XFlg=m22
+#EXTINF:0 type="video" channelId="-1", 
+https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 4S 19B
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 4S 20B
+https://lh3.googleusercontent.com/5iw6dXvtWeo991L87X5vcCoFmVUchRjlBXIU-VnQDRiMQ5rJ0z6SArePqVJB-lZBluxKYLCEpxnCUYqczFz0ctnGvJ8zQo6RzRkGyR8w9tiW31vKCa9R0aWsVa_jxUHZduWdbAb0DQ=m22
+#EXTINF:0 type="video" channelId="-1", 
+https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 4S 21B
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 4S 22B
+https://lh3.googleusercontent.com/_eBEr8lH2iAXLPW_ha7eiZLJ8BKY8RubDNtV8XAQ0ycG8yo-1uO6qSkLaTuWMN83_w04eRUZHjgXLbw7zAYpLqTiXoGP8KT-dnm8ex9iOuATa6DcVRHOi66yZfQgfTxHccVG8UeXuQ=m22
+#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://image.tmdb.org/t/p/w185/2XSLOCcGhNaQj7h1l981GyqoWNc.jpg" background="purple", THE FLASH 4S 23B
+https://lh3.googleusercontent.com/gQ7wyZ5kYCXfwHRFEeKmY2X8KzwH0UlCqMjFHJOefxcL0XcguJM3JfniTjHEr0Nghvnc4K03svD6r_mNkoYT9H0gcKNATyJkwc51UPfCv0Uo-TosCERq-UiIyH_9WxxiEdLhA6ERcA=m22
 
 #EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 1S 2B
 https://storage.diziyou.co/episodes/78302_tr/720p.m3u8
@@ -19980,6 +20170,137 @@ https://vod02.cdn.web.tv/fj/zp/fjzpdxbkvcy_,240,360,480,.mp4.urlset/playlist-f3-
 https://vod02.cdn.web.tv/kf/vf/kfvfa30p5l2_,240,360,480,.mp4.urlset/playlist-f3-v1-a1.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i.ytimg.com/vi/kjEIJR7S5jo/maxresdefault.jpg", FOSTERİN HAYALİ DOSTLAR MEKANI 4S 13B
 https://vod02.cdn.web.tv/ki/7t/ki7to89sone_,240,360,480,.mp4.urlset/playlist-f3-v1-a1.m3u8
+
+
+
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://img.elo7.com.br/product/600x380/1EA5368/kit-festa-ben-10-ben10.jpg" background="purple", BEN 10 1S 2B (2005)
+https://cdn.dzen.ru/vod/converted-video/vod-content/25/94/59/41/69/25/96/31/27/3/14169f3d-5716-412b-9feb-e07777ad9ff1/kaltura/desc_a099586162532b119503b95d989a140a/vuLNHozCDog8/vw=1280,vh=720,fps=25.00,vbrt=2209624,abrt=131546,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://img.elo7.com.br/product/600x380/1EA5368/kit-festa-ben-10-ben10.jpg" background="purple", BEN 10 1S 3B (2005)
+https://cdn.dzen.ru/vod/converted-video/vod-content/19/48/13/71/31/12/73/19/08/7/68827cb9-f8f5-45a3-97f9-7c13f1b95a39/kaltura/desc_474a215ab43b5d87849deb0e50b20b7b/vvbvwWeFUvTw/vw=1280,vh=720,fps=25.00,vbrt=1631649,abrt=131546,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://img.elo7.com.br/product/600x380/1EA5368/kit-festa-ben-10-ben10.jpg" background="purple", BEN 10 1S 4B (2005)
+https://cdn.dzen.ru/vod/converted-video/vod-content/37/39/47/94/65/78/60/06/94/7/50780b7c-86b2-41ab-a62a-823f8073dafe/kaltura/desc_6d220ef945363e2cc2036ac0e5b389e5/vTJTLzChOWkA/vw=1280,vh=720,fps=25.00,vbrt=1515572,abrt=131546,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=3
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://img.elo7.com.br/product/600x380/1EA5368/kit-festa-ben-10-ben10.jpg" background="purple", BEN 10 1S 5B (2005)
+https://cdn.dzen.ru/vod/converted-video/vod-content/45/47/84/60/18/10/10/89/06/4/35bd514f-a375-44e0-b323-12f4f44b5b28/kaltura/desc_9646692be33f5e3872f0d1e3c3f0c4e3/v87MSj0kWyyw/vw=1280,vh=720,fps=25.00,vbrt=2087706,abrt=131546,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://img.elo7.com.br/product/600x380/1EA5368/kit-festa-ben-10-ben10.jpg" background="purple", BEN 10 1S 6B (2005)
+https://cdn.dzen.ru/vod/converted-video/vod-content/31/03/65/20/38/62/66/81/72/2/5dc60759-bc7d-484a-8f73-4bdc49682ecb/kaltura/desc_4a5b400fe435ad154486d05d1ac5838c/vW-tLPPTS1Ec/vw=1280,vh=720,fps=25.00,vbrt=2142226,abrt=131546,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=3
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://img.elo7.com.br/product/600x380/1EA5368/kit-festa-ben-10-ben10.jpg" background="purple", BEN 10 1S 7B (2005)
+https://cdn.dzen.ru/vod/converted-video/vod-content/91/06/72/31/17/64/00/15/13/3/6875218b-30b6-424d-a6c0-d5e291e09e10/kaltura/desc_62eba1f58987f654576c98c1672ac062/vuq0YRnMdLlI/vw=1280,vh=720,fps=25.00,vbrt=1284383,abrt=131546,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://img.elo7.com.br/product/600x380/1EA5368/kit-festa-ben-10-ben10.jpg" background="purple", BEN 10 1S 8B (2005)
+https://cdn.dzen.ru/vod/converted-video/vod-content/33/50/10/33/10/32/54/76/31/1/4e631059-2de6-4ecf-8da2-6248fd880fe3/kaltura/desc_cf05c3a591a8ff974f268f19f89a76e4/v96PBOgaMkAg/vw=1280,vh=720,fps=25.00,vbrt=1528693,abrt=131546,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://img.elo7.com.br/product/600x380/1EA5368/kit-festa-ben-10-ben10.jpg" background="purple", BEN 10 1S 9B (2005)
+https://cdn.dzen.ru/vod/converted-video/vod-content/49/67/38/69/91/32/85/12/49/3/1953c3b7-ac05-4bfa-ba12-7f2a3737f14f/kaltura/desc_b3c4bb3ad983000f2e040946f965dab5/vmeZJOsf2NRY/vw=1280,vh=720,fps=25.00,vbrt=1839282,abrt=131546,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=1
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://img.elo7.com.br/product/600x380/1EA5368/kit-festa-ben-10-ben10.jpg" background="purple", BEN 10 1S 10B (2005)
+https://cdn.dzen.ru/vod/converted-video/vod-content/36/43/15/90/48/16/16/66/98/3/2d2db806-f09d-4aac-9c81-027f1efab530/kaltura/desc_1711db8a5128740d2ceaf33f69114e0c/vJxfyMAKE1wU/vw=1280,vh=720,fps=25.00,vbrt=1724774,abrt=131546,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://img.elo7.com.br/product/600x380/1EA5368/kit-festa-ben-10-ben10.jpg" background="purple", BEN 10 1S 11B (2005)
+https://cdn.dzen.ru/vod/converted-video/vod-content/39/93/22/93/40/25/53/01/96/2c9102c0-a1da-4dbc-8cfc-95882263cda5/kaltura/desc_6a956f9caeaacd03bca52038e938e389/v_ybBpLuvTQA/vw=1280,vh=720,fps=25.00,vbrt=1522669,abrt=131546,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=3
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://img.elo7.com.br/product/600x380/1EA5368/kit-festa-ben-10-ben10.jpg" background="purple", BEN 10 1S 12B (2005)
+https://cdn.dzen.ru/vod/converted-video/vod-content/73/41/93/21/29/38/04/10/24/0/2d0dbc42-5494-4b8e-85bc-e13a4cfae5d3/kaltura/desc_e9fee5cf0a7e56ed0de06f89746ec4b5/vS28NrdN8nSo/vw=1280,vh=720,fps=25.00,vbrt=1790417,abrt=131546,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://img.elo7.com.br/product/600x380/1EA5368/kit-festa-ben-10-ben10.jpg" background="purple", BEN 10 1S 13B (2005)
+https://cdn.dzen.ru/vod/converted-video/vod-content/24/68/45/24/05/06/73/19/60/9/48d37a0c-86c5-4160-8948-e23a2a8c0341/kaltura/desc_cb72d6ffa8025664484cf369fcf5e9e7/v9IGg5BDXq2s/vw=1280,vh=720,fps=25.00,vbrt=1783842,abrt=131546,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
+
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://img.elo7.com.br/product/600x380/1EA5368/kit-festa-ben-10-ben10.jpg" background="purple", BEN 10 2S 1B (2005)
+https://cdn.dzen.ru/vod/converted-video/vod-content/36/29/99/18/94/45/94/41/68/4/101276a3-8b4f-481d-a856-7b284c9a7c8f/kaltura/desc_ee71d9c3f91d36535ee48ebf3763a3ad/vAssaUIah33g/vw=1280,vh=720,fps=25.00,vbrt=1698634,abrt=131546,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=3
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://img.elo7.com.br/product/600x380/1EA5368/kit-festa-ben-10-ben10.jpg" background="purple", BEN 10 2S 2B (2005)
+https://cdn.dzen.ru/vod/converted-video/vod-content/44/93/49/97/86/39/60/81/33/2/e19280fa-7e22-4a0f-b2d3-37828b20fca7/kaltura/desc_86a3f265d6eabd0df02b14e6ac062d47/vBoBqG-lCZ2U/vw=1280,vh=720,fps=25.00,vbrt=2186954,abrt=131546,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://img.elo7.com.br/product/600x380/1EA5368/kit-festa-ben-10-ben10.jpg" background="purple", BEN 10 2S 3B (2005)
+https://cdn.dzen.ru/vod/converted-video/vod-content/30/50/61/37/50/72/90/62/65/2/24a84fc4-ef1d-47d4-a201-22a4b572d0aa/kaltura/desc_4f3e54ce8a24ab8911f19c2c91c00903/vsI7TAuEZAGk/vw=1280,vh=720,fps=25.00,vbrt=1577282,abrt=131546,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://img.elo7.com.br/product/600x380/1EA5368/kit-festa-ben-10-ben10.jpg" background="purple", BEN 10 2S 4B (2005)
+https://cdn.dzen.ru/vod/converted-video/vod-content/25/52/39/10/51/36/76/20/61/6/e1f3f7e8-ee33-4069-85e0-1adaf859cd64/kaltura/desc_3b0263bbc37dda0c526e268f692fd7dd/vy1_n1yEn_nk/vw=1280,vh=720,fps=25.00,vbrt=1501440,abrt=131546,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=1
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://img.elo7.com.br/product/600x380/1EA5368/kit-festa-ben-10-ben10.jpg" background="purple", BEN 10 2S 5B (2005)
+https://cdn.dzen.ru/vod/converted-video/vod-content/16/90/12/57/70/66/72/47/31/3/1a7f5285-05d8-41a7-ba2d-0170c2c1a5e4/kaltura/desc_7c0af7de52921e2d4ccc4e5d02a4ee18/vhGuDnNXqCCY/vw=1280,vh=720,fps=25.00,vbrt=1740343,abrt=131546,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=2
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://img.elo7.com.br/product/600x380/1EA5368/kit-festa-ben-10-ben10.jpg" background="purple", BEN 10 2S 6B (2005)
+https://cdn.dzen.ru/vod/converted-video/vod-content/41/79/82/23/94/66/00/58/64/7/a7611f88-92ff-4403-8ca1-bfb24c82281c/kaltura/desc_6e2c57971cf061dda7923aefa894e819/vlK0MmkgyyQc/vw=1280,vh=720,fps=25.00,vbrt=1811287,abrt=131546,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://img.elo7.com.br/product/600x380/1EA5368/kit-festa-ben-10-ben10.jpg" background="purple", BEN 10 2S 7B (2005)
+https://cdn.dzen.ru/vod/converted-video/vod-content/37/74/01/67/89/93/99/19/28/9/4bde7e28-630d-461e-ae75-484f5e6c27e5/kaltura/desc_4e1d90c0050c43742a6970b6783928a0/vPP2onIUWEVg/vw=1280,vh=720,fps=25.00,vbrt=1514924,abrt=131546,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://img.elo7.com.br/product/600x380/1EA5368/kit-festa-ben-10-ben10.jpg" background="purple", BEN 10 2S 8B (2005)
+https://cdn.dzen.ru/vod/converted-video/vod-content/12/19/40/92/47/26/69/71/26/7/1a14d330-1900-485f-acd4-9d316ca2702e/kaltura/desc_40ccfb807c4b66b3e804cf29eed0aa8a/vlmJ_C70C-yE/vw=1280,vh=720,fps=25.00,vbrt=1841985,abrt=131546,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=2
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://img.elo7.com.br/product/600x380/1EA5368/kit-festa-ben-10-ben10.jpg" background="purple", BEN 10 2S 9B (2005)
+https://cdn.dzen.ru/vod/converted-video/vod-content/73/51/63/68/54/47/82/22/94/0/5b0fc87b-0e46-4f9c-a197-34134db0246c/kaltura/desc_a6fcec3f514869705a8e2942a29e24a4/vCctwmqOrHz8/vw=1280,vh=720,fps=25.00,vbrt=1856654,abrt=131546,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=3
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://img.elo7.com.br/product/600x380/1EA5368/kit-festa-ben-10-ben10.jpg" background="purple", BEN 10 2S 10B (2005)
+https://cdn.dzen.ru/vod/converted-video/vod-content/70/03/21/37/44/50/06/20/05/9/6f20a9d1-e84e-443a-a81e-1a5ae39d27e8/kaltura/desc_7f6a0cf10a8f8414f4b19761ef178f61/vRPUS_OuX8Ao/vw=1280,vh=720,fps=25.00,vbrt=1521099,abrt=131546,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=2
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://img.elo7.com.br/product/600x380/1EA5368/kit-festa-ben-10-ben10.jpg" background="purple", BEN 10 2S 11B (2005)
+https://cdn.dzen.ru/vod/converted-video/vod-content/12/38/86/01/32/60/31/02/38/2/b204999c-0d5b-498e-a606-e1ecd650dec1/kaltura/desc_bc3803fb47afe5073dddf6451eb0d2c0/vAOxdzTuihRs/vw=1280,vh=720,fps=25.00,vbrt=1599267,abrt=131546,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://img.elo7.com.br/product/600x380/1EA5368/kit-festa-ben-10-ben10.jpg" background="purple", BEN 10 2S 12B (2005)
+https://cdn.dzen.ru/vod/converted-video/vod-content/32/49/96/80/81/89/04/56/37/1/884b5574-4d19-48ea-8dc3-d0b2b92ef90e/kaltura/desc_96c24079e1a87502b87a43525e555d0b/v3BUUvlQQSko/vw=1280,vh=720,fps=25.00,vbrt=1360399,abrt=131546,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=3
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://img.elo7.com.br/product/600x380/1EA5368/kit-festa-ben-10-ben10.jpg" background="purple", BEN 10 2S 13B (2005)
+https://cdn.dzen.ru/vod/converted-video/vod-content/36/27/64/77/59/43/96/23/16/3/d932d40c-7bbf-43e3-ba40-b3cef65a298d/kaltura/desc_64f7fe7113ae8bf98ca238398c9d9754/v4aOn8DeOPhU/vw=1280,vh=720,fps=25.00,vbrt=1822954,abrt=131546,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=2
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://img.elo7.com.br/product/600x380/1EA5368/kit-festa-ben-10-ben10.jpg" background="purple", BEN 10 3S 1B (2005)
+https://cdn.dzen.ru/vod/converted-video/vod-content/41/31/17/22/77/17/25/62/37/2/038e3f7a-2439-4bce-bdf3-8fe9a2c2b0d8/kaltura/desc_aa13071b5c70fc4ec567b884e75211aa/vX8s57SO4plc/vw=1280,vh=720,fps=25.00,vbrt=1460247,abrt=131546,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://img.elo7.com.br/product/600x380/1EA5368/kit-festa-ben-10-ben10.jpg" background="purple", BEN 10 3S 2B (2005)
+https://cdn.dzen.ru/vod/converted-video/vod-content/48/96/31/85/01/61/42/90/22/3/e3ae9036-49c8-4943-bb64-b28bce36261b/kaltura/desc_bdc1f1257cdb3f32a9d39c2e994a69df/vs-VABpUHkVc/vw=1280,vh=720,fps=25.00,vbrt=1542661,abrt=131546,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=2
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://img.elo7.com.br/product/600x380/1EA5368/kit-festa-ben-10-ben10.jpg" background="purple", BEN 10 3S 3B (2005)
+https://cdn.dzen.ru/vod/converted-video/vod-content/26/88/98/82/13/19/43/52/13/9/a0da026d-71a5-4d78-bd0d-1e36d517534a/kaltura/desc_4224ad52d07f37792389e829725e878f/v3VHUKZwoHhA/vw=1280,vh=720,fps=25.00,vbrt=1507627,abrt=131546,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://img.elo7.com.br/product/600x380/1EA5368/kit-festa-ben-10-ben10.jpg" background="purple", BEN 10 3S 4B (2005)
+https://cdn.dzen.ru/vod/converted-video/vod-content/33/58/41/88/14/50/67/89/30/4/e3960cb6-3497-440c-9148-98d4c993e12a/kaltura/desc_f73b0e0cc5d3fea8628e202f08ebb618/vh9wWLZtwskk/vw=1280,vh=720,fps=25.00,vbrt=1648677,abrt=131546,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://img.elo7.com.br/product/600x380/1EA5368/kit-festa-ben-10-ben10.jpg" background="purple", BEN 10 3S 5B (2005)
+https://cdn.dzen.ru/vod/converted-video/vod-content/81/69/36/23/48/30/60/61/38/3/3663b445-7c6c-44fa-b93a-e0cf7cc4ab58/kaltura/desc_d9b2dd9aceb0ed3eff9b6375d902e09f/v4MA-2oJWBBU/vw=1280,vh=720,fps=25.00,vbrt=1401094,abrt=131546,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=2
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://img.elo7.com.br/product/600x380/1EA5368/kit-festa-ben-10-ben10.jpg" background="purple", BEN 10 3S 6B (2005)
+https://cdn.dzen.ru/vod/converted-video/vod-content/32/53/31/05/41/33/25/20/21/6/0c8dab43-4bf7-4717-ad8a-b7e0f648e7ad/kaltura/desc_0be18e737e5eca77e8837dcfd96d27c7/vDAdbmDkdWQA/vw=1280,vh=720,fps=25.00,vbrt=1031108,abrt=131546,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=3
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://img.elo7.com.br/product/600x380/1EA5368/kit-festa-ben-10-ben10.jpg" background="purple", BEN 10 3S 7B (2005)
+https://cdn.dzen.ru/vod/converted-video/vod-content/80/93/74/85/22/19/52/27/87/3/297a79f0-5796-4298-b9f7-90399573c430/kaltura/desc_20922e9dd1f86dfa7f43f00d56c2569e/vTIwKvSU-zFU/vw=1280,vh=720,fps=25.00,vbrt=954684,abrt=131546,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=1
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://img.elo7.com.br/product/600x380/1EA5368/kit-festa-ben-10-ben10.jpg" background="purple", BEN 10 3S 8B (2005)
+https://cdn.dzen.ru/vod/converted-video/vod-content/19/40/50/89/40/08/94/17/37/7/bcb0061f-62f7-48c3-a34f-ac45c024aac5/kaltura/desc_000225a85185994c46f367e5c01d8695/vz-8XO6YpBkE/vw=1280,vh=720,fps=25.00,vbrt=1483546,abrt=131546,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://img.elo7.com.br/product/600x380/1EA5368/kit-festa-ben-10-ben10.jpg" background="purple", BEN 10 3S 9B (2005)
+https://cdn.dzen.ru/vod/converted-video/vod-content/23/38/23/55/57/19/21/00/74/7/5d807a8d-4bff-4b15-ab65-b5f697d7b1e2/kaltura/desc_b0c26af206a2936c5d85b4642df37916/vTJ-YLvRdjAA/vw=1280,vh=720,fps=25.00,vbrt=1179471,abrt=131546,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://img.elo7.com.br/product/600x380/1EA5368/kit-festa-ben-10-ben10.jpg" background="purple", BEN 10 3S 10B (2005)
+https://cdn.dzen.ru/vod/converted-video/vod-content/39/89/99/50/06/74/19/78/98/5/75a4273e-02f9-4efa-b323-c282a9f01f4c/kaltura/desc_4d2c68ee67023203e692196dd22c9452/vL-7Wg5a3M1Y/vw=1280,vh=720,fps=25.00,vbrt=1699186,abrt=131546,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://img.elo7.com.br/product/600x380/1EA5368/kit-festa-ben-10-ben10.jpg" background="purple", BEN 10 3S 11B (2005)
+https://cdn.dzen.ru/vod/converted-video/vod-content/45/56/42/54/14/30/95/15/78/2/a03e0ea3-878f-4446-aea6-a599d8e2c161/kaltura/desc_9ef9363b8d000463252880fc9f1c2466/vTZ98wvhpE1Y/vw=1280,vh=720,fps=25.00,vbrt=1309011,abrt=131546,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://img.elo7.com.br/product/600x380/1EA5368/kit-festa-ben-10-ben10.jpg" background="purple", BEN 10 3S 12B (2005)
+https://cdn.dzen.ru/vod/converted-video/vod-content/79/96/11/81/97/43/35/49/72/b7944d58-0341-4b7e-8f3e-0a19c69c9542/kaltura/desc_809a51a53d302cfb0606a95758674fa1/vm_4mtJCRIgE/vw=1280,vh=720,fps=25.00,vbrt=1667321,abrt=131546,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=3
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://img.elo7.com.br/product/600x380/1EA5368/kit-festa-ben-10-ben10.jpg" background="purple", BEN 10 3S 13B (2005)
+https://cdn.dzen.ru/vod/converted-video/vod-content/14/64/42/45/37/23/80/43/42/4/7004de90-a938-43d1-a320-45a0529f7750/kaltura/desc_a5e7da1995128d29f0b13bcaf3b544ab/vGiS03dlYNjk/vw=1280,vh=720,fps=25.00,vbrt=1270391,abrt=131546,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=3
+
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://img.elo7.com.br/product/600x380/1EA5368/kit-festa-ben-10-ben10.jpg" background="purple", BEN 10 4S 1B (2005)
+https://cdn.dzen.ru/vod/converted-video/vod-content/35/17/32/25/67/66/73/58/97/9/d1ebaea2-a178-4dd6-9465-4089dd86d9a5/kaltura/desc_71938ed2ceb9283964c5ce5499ba8c10/vCGkoE-LNgUM/vw=1280,vh=720,fps=24.00,vbrt=1021277,abrt=129384,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=3
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://img.elo7.com.br/product/600x380/1EA5368/kit-festa-ben-10-ben10.jpg" background="purple", BEN 10 4S 2B (2005)
+https://cdn.dzen.ru/vod/converted-video/vod-content/85/52/03/39/70/32/83/63/96/8/f2bbf216-f753-4fb0-a04e-709d519c5181/kaltura/desc_8afcb671b58d067b58171febc1e27806/ve5_phxGR6jI/vw=1280,vh=720,fps=24.00,vbrt=1151424,abrt=129507,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://img.elo7.com.br/product/600x380/1EA5368/kit-festa-ben-10-ben10.jpg" background="purple", BEN 10 4S 3B (2005)
+https://cdn.dzen.ru/vod/converted-video/vod-content/23/41/75/46/48/44/04/06/92/4ae11412-10e5-4888-a763-1891e6e84ec8/kaltura/desc_e807f27e9196558ae583dfcc4ff6cc9e/vv6WyUZ5Ycgw/vw=1280,vh=720,fps=24.00,vbrt=998579,abrt=129507,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://img.elo7.com.br/product/600x380/1EA5368/kit-festa-ben-10-ben10.jpg" background="purple", BEN 10 4S 4B (2005)
+https://cdn.dzen.ru/vod/converted-video/vod-content/65/53/04/63/13/14/73/45/11/1/db8fe55a-b1df-46b7-adcc-bcc02e297ed4/kaltura/desc_6eb1c3769e5210ad060672f0b4692255/vLbke2-_Z_2A/vw=1280,vh=720,fps=24.00,vbrt=902769,abrt=129507,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=3
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://img.elo7.com.br/product/600x380/1EA5368/kit-festa-ben-10-ben10.jpg" background="purple", BEN 10 4S 5B (2005)
+https://cdn.dzen.ru/vod/converted-video/vod-content/62/14/98/48/47/92/36/70/33/6/d796f603-0d27-47c4-ab27-12b0806cf974/kaltura/desc_d3aaa559744d555b9df751d8afa71738/vd0ukh5l3OSs/vw=1162,vh=720,fps=24.00,vbrt=1030629,abrt=129507,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=3
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://img.elo7.com.br/product/600x380/1EA5368/kit-festa-ben-10-ben10.jpg" background="purple", BEN 10 4S 6B (2005)
+https://cdn.dzen.ru/vod/converted-video/vod-content/10/65/61/99/68/72/16/43/41/9/bf8faf18-e19c-46b4-82f2-32418bc1a0c3/kaltura/desc_bc908180f0c15818344c040be34f5638/vcBvefDzqWVk/vw=1280,vh=720,fps=24.00,vbrt=834584,abrt=129507,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=1
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://img.elo7.com.br/product/600x380/1EA5368/kit-festa-ben-10-ben10.jpg" background="purple", BEN 10 4S 7B (2005)
+https://cdn.dzen.ru/vod/converted-video/vod-content/31/21/76/12/12/44/32/85/78/9/00e7ac1b-494d-4660-884e-7baffd8c3199/kaltura/desc_fd65ec90dc22a9e5a11d4f1e29031b4d/vwUpYV0H3hiM/vw=1280,vh=720,fps=24.00,vbrt=872411,abrt=129507,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=3
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://img.elo7.com.br/product/600x380/1EA5368/kit-festa-ben-10-ben10.jpg" background="purple", BEN 10 4S 8B (2005)
+https://cdn.dzen.ru/vod/converted-video/vod-content/52/37/18/06/90/51/26/16/66/0/a14499e9-bc80-405e-99c9-0b946cfcab08/kaltura/desc_8f0c161502333a49183e5ebb6ae7361c/vox-jiRIKcRM/vw=1280,vh=720,fps=24.00,vbrt=956304,abrt=129507,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=1
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://img.elo7.com.br/product/600x380/1EA5368/kit-festa-ben-10-ben10.jpg" background="purple", BEN 10 4S 9B (2005)
+https://cdn.dzen.ru/vod/converted-video/vod-content/17/71/12/41/47/46/72/95/73/1/81b01650-8878-4517-8e36-f6b85b412a26/kaltura/desc_c9288c360854c5fc44ab7ff52c524e69/v6rae0YdZpgc/vw=1280,vh=720,fps=24.00,vbrt=926177,abrt=129507,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=1
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://img.elo7.com.br/product/600x380/1EA5368/kit-festa-ben-10-ben10.jpg" background="purple", BEN 10 4S 10B (2005)
+https://cdn.dzen.ru/vod/converted-video/vod-content/35/27/64/02/54/59/70/16/12/9/4dcc604e-e5fa-480d-991e-b26600f36144/kaltura/desc_7d8adacb642c004e7666adcb0661f6f8/v7-QjiES_1lQ/vw=1280,vh=720,fps=24.00,vbrt=983706,abrt=129507,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://img.elo7.com.br/product/600x380/1EA5368/kit-festa-ben-10-ben10.jpg" background="purple", BEN 10 4S 11B (2005)
+https://cdn.dzen.ru/vod/converted-video/vod-content/18/34/69/09/43/06/01/37/64/2/ea25fa2c-0537-47e4-b6dc-218d9b5f3e4a/kaltura/desc_8311828b03845ecd66f0bbdf76c8811c/vqdgvZ85OvHg/vw=1280,vh=720,fps=24.00,vbrt=1006382,abrt=129380,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=1
+
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://picfiles.alphacoders.com/448/thumb-448547.jpg" background="purple", BEN 10 ALİEN FORCE 1S 2B (2008)
+https://cdn.dzen.ru/vod/converted-video/vod-content/32/13/78/00/34/42/52/68/28/7/7a98c464-b6de-4943-ad95-dcd885f4d559/kaltura/desc_305011d9ae1e0978cc8024271431aac0/veEcly0HQygQ/vw=1280,vh=720,fps=24.00,vbrt=869649,abrt=129384,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=1
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://picfiles.alphacoders.com/448/thumb-448547.jpg" background="purple", BEN 10 ALİEN FORCE 1S 3B (2008)
+https://cdn.dzen.ru/vod/converted-video/vod-content/14/86/14/10/22/18/06/58/44/0/611a202c-da68-4ffc-8469-f4d3a1faeb7e/kaltura/desc_df2cd8a413b2e1b975382d7b7bba00ab/vhIXHNfc1mQk/vw=1280,vh=720,fps=24.00,vbrt=1166416,abrt=129384,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://picfiles.alphacoders.com/448/thumb-448547.jpg" background="purple", BEN 10 ALİEN FORCE 1S 4B (2008)
+https://cdn.dzen.ru/vod/converted-video/vod-content/76/89/24/74/63/12/85/54/29/7d67ffa7-177c-43c2-afac-7d8137480fc9/kaltura/desc_fff26c9d104001ece7f80c50aab7e405/vbbjT9ETWd30/vw=1280,vh=720,fps=24.00,vbrt=702837,abrt=129386,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=2
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://picfiles.alphacoders.com/448/thumb-448547.jpg" background="purple", BEN 10 ALİEN FORCE 1S 5B (2008)
+https://cdn.dzen.ru/vod/converted-video/vod-content/24/82/23/25/07/58/84/24/06/2/1370211b-f652-4639-a143-80331e8a13c9/kaltura/desc_182e5869819cec096f4212633286895f/vL6dyTAlZiBI/vw=1280,vh=720,fps=24.00,vbrt=929052,abrt=131546,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=2
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://picfiles.alphacoders.com/448/thumb-448547.jpg" background="purple", BEN 10 ALİEN FORCE 1S 6B (2008)
+https://cdn.dzen.ru/vod/converted-video/vod-content/56/45/93/67/56/78/72/97/57/2/b98e2290-47a6-4cee-a1c4-d0ca33a505cd/kaltura/desc_5e50eeeb64f8bffd34685c0cf817ba1b/vR3EpnmHtkw8/vw=1280,vh=720,fps=24.00,vbrt=956525,abrt=131546,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=1
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://picfiles.alphacoders.com/448/thumb-448547.jpg" background="purple", BEN 10 ALİEN FORCE 1S 7B (2008)
+https://cdn.dzen.ru/vod/converted-video/vod-content/68/29/57/46/26/46/47/20/88/3/c3f6b1ab-a0ec-4d82-ad77-4e29e2db8880/kaltura/desc_849dabd45b6e2a27d64a15ffe533bb79/vbvcmYmRdByE/vw=1280,vh=720,fps=24.00,vbrt=802857,abrt=131545,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=2
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://picfiles.alphacoders.com/448/thumb-448547.jpg" background="purple", BEN 10 ALİEN FORCE 1S 8B (2008)
+https://cdn.dzen.ru/vod/converted-video/vod-content/56/98/07/25/39/39/27/28/75/9/6a89014d-fec8-4880-81ee-032f920e0cf7/kaltura/desc_2a7247bdfdb9cd50654a95bd5c175d80/vinRM_rDtHig/vw=1280,vh=720,fps=24.00,vbrt=688294,abrt=131546,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://picfiles.alphacoders.com/448/thumb-448547.jpg" background="purple", BEN 10 ALİEN FORCE 1S 9B (2008)
+https://cdn.dzen.ru/vod/converted-video/vod-content/85/09/66/16/05/48/00/13/71/9/07bde927-c214-45ff-b9da-399035acffe0/kaltura/desc_bf4f0893a3a6610f887ddd5580a01379/vv1g0wB0zy3o/vw=1280,vh=720,fps=24.00,vbrt=769674,abrt=131546,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=3
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://picfiles.alphacoders.com/448/thumb-448547.jpg" background="purple", BEN 10 ALİEN FORCE 1S 10B (2008)
+https://cdn.dzen.ru/vod/converted-video/vod-content/42/82/87/06/48/40/94/04/77/3/a18d023b-2f72-48ef-8669-edaf42e42136/kaltura/desc_3da279479eb67158149ad61bf04472ab/v2DR_8BulNkc/vw=1280,vh=720,fps=24.00,vbrt=959497,abrt=131546,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://picfiles.alphacoders.com/448/thumb-448547.jpg" background="purple", BEN 10 ALİEN FORCE 1S 11B (2008)
+https://cdn.dzen.ru/vod/converted-video/vod-content/33/09/62/92/19/21/08/55/02/2/69f6d8a8-d00f-4018-97f2-f378c750c15a/kaltura/desc_c95e7b26535b9a3c6e3d27d5af1a308a/v4FfrBTDfoi0/vw=1280,vh=720,fps=24.00,vbrt=864468,abrt=131546,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=1
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://picfiles.alphacoders.com/448/thumb-448547.jpg" background="purple", BEN 10 ALİEN FORCE 1S 12B (2008)
+https://cdn.dzen.ru/vod/converted-video/vod-content/41/64/10/67/48/34/02/83/80/5/a6af355d-1239-40d7-991e-c6230cf03abb/kaltura/desc_c86e7b1e6662b329365d13b312b2faf5/vbPktwgpkdyg/vw=1280,vh=720,fps=24.00,vbrt=781556,abrt=131545,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=1
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://picfiles.alphacoders.com/448/thumb-448547.jpg" background="purple", BEN 10 ALİEN FORCE 1S 13B (2008)
+https://cdn.dzen.ru/vod/converted-video/vod-content/39/19/26/74/98/74/08/38/33/8/e28914bc-c9d9-420f-ad48-fb515010af88/kaltura/desc_141562d03aa3d6eee6597d64b8634825/vOFq7XoeyCFw/vw=1280,vh=720,fps=24.00,vbrt=796507,abrt=131547,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=2
+
+
+
 
 
 
