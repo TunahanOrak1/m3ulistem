@@ -27,9 +27,6 @@ https://cdn.dzen.ru/vod/converted-video/vod-content/50/96/14/35/36/68/98/39/65/4
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://ntvb.tmsimg.com/assets/p18078200_b_h8_ae.jpg?w=1280&h=720" background="purple", THE 100 1S 1B
 https://storage.diziyou.co/episodes/60901_tr/720p.m3u8
 
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://fotografias.larazon.es/clipping/cmsimages02/2023/08/16/8BD47583-2811-4A16-9783-3B17D93BFFF3/cartel-american-horror-story-delicate_98.jpg" background="purple", AMERİCAN HORROR STORY 1S 1B
-https://cdn.dzen.ru/vod/converted-video/vod-content/71/36/84/44/34/07/71/55/12/8/1a61ba0c-d86f-43ae-8e64-fc1385ed1bdf/kaltura/desc_71bb80551e5b1074d5e879443ab5ca46/vuBBdmZylMU4/vw=1280,vh=720,fps=24.00,vbrt=1057504,abrt=130750,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
-
 
 #EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://eagleeye.news/wp-content/uploads/2017/10/rick-and-morty-e1507831459637.jpg" background="purple", RİCK AND MORTY 1S 1B
 https://storage.diziyou.co/episodes/11502_tr/720p.m3u8
@@ -77,6 +74,10 @@ https://storage.diziyou.co/episodes/115701_tr/720p.m3u8
 
 #EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://m.media-amazon.com/images/S/pv-target-images/ee9810d6ea0357473605272ace805415a3fa8d935f4132e52b4d0f9ad0a5604c.png" background="purple", SECRET LEVEL 1S 1B
 https://storage.diziyou.co/episodes/113101_tr/720p.m3u8
+
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://fotografias.larazon.es/clipping/cmsimages02/2023/08/16/8BD47583-2811-4A16-9783-3B17D93BFFF3/cartel-american-horror-story-delicate_98.jpg" background="purple", AMERİCAN HORROR STORY 1S 1B
+https://cdn.dzen.ru/vod/converted-video/vod-content/71/36/84/44/34/07/71/55/12/8/1a61ba0c-d86f-43ae-8e64-fc1385ed1bdf/kaltura/desc_71bb80551e5b1074d5e879443ab5ca46/vuBBdmZylMU4/vw=1280,vh=720,fps=24.00,vbrt=1057504,abrt=130750,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
+
 
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://ds.static.rtbf.be/article/image/1920x1080/4/3/3/349f36aa789af083b8e26839bd498af9-1469179192.jpg" background="purple", TEEN WOLF 1S 1B
 https://storage.diziyou.co/episodes/18701_tr/720p.m3u8
