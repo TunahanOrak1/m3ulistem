@@ -3,7 +3,7 @@
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://i.imgur.com/Ll0yd6v.jpeg" background="purple", BİLGİLENDİRME VE KILAVUZ
 https://vod02.cdn.web.tv/n4/bs/n4bsn3kkcxs_,240,360,480,720,.mp4.urlset/playlist-f4-v1-a1.m3u8?st=rYtz-9S2YEUqViK4drqt7w&e=1734982934
 
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://cdn.pixabay.com/photo/2012/04/13/12/30/new-32199_1280.png" background="purple", BLUE LOCK 2.SEZON EKLENDİ
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://img-s2.onedio.com/id-55393518a675512274fa04f1/rev-0/raw/s-70b745751d7cb8692d7a78c5ba2dff5b5b4b9218.jpg" background="purple",YENİ (BLUE LOCK 2.SEZON EKLENDİ)
 https://vod02.cdn.web.tv/n4/bs/n4bsn3kkcxs_,240,360,480,720,.mp4.urlset/playlist-f4-v1-a1.m3u8?st=rYtz-9S2YEUqViK4drqt7w&e=1734982934
 
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Warner_Bros._logo_2023.svg/1011px-Warner_Bros._logo_2023.svg.png" background="purple", WARNER BROS
@@ -37,9 +37,6 @@ https://storage.diziyou.co/episodes/11502_tr/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://media.glide.mailplus.co.uk/prod/images/gm_slate/0cbdeaaa2a8d-beastsq.jpg" background="purple", BEAST GAMES 1S 1B  
 https://storage.diziyou.co/episodes/115201_tr/720p.m3u8  
 
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 1S 1B
-https://storage.diziyou.co/episodes/50601_tr/720p.m3u8
-
 
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://tr.web.img4.acsta.net/newsv7/21/11/15/14/12/5066657.jpg" background="purple", YELLOWSTONE 1S 1B  
 https://storage.diziyou.co/episodes/90901_tr/720p.m3u8  
@@ -50,7 +47,7 @@ https://storage.diziyou.co/episodes/108801_tr/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://www.blogtorwho.com/wp-content/uploads/2021/06/Devils-Hour-Clock.jpg" background="purple", ŞEYTANIN SAATİ 1S 1B  
 https://storage.diziyou.co/episodes/107001_tr/720p.m3u8  
 
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="purple", THE SİMPSONS 33S 1B
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="purple", THE SİMPSONS 33S 1B
 https://cdn.dzen.ru/vod/converted-video/vod-content/50/42/88/25/64/95/94/38/04/5/a124d234-6e07-481a-9ccc-6fdf5548e592/kaltura/desc_7ac9c94ec7c650fa2d5052c4b0b1d814/vycwgcwCR2Sw/vw=1280,vh=720,fps=24.00,vbrt=914670,abrt=131521,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=3
 
 
@@ -113,6 +110,8 @@ https://storage.diziyou.co/episodes/90701_tr/720p.m3u8
 
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://m.media-amazon.com/images/S/pv-target-images/042632ba44e82bbd73138049192424046a4b8d59be5875a977c58e02982e9403.jpg" background="purple", HOW İ MET YOUR MOTHER 1S 1B
 https://storage.diziyou.co/episodes/10901_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 1S 1B
+https://storage.diziyou.co/episodes/50601_tr/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static1.moviewebimages.com/wordpress/wp-content/uploads/2024/05/friends.jpg" background="purple", FRİENDS 1S 1B
 https://storage.diziyou.co/episodes/88901_tr/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://wallpapers.com/images/hd/fierce-look-of-supergirl-p4qjm4modfdugujs.jpg" background="purple", SUPERGİRL 1S 1B
@@ -159,7 +158,7 @@ https://cdn.dzen.ru/vod/converted-video/vod-content/40/13/63/41/20/50/92/46/40/0
 #EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://static1.cbrimages.com/wordpress/wp-content/uploads/2024/10/justice-league-unlimited-header.jpg" background="purple", JUSTİCE LEAGUE UNLİMİTED 1S 1B
 https://cdn.dzen.ru/vod/converted-video/vod-content/18/49/00/58/65/60/67/36/42/2/44903a85-05a6-4e61-b2c3-131eac2007fd/kaltura/desc_6a8a7ce38da2683e1332d497afe9c078/vfcf8kmRfrhM/vw=1280,vh=720,fps=25.00,vbrt=870011,abrt=129384,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=3
 
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://cdn.sortiraparis.com/images/80/66131/983115-futurama-sur-disney-la-serie-renouvelee-pour-deux-nouvelles-saisons.jpg" background="purple", FUTURAMA 1S 1B
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://cdn.sortiraparis.com/images/80/66131/983115-futurama-sur-disney-la-serie-renouvelee-pour-deux-nouvelles-saisons.jpg" background="purple", FUTURAMA 1S 1B
 https://cdn.dzen.ru/vod/converted-video/vod-content/80/72/54/47/64/91/23/46/20/6/f7213c93-44c4-41fb-9f78-997b48048708/kaltura/desc_70d79cd3481c43f7cc53da9be8b6168f/vsAjr2RjBj3c/vw=960,vh=720,fps=24.00,vbrt=553307,abrt=131521,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f5-v1-a1.m3u8?redundant=1
 
 #EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://static1.cbrimages.com/wordpress/wp-content/uploads/2024/08/scarecrow-and-joker-in-the-new-batman-adventures.jpg" background="purple", YENİ BATMAN MACERALARI (1997) 1S 1B
@@ -7665,147 +7664,147 @@ https://storage.diziyou.co/episodes/10088_tr/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://tr.web.img3.acsta.net/r_1280_720/img/b4/e3/b4e3acbe659d7b7820b9be959c388830.jpg" background="purple", PRİSON BREAK 5S 9B  
 https://storage.diziyou.co/episodes/10089_tr/720p.m3u8
 
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="purple", THE SİMPSONS 33S 2B
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="purple", THE SİMPSONS 33S 2B
 https://cdn.dzen.ru/vod/converted-video/vod-content/45/90/01/87/72/97/46/05/09/8/b6f5210e-8182-45e5-911d-f55c92edf0b4/kaltura/desc_c4c9e9e60fb54947a8e1eabc4683e424/vs1vrvav52jc/vw=1280,vh=720,fps=24.00,vbrt=732487,abrt=131522,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=1
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="purple", THE SİMPSONS 33S 3B
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="purple", THE SİMPSONS 33S 3B
 https://cdn.dzen.ru/vod/converted-video/vod-content/11/61/70/73/92/00/15/02/59/9/b96082c9-60ab-41cf-8a52-f4fefe7cfb57/kaltura/desc_8af72119ca514aec535fab8e10765bef/vFitmVEo9FTU/vw=1280,vh=720,fps=24.00,vbrt=1085750,abrt=131522,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=2
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="purple", THE SİMPSONS 33S 4B
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="purple", THE SİMPSONS 33S 4B
 https://cdn.dzen.ru/vod/converted-video/vod-content/87/09/67/96/45/59/22/47/50/0/e4b2cd06-f75d-4b23-a4f6-d58b69bb1f44/kaltura/desc_b1c9c93987c428da304776a78cb41ff9/vHbeVrbmr6lc/vw=1280,vh=720,fps=24.00,vbrt=909887,abrt=131522,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=3
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="purple", THE SİMPSONS 33S 5B
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="purple", THE SİMPSONS 33S 5B
 https://cdn.dzen.ru/vod/converted-video/vod-content/69/79/47/23/63/54/76/06/42/2/0feef6cf-f26f-481e-b853-c50a49f3c458/kaltura/desc_8ebcfbfb110b1b5f22ab25428d915565/v0PKT-J7ihGo/vw=1280,vh=720,fps=24.00,vbrt=999344,abrt=131522,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=2
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="purple", THE SİMPSONS 33S 6B
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="purple", THE SİMPSONS 33S 6B
 https://cdn.dzen.ru/vod/converted-video/vod-content/11/37/65/20/59/99/49/85/32/9/d2b732fc-a0ec-4582-afa4-7463fe51f627/kaltura/desc_4323370f6b5beecc7128c85c83812d49/vjYzbwYB9kh0/vw=1280,vh=720,fps=24.00,vbrt=927196,abrt=130934,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="purple", THE SİMPSONS 33S 7B
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="purple", THE SİMPSONS 33S 7B
 https://cdn.dzen.ru/vod/converted-video/vod-content/43/54/48/36/44/23/72/21/16/4/97054311-9ce4-432b-88f0-aabe630fead7/kaltura/desc_9ee75684f227d4ca251d3c9368f878a3/vhLHNBTIXbjQ/vw=1280,vh=720,fps=24.00,vbrt=1117653,abrt=130930,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="purple", THE SİMPSONS 33S 8B
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="purple", THE SİMPSONS 33S 8B
 https://cdn.dzen.ru/vod/converted-video/vod-content/25/97/55/02/53/12/67/83/59/4/768b044d-a17b-4629-92dd-b66dc2052a10/kaltura/desc_9ddf00f1bcf064582c4980da33c966da/vDnBqPcYP0UY/vw=1280,vh=720,fps=24.00,vbrt=829828,abrt=131522,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="purple", THE SİMPSONS 33S 9B
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="purple", THE SİMPSONS 33S 9B
 https://cdn.dzen.ru/vod/converted-video/vod-content/19/98/02/84/97/71/83/86/44/7/5e918ba8-6ca7-484a-86f7-e86df74f9335/kaltura/desc_34d5b2e001d0c54549ba9f4214f8d034/vCP_IAw0_NQY/vw=1280,vh=720,fps=24.00,vbrt=788792,abrt=131521,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=1
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="purple", THE SİMPSONS 33S 10B
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="purple", THE SİMPSONS 33S 10B
 https://cdn.dzen.ru/vod/converted-video/vod-content/59/52/59/29/89/51/84/41/31/6/aef33168-e25a-4a6e-823c-21b2b0246a6c/kaltura/desc_2f1f51623cb11cf4346bdd0e8e38da6a/vSDazJ2sZzj8/vw=1280,vh=720,fps=24.00,vbrt=839411,abrt=131521,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=3
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="purple", THE SİMPSONS 33S 11B
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="purple", THE SİMPSONS 33S 11B
 https://cdn.dzen.ru/vod/converted-video/vod-content/75/00/08/40/87/86/78/07/53/5/93e24665-8aac-42c5-8512-d2f0b6510091/kaltura/desc_3b9729c746d376d79108d9c53acc2b89/vI7heLoNbM2I/vw=1280,vh=720,fps=24.00,vbrt=844689,abrt=131522,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="purple", THE SİMPSONS 33S 12B
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="purple", THE SİMPSONS 33S 12B
 https://cdn.dzen.ru/vod/converted-video/vod-content/59/91/81/52/45/30/55/52/78/7/ef9366ec-8afe-4ae9-8fbf-72bca8c919aa/kaltura/desc_05eeec26d84716b5e3ad45c608dbfbf0/vguejcvvAn0Q/vw=1280,vh=720,fps=24.00,vbrt=1192966,abrt=131521,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=1
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="purple", THE SİMPSONS 33S 13B
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="purple", THE SİMPSONS 33S 13B
 https://cdn.dzen.ru/vod/converted-video/vod-content/44/25/55/34/30/53/83/85/59/9/5d27060d-cdb4-449a-8530-71e6c5b718ee/kaltura/desc_0df9a2af7804c57692006c036c57f6e9/vNemDBAcAlXQ/vw=1280,vh=720,fps=24.00,vbrt=1003850,abrt=131521,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=1
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="purple", THE SİMPSONS 33S 14B
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="purple", THE SİMPSONS 33S 14B
 https://cdn.dzen.ru/vod/converted-video/vod-content/29/88/20/37/62/74/33/61/10/7/f66260f5-155b-4ea5-b25d-ea9c1f702b3e/kaltura/desc_853288e0e7ef4b8109aacd8b509b4001/vQg2rckneCVU/vw=1280,vh=720,fps=24.00,vbrt=916824,abrt=131522,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="purple", THE SİMPSONS 33S 15B
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="purple", THE SİMPSONS 33S 15B
 https://cdn.dzen.ru/vod/converted-video/vod-content/80/22/16/35/75/85/28/44/09/7/a625f1d7-f12f-4803-ad3e-f75389c48237/kaltura/desc_a4a130a26656390ee2728cdaf4db4758/v2zlaL9pozjI/vw=1280,vh=720,fps=24.00,vbrt=867786,abrt=131521,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="purple", THE SİMPSONS 33S 16B
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="purple", THE SİMPSONS 33S 16B
 https://cdn.dzen.ru/vod/converted-video/vod-content/87/57/64/26/38/86/26/72/02/3/61ee25e9-d9fe-4fce-9acd-8d67fa290825/kaltura/desc_0eb361f2f4e14276157076daa9a61bf3/vR9rmnLF6wQM/vw=1280,vh=720,fps=24.00,vbrt=1009456,abrt=131521,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=1
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="purple", THE SİMPSONS 33S 17B
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="purple", THE SİMPSONS 33S 17B
 https://cdn.dzen.ru/vod/converted-video/vod-content/68/15/89/23/92/81/19/36/23/2/bb773b7e-e6f0-4e51-a558-60259a173c12/kaltura/desc_4ab0e37c7df798b175135df269b2211d/vKwCESA__1xA/vw=1280,vh=720,fps=24.00,vbrt=751663,abrt=131521,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="purple", THE SİMPSONS 33S 18B
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="purple", THE SİMPSONS 33S 18B
 https://cdn.dzen.ru/vod/converted-video/vod-content/75/27/19/71/21/37/82/33/59/5/2f426ef6-22b2-47db-bd39-1d0f4f35955f/kaltura/desc_bf47e37abe68c34c9db0afdd49f43fc2/va9t-SftKbBo/vw=1280,vh=720,fps=24.00,vbrt=850645,abrt=131522,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="purple", THE SİMPSONS 33S 19B
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="purple", THE SİMPSONS 33S 19B
 https://cdn.dzen.ru/vod/converted-video/vod-content/43/75/94/93/89/73/15/48/72/f80a0a7a-6a92-4b02-b0a3-fe158641e196/kaltura/desc_cacde3cb053aba635f2ed9c3a44fdfea/vGw0tyqCBIH4/vw=1280,vh=720,fps=24.00,vbrt=943122,abrt=131521,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=3
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="purple", THE SİMPSONS 33S 20B
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="purple", THE SİMPSONS 33S 20B
 https://cdn.dzen.ru/vod/converted-video/vod-content/51/02/95/26/75/90/43/46/44/3/beece244-c1da-44d9-8805-b5751a0d5cff/kaltura/desc_b45a97360ac82d63a5d819ab09a73670/vnkSFdrI3QxQ/vw=1280,vh=720,fps=24.00,vbrt=863549,abrt=131521,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=1
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="purple", THE SİMPSONS 33S 21B
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="purple", THE SİMPSONS 33S 21B
 https://cdn.dzen.ru/vod/converted-video/vod-content/20/69/20/54/21/91/41/35/19/9/fa1cfc6e-c0ff-4a79-932c-a74f0f7628c8/kaltura/desc_02f1649d1c21becfb27f12a882db70c3/vDstAcKnLvlI/vw=1280,vh=720,fps=24.00,vbrt=866948,abrt=131522,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=2
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="purple", THE SİMPSONS 33S 22B
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="purple", THE SİMPSONS 33S 22B
 https://cdn.dzen.ru/vod/converted-video/vod-content/73/05/53/23/61/18/94/67/00/7/074e8d5b-88b7-406e-a658-ffacaf386c98/kaltura/desc_ba56f91f39ed90f062aca5104890a22d/vWynfYwKkfmA/vw=1280,vh=720,fps=24.00,vbrt=1061337,abrt=131521,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=2
 
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="purple", THE SİMPSONS 34S 1B
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="purple", THE SİMPSONS 34S 1B
 https://cdn.dzen.ru/vod/converted-video/vod-content/63/68/65/20/79/29/22/60/44/1/ab5edaa2-d2fb-455b-bc48-e86ad946cef8/kaltura/desc_ee960928584e876ca8ccc208b42fa4e7/vcISzLmFhczs/vw=1280,vh=720,fps=24.00,vbrt=1000773,abrt=131524,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="purple", THE SİMPSONS 34S 2B
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="purple", THE SİMPSONS 34S 2B
 https://cdn.dzen.ru/vod/converted-video/vod-content/54/62/99/73/04/39/79/36/19/7/c9008723-917a-4c2e-b622-4d5ef1403bc9/kaltura/desc_d22b9715dc475c169e430a36705aa39a/vZ3p3L7ifq3s/vw=1280,vh=720,fps=24.00,vbrt=994405,abrt=131521,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=3
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="purple", THE SİMPSONS 34S 3B
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="purple", THE SİMPSONS 34S 3B
 https://cdn.dzen.ru/vod/converted-video/vod-content/57/40/89/02/83/11/47/34/90/5/222b1e31-2eac-4d81-8db7-0c83852a6b62/kaltura/desc_e1154bab722164cdf81f796f5c5f2910/v-zStImh_Xm0/vw=1280,vh=720,fps=24.00,vbrt=943360,abrt=131522,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="purple", THE SİMPSONS 34S 4B
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="purple", THE SİMPSONS 34S 4B
 https://cdn.dzen.ru/vod/converted-video/vod-content/64/05/27/32/35/86/53/58/77/9/8e17c42e-1994-44de-b641-27b18130d30d/kaltura/desc_21ce08eff858836e2a77f866c877ccbe/va5VMX1VHQTo/vw=1280,vh=720,fps=24.00,vbrt=891098,abrt=131521,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="purple", THE SİMPSONS 34S 5B
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="purple", THE SİMPSONS 34S 5B
 https://cdn.dzen.ru/vod/converted-video/vod-content/52/42/69/71/70/77/25/32/52/9/c00c4999-fcf3-4aad-8e41-8313996dcdac/kaltura/desc_72f558beda33bbbca7b0c8301c72694f/vTkGTf5Vbkk8/vw=1280,vh=720,fps=24.00,vbrt=1059681,abrt=131521,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=1
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="purple", THE SİMPSONS 34S 6B
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="purple", THE SİMPSONS 34S 6B
 https://cdn.dzen.ru/vod/converted-video/vod-content/92/10/95/66/66/65/31/92/99/7464459b-9c76-46e7-9a80-81f709eeae41/kaltura/desc_a9ac0a79b958b3d9d4116ca4ebd3bd1c/vdSqXLEFKghc/vw=1280,vh=720,fps=24.00,vbrt=1011271,abrt=131522,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=2
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="purple", THE SİMPSONS 34S 7B
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="purple", THE SİMPSONS 34S 7B
 https://cdn.dzen.ru/vod/converted-video/vod-content/75/99/80/15/88/80/08/44/69/0/d8260964-ebda-42f8-8384-276cc1ec510c/kaltura/desc_6eb792a5e39e1910b76c8514c9fbce77/vCCUkMwBd3xA/vw=1280,vh=720,fps=24.00,vbrt=871240,abrt=131521,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=1
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="purple", THE SİMPSONS 34S 8B
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="purple", THE SİMPSONS 34S 8B
 https://cdn.dzen.ru/vod/converted-video/vod-content/28/54/12/71/12/03/92/64/45/1/015711b6-bc50-4bb6-97b9-1bfdc34e1ecb/kaltura/desc_10e01e3a0022c61ef5198f1742b94c2d/v3QaRUwSKZgI/vw=1280,vh=720,fps=24.00,vbrt=978200,abrt=131521,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=1
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="purple", THE SİMPSONS 34S 9B
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="purple", THE SİMPSONS 34S 9B
 https://cdn.dzen.ru/vod/converted-video/vod-content/72/92/18/08/08/08/30/81/96/0/4a821e54-c240-484b-871f-54a3cc78756c/kaltura/desc_984b1105e51a974e81ff2b330cf7a1ed/v3IkCfLIwrUY/vw=1280,vh=720,fps=24.00,vbrt=811897,abrt=131523,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=2
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="purple", THE SİMPSONS 34S 10B
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="purple", THE SİMPSONS 34S 10B
 https://cdn.dzen.ru/vod/converted-video/vod-content/51/00/37/36/57/23/88/15/41/6/f377be99-9e02-4b20-b215-e7436bc94e6a/kaltura/desc_a606980e3ee1f66f905f5a129efcbc42/vc7VZJ_Hhg0o/vw=1280,vh=720,fps=24.00,vbrt=884281,abrt=131521,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="purple", THE SİMPSONS 34S 11B
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="purple", THE SİMPSONS 34S 11B
 https://cdn.dzen.ru/vod/converted-video/vod-content/82/77/61/83/79/58/36/07/07/2/a0322963-2e9f-4f61-8ece-5b40226ddc8e/kaltura/desc_84fa7bbd1cff2ddce6ac57d4b3a97823/vu_9unPUoDTI/vw=1280,vh=720,fps=24.00,vbrt=875188,abrt=131521,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="purple", THE SİMPSONS 34S 12B
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="purple", THE SİMPSONS 34S 12B
 https://cdn.dzen.ru/vod/converted-video/vod-content/75/53/99/44/86/75/03/90/65/5/6c030f63-2ece-46a0-9272-3f76eacc1f99/kaltura/desc_4486b4152ce05f839fd2cc97d16336e1/vL8i5w21-dWA/vw=1280,vh=720,fps=24.00,vbrt=886494,abrt=131521,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="purple", THE SİMPSONS 34S 13B
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="purple", THE SİMPSONS 34S 13B
 https://cdn.dzen.ru/vod/converted-video/vod-content/85/00/86/95/74/76/31/61/07/0/9e4122a0-d3a0-4da2-81dc-2a20db211d14/kaltura/desc_93e2dbb8a2ed5904017ecb27d369d507/vYpwL_ct_kVQ/vw=1280,vh=720,fps=24.00,vbrt=871014,abrt=131522,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="purple", THE SİMPSONS 34S 14B
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="purple", THE SİMPSONS 34S 14B
 https://cdn.dzen.ru/vod/converted-video/vod-content/29/34/12/41/74/95/34/30/88/1/c02a1bfe-51d2-4632-aebe-ff0444ad8624/kaltura/desc_047c451e2ce6413738535fe020f533f7/voJZ2MYij_ic/vw=1280,vh=720,fps=24.00,vbrt=867082,abrt=131522,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="purple", THE SİMPSONS 34S 15B
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="purple", THE SİMPSONS 34S 15B
 https://cdn.dzen.ru/vod/converted-video/vod-content/14/06/71/78/18/88/08/33/99/4/a64da6df-d206-46ff-8342-8a35b1ca933a/kaltura/desc_71b4a6dce319a369b5d840496e125597/vzhmi1kvaxAE/vw=1280,vh=720,fps=24.00,vbrt=877049,abrt=131522,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=2
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="purple", THE SİMPSONS 34S 16B
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="purple", THE SİMPSONS 34S 16B
 https://cdn.dzen.ru/vod/converted-video/vod-content/45/26/86/96/44/66/33/30/91/5/adde10be-be2b-419d-b2e7-73d4aa79dff5/kaltura/desc_9a43b8ab38ddbb563b4a8a3f78386d71/voXn8rfmCxEs/vw=1280,vh=720,fps=24.00,vbrt=949647,abrt=131522,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="purple", THE SİMPSONS 34S 17B
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="purple", THE SİMPSONS 34S 17B
 https://cdn.dzen.ru/vod/converted-video/vod-content/84/45/55/40/41/42/57/50/49/adef243f-985d-42de-856c-f3117b352ff9/kaltura/desc_83a795fe775359226e49f0b9f476a677/v9Tia7LIfu10/vw=1280,vh=720,fps=24.00,vbrt=809643,abrt=131522,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=3
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="purple", THE SİMPSONS 34S 18B
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="purple", THE SİMPSONS 34S 18B
 https://cdn.dzen.ru/vod/converted-video/vod-content/27/57/46/14/21/66/18/25/62/3/489b858f-3c25-4672-a47c-1d63354e22db/kaltura/desc_4b1ed5f0fa1bf544b7e7a96fc82f7d45/vYlbSfDlR53w/vw=1280,vh=720,fps=24.00,vbrt=961909,abrt=131521,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=1
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="purple", THE SİMPSONS 34S 19B
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="purple", THE SİMPSONS 34S 19B
 https://cdn.dzen.ru/vod/converted-video/vod-content/76/22/78/70/59/65/17/27/68/3/5c3e115f-0249-47e3-9cc1-c978a4abf2c9/kaltura/desc_b966175568cffd26b7abf0d7606730a8/vtNURS3NFZRQ/vw=1280,vh=720,fps=24.00,vbrt=833278,abrt=131521,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=2
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="purple", THE SİMPSONS 34S 20B
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="purple", THE SİMPSONS 34S 20B
 https://cdn.dzen.ru/vod/converted-video/vod-content/61/90/34/74/62/56/59/16/76/9/9b3cb283-0f08-440c-a229-9713739bd00d/kaltura/desc_26b66f9cfb3348d2afa0b707cd70053d/vP1hZsqymYl0/vw=1280,vh=720,fps=24.00,vbrt=976909,abrt=131521,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="purple", THE SİMPSONS 34S 21B
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="purple", THE SİMPSONS 34S 21B
 https://cdn.dzen.ru/vod/converted-video/vod-content/52/52/50/49/33/38/60/05/22/0/0353ef67-16ae-45ed-b2a9-e1d35aa88e34/kaltura/desc_cc72c3577323ff94c950bf82b3ec07af/v7CNWTThF-jw/vw=1280,vh=720,fps=24.00,vbrt=860492,abrt=131522,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="purple", THE SİMPSONS 34S 22B
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="purple", THE SİMPSONS 34S 22B
 https://cdn.dzen.ru/vod/converted-video/vod-content/42/99/08/22/67/89/66/38/49/2/100b7bfe-a826-4b3f-bf23-7ca5e6bcd3bd/kaltura/desc_929cd6e4cb10860b12d31483d49e3e3a/vB5tkx2Obtgg/vw=1280,vh=720,fps=24.00,vbrt=1331494,abrt=131522,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=3
 
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="purple", THE SİMPSONS 35S 1B
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="purple", THE SİMPSONS 35S 1B
 https://cdn.dzen.ru/vod/converted-video/vod-content/81/82/96/29/69/81/36/66/81/4/103a93ae-8fa2-4592-ae0f-1dfea4dc9436/kaltura/desc_7ace0cc208c741f1f257d3616365f680/velUi9nGeCzw/vw=1280,vh=720,fps=24.00,vbrt=960363,abrt=131522,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="purple", THE SİMPSONS 35S 2B
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="purple", THE SİMPSONS 35S 2B
 https://cdn.dzen.ru/vod/converted-video/vod-content/27/97/28/82/62/74/80/59/18/7/9a65a57a-af2a-448a-a5ec-76592c43a462/kaltura/desc_dd6720d9bfa816352d7f48e76c3f6b9c/v1JYtPhs2qho/vw=1280,vh=720,fps=24.00,vbrt=852323,abrt=131522,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=3
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="purple", THE SİMPSONS 35S 3B
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="purple", THE SİMPSONS 35S 3B
 https://cdn.dzen.ru/vod/converted-video/vod-content/76/42/82/37/23/84/98/76/21/6/2b245750-9216-4581-af3c-fab87c505898/kaltura/desc_bfcdb923d6526c1f73ce710057612add/vCD3QbUdNNRc/vw=1280,vh=720,fps=24.00,vbrt=871023,abrt=131522,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="purple", THE SİMPSONS 35S 4B
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="purple", THE SİMPSONS 35S 4B
 https://cdn.dzen.ru/vod/converted-video/vod-content/24/33/00/23/18/25/31/05/88/1/ba02afbc-f3ad-45d5-b056-58b5800bc371/kaltura/desc_196a6ddf565d20256fc6fa4d24b41ad9/vRVhfu8Z8zkY/vw=1280,vh=720,fps=24.00,vbrt=910143,abrt=131522,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="purple", THE SİMPSONS 35S 5B
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="purple", THE SİMPSONS 35S 5B
 https://cdn.dzen.ru/vod/converted-video/vod-content/74/94/47/43/58/64/82/77/70/3/e0f8d817-3734-4db0-b870-d531dfa97ee0/kaltura/desc_6ed7c014489b6d38f86617f8130434d4/vCLaOAKihukA/vw=1280,vh=720,fps=24.00,vbrt=1026513,abrt=131522,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=2
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="purple", THE SİMPSONS 35S 6B
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="purple", THE SİMPSONS 35S 6B
 https://cdn.dzen.ru/vod/converted-video/vod-content/39/32/97/57/12/17/17/08/28/9/8677ecf7-b377-45ec-b05d-bf10313643c8/kaltura/desc_06796756da4f157e735a861853723049/vNT8Bd5FBEyI/vw=1280,vh=720,fps=24.00,vbrt=855397,abrt=131523,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="purple", THE SİMPSONS 35S 7B
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="purple", THE SİMPSONS 35S 7B
 https://cdn.dzen.ru/vod/converted-video/vod-content/73/69/84/52/17/56/68/93/39/2/2841c891-f2c1-47f1-b4f8-a9229b27e969/kaltura/desc_82b7a922b7a6c30341f7acf55892ffc2/vwcVgkCzZ21E/vw=1280,vh=720,fps=24.00,vbrt=1006456,abrt=131522,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=2
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="purple", THE SİMPSONS 35S 8B
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="purple", THE SİMPSONS 35S 8B
 https://cdn.dzen.ru/vod/converted-video/vod-content/66/84/72/60/17/97/26/35/81/3/ec30ebc7-7fe1-46ab-901a-8c41cd8ae4e3/kaltura/desc_7e55574f34a30ae2bbb8d4688fe2147f/v9mMVWP3kTEQ/vw=1280,vh=720,fps=24.00,vbrt=1018684,abrt=131523,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=1
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="purple", THE SİMPSONS 35S 9B
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="purple", THE SİMPSONS 35S 9B
 https://cdn.dzen.ru/vod/converted-video/vod-content/49/83/73/07/98/47/54/28/98/1/46778896-2cb5-4d3a-9d67-aac1f4b9b82e/kaltura/desc_c3c88e768d7f3f1cd7087fc708a6d49e/vT3Jb1Hq_i10/vw=1280,vh=720,fps=24.00,vbrt=907802,abrt=131521,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=1
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="purple", THE SİMPSONS 35S 10B
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="purple", THE SİMPSONS 35S 10B
 https://cdn.dzen.ru/vod/converted-video/vod-content/33/69/75/27/80/96/31/99/06/6/45755fdf-c8af-4f96-a8c5-ac31d4e57272/kaltura/desc_dd369ca7313ca3fe46800507fa6298d7/vqXNFQiK1oQE/vw=1280,vh=720,fps=24.00,vbrt=787144,abrt=131522,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=2
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="purple", THE SİMPSONS 35S 11B
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="purple", THE SİMPSONS 35S 11B
 https://cdn.dzen.ru/vod/converted-video/vod-content/43/45/91/39/34/65/26/27/67/2/71bca9c5-76ce-4cc2-a552-d60a53ada0de/kaltura/desc_121cadd7c60625600c2d8551ef2fe85c/v3dUJp8u2dUA/vw=1280,vh=720,fps=24.00,vbrt=694097,abrt=131522,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=1
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="purple", THE SİMPSONS 35S 12B
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="purple", THE SİMPSONS 35S 12B
 https://cdn.dzen.ru/vod/converted-video/vod-content/72/39/12/55/96/63/35/97/77/6/3b141679-dc61-4b52-a584-d4995553e60a/kaltura/desc_21fb6eca503f46a12262e2f1752a60f2/va1r4c6CcdEs/vw=1280,vh=720,fps=24.00,vbrt=996996,abrt=131524,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="purple", THE SİMPSONS 35S 13B
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="purple", THE SİMPSONS 35S 13B
 https://cdn.dzen.ru/vod/converted-video/vod-content/56/11/15/21/02/04/36/56/32/6/306933f5-eff9-43c3-b887-5141ff39b246/kaltura/desc_10a80ec8bdb2e73c46b3b0f275d6a33f/vDOHJq5gBIkU/vw=1280,vh=720,fps=24.00,vbrt=957539,abrt=131522,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="purple", THE SİMPSONS 35S 14B
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="purple", THE SİMPSONS 35S 14B
 https://cdn.dzen.ru/vod/converted-video/vod-content/38/16/97/92/72/05/63/67/53/2822c663-ebb1-49ee-8058-8f9cf4aeb665/kaltura/desc_271f20da7610631bdb6fd17fd2ed4f96/vjmNHmNNEkDs/vw=1280,vh=720,fps=24.00,vbrt=1054211,abrt=131521,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="purple", THE SİMPSONS 35S 15B
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="purple", THE SİMPSONS 35S 15B
 https://cdn.dzen.ru/vod/converted-video/vod-content/82/53/13/69/01/20/48/49/96/1/6333388b-02da-4e19-b95a-94755bd25d13/kaltura/desc_c927bc9de726aa1874215f689acb7fd1/vq8I5Zm_MSng/vw=1280,vh=720,fps=24.00,vbrt=946706,abrt=131522,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=1
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="purple", THE SİMPSONS 35S 16B
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="purple", THE SİMPSONS 35S 16B
 https://cdn.dzen.ru/vod/converted-video/vod-content/86/99/91/86/92/11/93/51/69/7/01fc864c-52de-470d-a9c6-eb77d6cbcb17/kaltura/desc_0145dcbc6a3c77d7406a8ac24316944f/v2XtoD8oGEXA/vw=1280,vh=720,fps=24.00,vbrt=718105,abrt=131522,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=1
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="purple", THE SİMPSONS 35S 17B
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="purple", THE SİMPSONS 35S 17B
 https://cdn.dzen.ru/vod/converted-video/vod-content/83/47/00/86/30/15/76/48/55/2/3e34b238-658c-435e-9e44-6b2623b05a75/kaltura/desc_47c6da40736d0d14eabcacbebcfc9f5b/vGrHT0upM9mA/vw=1280,vh=720,fps=24.00,vbrt=937678,abrt=131522,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="purple", THE SİMPSONS 35S 18B
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://www.wallpaperflare.com/static/655/263/798/the-simpsons-bart-simpson-bart-simpson-wallpaper.jpg" background="purple", THE SİMPSONS 35S 18B
 https://cdn.dzen.ru/vod/converted-video/vod-content/26/12/78/64/30/67/21/76/43/8/742d7cd5-188c-445c-b9a1-0a72e112959d/kaltura/desc_e9f5f13ed067200c38b35974383600a1/v5go-SLVLynU/vw=1280,vh=720,fps=24.00,vbrt=897687,abrt=131522,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
 
 
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://cdn.sortiraparis.com/images/80/66131/983115-futurama-sur-disney-la-serie-renouvelee-pour-deux-nouvelles-saisons.jpg" background="purple", FUTURAMA 1S 2B
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://cdn.sortiraparis.com/images/80/66131/983115-futurama-sur-disney-la-serie-renouvelee-pour-deux-nouvelles-saisons.jpg" background="purple", FUTURAMA 1S 2B
 https://cdn.dzen.ru/vod/converted-video/vod-content/69/24/31/79/91/40/28/09/11/1/91c558fa-2db6-4498-907b-62a1e2df7586/kaltura/desc_2dcb5023941785852b5b7f8ac03ce7f6/vgJZuylQ_vSo/vw=960,vh=720,fps=24.00,vbrt=635025,abrt=131521,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f5-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://cdn.sortiraparis.com/images/80/66131/983115-futurama-sur-disney-la-serie-renouvelee-pour-deux-nouvelles-saisons.jpg" background="purple", FUTURAMA 1S 3B
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://cdn.sortiraparis.com/images/80/66131/983115-futurama-sur-disney-la-serie-renouvelee-pour-deux-nouvelles-saisons.jpg" background="purple", FUTURAMA 1S 3B
 https://cdn.dzen.ru/vod/converted-video/vod-content/55/60/59/02/65/71/66/48/52/2/4dfa50bd-73de-48d6-a386-31d6b98ecdeb/kaltura/desc_94eb6900e636572fc04a5df4422f0ccf/vfblhpzcVNjY/vw=960,vh=720,fps=24.00,vbrt=596519,abrt=131521,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f5-v1-a1.m3u8?redundant=1
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://cdn.sortiraparis.com/images/80/66131/983115-futurama-sur-disney-la-serie-renouvelee-pour-deux-nouvelles-saisons.jpg" background="purple", FUTURAMA 1S 4B
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://cdn.sortiraparis.com/images/80/66131/983115-futurama-sur-disney-la-serie-renouvelee-pour-deux-nouvelles-saisons.jpg" background="purple", FUTURAMA 1S 4B
 https://cdn.dzen.ru/vod/converted-video/vod-content/29/75/66/44/68/43/63/95/90/8/f0ce6d65-8d44-4f2d-a041-44ac99639418/kaltura/desc_fcf3efdc1d5a2bb234313ffcc38563e3/vKRClNNFlLRo/vw=960,vh=720,fps=24.00,vbrt=559745,abrt=131521,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f5-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://cdn.sortiraparis.com/images/80/66131/983115-futurama-sur-disney-la-serie-renouvelee-pour-deux-nouvelles-saisons.jpg" background="purple", FUTURAMA 1S 5B
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://cdn.sortiraparis.com/images/80/66131/983115-futurama-sur-disney-la-serie-renouvelee-pour-deux-nouvelles-saisons.jpg" background="purple", FUTURAMA 1S 5B
 https://cdn.dzen.ru/vod/converted-video/vod-content/60/20/46/47/08/20/31/26/48/08290316-acd8-4a9b-bcf4-d78eefb81311/kaltura/desc_e5ba93d8b0dddaaef601d0bbc83e27ea/vSvPLmK1nMVo/vw=960,vh=720,fps=24.00,vbrt=569935,abrt=131521,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f5-v1-a1.m3u8?redundant=1
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://cdn.sortiraparis.com/images/80/66131/983115-futurama-sur-disney-la-serie-renouvelee-pour-deux-nouvelles-saisons.jpg" background="purple", FUTURAMA 1S 6B
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://cdn.sortiraparis.com/images/80/66131/983115-futurama-sur-disney-la-serie-renouvelee-pour-deux-nouvelles-saisons.jpg" background="purple", FUTURAMA 1S 6B
 https://cdn.dzen.ru/vod/converted-video/vod-content/24/26/02/42/12/89/16/59/5/3adc30be-787f-48f1-9a4c-3c19cc4481b0/kaltura/desc_b7f635903945098661790f95ea7e3ca5/vbEIneadztFs/vw=960,vh=720,fps=24.00,vbrt=584518,abrt=131521,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f5-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://cdn.sortiraparis.com/images/80/66131/983115-futurama-sur-disney-la-serie-renouvelee-pour-deux-nouvelles-saisons.jpg" background="purple", FUTURAMA 1S 7B
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://cdn.sortiraparis.com/images/80/66131/983115-futurama-sur-disney-la-serie-renouvelee-pour-deux-nouvelles-saisons.jpg" background="purple", FUTURAMA 1S 7B
 https://cdn.dzen.ru/vod/converted-video/vod-content/37/93/66/60/87/67/97/74/34/4/d0b2a70d-94a4-47f7-b1e3-da4ccbc98d93/kaltura/desc_404296193ba860ab1f596af4726b5c7f/vGYxvS4o9Ggw/vw=960,vh=720,fps=24.00,vbrt=635325,abrt=131521,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f5-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://cdn.sortiraparis.com/images/80/66131/983115-futurama-sur-disney-la-serie-renouvelee-pour-deux-nouvelles-saisons.jpg" background="purple", FUTURAMA 1S 8B
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://cdn.sortiraparis.com/images/80/66131/983115-futurama-sur-disney-la-serie-renouvelee-pour-deux-nouvelles-saisons.jpg" background="purple", FUTURAMA 1S 8B
 https://cdn.dzen.ru/vod/converted-video/vod-content/10/04/87/55/73/73/43/81/24/5/43e4703d-55e5-4e56-8030-e7b1c806bf49/kaltura/desc_5048ddd68016d5a3e8fcdf85a583fd80/vTGdJTPTEglA/vw=960,vh=720,fps=24.00,vbrt=565055,abrt=131521,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f5-v1-a1.m3u8?redundant=1
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://cdn.sortiraparis.com/images/80/66131/983115-futurama-sur-disney-la-serie-renouvelee-pour-deux-nouvelles-saisons.jpg" background="purple", FUTURAMA 1S 9B
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://cdn.sortiraparis.com/images/80/66131/983115-futurama-sur-disney-la-serie-renouvelee-pour-deux-nouvelles-saisons.jpg" background="purple", FUTURAMA 1S 9B
 https://cdn.dzen.ru/vod/converted-video/vod-content/49/65/51/95/85/01/45/08/59/5/09b21b3b-ec28-48fa-a552-6b19f4914074/kaltura/desc_beb86fd6b0f407f1cf3636c224f96a91/vaUp0TJ7VKAQ/vw=960,vh=720,fps=24.00,vbrt=648933,abrt=131521,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f5-v1-a1.m3u8?redundant=2
 
 
@@ -8052,15 +8051,15 @@ https://cdn.dzen.ru/vod/converted-video/vod-content/37/50/08/15/94/67/14/41/23/1
 
 
 
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 1S 2B
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 1S 2B
 https://storage.diziyou.co/episodes/50602_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 1S 3B
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 1S 3B
 https://storage.diziyou.co/episodes/50603_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 1S 4B
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 1S 4B
 https://storage.diziyou.co/episodes/50604_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 1S 5B
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 1S 5B
 https://storage.diziyou.co/episodes/50605_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 1S 6B
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 1S 6B
 https://storage.diziyou.co/episodes/50606_tr/720p.m3u8
 
 
@@ -8831,377 +8830,377 @@ https://cdn.dzen.ru/vod/converted-video/vod-content/27/33/54/61/43/99/50/96/81/9
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://fotografias.larazon.es/clipping/cmsimages02/2023/08/16/8BD47583-2811-4A16-9783-3B17D93BFFF3/cartel-american-horror-story-delicate_98.jpg" background="purple", AMERİCAN HORROR STORY 1S 13B
 https://cdn.dzen.ru/vod/converted-video/vod-content/43/88/15/50/53/91/67/59/35/4/1aac5b79-ea81-4bac-936b-3b61318398c9/kaltura/desc_c9f3d82e98e9eb14b214eaba1e4f2a4f/v5DV11ZJ2PAg/vw=1280,vh=720,fps=24.00,vbrt=597935,abrt=130919,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=1
 
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 2S 1B
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 2S 1B
 https://storage.diziyou.co/episodes/50607_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 2S 2B
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 2S 2B
 https://storage.diziyou.co/episodes/50608_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 2S 3B
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 2S 3B
 https://storage.diziyou.co/episodes/50609_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 2S 4B
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 2S 4B
 https://storage.diziyou.co/episodes/50610_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 2S 5B
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 2S 5B
 https://storage.diziyou.co/episodes/50611_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 2S 6B
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 2S 6B
 https://storage.diziyou.co/episodes/50612_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 2S 7B
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 2S 7B
 https://storage.diziyou.co/episodes/50613_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 2S 8B
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 2S 8B
 https://storage.diziyou.co/episodes/50614_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 2S 9B
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 2S 9B
 https://storage.diziyou.co/episodes/50615_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 2S 10B
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 2S 10B
 https://storage.diziyou.co/episodes/50616_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 2S 11B
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 2S 11B
 https://storage.diziyou.co/episodes/50617_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 2S 12B
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 2S 12B
 https://storage.diziyou.co/episodes/50618_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 2S 13B
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 2S 13B
 https://storage.diziyou.co/episodes/50619_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 2S 14B
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 2S 14B
 https://storage.diziyou.co/episodes/50620_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 2S 15B
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 2S 15B
 https://storage.diziyou.co/episodes/50621_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 2S 16B
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 2S 16B
 https://storage.diziyou.co/episodes/50622_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 2S 17B
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 2S 17B
 https://storage.diziyou.co/episodes/50623_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 2S 18B
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 2S 18B
 https://storage.diziyou.co/episodes/50624_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 2S 19B
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 2S 19B
 https://storage.diziyou.co/episodes/50625_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 2S 20B
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 2S 20B
 https://storage.diziyou.co/episodes/50626_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 2S 21B
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 2S 21B
 https://storage.diziyou.co/episodes/50627_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 2S 22B
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 2S 22B
 https://storage.diziyou.co/episodes/50628_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 3S 1B
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 3S 1B
 https://storage.diziyou.co/episodes/50629_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 3S 2B
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 3S 2B
 https://storage.diziyou.co/episodes/50630_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 3S 3B
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 3S 3B
 https://storage.diziyou.co/episodes/50631_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 3S 4B
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 3S 4B
 https://storage.diziyou.co/episodes/50632_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 3S 5B
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 3S 5B
 https://storage.diziyou.co/episodes/50633_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 3S 6B
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 3S 6B
 https://storage.diziyou.co/episodes/50634_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 3S 7B
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 3S 7B
 https://storage.diziyou.co/episodes/50635_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 3S 8B
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 3S 8B
 https://storage.diziyou.co/episodes/50636_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 3S 9B
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 3S 9B
 https://storage.diziyou.co/episodes/50637_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 3S 10B
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 3S 10B
 https://storage.diziyou.co/episodes/50638_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 3S 11B
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 3S 11B
 https://storage.diziyou.co/episodes/50639_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 3S 12B
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 3S 12B
 https://storage.diziyou.co/episodes/50640_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 3S 13B
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 3S 13B
 https://storage.diziyou.co/episodes/50641_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 3S 14B
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 3S 14B
 https://storage.diziyou.co/episodes/50642_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 3S 15B
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 3S 15B
 https://storage.diziyou.co/episodes/50643_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 3S 16B
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 3S 16B
 https://storage.diziyou.co/episodes/50644_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 3S 17B
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 3S 17B
 https://storage.diziyou.co/episodes/50645_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 3S 18B
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 3S 18B
 https://storage.diziyou.co/episodes/50646_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 3S 19B
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 3S 19B
 https://storage.diziyou.co/episodes/50647_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 3S 20B
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 3S 20B
 https://storage.diziyou.co/episodes/50648_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 3S 21B
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 3S 21B
 https://storage.diziyou.co/episodes/50649_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 3S 22B
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 3S 22B
 https://storage.diziyou.co/episodes/50650_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 3S 23B
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 3S 23B
 https://storage.diziyou.co/episodes/50651_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 4S 1B
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 4S 1B
 https://storage.diziyou.co/episodes/50652_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 4S 2B
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 4S 2B
 https://storage.diziyou.co/episodes/50653_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 4S 3B
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 4S 3B
 https://storage.diziyou.co/episodes/50654_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 4S 4B
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 4S 4B
 https://storage.diziyou.co/episodes/50655_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 4S 5B
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 4S 5B
 https://storage.diziyou.co/episodes/50656_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 4S 6B
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 4S 6B
 https://storage.diziyou.co/episodes/50657_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 4S 7B
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 4S 7B
 https://storage.diziyou.co/episodes/50658_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 4S 8B
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 4S 8B
 https://storage.diziyou.co/episodes/50659_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 4S 9B
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 4S 9B
 https://storage.diziyou.co/episodes/50660_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 4S 10B
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 4S 10B
 https://storage.diziyou.co/episodes/50661_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 4S 11B
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 4S 11B
 https://storage.diziyou.co/episodes/50662_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 4S 12B
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 4S 12B
 https://storage.diziyou.co/episodes/50663_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 4S 13B
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 4S 13B
 https://storage.diziyou.co/episodes/50664_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 4S 14B
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 4S 14B
 https://storage.diziyou.co/episodes/50665_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 5S 1B
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 5S 1B
 https://storage.diziyou.co/episodes/50666_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 5S 2B
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 5S 2B
 https://storage.diziyou.co/episodes/50667_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 5S 3B
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 5S 3B
 https://storage.diziyou.co/episodes/50668_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 5S 4B
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 5S 4B
 https://storage.diziyou.co/episodes/50669_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 5S 5B
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 5S 5B
 https://storage.diziyou.co/episodes/50670_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 5S 6B
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 5S 6B
 https://storage.diziyou.co/episodes/50671_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 5S 7B
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 5S 7B
 https://storage.diziyou.co/episodes/50672_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 5S 8B
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 5S 8B
 https://storage.diziyou.co/episodes/50673_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 5S 9B
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 5S 9B
 https://storage.diziyou.co/episodes/50674_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 5S 10B
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 5S 10B
 https://storage.diziyou.co/episodes/50675_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 5S 11B
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 5S 11B
 https://storage.diziyou.co/episodes/50676_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 5S 12B
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 5S 12B
 https://storage.diziyou.co/episodes/50677_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 5S 13B
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 5S 13B
 https://storage.diziyou.co/episodes/50678_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 5S 14B
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 5S 14B
 https://storage.diziyou.co/episodes/50679_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 5S 15B
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 5S 15B
 https://storage.diziyou.co/episodes/50680_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 5S 16B
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 5S 16B
 https://storage.diziyou.co/episodes/50681_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 5S 17B
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 5S 17B
 https://storage.diziyou.co/episodes/50682_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 5S 18B
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 5S 18B
 https://storage.diziyou.co/episodes/50683_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 5S 19B
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 5S 19B
 https://storage.diziyou.co/episodes/50684_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 5S 20B
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 5S 20B
 https://storage.diziyou.co/episodes/50685_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 5S 21B
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 5S 21B
 https://storage.diziyou.co/episodes/50686_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 5S 22B
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 5S 22B
 https://storage.diziyou.co/episodes/50687_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 5S 23B
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 5S 23B
 https://storage.diziyou.co/episodes/50688_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 5S 24B
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 5S 24B
 https://storage.diziyou.co/episodes/50689_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 5S 25B
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 5S 25B
 https://storage.diziyou.co/episodes/50690_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 5S 26B
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 5S 26B
 https://storage.diziyou.co/episodes/50691_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 5S 27B
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 5S 27B
 https://storage.diziyou.co/episodes/50692_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 5S 28B
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 5S 28B
 https://storage.diziyou.co/episodes/50693_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 6S 1B  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 6S 1B  
 https://storage.diziyou.co/episodes/50694_tr/720p.m3u8  
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 6S 2B  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 6S 2B  
 https://storage.diziyou.co/episodes/50695_tr/720p.m3u8  
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 6S 3B  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 6S 3B  
 https://storage.diziyou.co/episodes/50696_tr/720p.m3u8  
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 6S 4B  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 6S 4B  
 https://storage.diziyou.co/episodes/50697_tr/720p.m3u8  
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 6S 5B  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 6S 5B  
 https://storage.diziyou.co/episodes/50698_tr/720p.m3u8  
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 6S 6B  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 6S 6B  
 https://storage.diziyou.co/episodes/50699_tr/720p.m3u8  
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 6S 7B  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 6S 7B  
 https://storage.diziyou.co/episodes/50700_tr/720p.m3u8  
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 6S 8B  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 6S 8B  
 https://storage.diziyou.co/episodes/50701_tr/720p.m3u8  
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 6S 9B  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 6S 9B  
 https://storage.diziyou.co/episodes/50702_tr/720p.m3u8  
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 6S 10B  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 6S 10B  
 https://storage.diziyou.co/episodes/50703_tr/720p.m3u8  
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 6S 11B  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 6S 11B  
 https://storage.diziyou.co/episodes/50704_tr/720p.m3u8  
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 6S 12B  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 6S 12B  
 https://storage.diziyou.co/episodes/50705_tr/720p.m3u8  
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 6S 13B  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 6S 13B  
 https://storage.diziyou.co/episodes/50706_tr/720p.m3u8  
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 6S 14B  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 6S 14B  
 https://storage.diziyou.co/episodes/50707_tr/720p.m3u8  
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 6S 15B  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 6S 15B  
 https://storage.diziyou.co/episodes/50708_tr/720p.m3u8  
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 6S 16B  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 6S 16B  
 https://storage.diziyou.co/episodes/50709_tr/720p.m3u8  
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 6S 17B  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 6S 17B  
 https://storage.diziyou.co/episodes/50710_tr/720p.m3u8  
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 6S 18B  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 6S 18B  
 https://storage.diziyou.co/episodes/50711_tr/720p.m3u8  
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 6S 19B  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 6S 19B  
 https://storage.diziyou.co/episodes/50712_tr/720p.m3u8  
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 6S 20B  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 6S 20B  
 https://storage.diziyou.co/episodes/50713_tr/720p.m3u8  
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 6S 21B  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 6S 21B  
 https://storage.diziyou.co/episodes/50714_tr/720p.m3u8  
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 6S 22B  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 6S 22B  
 https://storage.diziyou.co/episodes/50715_tr/720p.m3u8  
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 6S 23B  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 6S 23B  
 https://storage.diziyou.co/episodes/50716_tr/720p.m3u8  
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 6S 24B  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 6S 24B  
 https://storage.diziyou.co/episodes/50717_tr/720p.m3u8  
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 6S 25B  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 6S 25B  
 https://storage.diziyou.co/episodes/50718_tr/720p.m3u8  
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 6S 26B
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 6S 26B
 https://storage.diziyou.co/episodes/50719_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 7S 1B  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 7S 1B  
 https://storage.diziyou.co/episodes/50720_tr/720p.m3u8  
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 7S 2B  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 7S 2B  
 https://storage.diziyou.co/episodes/50721_tr/720p.m3u8  
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 7S 3B  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 7S 3B  
 https://storage.diziyou.co/episodes/50722_tr/720p.m3u8  
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 7S 4B  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 7S 4B  
 https://storage.diziyou.co/episodes/50723_tr/720p.m3u8  
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 7S 5B  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 7S 5B  
 https://storage.diziyou.co/episodes/50724_tr/720p.m3u8  
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 7S 6B  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 7S 6B  
 https://storage.diziyou.co/episodes/50725_tr/720p.m3u8  
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 7S 7B  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 7S 7B  
 https://storage.diziyou.co/episodes/50726_tr/720p.m3u8  
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 7S 8B  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 7S 8B  
 https://storage.diziyou.co/episodes/50727_tr/720p.m3u8  
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 7S 9B  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 7S 9B  
 https://storage.diziyou.co/episodes/50728_tr/720p.m3u8  
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 7S 10B  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 7S 10B  
 https://storage.diziyou.co/episodes/50729_tr/720p.m3u8  
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 7S 11B  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 7S 11B  
 https://storage.diziyou.co/episodes/50730_tr/720p.m3u8  
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 7S 12B  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 7S 12B  
 https://storage.diziyou.co/episodes/50731_tr/720p.m3u8  
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 7S 13B  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 7S 13B  
 https://storage.diziyou.co/episodes/50732_tr/720p.m3u8  
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 7S 14B  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 7S 14B  
 https://storage.diziyou.co/episodes/50733_tr/720p.m3u8  
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 7S 15B  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 7S 15B  
 https://storage.diziyou.co/episodes/50734_tr/720p.m3u8  
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 7S 16B  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 7S 16B  
 https://storage.diziyou.co/episodes/50735_tr/720p.m3u8  
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 7S 17B  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 7S 17B  
 https://storage.diziyou.co/episodes/50736_tr/720p.m3u8  
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 7S 18B  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 7S 18B  
 https://storage.diziyou.co/episodes/50737_tr/720p.m3u8  
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 7S 19B  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 7S 19B  
 https://storage.diziyou.co/episodes/50738_tr/720p.m3u8  
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 7S 20B  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 7S 20B  
 https://storage.diziyou.co/episodes/50739_tr/720p.m3u8  
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 7S 21B  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 7S 21B  
 https://storage.diziyou.co/episodes/50740_tr/720p.m3u8  
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 7S 22B  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 7S 22B  
 https://storage.diziyou.co/episodes/50741_tr/720p.m3u8  
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 7S 23B  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 7S 23B  
 https://storage.diziyou.co/episodes/50742_tr/720p.m3u8  
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 7S 24B  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 7S 24B  
 https://storage.diziyou.co/episodes/50743_tr/720p.m3u8  
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 7S 25B  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 7S 25B  
 https://storage.diziyou.co/episodes/50744_tr/720p.m3u8  
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 7S 26B  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 7S 26B  
 https://storage.diziyou.co/episodes/50745_tr/720p.m3u8  
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 8S 1B  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 8S 1B  
 https://storage.diziyou.co/episodes/50746_tr/720p.m3u8  
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 8S 2B  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 8S 2B  
 https://storage.diziyou.co/episodes/50747_tr/720p.m3u8  
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 8S 3B  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 8S 3B  
 https://storage.diziyou.co/episodes/50748_tr/720p.m3u8  
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 8S 4B  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 8S 4B  
 https://storage.diziyou.co/episodes/50749_tr/720p.m3u8  
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 8S 5B  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 8S 5B  
 https://storage.diziyou.co/episodes/50750_tr/720p.m3u8  
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 8S 6B  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 8S 6B  
 https://storage.diziyou.co/episodes/50751_tr/720p.m3u8  
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 8S 7B  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 8S 7B  
 https://storage.diziyou.co/episodes/50752_tr/720p.m3u8  
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 8S 8B  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 8S 8B  
 https://storage.diziyou.co/episodes/50753_tr/720p.m3u8  
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 8S 9B  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 8S 9B  
 https://storage.diziyou.co/episodes/50754_tr/720p.m3u8  
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 8S 10B  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 8S 10B  
 https://storage.diziyou.co/episodes/50755_tr/720p.m3u8  
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 8S 11B  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 8S 11B  
 https://storage.diziyou.co/episodes/50756_tr/720p.m3u8  
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 8S 12B  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 8S 12B  
 https://storage.diziyou.co/episodes/50757_tr/720p.m3u8  
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 8S 13B  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 8S 13B  
 https://storage.diziyou.co/episodes/50758_tr/720p.m3u8  
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 8S 14B  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 8S 14B  
 https://storage.diziyou.co/episodes/50759_tr/720p.m3u8  
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 8S 15B  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 8S 15B  
 https://storage.diziyou.co/episodes/50760_tr/720p.m3u8  
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 8S 16B  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 8S 16B  
 https://storage.diziyou.co/episodes/50761_tr/720p.m3u8  
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 8S 17B  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 8S 17B  
 https://storage.diziyou.co/episodes/50762_tr/720p.m3u8  
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 8S 18B  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 8S 18B  
 https://storage.diziyou.co/episodes/50763_tr/720p.m3u8  
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 8S 19B  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 8S 19B  
 https://storage.diziyou.co/episodes/50764_tr/720p.m3u8  
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 8S 20B  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 8S 20B  
 https://storage.diziyou.co/episodes/50765_tr/720p.m3u8  
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 8S 21B  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 8S 21B  
 https://storage.diziyou.co/episodes/50766_tr/720p.m3u8  
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 8S 22B  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 8S 22B  
 https://storage.diziyou.co/episodes/50767_tr/720p.m3u8  
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 8S 23B  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 8S 23B  
 https://storage.diziyou.co/episodes/50768_tr/720p.m3u8  
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 8S 24B  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 8S 24B  
 https://storage.diziyou.co/episodes/50769_tr/720p.m3u8  
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 9S 1B  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 9S 1B  
 https://storage.diziyou.co/episodes/50770_tr/720p.m3u8  
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 9S 2B  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 9S 2B  
 https://storage.diziyou.co/episodes/50771_tr/720p.m3u8  
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 9S 3B  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 9S 3B  
 https://storage.diziyou.co/episodes/50772_tr/720p.m3u8  
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 9S 4B  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 9S 4B  
 https://storage.diziyou.co/episodes/50773_tr/720p.m3u8  
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 9S 5B  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 9S 5B  
 https://storage.diziyou.co/episodes/50774_tr/720p.m3u8  
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 9S 6B  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 9S 6B  
 https://storage.diziyou.co/episodes/50775_tr/720p.m3u8  
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 9S 7B  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 9S 7B  
 https://storage.diziyou.co/episodes/50776_tr/720p.m3u8  
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 9S 8B  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 9S 8B  
 https://storage.diziyou.co/episodes/50777_tr/720p.m3u8  
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 9S 9B  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 9S 9B  
 https://storage.diziyou.co/episodes/50778_tr/720p.m3u8  
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 9S 10B  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 9S 10B  
 https://storage.diziyou.co/episodes/50779_tr/720p.m3u8  
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 9S 11B  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 9S 11B  
 https://storage.diziyou.co/episodes/50780_tr/720p.m3u8  
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 9S 12B  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 9S 12B  
 https://storage.diziyou.co/episodes/50781_tr/720p.m3u8  
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 9S 13B  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 9S 13B  
 https://storage.diziyou.co/episodes/50782_tr/720p.m3u8  
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 9S 14B  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 9S 14B  
 https://storage.diziyou.co/episodes/50783_tr/720p.m3u8  
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 9S 15B  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 9S 15B  
 https://storage.diziyou.co/episodes/50784_tr/720p.m3u8  
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 9S 16B  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 9S 16B  
 https://storage.diziyou.co/episodes/50785_tr/720p.m3u8  
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 9S 17B  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 9S 17B  
 https://storage.diziyou.co/episodes/50786_tr/720p.m3u8  
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 9S 18B  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 9S 18B  
 https://storage.diziyou.co/episodes/50787_tr/720p.m3u8  
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 9S 19B  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 9S 19B  
 https://storage.diziyou.co/episodes/50788_tr/720p.m3u8  
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 9S 20B  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 9S 20B  
 https://storage.diziyou.co/episodes/50789_tr/720p.m3u8  
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 9S 21B  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 9S 21B  
 https://storage.diziyou.co/episodes/50790_tr/720p.m3u8  
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 9S 22B  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 9S 22B  
 https://storage.diziyou.co/episodes/50791_tr/720p.m3u8  
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFICE 9S 23B  
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/05/this-is-the-office-episode-that-was-pulled-from-syndication.jpg" background="purple", THE OFFİCE 9S 23B  
 https://storage.diziyou.co/episodes/50792_tr/720p.m3u8  
 
 
