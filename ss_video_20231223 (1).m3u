@@ -35,8 +35,6 @@ https://storage.diziyou.co/episodes/76701_tr/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://eagleeye.news/wp-content/uploads/2017/10/rick-and-morty-e1507831459637.jpg" background="purple", RİCK AND MORTY 1S 1B
 https://storage.diziyou.co/episodes/11502_tr/720p.m3u8
 
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://www.donanimhaber.com/images/images/haber/181275/1400x788ataturk-dizisi-ve-filmi-amazon-prime-video-da-yayinlanacak.jpg" background="purple", ATATÜRK 1S 1B  
-https://storage.diziyou.co/episodes/109001/720p.m3u8
 
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://media.glide.mailplus.co.uk/prod/images/gm_slate/0cbdeaaa2a8d-beastsq.jpg" background="purple", BEAST GAMES 1S 1B  
 https://storage.diziyou.co/episodes/115201_tr/720p.m3u8  
@@ -44,6 +42,9 @@ https://storage.diziyou.co/episodes/115201_tr/720p.m3u8
 
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://tr.web.img4.acsta.net/newsv7/21/11/15/14/12/5066657.jpg" background="purple", YELLOWSTONE 1S 1B  
 https://storage.diziyou.co/episodes/90901_tr/720p.m3u8  
+
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://sm.ign.com/t/ign_tr/gallery/h/how-invinc/how-invincible-became-a-modern-superhero-icon_gmdk.1200.jpg" background="purple", INVİNCİBLE 1S 1B
+https://storage.diziyou.co/episodes/82101_tr/720p.m3u8
 
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://m.media-amazon.com/images/S/pv-target-images/6689963691d949f9e26d5334088240cb2dc70113bf9006498d053d9e5888587c.jpg" background="purple", SİREN 1S 1B  
 https://storage.diziyou.co/episodes/108801_tr/720p.m3u8  
@@ -101,8 +102,6 @@ https://storage.diziyou.co/episodes/95001_tr/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://hips.hearstapps.com/hmg-prod/images/the-boys-homelander-diabolical-1643911878.jpeg" background="purple", THE BOYS PRESENTS 1S 1B 
 https://cdn.dzen.ru/vod/converted-video/vod-content/57/32/18/26/44/12/34/64/09/8/5e484c0e-a5fe-4d06-8031-1ad07feebc5d/kaltura/desc_640e89a2430b09073d3d8662d43abeeb/vu1_FbJauVC0/vw=1280,vh=720,fps=24.00,vbrt=871774,abrt=131549,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=1
 
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://sm.ign.com/t/ign_tr/gallery/h/how-invinc/how-invincible-became-a-modern-superhero-icon_gmdk.1200.jpg" background="purple", INVİNCİBLE 1S 1B
-https://storage.diziyou.co/episodes/82101_tr/720p.m3u8
 
 #EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://i.ytimg.com/vi/G-r5LFRaF0k/maxresdefault.jpg" background="purple", KLON SAVAŞLARI 1S 1B 
 https://lh3.googleusercontent.com/X1LeTjYw_gU2ZPU1JPlmEVO1-_v4yxxQRDAZv161QR5MkEnWQezt8hUQGY2mtH70YyQzJFVkuLI4qKLnOotd9q2tDFCJVGOpJ2CLX7yUqTIiqBv84YlhgSUh4dd1Lv9mEjl1N2xigQ=m18
@@ -140,6 +139,8 @@ https://storage.diziyou.co/episodes/60701_tr/720p.m3u8
 https://storage.diziyou.co/episodes/10751_tr/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://static.wikia.nocookie.net/antagonisten/images/c/ca/Peacemaker_%28TSS%29.jpg/revision/latest/top-crop/width/360/height/360?cb=20210809234936&path-prefix=de" background="purple", PEACEMAKER 1S 1B
 https://storage.diziyou.co/episodes/17401_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://www.donanimhaber.com/images/images/haber/181275/1400x788ataturk-dizisi-ve-filmi-amazon-prime-video-da-yayinlanacak.jpg" background="purple", ATATÜRK 1S 1B  
+https://storage.diziyou.co/episodes/109001/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://cdn01.justjared.com/wp-content/uploads/headlines/2024/12/on-call-trailer.jpg" background="purple", ON CALL 1S 1B  
 https://storage.diziyou.co/episodes/116201_tr/720p.m3u8  
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://m.media-amazon.com/images/S/pv-target-images/b845c562f07d7891a1aec70041a6e1a27d8fa5bb2b76e54fc4d0bbe1caf2a542.png" background="purple", CİTADEL DİANA 1S 1B  
@@ -7909,79 +7910,6 @@ https://storage.diziyou.co/episodes/113114_tr/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://m.media-amazon.com/images/S/pv-target-images/ee9810d6ea0357473605272ace805415a3fa8d935f4132e52b4d0f9ad0a5604c.png" background="purple", SECRET LEVEL 1S 15B
 https://storage.diziyou.co/episodes/113115_tr/720p.m3u8
 
-
-#EXTINF:0 type="video" channelId="-1" group-title="Anime" logo="https://d1tgyzt3mf06m9.cloudfront.net/v3-staging/2024/05/Mau-Main-Solo-Leveling-Arise-Ketahui-Dulu-Spesifikasinya.jpg" background="purple", SOLO LEVELİNG 1S 2B
-https://cdn.dzen.ru/vod/converted-video/vod-content/66/61/73/39/69/53/88/37/28/0/60924fa9-10bd-4895-93b1-8c8289c6dc44/kaltura/desc_7e1a79cd06160ed9b1d81eede46ac9a2/vaOt-mQyNQiI/vw=1280,vh=720,fps=24.00,vbrt=794042,abrt=129389,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Anime" logo="https://d1tgyzt3mf06m9.cloudfront.net/v3-staging/2024/05/Mau-Main-Solo-Leveling-Arise-Ketahui-Dulu-Spesifikasinya.jpg" background="purple", SOLO LEVELİNG 1S 3B
-https://cdn.dzen.ru/vod/converted-video/vod-content/69/69/58/78/48/60/11/79/71/9/4653335e-c274-418a-beeb-7c22dce89c4d/kaltura/desc_7a46dfa6e1924d6996dd00ffc9367722/v8CKnohXQbQc/vw=1280,vh=720,fps=24.00,vbrt=800396,abrt=129385,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=2
-#EXTINF:0 type="video" channelId="-1" group-title="Anime" logo="https://d1tgyzt3mf06m9.cloudfront.net/v3-staging/2024/05/Mau-Main-Solo-Leveling-Arise-Ketahui-Dulu-Spesifikasinya.jpg" background="purple", SOLO LEVELİNG 1S 4B
-https://cdn.dzen.ru/vod/converted-video/vod-content/62/34/40/79/01/03/93/86/34/9/e4630709-3a5b-4f39-89fb-efaa4cb36434/kaltura/desc_7c962a8a35dcbf53a2ca05568dc8ed7a/vVD0enxBdzCM/vw=1280,vh=720,fps=24.00,vbrt=841908,abrt=129385,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Anime" logo="https://d1tgyzt3mf06m9.cloudfront.net/v3-staging/2024/05/Mau-Main-Solo-Leveling-Arise-Ketahui-Dulu-Spesifikasinya.jpg" background="purple", SOLO LEVELİNG 1S 5B
-https://cdn.dzen.ru/vod/converted-video/vod-content/85/19/96/97/30/04/83/99/85/3/156c9a5e-96d3-4725-82d4-4fb8ca85dc68/kaltura/desc_648db08c56602100d9281d1177d8a12c/v-RPhQF40r0c/vw=1280,vh=720,fps=24.00,vbrt=793838,abrt=129386,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=1
-#EXTINF:0 type="video" channelId="-1" group-title="Anime" logo="https://d1tgyzt3mf06m9.cloudfront.net/v3-staging/2024/05/Mau-Main-Solo-Leveling-Arise-Ketahui-Dulu-Spesifikasinya.jpg" background="purple", SOLO LEVELİNG 1S 6B
-https://cdn.dzen.ru/vod/converted-video/vod-content/47/25/30/08/84/54/69/79/44/3/55e2db2e-1369-4d34-a865-952e649486a9/kaltura/desc_5e8f021523bcc5ccaa3878a97250e043/vZOxndPO7-B8/vw=1280,vh=720,fps=24.00,vbrt=940255,abrt=129385,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Anime" logo="https://d1tgyzt3mf06m9.cloudfront.net/v3-staging/2024/05/Mau-Main-Solo-Leveling-Arise-Ketahui-Dulu-Spesifikasinya.jpg" background="purple", SOLO LEVELİNG 1S 7B
-https://cdn.dzen.ru/vod/converted-video/vod-content/44/70/35/01/96/69/12/50/22/8/2f4b05af-bff7-4676-a4bc-84af57e600d1/kaltura/desc_988c8ced73f0f199454cc439c8582eb2/vj9r-xNd6yzA/vw=1280,vh=720,fps=24.00,vbrt=899319,abrt=129389,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Anime" logo="https://d1tgyzt3mf06m9.cloudfront.net/v3-staging/2024/05/Mau-Main-Solo-Leveling-Arise-Ketahui-Dulu-Spesifikasinya.jpg" background="purple", SOLO LEVELİNG 1S 8B
-https://cdn.dzen.ru/vod/converted-video/vod-content/87/22/46/73/58/79/46/09/89/b61934d1-25a5-4ebc-a239-39931a4b0e94/kaltura/desc_0cd55289dd9d6a99f571af812e7b688e/vOpG376qEvXg/vw=1280,vh=720,fps=24.00,vbrt=721529,abrt=129386,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=2
-#EXTINF:0 type="video" channelId="-1" group-title="Anime" logo="https://d1tgyzt3mf06m9.cloudfront.net/v3-staging/2024/05/Mau-Main-Solo-Leveling-Arise-Ketahui-Dulu-Spesifikasinya.jpg" background="purple", SOLO LEVELİNG 1S 9B
-https://cdn.dzen.ru/vod/converted-video/vod-content/22/62/20/51/22/31/56/79/85/3/6838b531-974c-49cb-a86b-ec0f1ac5f996/kaltura/desc_c0b73d3d3d9d11183b28ff0526cc5630/v3e7GJ4z-akg/vw=1280,vh=720,fps=24.00,vbrt=768284,abrt=129385,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Anime" logo="https://d1tgyzt3mf06m9.cloudfront.net/v3-staging/2024/05/Mau-Main-Solo-Leveling-Arise-Ketahui-Dulu-Spesifikasinya.jpg" background="purple", SOLO LEVELİNG 1S 10B
-https://cdn.dzen.ru/vod/converted-video/vod-content/64/23/58/90/34/27/95/94/68/3e286d13-d870-44d7-8ab1-9e023eee36eb/kaltura/desc_bf9834a2200093100fe4b768135a562d/vxhDCrmSCOwU/vw=1280,vh=720,fps=24.00,vbrt=754533,abrt=129386,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=1
-#EXTINF:0 type="video" channelId="-1" group-title="Anime" logo="https://d1tgyzt3mf06m9.cloudfront.net/v3-staging/2024/05/Mau-Main-Solo-Leveling-Arise-Ketahui-Dulu-Spesifikasinya.jpg" background="purple", SOLO LEVELİNG 1S 11B
-https://cdn.dzen.ru/vod/converted-video/vod-content/42/63/92/64/75/19/60/26/25/9/6bee0f3a-a233-4e3e-8ee3-58213cc8983b/kaltura/desc_891cb81d1a793f47b3b562960db623a9/vQclh2P0tBm4/vw=1280,vh=720,fps=24.00,vbrt=872427,abrt=129386,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=1
-#EXTINF:0 type="video" channelId="-1" group-title="Anime" logo="https://d1tgyzt3mf06m9.cloudfront.net/v3-staging/2024/05/Mau-Main-Solo-Leveling-Arise-Ketahui-Dulu-Spesifikasinya.jpg" background="purple", SOLO LEVELİNG 1S 12B
-https://cdn.dzen.ru/vod/converted-video/vod-content/43/27/54/68/64/24/38/16/37/3/1399ac53-ce9d-415c-9445-e1150be05ac0/kaltura/desc_b959309d40100d1a7b9f9aace3d1963d/vQFvyufOeWxA/vw=1280,vh=720,fps=24.00,vbrt=877549,abrt=129385,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=1
-
-#EXTINF:0 type="video" channelId="-1" group-title="Anime" logo="https://d1tgyzt3mf06m9.cloudfront.net/v3-staging/2024/05/Mau-Main-Solo-Leveling-Arise-Ketahui-Dulu-Spesifikasinya.jpg" background="purple", SOLO LEVELİNG 2S 1B
-https://cdn.dzen.ru/vod/converted-video/vod-content/84/83/29/58/98/57/61/73/38/5/e8a5185c-e68c-4db4-b976-2c5ab3e3d06a/kaltura/desc_c8687d05f60ab8d8bf13cc5bfc1f8fed/vQYpLiQlgIDg/vw=1280,vh=720,fps=24.00,vbrt=788774,abrt=129508,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Anime" logo="https://d1tgyzt3mf06m9.cloudfront.net/v3-staging/2024/05/Mau-Main-Solo-Leveling-Arise-Ketahui-Dulu-Spesifikasinya.jpg" background="purple", SOLO LEVELİNG 2S 2B
-https://cdn.dzen.ru/vod/converted-video/vod-content/86/05/04/46/81/75/81/76/40/9/913ee172-4929-4b9a-a36a-0f04f32f7ae3/kaltura/desc_311404b0fee8485cedb3ae4103b2e3ea/vRF5U-eD43Sg/vw=1280,vh=720,fps=24.00,vbrt=1003098,abrt=129508,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
-
-
-#EXTINF:0 type="video" channelId="-1" group-title="Anime" logo="https://i.pinimg.com/736x/ca/1c/a1/ca1ca12230bca090ec3a34f4b4a33b03.jpg" background="purple", SUİCİDE SQUAD İSEKAİ 1S 2B
-https://cdn.dzen.ru/vod/converted-video/vod-content/57/77/51/23/63/60/17/98/12/9/94c5dee3-df89-4810-9102-b538860fcb4e/kaltura/desc_8a8ee4224e8bab9a12ac2fe68db40839/vQ8WLJZcwq28/vw=1280,vh=720,fps=24.00,vbrt=718071,abrt=129508,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Anime" logo="https://i.pinimg.com/736x/ca/1c/a1/ca1ca12230bca090ec3a34f4b4a33b03.jpg" background="purple", SUİCİDE SQUAD İSEKAİ 1S 3B
-https://cdn.dzen.ru/vod/converted-video/vod-content/29/61/92/11/23/09/47/34/43/3/2614d1cf-cfa5-408b-b236-b62ebb3e67e3/kaltura/desc_316196457397b5e753aa479cb86e606e/vI3gdW6Ys-ik/vw=1280,vh=720,fps=24.00,vbrt=834363,abrt=129507,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Anime" logo="https://i.pinimg.com/736x/ca/1c/a1/ca1ca12230bca090ec3a34f4b4a33b03.jpg" background="purple", SUİCİDE SQUAD İSEKAİ 1S 4B
-https://cdn.dzen.ru/vod/converted-video/vod-content/26/75/82/78/55/08/18/43/27/9/0ceb62ed-e76e-4c77-85e8-c8f88b3caff0/kaltura/desc_75d5d5cff9f805b385925ed1aab7ed5f/vn5QckwF7r1w/vw=1280,vh=720,fps=24.00,vbrt=685856,abrt=129508,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Anime" logo="https://i.pinimg.com/736x/ca/1c/a1/ca1ca12230bca090ec3a34f4b4a33b03.jpg" background="purple", SUİCİDE SQUAD İSEKAİ 1S 5B
-https://cdn.dzen.ru/vod/converted-video/vod-content/40/46/29/77/93/35/98/35/46/6/7aec0c27-04e3-479d-b89f-2a94c2e5a1e1/kaltura/desc_669aa949843758bca97a9d3397228f39/vCutk4Z6tDic/vw=1280,vh=720,fps=24.00,vbrt=807320,abrt=129508,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=1
-#EXTINF:0 type="video" channelId="-1" group-title="Anime" logo="https://i.pinimg.com/736x/ca/1c/a1/ca1ca12230bca090ec3a34f4b4a33b03.jpg" background="purple", SUİCİDE SQUAD İSEKAİ 1S 6B
-https://cdn.dzen.ru/vod/converted-video/vod-content/79/14/89/94/65/18/50/25/65/4/145bd9b3-a7d0-40f5-8c91-434cb7ce248f/kaltura/desc_15d563615ecb70be39b8809e634c7fbd/v2PTkAfGSwzE/vw=1280,vh=720,fps=24.00,vbrt=676549,abrt=129508,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Anime" logo="https://i.pinimg.com/736x/ca/1c/a1/ca1ca12230bca090ec3a34f4b4a33b03.jpg" background="purple", SUİCİDE SQUAD İSEKAİ 1S 7B
-https://cdn.dzen.ru/vod/converted-video/vod-content/62/90/79/18/27/01/88/55/72/8/b19f9238-e47b-4391-9e32-f36fabaed1e5/kaltura/desc_ee41c3948d366eecfce44c801cf2b6e9/vNGxHNcPK3mk/vw=1280,vh=720,fps=24.00,vbrt=842078,abrt=129507,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Anime" logo="https://i.pinimg.com/736x/ca/1c/a1/ca1ca12230bca090ec3a34f4b4a33b03.jpg" background="purple", SUİCİDE SQUAD İSEKAİ 1S 8B
-https://cdn.dzen.ru/vod/converted-video/vod-content/72/02/72/24/78/27/01/51/34/702b09af-a30d-41c6-bab4-d911382267b6/kaltura/desc_ceb2f60b69dc97eaa354aa3811e61ff1/vOaUi6n1vTks/vw=1280,vh=720,fps=24.00,vbrt=658840,abrt=129507,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=3
-#EXTINF:0 type="video" channelId="-1" group-title="Anime" logo="https://i.pinimg.com/736x/ca/1c/a1/ca1ca12230bca090ec3a34f4b4a33b03.jpg" background="purple", SUİCİDE SQUAD İSEKAİ 1S 9B
-https://cdn.dzen.ru/vod/converted-video/vod-content/69/01/70/51/61/40/84/95/86/7/63a4f05e-b229-49c7-bfac-f9468211c929/kaltura/desc_6567d7a5b7306e9b0031eb559e94010b/v6r4-YlDiiAY/vw=1280,vh=720,fps=24.00,vbrt=767171,abrt=129507,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Anime" logo="https://i.pinimg.com/736x/ca/1c/a1/ca1ca12230bca090ec3a34f4b4a33b03.jpg" background="purple", SUİCİDE SQUAD İSEKAİ 1S 10B
-https://cdn.dzen.ru/vod/converted-video/vod-content/17/55/39/68/12/27/99/05/38/5/951c251d-9d2b-4909-9286-1599f875d990/kaltura/desc_26d5a3c47a369e524b8cd0fca95c2ef3/vvY1buwVbe2I/vw=1280,vh=720,fps=24.00,vbrt=899172,abrt=129508,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
-
-
-#EXTINF:0 type="video" channelId="-1" group-title="Anime" logo="https://i.scdn.co/image/ab67616d0000b273b88b4c8e59c780fa3a65de57" background="purple", CHAİNSAWMAN MAN 1S 2B
-https://cdn.dzen.ru/vod/converted-video/vod-content/42/05/04/90/69/12/65/32/43/4/1fe196d3-fd35-491a-b869-20c64cde8017/kaltura/desc_78db3d069fd140ada1d6580f94834b7a/vwXPQWYH4-jY/vw=1280,vh=720,fps=24.00,vbrt=657419,abrt=129383,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=1
-#EXTINF:0 type="video" channelId="-1" group-title="Anime" logo="https://i.scdn.co/image/ab67616d0000b273b88b4c8e59c780fa3a65de57" background="purple", CHAİNSAWMAN MAN 1S 3B
-https://cdn.dzen.ru/vod/converted-video/vod-content/52/66/20/84/52/36/48/38/74/2/799d7b56-1a65-4195-adae-5fdd83c5b61d/kaltura/desc_2f75d0b49a4ac60701cfb3fcf8393ea6/vUZxcnEOH-DU/vw=1280,vh=720,fps=24.00,vbrt=799325,abrt=129383,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=1
-#EXTINF:0 type="video" channelId="-1" group-title="Anime" logo="https://i.scdn.co/image/ab67616d0000b273b88b4c8e59c780fa3a65de57" background="purple", CHAİNSAWMAN MAN 1S 4B
-https://cdn.dzen.ru/vod/converted-video/vod-content/31/10/43/26/52/81/56/27/45/4/2a92eb44-682a-4ea9-8ca7-1ee4491bef3e/kaltura/desc_66ee274702361945b72ee8bf44e244d1/v6fIxPqOj8lk/vw=1280,vh=720,fps=24.00,vbrt=744522,abrt=129383,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Anime" logo="https://i.scdn.co/image/ab67616d0000b273b88b4c8e59c780fa3a65de57" background="purple", CHAİNSAWMAN MAN 1S 5B
-https://cdn.dzen.ru/vod/converted-video/vod-content/29/24/90/85/60/38/63/55/54/1/e2467c57-a143-44b8-8165-e63a3b2913f8/kaltura/desc_3b859bc33f0c96106efbd967dd705830/vjqQcCCU2gjU/vw=1280,vh=720,fps=24.00,vbrt=736936,abrt=129383,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Anime" logo="https://i.scdn.co/image/ab67616d0000b273b88b4c8e59c780fa3a65de57" background="purple", CHAİNSAWMAN MAN 1S 6B
-https://cdn.dzen.ru/vod/converted-video/vod-content/45/11/27/54/20/10/03/96/80/d3bd3e31-9f76-4461-a2c4-c96aff5955f5/kaltura/desc_a43462afd3fe4cb2d888fd92add251c7/vLhKBwnDofiU/vw=1280,vh=720,fps=24.00,vbrt=733619,abrt=129383,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=2
-#EXTINF:0 type="video" channelId="-1" group-title="Anime" logo="https://i.scdn.co/image/ab67616d0000b273b88b4c8e59c780fa3a65de57" background="purple", CHAİNSAWMAN MAN 1S 7B
-https://cdn.dzen.ru/vod/converted-video/vod-content/79/62/78/52/04/19/41/72/82/8/0ecfce67-e61b-40d1-8fd0-e809a58306e7/kaltura/desc_816b84049e5b18a5221d9ea209fd6bdc/vzwoxDxAq1Rc/vw=1280,vh=720,fps=24.00,vbrt=680692,abrt=129383,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=2
-#EXTINF:0 type="video" channelId="-1" group-title="Anime" logo="https://i.scdn.co/image/ab67616d0000b273b88b4c8e59c780fa3a65de57" background="purple", CHAİNSAWMAN MAN 1S 8B
-https://cdn.dzen.ru/vod/converted-video/vod-content/24/98/84/71/13/25/54/00/96/5/7328956e-2d12-47f1-80eb-09908d9831c4/kaltura/desc_80d28d358ea6805342a848b0cb55dd38/vzlZ5jM4aPwg/vw=1280,vh=720,fps=24.00,vbrt=591273,abrt=129383,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Anime" logo="https://i.scdn.co/image/ab67616d0000b273b88b4c8e59c780fa3a65de57" background="purple", CHAİNSAWMAN MAN 1S 9B
-https://cdn.dzen.ru/vod/converted-video/vod-content/90/96/30/48/33/58/24/37/86/7/79f82080-e82c-4a62-9e40-47ff0f4bad2d/kaltura/desc_aa994f344bff7efd76bc9f04f4b34ee8/vMqLOabXys2w/vw=1280,vh=720,fps=24.00,vbrt=707308,abrt=129383,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=2
-#EXTINF:0 type="video" channelId="-1" group-title="Anime" logo="https://i.scdn.co/image/ab67616d0000b273b88b4c8e59c780fa3a65de57" background="purple", CHAİNSAWMAN MAN 1S 10B
-https://cdn.dzen.ru/vod/converted-video/vod-content/55/93/69/39/63/77/78/86/11/9/f0dba100-b61d-4559-a96e-665c8645b9c8/kaltura/desc_4d4dfbce7c8e22d342963379a28687ff/vY6blmkkmChc/vw=1280,vh=720,fps=24.00,vbrt=740723,abrt=129382,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=1
-#EXTINF:0 type="video" channelId="-1" group-title="Anime" logo="https://i.scdn.co/image/ab67616d0000b273b88b4c8e59c780fa3a65de57" background="purple", CHAİNSAWMAN MAN 1S 11B
-https://cdn.dzen.ru/vod/converted-video/vod-content/88/64/72/10/32/55/88/29/1/f1c6a5d4-8054-45dd-91ea-1288355938b9/kaltura/desc_5871fd018b7ff50671cc9184e4bd8911/vXAhxZtz1w3I/vw=1280,vh=720,fps=24.00,vbrt=662447,abrt=129383,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=3
-#EXTINF:0 type="video" channelId="-1" group-title="Anime" logo="https://i.scdn.co/image/ab67616d0000b273b88b4c8e59c780fa3a65de57" background="purple", CHAİNSAWMAN MAN 1S 12B
-https://cdn.dzen.ru/vod/converted-video/vod-content/47/09/38/40/55/63/91/79/75/4/796dc053-ee28-4f86-a0af-70d7cd7dd0a9/kaltura/desc_60196800f2be6a2e4a4258eb5092ca16/vY2n_ZhBa-yo/vw=1280,vh=720,fps=24.00,vbrt=697653,abrt=129383,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=1
-
 #EXTINF:0 type="video" channelId="-1" group-title="Anime" logo="https://www.mundodeportivo.com/alfabeta/hero/2024/02/estas-son-las-edades-de-los-protagonistas-de-spy-x-family.jpg" background="purple", SPY X FAMİLY 1S 2B
 https://cdn.dzen.ru/vod/converted-video/vod-content/70/85/53/20/93/02/32/93/00/0/10f23182-8025-4e04-8115-bff952dc4134/kaltura/desc_5bbe595addc2d2fddf7b7e9495e0e98a/v0r7KT-5tqwQ/vw=1280,vh=720,fps=24.00,vbrt=681375,abrt=129386,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=1
 #EXTINF:0 type="video" channelId="-1" group-title="Anime" logo="https://www.mundodeportivo.com/alfabeta/hero/2024/02/estas-son-las-edades-de-los-protagonistas-de-spy-x-family.jpg" background="purple", SPY X FAMİLY 1S 3B
@@ -8056,6 +7984,80 @@ https://cdn.dzen.ru/vod/converted-video/vod-content/73/25/50/45/61/67/77/05/22/5
 https://cdn.dzen.ru/vod/converted-video/vod-content/91/62/00/65/23/10/65/14/65/2/b333651c-cdde-4628-89df-dfccec8c1a89/kaltura/desc_ab37e5965bee2e19e4bcc0fd065e5641/v2fRTmwwSoXk/vw=1280,vh=720,fps=24.00,vbrt=749615,abrt=129390,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=3
 #EXTINF:0 type="video" channelId="-1" group-title="Anime" logo="https://www.mundodeportivo.com/alfabeta/hero/2024/02/estas-son-las-edades-de-los-protagonistas-de-spy-x-family.jpg" background="purple", SPY X FAMİLY 2S 12B
 https://cdn.dzen.ru/vod/converted-video/vod-content/37/50/08/15/94/67/14/41/23/1/042dc771-1ac8-445e-a351-60ecc5a09b61/kaltura/desc_315838bdf416447f3d7d73106c66d8a3/varByU5EU9RQ/vw=1280,vh=720,fps=24.00,vbrt=873179,abrt=129386,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=1
+
+
+
+#EXTINF:0 type="video" channelId="-1" group-title="Anime" logo="https://d1tgyzt3mf06m9.cloudfront.net/v3-staging/2024/05/Mau-Main-Solo-Leveling-Arise-Ketahui-Dulu-Spesifikasinya.jpg" background="purple", SOLO LEVELİNG 1S 2B
+https://cdn.dzen.ru/vod/converted-video/vod-content/66/61/73/39/69/53/88/37/28/0/60924fa9-10bd-4895-93b1-8c8289c6dc44/kaltura/desc_7e1a79cd06160ed9b1d81eede46ac9a2/vaOt-mQyNQiI/vw=1280,vh=720,fps=24.00,vbrt=794042,abrt=129389,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Anime" logo="https://d1tgyzt3mf06m9.cloudfront.net/v3-staging/2024/05/Mau-Main-Solo-Leveling-Arise-Ketahui-Dulu-Spesifikasinya.jpg" background="purple", SOLO LEVELİNG 1S 3B
+https://cdn.dzen.ru/vod/converted-video/vod-content/69/69/58/78/48/60/11/79/71/9/4653335e-c274-418a-beeb-7c22dce89c4d/kaltura/desc_7a46dfa6e1924d6996dd00ffc9367722/v8CKnohXQbQc/vw=1280,vh=720,fps=24.00,vbrt=800396,abrt=129385,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=2
+#EXTINF:0 type="video" channelId="-1" group-title="Anime" logo="https://d1tgyzt3mf06m9.cloudfront.net/v3-staging/2024/05/Mau-Main-Solo-Leveling-Arise-Ketahui-Dulu-Spesifikasinya.jpg" background="purple", SOLO LEVELİNG 1S 4B
+https://cdn.dzen.ru/vod/converted-video/vod-content/62/34/40/79/01/03/93/86/34/9/e4630709-3a5b-4f39-89fb-efaa4cb36434/kaltura/desc_7c962a8a35dcbf53a2ca05568dc8ed7a/vVD0enxBdzCM/vw=1280,vh=720,fps=24.00,vbrt=841908,abrt=129385,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Anime" logo="https://d1tgyzt3mf06m9.cloudfront.net/v3-staging/2024/05/Mau-Main-Solo-Leveling-Arise-Ketahui-Dulu-Spesifikasinya.jpg" background="purple", SOLO LEVELİNG 1S 5B
+https://cdn.dzen.ru/vod/converted-video/vod-content/85/19/96/97/30/04/83/99/85/3/156c9a5e-96d3-4725-82d4-4fb8ca85dc68/kaltura/desc_648db08c56602100d9281d1177d8a12c/v-RPhQF40r0c/vw=1280,vh=720,fps=24.00,vbrt=793838,abrt=129386,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=1
+#EXTINF:0 type="video" channelId="-1" group-title="Anime" logo="https://d1tgyzt3mf06m9.cloudfront.net/v3-staging/2024/05/Mau-Main-Solo-Leveling-Arise-Ketahui-Dulu-Spesifikasinya.jpg" background="purple", SOLO LEVELİNG 1S 6B
+https://cdn.dzen.ru/vod/converted-video/vod-content/47/25/30/08/84/54/69/79/44/3/55e2db2e-1369-4d34-a865-952e649486a9/kaltura/desc_5e8f021523bcc5ccaa3878a97250e043/vZOxndPO7-B8/vw=1280,vh=720,fps=24.00,vbrt=940255,abrt=129385,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Anime" logo="https://d1tgyzt3mf06m9.cloudfront.net/v3-staging/2024/05/Mau-Main-Solo-Leveling-Arise-Ketahui-Dulu-Spesifikasinya.jpg" background="purple", SOLO LEVELİNG 1S 7B
+https://cdn.dzen.ru/vod/converted-video/vod-content/44/70/35/01/96/69/12/50/22/8/2f4b05af-bff7-4676-a4bc-84af57e600d1/kaltura/desc_988c8ced73f0f199454cc439c8582eb2/vj9r-xNd6yzA/vw=1280,vh=720,fps=24.00,vbrt=899319,abrt=129389,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Anime" logo="https://d1tgyzt3mf06m9.cloudfront.net/v3-staging/2024/05/Mau-Main-Solo-Leveling-Arise-Ketahui-Dulu-Spesifikasinya.jpg" background="purple", SOLO LEVELİNG 1S 8B
+https://cdn.dzen.ru/vod/converted-video/vod-content/87/22/46/73/58/79/46/09/89/b61934d1-25a5-4ebc-a239-39931a4b0e94/kaltura/desc_0cd55289dd9d6a99f571af812e7b688e/vOpG376qEvXg/vw=1280,vh=720,fps=24.00,vbrt=721529,abrt=129386,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=2
+#EXTINF:0 type="video" channelId="-1" group-title="Anime" logo="https://d1tgyzt3mf06m9.cloudfront.net/v3-staging/2024/05/Mau-Main-Solo-Leveling-Arise-Ketahui-Dulu-Spesifikasinya.jpg" background="purple", SOLO LEVELİNG 1S 9B
+https://cdn.dzen.ru/vod/converted-video/vod-content/22/62/20/51/22/31/56/79/85/3/6838b531-974c-49cb-a86b-ec0f1ac5f996/kaltura/desc_c0b73d3d3d9d11183b28ff0526cc5630/v3e7GJ4z-akg/vw=1280,vh=720,fps=24.00,vbrt=768284,abrt=129385,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Anime" logo="https://d1tgyzt3mf06m9.cloudfront.net/v3-staging/2024/05/Mau-Main-Solo-Leveling-Arise-Ketahui-Dulu-Spesifikasinya.jpg" background="purple", SOLO LEVELİNG 1S 10B
+https://cdn.dzen.ru/vod/converted-video/vod-content/64/23/58/90/34/27/95/94/68/3e286d13-d870-44d7-8ab1-9e023eee36eb/kaltura/desc_bf9834a2200093100fe4b768135a562d/vxhDCrmSCOwU/vw=1280,vh=720,fps=24.00,vbrt=754533,abrt=129386,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=1
+#EXTINF:0 type="video" channelId="-1" group-title="Anime" logo="https://d1tgyzt3mf06m9.cloudfront.net/v3-staging/2024/05/Mau-Main-Solo-Leveling-Arise-Ketahui-Dulu-Spesifikasinya.jpg" background="purple", SOLO LEVELİNG 1S 11B
+https://cdn.dzen.ru/vod/converted-video/vod-content/42/63/92/64/75/19/60/26/25/9/6bee0f3a-a233-4e3e-8ee3-58213cc8983b/kaltura/desc_891cb81d1a793f47b3b562960db623a9/vQclh2P0tBm4/vw=1280,vh=720,fps=24.00,vbrt=872427,abrt=129386,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=1
+#EXTINF:0 type="video" channelId="-1" group-title="Anime" logo="https://d1tgyzt3mf06m9.cloudfront.net/v3-staging/2024/05/Mau-Main-Solo-Leveling-Arise-Ketahui-Dulu-Spesifikasinya.jpg" background="purple", SOLO LEVELİNG 1S 12B
+https://cdn.dzen.ru/vod/converted-video/vod-content/43/27/54/68/64/24/38/16/37/3/1399ac53-ce9d-415c-9445-e1150be05ac0/kaltura/desc_b959309d40100d1a7b9f9aace3d1963d/vQFvyufOeWxA/vw=1280,vh=720,fps=24.00,vbrt=877549,abrt=129385,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=1
+
+#EXTINF:0 type="video" channelId="-1" group-title="Anime" logo="https://d1tgyzt3mf06m9.cloudfront.net/v3-staging/2024/05/Mau-Main-Solo-Leveling-Arise-Ketahui-Dulu-Spesifikasinya.jpg" background="purple", SOLO LEVELİNG 2S 1B
+https://cdn.dzen.ru/vod/converted-video/vod-content/84/83/29/58/98/57/61/73/38/5/e8a5185c-e68c-4db4-b976-2c5ab3e3d06a/kaltura/desc_c8687d05f60ab8d8bf13cc5bfc1f8fed/vQYpLiQlgIDg/vw=1280,vh=720,fps=24.00,vbrt=788774,abrt=129508,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Anime" logo="https://d1tgyzt3mf06m9.cloudfront.net/v3-staging/2024/05/Mau-Main-Solo-Leveling-Arise-Ketahui-Dulu-Spesifikasinya.jpg" background="purple", SOLO LEVELİNG 2S 2B
+https://cdn.dzen.ru/vod/converted-video/vod-content/86/05/04/46/81/75/81/76/40/9/913ee172-4929-4b9a-a36a-0f04f32f7ae3/kaltura/desc_311404b0fee8485cedb3ae4103b2e3ea/vRF5U-eD43Sg/vw=1280,vh=720,fps=24.00,vbrt=1003098,abrt=129508,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
+
+
+#EXTINF:0 type="video" channelId="-1" group-title="Anime" logo="https://i.pinimg.com/736x/ca/1c/a1/ca1ca12230bca090ec3a34f4b4a33b03.jpg" background="purple", SUİCİDE SQUAD İSEKAİ 1S 2B
+https://cdn.dzen.ru/vod/converted-video/vod-content/57/77/51/23/63/60/17/98/12/9/94c5dee3-df89-4810-9102-b538860fcb4e/kaltura/desc_8a8ee4224e8bab9a12ac2fe68db40839/vQ8WLJZcwq28/vw=1280,vh=720,fps=24.00,vbrt=718071,abrt=129508,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Anime" logo="https://i.pinimg.com/736x/ca/1c/a1/ca1ca12230bca090ec3a34f4b4a33b03.jpg" background="purple", SUİCİDE SQUAD İSEKAİ 1S 3B
+https://cdn.dzen.ru/vod/converted-video/vod-content/29/61/92/11/23/09/47/34/43/3/2614d1cf-cfa5-408b-b236-b62ebb3e67e3/kaltura/desc_316196457397b5e753aa479cb86e606e/vI3gdW6Ys-ik/vw=1280,vh=720,fps=24.00,vbrt=834363,abrt=129507,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Anime" logo="https://i.pinimg.com/736x/ca/1c/a1/ca1ca12230bca090ec3a34f4b4a33b03.jpg" background="purple", SUİCİDE SQUAD İSEKAİ 1S 4B
+https://cdn.dzen.ru/vod/converted-video/vod-content/26/75/82/78/55/08/18/43/27/9/0ceb62ed-e76e-4c77-85e8-c8f88b3caff0/kaltura/desc_75d5d5cff9f805b385925ed1aab7ed5f/vn5QckwF7r1w/vw=1280,vh=720,fps=24.00,vbrt=685856,abrt=129508,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Anime" logo="https://i.pinimg.com/736x/ca/1c/a1/ca1ca12230bca090ec3a34f4b4a33b03.jpg" background="purple", SUİCİDE SQUAD İSEKAİ 1S 5B
+https://cdn.dzen.ru/vod/converted-video/vod-content/40/46/29/77/93/35/98/35/46/6/7aec0c27-04e3-479d-b89f-2a94c2e5a1e1/kaltura/desc_669aa949843758bca97a9d3397228f39/vCutk4Z6tDic/vw=1280,vh=720,fps=24.00,vbrt=807320,abrt=129508,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=1
+#EXTINF:0 type="video" channelId="-1" group-title="Anime" logo="https://i.pinimg.com/736x/ca/1c/a1/ca1ca12230bca090ec3a34f4b4a33b03.jpg" background="purple", SUİCİDE SQUAD İSEKAİ 1S 6B
+https://cdn.dzen.ru/vod/converted-video/vod-content/79/14/89/94/65/18/50/25/65/4/145bd9b3-a7d0-40f5-8c91-434cb7ce248f/kaltura/desc_15d563615ecb70be39b8809e634c7fbd/v2PTkAfGSwzE/vw=1280,vh=720,fps=24.00,vbrt=676549,abrt=129508,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Anime" logo="https://i.pinimg.com/736x/ca/1c/a1/ca1ca12230bca090ec3a34f4b4a33b03.jpg" background="purple", SUİCİDE SQUAD İSEKAİ 1S 7B
+https://cdn.dzen.ru/vod/converted-video/vod-content/62/90/79/18/27/01/88/55/72/8/b19f9238-e47b-4391-9e32-f36fabaed1e5/kaltura/desc_ee41c3948d366eecfce44c801cf2b6e9/vNGxHNcPK3mk/vw=1280,vh=720,fps=24.00,vbrt=842078,abrt=129507,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Anime" logo="https://i.pinimg.com/736x/ca/1c/a1/ca1ca12230bca090ec3a34f4b4a33b03.jpg" background="purple", SUİCİDE SQUAD İSEKAİ 1S 8B
+https://cdn.dzen.ru/vod/converted-video/vod-content/72/02/72/24/78/27/01/51/34/702b09af-a30d-41c6-bab4-d911382267b6/kaltura/desc_ceb2f60b69dc97eaa354aa3811e61ff1/vOaUi6n1vTks/vw=1280,vh=720,fps=24.00,vbrt=658840,abrt=129507,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=3
+#EXTINF:0 type="video" channelId="-1" group-title="Anime" logo="https://i.pinimg.com/736x/ca/1c/a1/ca1ca12230bca090ec3a34f4b4a33b03.jpg" background="purple", SUİCİDE SQUAD İSEKAİ 1S 9B
+https://cdn.dzen.ru/vod/converted-video/vod-content/69/01/70/51/61/40/84/95/86/7/63a4f05e-b229-49c7-bfac-f9468211c929/kaltura/desc_6567d7a5b7306e9b0031eb559e94010b/v6r4-YlDiiAY/vw=1280,vh=720,fps=24.00,vbrt=767171,abrt=129507,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Anime" logo="https://i.pinimg.com/736x/ca/1c/a1/ca1ca12230bca090ec3a34f4b4a33b03.jpg" background="purple", SUİCİDE SQUAD İSEKAİ 1S 10B
+https://cdn.dzen.ru/vod/converted-video/vod-content/17/55/39/68/12/27/99/05/38/5/951c251d-9d2b-4909-9286-1599f875d990/kaltura/desc_26d5a3c47a369e524b8cd0fca95c2ef3/vvY1buwVbe2I/vw=1280,vh=720,fps=24.00,vbrt=899172,abrt=129508,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
+
+
+#EXTINF:0 type="video" channelId="-1" group-title="Anime" logo="https://i.scdn.co/image/ab67616d0000b273b88b4c8e59c780fa3a65de57" background="purple", CHAİNSAWMAN MAN 1S 2B
+https://cdn.dzen.ru/vod/converted-video/vod-content/42/05/04/90/69/12/65/32/43/4/1fe196d3-fd35-491a-b869-20c64cde8017/kaltura/desc_78db3d069fd140ada1d6580f94834b7a/vwXPQWYH4-jY/vw=1280,vh=720,fps=24.00,vbrt=657419,abrt=129383,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=1
+#EXTINF:0 type="video" channelId="-1" group-title="Anime" logo="https://i.scdn.co/image/ab67616d0000b273b88b4c8e59c780fa3a65de57" background="purple", CHAİNSAWMAN MAN 1S 3B
+https://cdn.dzen.ru/vod/converted-video/vod-content/52/66/20/84/52/36/48/38/74/2/799d7b56-1a65-4195-adae-5fdd83c5b61d/kaltura/desc_2f75d0b49a4ac60701cfb3fcf8393ea6/vUZxcnEOH-DU/vw=1280,vh=720,fps=24.00,vbrt=799325,abrt=129383,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=1
+#EXTINF:0 type="video" channelId="-1" group-title="Anime" logo="https://i.scdn.co/image/ab67616d0000b273b88b4c8e59c780fa3a65de57" background="purple", CHAİNSAWMAN MAN 1S 4B
+https://cdn.dzen.ru/vod/converted-video/vod-content/31/10/43/26/52/81/56/27/45/4/2a92eb44-682a-4ea9-8ca7-1ee4491bef3e/kaltura/desc_66ee274702361945b72ee8bf44e244d1/v6fIxPqOj8lk/vw=1280,vh=720,fps=24.00,vbrt=744522,abrt=129383,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Anime" logo="https://i.scdn.co/image/ab67616d0000b273b88b4c8e59c780fa3a65de57" background="purple", CHAİNSAWMAN MAN 1S 5B
+https://cdn.dzen.ru/vod/converted-video/vod-content/29/24/90/85/60/38/63/55/54/1/e2467c57-a143-44b8-8165-e63a3b2913f8/kaltura/desc_3b859bc33f0c96106efbd967dd705830/vjqQcCCU2gjU/vw=1280,vh=720,fps=24.00,vbrt=736936,abrt=129383,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Anime" logo="https://i.scdn.co/image/ab67616d0000b273b88b4c8e59c780fa3a65de57" background="purple", CHAİNSAWMAN MAN 1S 6B
+https://cdn.dzen.ru/vod/converted-video/vod-content/45/11/27/54/20/10/03/96/80/d3bd3e31-9f76-4461-a2c4-c96aff5955f5/kaltura/desc_a43462afd3fe4cb2d888fd92add251c7/vLhKBwnDofiU/vw=1280,vh=720,fps=24.00,vbrt=733619,abrt=129383,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=2
+#EXTINF:0 type="video" channelId="-1" group-title="Anime" logo="https://i.scdn.co/image/ab67616d0000b273b88b4c8e59c780fa3a65de57" background="purple", CHAİNSAWMAN MAN 1S 7B
+https://cdn.dzen.ru/vod/converted-video/vod-content/79/62/78/52/04/19/41/72/82/8/0ecfce67-e61b-40d1-8fd0-e809a58306e7/kaltura/desc_816b84049e5b18a5221d9ea209fd6bdc/vzwoxDxAq1Rc/vw=1280,vh=720,fps=24.00,vbrt=680692,abrt=129383,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=2
+#EXTINF:0 type="video" channelId="-1" group-title="Anime" logo="https://i.scdn.co/image/ab67616d0000b273b88b4c8e59c780fa3a65de57" background="purple", CHAİNSAWMAN MAN 1S 8B
+https://cdn.dzen.ru/vod/converted-video/vod-content/24/98/84/71/13/25/54/00/96/5/7328956e-2d12-47f1-80eb-09908d9831c4/kaltura/desc_80d28d358ea6805342a848b0cb55dd38/vzlZ5jM4aPwg/vw=1280,vh=720,fps=24.00,vbrt=591273,abrt=129383,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Anime" logo="https://i.scdn.co/image/ab67616d0000b273b88b4c8e59c780fa3a65de57" background="purple", CHAİNSAWMAN MAN 1S 9B
+https://cdn.dzen.ru/vod/converted-video/vod-content/90/96/30/48/33/58/24/37/86/7/79f82080-e82c-4a62-9e40-47ff0f4bad2d/kaltura/desc_aa994f344bff7efd76bc9f04f4b34ee8/vMqLOabXys2w/vw=1280,vh=720,fps=24.00,vbrt=707308,abrt=129383,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=2
+#EXTINF:0 type="video" channelId="-1" group-title="Anime" logo="https://i.scdn.co/image/ab67616d0000b273b88b4c8e59c780fa3a65de57" background="purple", CHAİNSAWMAN MAN 1S 10B
+https://cdn.dzen.ru/vod/converted-video/vod-content/55/93/69/39/63/77/78/86/11/9/f0dba100-b61d-4559-a96e-665c8645b9c8/kaltura/desc_4d4dfbce7c8e22d342963379a28687ff/vY6blmkkmChc/vw=1280,vh=720,fps=24.00,vbrt=740723,abrt=129382,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=1
+#EXTINF:0 type="video" channelId="-1" group-title="Anime" logo="https://i.scdn.co/image/ab67616d0000b273b88b4c8e59c780fa3a65de57" background="purple", CHAİNSAWMAN MAN 1S 11B
+https://cdn.dzen.ru/vod/converted-video/vod-content/88/64/72/10/32/55/88/29/1/f1c6a5d4-8054-45dd-91ea-1288355938b9/kaltura/desc_5871fd018b7ff50671cc9184e4bd8911/vXAhxZtz1w3I/vw=1280,vh=720,fps=24.00,vbrt=662447,abrt=129383,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=3
+#EXTINF:0 type="video" channelId="-1" group-title="Anime" logo="https://i.scdn.co/image/ab67616d0000b273b88b4c8e59c780fa3a65de57" background="purple", CHAİNSAWMAN MAN 1S 12B
+https://cdn.dzen.ru/vod/converted-video/vod-content/47/09/38/40/55/63/91/79/75/4/796dc053-ee28-4f86-a0af-70d7cd7dd0a9/kaltura/desc_60196800f2be6a2e4a4258eb5092ca16/vY2n_ZhBa-yo/vw=1280,vh=720,fps=24.00,vbrt=697653,abrt=129383,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=1
 
 
 
