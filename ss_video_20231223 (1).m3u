@@ -6,16 +6,14 @@ https://vod02.cdn.web.tv/n4/bs/n4bsn3kkcxs_,240,360,480,720,.mp4.urlset/playlist
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/768px-Instagram_icon.png" background="purple", @judextvoffical
 https://vod02.cdn.web.tv/n4/bs/n4bsn3kkcxs_,240,360,480,720,.mp4.urlset/playlist-f4-v1-a1.m3u8?st=rYtz-9S2YEUqViK4drqt7w&e=1734982934
 
+#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/The_CW_2024.svg/1200px-The_CW_2024.svg.png" background="purple", THE CW
+https://storage.diziyou.live/episodes/60901_tr/720p.m3u8
 
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Warner_Bros._logo_2023.svg/1011px-Warner_Bros._logo_2023.svg.png" background="purple", WARNER BROS
 https://storage.diziyou.live/episodes/10151_tr/720p.m3u8
 
 #EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/DC_Comics_logo.svg/800px-DC_Comics_logo.svg.png" background="purple", DC
 https://storage.diziyou.live/episodes/78301_tr/720p.m3u8
-
-
-#EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/The_CW_2024.svg/1200px-The_CW_2024.svg.png" background="purple", THE CW
-https://storage.diziyou.live/episodes/60901_tr/720p.m3u8
 
 
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Amazon_Prime_Video_logo.svg/1024px-Amazon_Prime_Video_logo.svg.png" background="purple", PRİME VİDEO
