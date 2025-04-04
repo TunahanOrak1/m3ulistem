@@ -23,13 +23,15 @@ https://storage.diziyou5.com/episodes/95001_tr/720p.m3u8
 https://storage.diziyou5.com/episodes/11502_tr/720p.m3u8
 
 #EXTINF:0 type="video" channelId="-1" group-title="Anime" logo="https://cdn.bynogame.com/games/1723584932100.webp" background="purple", CRUNCHYROLL ANİMELERİ
-https://cdn.dzen.ru/vod/converted-video/vod-content/50/96/14/35/36/68/98/39/65/4/88deec2b-4a48-425b-82ed-fe2a587bcc19/kaltura/desc_04e32b6e98016c75f39a857d9dae63e4/vGUa0wFArbEM/vw=1280,vh=720,fps=24.00,vbrt=1014043,abrt=129383,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=1
+https://pixeldrain.com/api/file/pHMNbPJ3
 
-#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://static1.cbrimages.com/wordpress/wp-content/uploads/2024/02/cyclops-on-x-men-97.jpg" background="blue", (YENİ) X-MEN 97 1S 1B  
-https://storage.diziyou5.com/episodes/91701_tr/720p.m3u8 
 
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://s1.abcstatics.com/media/play/2020/02/13/poster-westworld-3-kUgC-U402554581076NF-620x620@abc.jpg" background="purple", (YENİ) WESTWORLD 1S 1B  
 https://storage.diziyou5.com/episodes/40601_tr/720p.m3u8  
+
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://image.tmdb.org/t/p/original/7mPhGyN4NmHzAFGEuOMtBM2lqI3.jpg" background="purple", (YENİ) ONE PİECE  1S 1B 
+https://pixeldrain.com/api/file/pHMNbPJ3
+
 
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://ntvb.tmsimg.com/assets/p18078200_b_h8_ae.jpg?w=1280&h=720" background="purple", THE 100 1S 1B
 https://storage.diziyou5.com/episodes/60901_tr/720p.m3u8
@@ -79,6 +81,9 @@ https://storage.diziyou5.com/episodes/28601_tr/720p.m3u8
 
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://m.media-amazon.com/images/S/pv-target-images/042632ba44e82bbd73138049192424046a4b8d59be5875a977c58e02982e9403.jpg" background="purple", HOW İ MET YOUR MOTHER 1S 1B
 https://storage.diziyou5.com/episodes/10901_tr/720p.m3u8
+
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://static1.cbrimages.com/wordpress/wp-content/uploads/2024/02/cyclops-on-x-men-97.jpg" background="blue",  X-MEN 97 1S 1B  
+https://storage.diziyou5.com/episodes/91701_tr/720p.m3u8 
 
 
 #EXTINF:0 type="video" channelId="-1" group-title="Diziler" logo="https://m.media-amazon.com/images/S/pv-target-images/0f0d26f9977cf134edc21d335b5808698b18050d5d48a506cf134e9049f55a72.jpg" background="purple", THE EXPANSE 1S 1B  
@@ -3060,15 +3065,6 @@ https://storage.diziyou5.com/episodes/78301_tr/720p.m3u8
 https://storage.diziyou5.com/episodes/80301_tr/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://wallpapers.com/images/hd/fierce-look-of-supergirl-p4qjm4modfdugujs.jpg" background="purple", SUPERGİRL 1S 1B
 https://storage.diziyou5.com/episodes/78801_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://i.pinimg.com/736x/ca/1c/a1/ca1ca12230bca090ec3a34f4b4a33b03.jpg" background="purple", SUİCİDE SQUAD İSEKAİ 1S 1B
-https://cdn.dzen.ru/vod/converted-video/vod-content/15/77/58/38/91/40/54/50/45/3/bc78316d-8361-4b66-90e5-1463c5f0699e/kaltura/desc_cfa3a97b34a6100d89cc5334ead5700f/v3kUku7P_5hk/vw=1280,vh=720,fps=24.00,vbrt=908246,abrt=129508,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://static1.cbrimages.com/wordpress/wp-content/uploads/2024/10/justice-league-unlimited-header.jpg" background="purple", JUSTİCE LEAGUE UNLİMİTED 1S 1B 
-https://cdn.dzen.ru/vod/converted-video/vod-content/18/49/00/58/65/60/67/36/42/2/44903a85-05a6-4e61-b2c3-131eac2007fd/kaltura/desc_6a8a7ce38da2683e1332d497afe9c078/vfcf8kmRfrhM/vw=1280,vh=720,fps=25.00,vbrt=870011,abrt=129384,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=3
-#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://static1.cbrimages.com/wordpress/wp-content/uploads/2024/08/scarecrow-and-joker-in-the-new-batman-adventures.jpg" background="purple", YENİ BATMAN MACERALARI (1997) 1S 1B
-https://cdn.dzen.ru/vod/converted-video/vod-content/41/21/04/71/99/17/60/68/67/7/b49e6dc7-df63-4260-b3cb-80671cf5409f/kaltura/desc_b2fe4c3921c8c5e9f2761388f1e029c8/v3Y9iJMAMjXM/vw=958,vh=720,fps=24.00,vbrt=547147,abrt=130934,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f5-v1-a1.m3u8
-
-#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://i.ytimg.com/vi/PimtFEfpzr0/maxresdefault.jpg" background="purple", BATMAN CESUR VE GÖZÜPEK (2008) 1S 1B
-https://cdn.dzen.ru/vod/converted-video/vod-content/62/12/93/86/02/15/52/32/63/7/28d44fcb-4247-4df6-a221-89a1bd2381d1/kaltura/desc_229f3cd7a97a02d9b3c2a499e9d062d8/vo-XwJxMmXX8/vw=1280,vh=720,fps=24.00,vbrt=851125,abrt=129389,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
 
 #EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2024/07/batman-caped-crusader-logo-over-the-poster-for-the-show.jpg" background="purple", BATMAN CAPED CRUSADER  (2024) 1S 1B 
 https://storage.diziyou5.com/episodes/99901_tr/720p.m3u8
@@ -3258,206 +3254,6 @@ https://lh3.googleusercontent.com/_eBEr8lH2iAXLPW_ha7eiZLJ8BKY8RubDNtV8XAQ0ycG8y
 https://lh3.googleusercontent.com/gQ7wyZ5kYCXfwHRFEeKmY2X8KzwH0UlCqMjFHJOefxcL0XcguJM3JfniTjHEr0Nghvnc4K03svD6r_mNkoYT9H0gcKNATyJkwc51UPfCv0Uo-TosCERq-UiIyH_9WxxiEdLhA6ERcA=m22
 
 
-#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://i.pinimg.com/736x/ca/1c/a1/ca1ca12230bca090ec3a34f4b4a33b03.jpg" background="purple", SUİCİDE SQUAD İSEKAİ 1S 2B
-https://cdn.dzen.ru/vod/converted-video/vod-content/57/77/51/23/63/60/17/98/12/9/94c5dee3-df89-4810-9102-b538860fcb4e/kaltura/desc_8a8ee4224e8bab9a12ac2fe68db40839/vQ8WLJZcwq28/vw=1280,vh=720,fps=24.00,vbrt=718071,abrt=129508,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://i.pinimg.com/736x/ca/1c/a1/ca1ca12230bca090ec3a34f4b4a33b03.jpg" background="purple", SUİCİDE SQUAD İSEKAİ 1S 3B
-https://cdn.dzen.ru/vod/converted-video/vod-content/29/61/92/11/23/09/47/34/43/3/2614d1cf-cfa5-408b-b236-b62ebb3e67e3/kaltura/desc_316196457397b5e753aa479cb86e606e/vI3gdW6Ys-ik/vw=1280,vh=720,fps=24.00,vbrt=834363,abrt=129507,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://i.pinimg.com/736x/ca/1c/a1/ca1ca12230bca090ec3a34f4b4a33b03.jpg" background="purple", SUİCİDE SQUAD İSEKAİ 1S 4B
-https://cdn.dzen.ru/vod/converted-video/vod-content/26/75/82/78/55/08/18/43/27/9/0ceb62ed-e76e-4c77-85e8-c8f88b3caff0/kaltura/desc_75d5d5cff9f805b385925ed1aab7ed5f/vn5QckwF7r1w/vw=1280,vh=720,fps=24.00,vbrt=685856,abrt=129508,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://i.pinimg.com/736x/ca/1c/a1/ca1ca12230bca090ec3a34f4b4a33b03.jpg" background="purple", SUİCİDE SQUAD İSEKAİ 1S 5B
-https://cdn.dzen.ru/vod/converted-video/vod-content/40/46/29/77/93/35/98/35/46/6/7aec0c27-04e3-479d-b89f-2a94c2e5a1e1/kaltura/desc_669aa949843758bca97a9d3397228f39/vCutk4Z6tDic/vw=1280,vh=720,fps=24.00,vbrt=807320,abrt=129508,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=1
-#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://i.pinimg.com/736x/ca/1c/a1/ca1ca12230bca090ec3a34f4b4a33b03.jpg" background="purple", SUİCİDE SQUAD İSEKAİ 1S 6B
-https://cdn.dzen.ru/vod/converted-video/vod-content/79/14/89/94/65/18/50/25/65/4/145bd9b3-a7d0-40f5-8c91-434cb7ce248f/kaltura/desc_15d563615ecb70be39b8809e634c7fbd/v2PTkAfGSwzE/vw=1280,vh=720,fps=24.00,vbrt=676549,abrt=129508,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://i.pinimg.com/736x/ca/1c/a1/ca1ca12230bca090ec3a34f4b4a33b03.jpg" background="purple", SUİCİDE SQUAD İSEKAİ 1S 7B
-https://cdn.dzen.ru/vod/converted-video/vod-content/62/90/79/18/27/01/88/55/72/8/b19f9238-e47b-4391-9e32-f36fabaed1e5/kaltura/desc_ee41c3948d366eecfce44c801cf2b6e9/vNGxHNcPK3mk/vw=1280,vh=720,fps=24.00,vbrt=842078,abrt=129507,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://i.pinimg.com/736x/ca/1c/a1/ca1ca12230bca090ec3a34f4b4a33b03.jpg" background="purple", SUİCİDE SQUAD İSEKAİ 1S 8B
-https://cdn.dzen.ru/vod/converted-video/vod-content/72/02/72/24/78/27/01/51/34/702b09af-a30d-41c6-bab4-d911382267b6/kaltura/desc_ceb2f60b69dc97eaa354aa3811e61ff1/vOaUi6n1vTks/vw=1280,vh=720,fps=24.00,vbrt=658840,abrt=129507,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=3
-#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://i.pinimg.com/736x/ca/1c/a1/ca1ca12230bca090ec3a34f4b4a33b03.jpg" background="purple", SUİCİDE SQUAD İSEKAİ 1S 9B
-https://cdn.dzen.ru/vod/converted-video/vod-content/69/01/70/51/61/40/84/95/86/7/63a4f05e-b229-49c7-bfac-f9468211c929/kaltura/desc_6567d7a5b7306e9b0031eb559e94010b/v6r4-YlDiiAY/vw=1280,vh=720,fps=24.00,vbrt=767171,abrt=129507,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://i.pinimg.com/736x/ca/1c/a1/ca1ca12230bca090ec3a34f4b4a33b03.jpg" background="purple", SUİCİDE SQUAD İSEKAİ 1S 10B
-https://cdn.dzen.ru/vod/converted-video/vod-content/17/55/39/68/12/27/99/05/38/5/951c251d-9d2b-4909-9286-1599f875d990/kaltura/desc_26d5a3c47a369e524b8cd0fca95c2ef3/vvY1buwVbe2I/vw=1280,vh=720,fps=24.00,vbrt=899172,abrt=129508,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
-
-
-#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://static1.cbrimages.com/wordpress/wp-content/uploads/2024/08/scarecrow-and-joker-in-the-new-batman-adventures.jpg" background="purple", YENİ BATMAN MACERALARI (1997) 1S 2B
-https://cdn.dzen.ru/vod/converted-video/vod-content/38/12/10/00/76/24/32/54/47/3/4bfb7720-40a0-4f3a-9136-df168db2815d/kaltura/desc_128627634499e8ef6014ff7568c36dfa/vyiLXW1OtDGk/vw=958,vh=720,fps=24.00,vbrt=513068,abrt=130933,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f5-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://static1.cbrimages.com/wordpress/wp-content/uploads/2024/08/scarecrow-and-joker-in-the-new-batman-adventures.jpg" background="purple", YENİ BATMAN MACERALARI (1997) 1S 3B
-https://cdn.dzen.ru/vod/converted-video/vod-content/26/37/82/86/18/75/95/23/3/040af11d-5104-4071-98ab-7fd046cf78f8/kaltura/desc_9a097a807c91732e1bb09e44a61768a5/v9vu7NXA0HlE/vw=958,vh=720,fps=24.00,vbrt=583631,abrt=130933,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f5-v1-a1.m3u8?redundant=3
-#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://static1.cbrimages.com/wordpress/wp-content/uploads/2024/08/scarecrow-and-joker-in-the-new-batman-adventures.jpg" background="purple", YENİ BATMAN MACERALARI (1997) 1S 4B
-https://cdn.dzen.ru/vod/converted-video/vod-content/81/34/40/03/10/50/65/53/87/9/7b491c30-3e7f-47ad-bc58-01ed4b5e4edc/kaltura/desc_5c3daac0511efcf0070aedf63f13c82f/vyzlXhg481Xc/vw=958,vh=720,fps=24.00,vbrt=453244,abrt=130935,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f5-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://static1.cbrimages.com/wordpress/wp-content/uploads/2024/08/scarecrow-and-joker-in-the-new-batman-adventures.jpg" background="purple", YENİ BATMAN MACERALARI (1997) 1S 5B
-https://cdn.dzen.ru/vod/converted-video/vod-content/42/91/67/70/38/25/76/63/72/4/b1192e5c-85ef-41d0-b1c7-4a61559df8a5/kaltura/desc_deedad752d70c81bf699f9a828dcc5db/veOctQ5fRix0/vw=958,vh=720,fps=24.00,vbrt=380441,abrt=130935,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f5-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://static1.cbrimages.com/wordpress/wp-content/uploads/2024/08/scarecrow-and-joker-in-the-new-batman-adventures.jpg" background="purple", YENİ BATMAN MACERALARI (1997) 1S 6B
-https://cdn.dzen.ru/vod/converted-video/vod-content/22/15/21/23/34/38/04/93/45/6/26932dac-96ef-49fc-ad46-94ca63c462cc/kaltura/desc_2abf987bafb6a699a7e6c59f31eeb7ad/vbXJSQzNgR0s/vw=958,vh=720,fps=24.00,vbrt=501725,abrt=130935,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f5-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://static1.cbrimages.com/wordpress/wp-content/uploads/2024/08/scarecrow-and-joker-in-the-new-batman-adventures.jpg" background="purple", YENİ BATMAN MACERALARI (1997) 1S 7B
-https://cdn.dzen.ru/vod/converted-video/vod-content/67/67/04/63/57/41/91/62/21/7/db902c67-660e-412a-b7b0-71b116f82740/kaltura/desc_62ea4a24958deed43f82bc163f6ccd4a/vQeDe6O2h3n4/vw=958,vh=720,fps=24.00,vbrt=638146,abrt=130933,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f5-v1-a1.m3u8?redundant=1
-#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://static1.cbrimages.com/wordpress/wp-content/uploads/2024/08/scarecrow-and-joker-in-the-new-batman-adventures.jpg" background="purple", YENİ BATMAN MACERALARI (1997) 1S 8B
-https://cdn.dzen.ru/vod/converted-video/vod-content/87/20/57/73/61/62/03/14/10/7/5d324d7b-06ad-45bd-b06d-c8dce1401771/kaltura/desc_514e7b186cc968f992919e24d94d26cd/v8vh5_9BlsAA/vw=958,vh=720,fps=24.00,vbrt=520897,abrt=130932,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f5-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://static1.cbrimages.com/wordpress/wp-content/uploads/2024/08/scarecrow-and-joker-in-the-new-batman-adventures.jpg" background="purple", YENİ BATMAN MACERALARI (1997) 1S 9B
-https://cdn.dzen.ru/vod/converted-video/vod-content/83/40/67/16/87/80/47/78/84/8/44bca9e9-18b7-4fc2-a1d2-246ba75b4cce/kaltura/desc_245a790de66690a853ade1ddcb3056ad/vlfS_5NorWEE/vw=958,vh=720,fps=24.00,vbrt=505373,abrt=130933,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f5-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://static1.cbrimages.com/wordpress/wp-content/uploads/2024/08/scarecrow-and-joker-in-the-new-batman-adventures.jpg" background="purple", YENİ BATMAN MACERALARI (1997) 1S 10B
-https://cdn.dzen.ru/vod/converted-video/vod-content/71/68/66/62/00/20/54/73/99/2/abc41153-9a70-40b6-a7ef-b217f2db8964/kaltura/desc_68f7f99f434087538452b9d13daf30ff/vTaAKkbwYkwg/vw=958,vh=720,fps=24.00,vbrt=515642,abrt=130933,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f5-v1-a1.m3u8?redundant=3
-#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://static1.cbrimages.com/wordpress/wp-content/uploads/2024/08/scarecrow-and-joker-in-the-new-batman-adventures.jpg" background="purple", YENİ BATMAN MACERALARI (1997) 1S 11B
-https://cdn.dzen.ru/vod/converted-video/vod-content/53/01/53/86/17/69/84/99/97/2/3b360fe6-fa4f-4395-a24a-03684a4fc0af/kaltura/desc_b9ed0b27afdbf40a5b65ceec54c5b049/vveWncc_6m0o/vw=958,vh=720,fps=24.00,vbrt=510799,abrt=130933,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f5-v1-a1.m3u8?redundant=1
-#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://static1.cbrimages.com/wordpress/wp-content/uploads/2024/08/scarecrow-and-joker-in-the-new-batman-adventures.jpg" background="purple", YENİ BATMAN MACERALARI (1997) 1S 12B
-https://cdn.dzen.ru/vod/converted-video/vod-content/95/04/81/19/65/33/71/51/87/c7de1a2a-3dcf-4708-bcf9-7ec8f08ee05e/kaltura/desc_5a8768df08111c33d60bc9941a3e3a7d/vmcayWlblnHA/vw=958,vh=720,fps=24.00,vbrt=613874,abrt=130936,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f5-v1-a1.m3u8?redundant=3
-#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://static1.cbrimages.com/wordpress/wp-content/uploads/2024/08/scarecrow-and-joker-in-the-new-batman-adventures.jpg" background="purple", YENİ BATMAN MACERALARI (1997) 1S 13B
-https://cdn.dzen.ru/vod/converted-video/vod-content/36/83/18/25/46/83/18/95/52/0/bf624523-9202-4cc2-82ce-09fc12c19afa/kaltura/desc_477bbcdb7178b011c3221d0a1abd56a7/vhFi407GolTs/vw=958,vh=720,fps=24.00,vbrt=582890,abrt=130936,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f5-v1-a1.m3u8?redundant=3
-
-#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://static1.cbrimages.com/wordpress/wp-content/uploads/2024/08/scarecrow-and-joker-in-the-new-batman-adventures.jpg" background="purple", YENİ BATMAN MACERALARI (1997) 2S 1B
-https://cdn.dzen.ru/vod/converted-video/vod-content/43/54/68/10/89/26/90/38/37/9/f79a5616-57be-4d5d-8fde-8588f2ea9d8e/kaltura/desc_fec14e9d2b8d155b4b89cb1f4243a9d0/vHpwBzuzNnUs/vw=958,vh=720,fps=24.00,vbrt=583066,abrt=130934,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f5-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://static1.cbrimages.com/wordpress/wp-content/uploads/2024/08/scarecrow-and-joker-in-the-new-batman-adventures.jpg" background="purple", YENİ BATMAN MACERALARI (1997) 2S 2B
-https://cdn.dzen.ru/vod/converted-video/vod-content/62/53/71/87/34/09/38/22/96/2/93a34df5-855e-4be5-ba10-e5a2abaf1aef/kaltura/desc_5443434bcc6c853a9414eb6d6512425e/vRojpNVE2cDI/vw=958,vh=720,fps=24.00,vbrt=591207,abrt=130937,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f5-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://static1.cbrimages.com/wordpress/wp-content/uploads/2024/08/scarecrow-and-joker-in-the-new-batman-adventures.jpg" background="purple", YENİ BATMAN MACERALARI (1997) 2S 3B
-https://cdn.dzen.ru/vod/converted-video/vod-content/58/59/96/49/40/92/17/36/75/1/559dfb5e-3d21-41ac-a347-d6892a35ffe6/kaltura/desc_ce10284e8757ba86aa5ab1a5f93504de/v1xWMDh_2IwA/vw=958,vh=720,fps=24.00,vbrt=473562,abrt=130934,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f5-v1-a1.m3u8?redundant=2
-#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://static1.cbrimages.com/wordpress/wp-content/uploads/2024/08/scarecrow-and-joker-in-the-new-batman-adventures.jpg" background="purple", YENİ BATMAN MACERALARI (1997) 2S 4B
-https://cdn.dzen.ru/vod/converted-video/vod-content/53/92/83/83/39/58/99/12/91/5/e8269d52-d4da-4d18-9fca-e4e49a6060ca/kaltura/desc_0864f372ce23a81a573ed9f9d6ae7067/vubdsYFsMy24/vw=958,vh=720,fps=24.00,vbrt=485242,abrt=130936,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f5-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://static1.cbrimages.com/wordpress/wp-content/uploads/2024/08/scarecrow-and-joker-in-the-new-batman-adventures.jpg" background="purple", YENİ BATMAN MACERALARI (1997) 2S 5B
-https://cdn.dzen.ru/vod/converted-video/vod-content/57/66/51/65/25/66/31/65/32/6/93a51bd2-2c29-4836-9d69-0f448a95a0a3/kaltura/desc_3e11b01a82adc9a2d90d131fdf697aef/vDw7ym61ZAwk/vw=958,vh=720,fps=24.00,vbrt=436974,abrt=130932,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f5-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://static1.cbrimages.com/wordpress/wp-content/uploads/2024/08/scarecrow-and-joker-in-the-new-batman-adventures.jpg" background="purple", YENİ BATMAN MACERALARI (1997) 2S 6B
-https://cdn.dzen.ru/vod/converted-video/vod-content/72/66/58/73/01/63/38/39/59/3/8b0fa7fd-a41c-4423-916c-fbc95e92a021/kaltura/desc_44347db47103e9e1f351446b9e7c2266/vyOqJHjU-SHk/vw=958,vh=720,fps=24.00,vbrt=513908,abrt=130935,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f5-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://static1.cbrimages.com/wordpress/wp-content/uploads/2024/08/scarecrow-and-joker-in-the-new-batman-adventures.jpg" background="purple", YENİ BATMAN MACERALARI (1997) 2S 7B
-https://cdn.dzen.ru/vod/converted-video/vod-content/84/49/36/28/63/57/88/02/56/0/259ca3e7-5867-43b0-9c25-01fb2f46dd24/kaltura/desc_967342b39fef02af28cdd05e109c4586/vzymaJ7x7zQA/vw=958,vh=720,fps=24.00,vbrt=608261,abrt=130934,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f5-v1-a1.m3u8?redundant=1
-#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://static1.cbrimages.com/wordpress/wp-content/uploads/2024/08/scarecrow-and-joker-in-the-new-batman-adventures.jpg" background="purple", YENİ BATMAN MACERALARI (1997) 2S 8B
-https://cdn.dzen.ru/vod/converted-video/vod-content/15/62/75/37/79/09/42/29/00/7/e648a23d-37ed-4faf-8585-29a5a665ce81/kaltura/desc_785c1c0d79c655d451c11473a43cc9a3/vbbxu4zb21S8/vw=958,vh=720,fps=24.00,vbrt=573852,abrt=130933,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f5-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://static1.cbrimages.com/wordpress/wp-content/uploads/2024/08/scarecrow-and-joker-in-the-new-batman-adventures.jpg" background="purple", YENİ BATMAN MACERALARI (1997) 2S 9B
-https://cdn.dzen.ru/vod/converted-video/vod-content/69/07/67/02/97/52/47/13/41/7/740a9318-fb19-42f2-ba96-50fdb62097b6/kaltura/desc_d578fc3b8ad6fdb2069e580454f5a34c/v_uY1HbX69G8/vw=958,vh=720,fps=24.00,vbrt=440588,abrt=130933,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f5-v1-a1.m3u8?redundant=1
-#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://static1.cbrimages.com/wordpress/wp-content/uploads/2024/08/scarecrow-and-joker-in-the-new-batman-adventures.jpg" background="purple", YENİ BATMAN MACERALARI (1997) 2S 10B
-https://cdn.dzen.ru/vod/converted-video/vod-content/40/98/12/28/41/07/90/54/23/5/f666c8ee-2769-46ae-8c3d-25a2d7152593/kaltura/desc_f4999b9130b31b3497316b5001ac28fb/vge5aXoNR9ks/vw=958,vh=720,fps=24.00,vbrt=598050,abrt=130934,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f5-v1-a1.m3u8?redundant=2
-#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://static1.cbrimages.com/wordpress/wp-content/uploads/2024/08/scarecrow-and-joker-in-the-new-batman-adventures.jpg" background="purple", YENİ BATMAN MACERALARI (1997) 2S 11B
-https://cdn.dzen.ru/vod/converted-video/vod-content/83/61/47/15/25/87/80/88/01/6/6d2cf1cf-fd20-4565-9d1a-f89d1ce7d775/kaltura/desc_803841203ab6574394b125bb19c7254e/vIX8pJtPqPBM/vw=958,vh=720,fps=24.00,vbrt=547333,abrt=130934,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f5-v1-a1.m3u8
-
-
-
-#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://i.ytimg.com/vi/PimtFEfpzr0/maxresdefault.jpg" background="purple", BATMAN CESUR VE GÖZÜPEK (2008) 1S 2B
-https://cdn.dzen.ru/vod/converted-video/vod-content/75/69/40/96/07/30/16/66/69/7/1eb535b3-0d31-4100-ab86-20ce2c865ba0/kaltura/desc_012b4ccf85e4715b17c5a928b0f1b715/vcmvfzE7YOkQ/vw=1280,vh=720,fps=24.00,vbrt=1056958,abrt=129390,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://i.ytimg.com/vi/PimtFEfpzr0/maxresdefault.jpg" background="purple", BATMAN CESUR VE GÖZÜPEK (2008) 1S 3B
-https://cdn.dzen.ru/vod/converted-video/vod-content/17/63/13/51/04/55/07/46/06/533c4f0d-022c-4f5f-901b-6572465f4c9b/kaltura/desc_d1f23c18ea4b2f3fbb34891faa636b90/vol6j3DedJ20/vw=1280,vh=720,fps=24.00,vbrt=807859,abrt=129390,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://i.ytimg.com/vi/PimtFEfpzr0/maxresdefault.jpg" background="purple", BATMAN CESUR VE GÖZÜPEK (2008) 1S 4B
-https://cdn.dzen.ru/vod/converted-video/vod-content/66/15/43/29/93/78/71/10/77/6/74d9d06b-538d-4a78-8a3a-74633eced42c/kaltura/desc_0d40e2d98dfa602a811de1442bcf2917/v71wEhcwvRVw/vw=1280,vh=720,fps=24.00,vbrt=1015116,abrt=129390,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://i.ytimg.com/vi/PimtFEfpzr0/maxresdefault.jpg" background="purple", BATMAN CESUR VE GÖZÜPEK (2008) 1S 5B
-https://cdn.dzen.ru/vod/converted-video/vod-content/10/15/17/79/72/20/86/56/21/7/5dec8864-8ce8-4ee3-94a2-63525694a217/kaltura/desc_cfddbb106c2424e27f9502c6789fdc67/veyq9BiwRgg8/vw=1280,vh=720,fps=24.00,vbrt=919042,abrt=129390,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://i.ytimg.com/vi/PimtFEfpzr0/maxresdefault.jpg" background="purple", BATMAN CESUR VE GÖZÜPEK (2008) 1S 6B
-https://cdn.dzen.ru/vod/converted-video/vod-content/51/97/56/45/17/48/41/51/22/7/5cfce319-165d-40ab-8a6a-f944573fc839/kaltura/desc_429252184536da9e19c6aa0ac6d44669/vYIi3LWJ3tAQ/vw=1280,vh=720,fps=24.00,vbrt=992133,abrt=129390,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=2
-#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://i.ytimg.com/vi/PimtFEfpzr0/maxresdefault.jpg" background="purple", BATMAN CESUR VE GÖZÜPEK (2008) 1S 7B
-https://cdn.dzen.ru/vod/converted-video/vod-content/69/37/06/08/15/71/97/59/88/2/8340e833-0574-4cf2-b5bc-1736850b0b02/kaltura/desc_ffba9de0930527fa082fc6d250e445d2/v7OlTTNvSUAU/vw=1280,vh=720,fps=24.00,vbrt=753311,abrt=129390,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=1
-#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://i.ytimg.com/vi/PimtFEfpzr0/maxresdefault.jpg" background="purple", BATMAN CESUR VE GÖZÜPEK (2008) 1S 8B
-https://cdn.dzen.ru/vod/converted-video/vod-content/71/32/15/78/19/10/92/81/48/4/4b2aac92-ff5e-41ff-8a56-aef3d8648596/kaltura/desc_078eafcce185add442251e7057366dd7/vQjQ1RRkL1B8/vw=1280,vh=720,fps=24.00,vbrt=890599,abrt=129389,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=1
-#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://i.ytimg.com/vi/PimtFEfpzr0/maxresdefault.jpg" background="purple", BATMAN CESUR VE GÖZÜPEK (2008) 1S 9B
-https://cdn.dzen.ru/vod/converted-video/vod-content/86/44/63/72/09/70/67/96/95/4/ebf90f6a-7438-440c-8c32-90aae9fa770f/kaltura/desc_5c5cedb38210eb326292f65be13bb464/voEqAmdrmoEA/vw=1280,vh=720,fps=24.00,vbrt=891811,abrt=129390,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=3
-#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://i.ytimg.com/vi/PimtFEfpzr0/maxresdefault.jpg" background="purple", BATMAN CESUR VE GÖZÜPEK (2008) 1S 10B
-https://cdn.dzen.ru/vod/converted-video/vod-content/24/74/62/07/14/41/44/90/59/9/795b6fdb-b7af-4f7b-88c4-517b7590c3e8/kaltura/desc_1648424569a35948f866785c2ccd6777/v8lB-lQlH7iU/vw=1280,vh=720,fps=24.00,vbrt=933309,abrt=129390,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=1
-#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://i.ytimg.com/vi/PimtFEfpzr0/maxresdefault.jpg" background="purple", BATMAN CESUR VE GÖZÜPEK (2008) 1S 11B
-https://cdn.dzen.ru/vod/converted-video/vod-content/18/21/13/03/86/75/05/26/20/4/8c21bd1d-5d8d-405f-8a7e-664545cf9f9f/kaltura/desc_7b13797bbf93c1cd468ac2edf9ff15cd/v9wiOw8c94yY/vw=1280,vh=720,fps=24.00,vbrt=807261,abrt=129390,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=3
-#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://i.ytimg.com/vi/PimtFEfpzr0/maxresdefault.jpg" background="purple", BATMAN CESUR VE GÖZÜPEK (2008) 1S 12B
-https://cdn.dzen.ru/vod/converted-video/vod-content/23/45/69/61/25/80/12/87/90/1/eb96456d-ffe7-45fa-b63e-415743ec5302/kaltura/desc_42c57eab33ddfbe1ca1be20fb537417d/vHvH_WU34RB8/vw=1280,vh=720,fps=24.00,vbrt=720794,abrt=129390,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=1
-#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://i.ytimg.com/vi/PimtFEfpzr0/maxresdefault.jpg" background="purple", BATMAN CESUR VE GÖZÜPEK (2008) 1S 13B
-https://cdn.dzen.ru/vod/converted-video/vod-content/31/89/30/46/43/76/61/64/95/6/a246e318-7bc7-4fcf-821d-ec953524a18e/kaltura/desc_b4bd6abd853b022cdc39658bcc2f6b37/v8rce1nfiSxc/vw=1280,vh=720,fps=24.00,vbrt=852651,abrt=129390,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://i.ytimg.com/vi/PimtFEfpzr0/maxresdefault.jpg" background="purple", BATMAN CESUR VE GÖZÜPEK (2008) 1S 14B
-https://cdn.dzen.ru/vod/converted-video/vod-content/84/10/68/93/97/94/16/28/60/8/4175511d-dca8-4b87-8ada-9ae831e63d51/kaltura/desc_8c09202926e63c82524049750eb45501/vryX9rxROshY/vw=1280,vh=720,fps=24.00,vbrt=1002478,abrt=129390,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://i.ytimg.com/vi/PimtFEfpzr0/maxresdefault.jpg" background="purple", BATMAN CESUR VE GÖZÜPEK (2008) 1S 15B
-https://cdn.dzen.ru/vod/converted-video/vod-content/89/51/60/33/47/96/54/80/65/7/0a9534ba-5786-4fb0-86c9-342e4c918fd4/kaltura/desc_98a45aafe4790828e111b0c7e42e1c9b/v_b24sR8_iEk/vw=1280,vh=720,fps=24.00,vbrt=716754,abrt=129389,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://i.ytimg.com/vi/PimtFEfpzr0/maxresdefault.jpg" background="purple", BATMAN CESUR VE GÖZÜPEK (2008) 1S 16B
-https://cdn.dzen.ru/vod/converted-video/vod-content/82/04/47/31/34/42/91/82/89/1/fb216c08-991c-42c7-9590-19e4285acaf6/kaltura/desc_6ba6145b89e00aba8819938005733e09/vOPH1bkl8sng/vw=1280,vh=720,fps=24.00,vbrt=835231,abrt=129390,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://i.ytimg.com/vi/PimtFEfpzr0/maxresdefault.jpg" background="purple", BATMAN CESUR VE GÖZÜPEK (2008) 1S 17B
-https://cdn.dzen.ru/vod/converted-video/vod-content/96/60/34/55/48/47/92/27/63/f9826468-1eb0-4a42-95cb-88aba6235c58/kaltura/desc_e02a4947d9a33094093b1440df96b88e/v0Z0OEmasegQ/vw=1280,vh=720,fps=24.00,vbrt=941304,abrt=129390,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=1
-#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://i.ytimg.com/vi/PimtFEfpzr0/maxresdefault.jpg" background="purple", BATMAN CESUR VE GÖZÜPEK (2008) 1S 18B
-https://cdn.dzen.ru/vod/converted-video/vod-content/84/09/21/06/67/08/92/84/55/9/25fc054c-815e-4d2c-9ba1-3df2952058cd/kaltura/desc_7dc697fb00ebc7f69ede79b8393038f2/vQyxasOgyelk/vw=1280,vh=720,fps=24.00,vbrt=1112835,abrt=129390,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://i.ytimg.com/vi/PimtFEfpzr0/maxresdefault.jpg" background="purple", BATMAN CESUR VE GÖZÜPEK (2008) 1S 19B
-https://cdn.dzen.ru/vod/converted-video/vod-content/85/30/40/73/71/88/09/36/73/7/4a116540-ab07-4cec-b64a-979f85d5425f/kaltura/desc_926b04f65084d7a97158752ceb317d84/vlTky6Cgs51M/vw=1280,vh=720,fps=24.00,vbrt=878967,abrt=131477,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://i.ytimg.com/vi/PimtFEfpzr0/maxresdefault.jpg" background="purple", BATMAN CESUR VE GÖZÜPEK (2008) 1S 20B
-https://cdn.dzen.ru/vod/converted-video/vod-content/72/53/08/49/51/54/08/93/84/8/84e75b88-5d88-4ef8-80c0-3c2c440d24a5/kaltura/desc_c1d298c2253bdbf421e34d1513d40b1b/vrHuiZOGBh0U/vw=1280,vh=720,fps=24.00,vbrt=989097,abrt=129390,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=1
-#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://i.ytimg.com/vi/PimtFEfpzr0/maxresdefault.jpg" background="purple", BATMAN CESUR VE GÖZÜPEK (2008) 1S 21B
-https://cdn.dzen.ru/vod/converted-video/vod-content/89/05/38/61/77/43/46/53/00/0/2d008922-14c4-494f-9394-fd42e578fe46/kaltura/desc_300dace54490b48dae1d6af24159d4b9/vM8aTYrC3T3Y/vw=1280,vh=720,fps=24.00,vbrt=768601,abrt=129390,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=1
-#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://i.ytimg.com/vi/PimtFEfpzr0/maxresdefault.jpg" background="purple", BATMAN CESUR VE GÖZÜPEK (2008) 1S 22B
-https://cdn.dzen.ru/vod/converted-video/vod-content/61/52/40/17/53/02/09/02/55/6/290f3bd3-d40c-41ea-99ff-8351987257c1/kaltura/desc_13e0ca19e0e8eaa745e96840d76fabf7/vBsd8ljCi3zk/vw=1280,vh=720,fps=24.00,vbrt=1132312,abrt=129389,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=2
-#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://i.ytimg.com/vi/PimtFEfpzr0/maxresdefault.jpg" background="purple", BATMAN CESUR VE GÖZÜPEK (2008) 1S 23B
-https://cdn.dzen.ru/vod/converted-video/vod-content/81/27/91/33/56/04/84/30/75/4/d9d79fe9-b9ec-4e47-8340-0aa443cefcc3/kaltura/desc_3a9d7c70c3bfb7ec56ce3496438b4c02/vqbtJhOH6EHQ/vw=1280,vh=720,fps=24.00,vbrt=821579,abrt=129389,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=1
-#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://i.ytimg.com/vi/PimtFEfpzr0/maxresdefault.jpg" background="purple", BATMAN CESUR VE GÖZÜPEK (2008) 1S 24B
-https://cdn.dzen.ru/vod/converted-video/vod-content/63/32/83/66/59/45/10/87/82/1/e3148f97-e6d1-4af7-b650-88b96d2b551e/kaltura/desc_4c1c3b4f47690253c656526d55660428/vU-QtOmp_fVQ/vw=1280,vh=720,fps=24.00,vbrt=1243042,abrt=129390,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=1
-#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://i.ytimg.com/vi/PimtFEfpzr0/maxresdefault.jpg" background="purple", BATMAN CESUR VE GÖZÜPEK (2008) 1S 25B
-https://cdn.dzen.ru/vod/converted-video/vod-content/74/19/74/53/07/80/16/44/22/8/6429ba83-260c-46ef-84c4-f3f26ebec022/kaltura/desc_1598bb552e8aa89a2bc5cd78492b6dc5/vshuoT-DlWHs/vw=1280,vh=720,fps=24.00,vbrt=1027430,abrt=129390,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://i.ytimg.com/vi/PimtFEfpzr0/maxresdefault.jpg" background="purple", BATMAN CESUR VE GÖZÜPEK (2008) 1S 26B
-https://cdn.dzen.ru/vod/converted-video/vod-content/88/45/60/50/03/27/73/32/38/4/0ab82bf5-5a9a-49aa-9f31-bd7c871efd5b/kaltura/desc_b19a01937003b921a5d85d83bd302aa3/vO6qKzeshJg0/vw=1280,vh=720,fps=24.00,vbrt=915659,abrt=129389,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=1
-
-#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://i.ytimg.com/vi/PimtFEfpzr0/maxresdefault.jpg" background="purple", BATMAN CESUR VE GÖZÜPEK (2008) 2S 1B
-https://cdn.dzen.ru/vod/converted-video/vod-content/87/58/73/97/52/35/82/03/86/5/06989872-d5ba-4764-aa87-bde762839c3b/kaltura/desc_1269ad354e6298531f3530230177eeb0/v_BFk9osL2lE/vw=1280,vh=720,fps=24.00,vbrt=1332000,abrt=130931,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://i.ytimg.com/vi/PimtFEfpzr0/maxresdefault.jpg" background="purple", BATMAN CESUR VE GÖZÜPEK (2008) 2S 2B
-https://cdn.dzen.ru/vod/converted-video/vod-content/92/83/22/92/88/11/65/61/17/dec7f0dd-2908-4726-b275-2b7d3baa4bad/kaltura/desc_60fb9fc4779969b59a6d85a000fbc81f/vdg_QPmp9GFc/vw=1280,vh=720,fps=24.00,vbrt=994512,abrt=130932,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://i.ytimg.com/vi/PimtFEfpzr0/maxresdefault.jpg" background="purple", BATMAN CESUR VE GÖZÜPEK (2008) 2S 3B
-https://cdn.dzen.ru/vod/converted-video/vod-content/35/95/12/47/10/31/89/46/19/3/feddde3e-5106-4b24-805a-bd47f5f83f0a/kaltura/desc_937130738f0406369300cc345e4c655e/vXK43tRv02BY/vw=1280,vh=720,fps=24.00,vbrt=839497,abrt=130935,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://i.ytimg.com/vi/PimtFEfpzr0/maxresdefault.jpg" background="purple", BATMAN CESUR VE GÖZÜPEK (2008) 2S 4B
-https://cdn.dzen.ru/vod/converted-video/vod-content/82/11/09/50/36/12/15/14/75/2/b432b187-c678-488c-8dbd-01103026c1de/kaltura/desc_34f324f9a0a4a7f61e9f7c4a6c0089af/vvn9IhWzLA20/vw=1280,vh=720,fps=24.00,vbrt=1114176,abrt=130935,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=1
-#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://i.ytimg.com/vi/PimtFEfpzr0/maxresdefault.jpg" background="purple", BATMAN CESUR VE GÖZÜPEK (2008) 2S 5B
-https://cdn.dzen.ru/vod/converted-video/vod-content/89/85/70/46/28/77/11/34/92/afcd1ebc-dad0-4ba5-837e-94cb25df3076/kaltura/desc_3882ea22ebd53cc48b1337fad57360ca/vUSjSrVnKPW4/vw=1280,vh=720,fps=24.00,vbrt=930284,abrt=130933,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=1
-#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://i.ytimg.com/vi/PimtFEfpzr0/maxresdefault.jpg" background="purple", BATMAN CESUR VE GÖZÜPEK (2008) 2S 6B
-https://cdn.dzen.ru/vod/converted-video/vod-content/53/04/17/03/33/93/13/62/70/6/f6d87be7-b86a-4055-9527-abbe4ca45a31/kaltura/desc_46aa36af16a7ff828b8d04d0df358c99/v2rBCBy18pnY/vw=1280,vh=720,fps=24.00,vbrt=829426,abrt=130933,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=2
-#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://i.ytimg.com/vi/PimtFEfpzr0/maxresdefault.jpg" background="purple", BATMAN CESUR VE GÖZÜPEK (2008) 2S 7B
-https://cdn.dzen.ru/vod/converted-video/vod-content/12/79/07/39/47/67/19/22/26/2/ff3c5a9e-6d0f-416c-9aef-252cbb835a1d/kaltura/desc_4e8028e184dc72aac2508af00868cfe2/vjYdEKqrsKSI/vw=1280,vh=720,fps=24.00,vbrt=792964,abrt=130931,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://i.ytimg.com/vi/PimtFEfpzr0/maxresdefault.jpg" background="purple", BATMAN CESUR VE GÖZÜPEK (2008) 2S 8B
-https://cdn.dzen.ru/vod/converted-video/vod-content/43/98/51/96/38/94/02/12/94/05260e61-42eb-4828-b56e-e1df8df13f71/kaltura/desc_26479ce870c7ce3d198fbd5b1eafef34/vuf3CxPNb_Rc/vw=1280,vh=720,fps=24.00,vbrt=1128608,abrt=130929,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://i.ytimg.com/vi/PimtFEfpzr0/maxresdefault.jpg" background="purple", BATMAN CESUR VE GÖZÜPEK (2008) 2S 9B
-https://cdn.dzen.ru/vod/converted-video/vod-content/28/00/42/72/31/44/16/11/96/0/22978a18-4d1f-482b-965d-37d22c162566/kaltura/desc_19f0e6a9df1cb4926de3ecceff217190/vsZdLhbTJsjo/vw=1280,vh=720,fps=24.00,vbrt=1329354,abrt=130935,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=1
-#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://i.ytimg.com/vi/PimtFEfpzr0/maxresdefault.jpg" background="purple", BATMAN CESUR VE GÖZÜPEK (2008) 2S 10B
-https://cdn.dzen.ru/vod/converted-video/vod-content/27/80/85/87/77/90/86/83/8/005daa27-7125-4a25-b040-105f63b60aaa/kaltura/desc_3195b69028e518ebd9a59db4aa8addec/v8WPUz9H-s1M/vw=1280,vh=720,fps=24.00,vbrt=743754,abrt=130929,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://i.ytimg.com/vi/PimtFEfpzr0/maxresdefault.jpg" background="purple", BATMAN CESUR VE GÖZÜPEK (2008) 2S 11B
-https://cdn.dzen.ru/vod/converted-video/vod-content/63/97/79/91/04/42/46/34/26/2/40aac319-4ea5-4245-a740-d5ed3e9cccab/kaltura/desc_760af795f0df51d5b7cd803659cd82fb/v2Sb6LR5rIDY/vw=1280,vh=720,fps=24.00,vbrt=630085,abrt=130930,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=2
-#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://i.ytimg.com/vi/PimtFEfpzr0/maxresdefault.jpg" background="purple", BATMAN CESUR VE GÖZÜPEK (2008) 2S 12B
-https://cdn.dzen.ru/vod/converted-video/vod-content/31/84/69/80/90/58/39/73/98/1/19a6a3b5-88ee-4d89-b2e0-ab25b28520c4/kaltura/desc_07f4f8ab2f7b83e108fdee80b65cdffc/vNd_JU0zfqgg/vw=1280,vh=720,fps=24.00,vbrt=868455,abrt=130933,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=2
-#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://i.ytimg.com/vi/PimtFEfpzr0/maxresdefault.jpg" background="purple", BATMAN CESUR VE GÖZÜPEK (2008) 2S 13B
-https://cdn.dzen.ru/vod/converted-video/vod-content/55/97/63/10/66/34/50/78/16/9/16bae853-4209-45d3-b3d1-3c476a923946/kaltura/desc_1c2e510e42872080c2bc0a0984ff1f66/v6FufEY1EHkw/vw=1280,vh=720,fps=24.00,vbrt=1018228,abrt=130933,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://i.ytimg.com/vi/PimtFEfpzr0/maxresdefault.jpg" background="purple", BATMAN CESUR VE GÖZÜPEK (2008) 2S 14B
-https://cdn.dzen.ru/vod/converted-video/vod-content/75/87/82/96/60/72/62/34/18/1/d9947d4e-44ba-4f74-996d-efacdec37f54/kaltura/desc_f7d8725b5bef8bdea7330dd6ec538211/vjOxR8zHYX1c/vw=1280,vh=720,fps=24.00,vbrt=1118957,abrt=130930,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://i.ytimg.com/vi/PimtFEfpzr0/maxresdefault.jpg" background="purple", BATMAN CESUR VE GÖZÜPEK (2008) 2S 15B
-https://cdn.dzen.ru/vod/converted-video/vod-content/86/88/89/92/86/89/23/54/51/1/937aa4fc-ca79-4555-a53e-c31620740e52/kaltura/desc_ecbe5222787bf9337f0091401645b8dd/vd-gr9p2zY3g/vw=1280,vh=720,fps=24.00,vbrt=1044907,abrt=130928,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://i.ytimg.com/vi/PimtFEfpzr0/maxresdefault.jpg" background="purple", BATMAN CESUR VE GÖZÜPEK (2008) 2S 16B
-https://cdn.dzen.ru/vod/converted-video/vod-content/67/96/55/44/01/81/62/81/48/2/8374bf1c-9f88-41b6-bcac-814bf7d43059/kaltura/desc_b28509940d48440abdd4eac3f67ccdd2/vaPC2bUuUtSY/vw=1280,vh=720,fps=24.00,vbrt=1200634,abrt=130934,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://i.ytimg.com/vi/PimtFEfpzr0/maxresdefault.jpg" background="purple", BATMAN CESUR VE GÖZÜPEK (2008) 2S 17B
-https://cdn.dzen.ru/vod/converted-video/vod-content/69/49/94/46/13/51/85/53/96/8/17bcd118-f9c5-429f-9189-327d4cfc162d/kaltura/desc_3c116251bc48f424ad4f8946e0089240/v8R5I7OdqlkM/vw=1280,vh=720,fps=24.00,vbrt=825676,abrt=131470,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://i.ytimg.com/vi/PimtFEfpzr0/maxresdefault.jpg" background="purple", BATMAN CESUR VE GÖZÜPEK (2008) 2S 18B
-https://cdn.dzen.ru/vod/converted-video/vod-content/66/74/08/39/67/89/33/53/73/0/6e389d5a-4852-4d3c-838b-ad0374b7b2c3/kaltura/desc_64005c5c5e7c7273cf6040c91100c021/vwA-lNOsRmX8/vw=1280,vh=720,fps=24.00,vbrt=940447,abrt=130932,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://i.ytimg.com/vi/PimtFEfpzr0/maxresdefault.jpg" background="purple", BATMAN CESUR VE GÖZÜPEK (2008) 2S 19B
-https://cdn.dzen.ru/vod/converted-video/vod-content/86/06/91/73/36/14/00/42/25/8/ef35a885-339b-4498-8675-a14000b8d344/kaltura/desc_765bc7b4d9a94e57536af353debcb34d/vSCBcfxbTtlg/vw=1280,vh=720,fps=24.00,vbrt=759890,abrt=130931,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://i.ytimg.com/vi/PimtFEfpzr0/maxresdefault.jpg" background="purple", BATMAN CESUR VE GÖZÜPEK (2008) 2S 20B
-https://cdn.dzen.ru/vod/converted-video/vod-content/57/09/37/63/82/83/33/21/11/7/c7e2fb7a-cb7b-46b0-a35d-7c6fce63da2f/kaltura/desc_bc516efe9d6d5f5580d60b7eeb027770/vyH1yVKiVdAc/vw=1280,vh=720,fps=24.00,vbrt=853720,abrt=130931,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=2
-#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://i.ytimg.com/vi/PimtFEfpzr0/maxresdefault.jpg" background="purple", BATMAN CESUR VE GÖZÜPEK (2008) 2S 21B
-https://cdn.dzen.ru/vod/converted-video/vod-content/16/58/51/87/12/22/44/01/10/6/c0824de0-7e89-49f6-bb11-1f1b28026b75/kaltura/desc_c9b0b069faf1ff644cfae5f78fb7389e/vJxY3AOk9niA/vw=1280,vh=720,fps=24.00,vbrt=919199,abrt=130932,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://i.ytimg.com/vi/PimtFEfpzr0/maxresdefault.jpg" background="purple", BATMAN CESUR VE GÖZÜPEK (2008) 2S 22B
-https://cdn.dzen.ru/vod/converted-video/vod-content/82/60/78/48/49/71/18/26/10/6/54b30c41-bd73-4dc5-944a-9af6309bae25/kaltura/desc_e3785dba5f52afa6cecc10b00ae3000b/vTu1QGLBzJ1w/vw=1280,vh=720,fps=24.00,vbrt=796671,abrt=130932,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=3
-#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://i.ytimg.com/vi/PimtFEfpzr0/maxresdefault.jpg" background="purple", BATMAN CESUR VE GÖZÜPEK (2008) 2S 23B
-https://cdn.dzen.ru/vod/converted-video/vod-content/31/26/87/18/85/42/18/89/58/4/f5b831d1-5f13-4340-be07-79bf97808c42/kaltura/desc_7ce0e21cd378fd90fa13344ef9f61820/v2PI2GeDjiRE/vw=1280,vh=720,fps=24.00,vbrt=967775,abrt=130934,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://i.ytimg.com/vi/PimtFEfpzr0/maxresdefault.jpg" background="purple", BATMAN CESUR VE GÖZÜPEK (2008) 2S 24B
-https://cdn.dzen.ru/vod/converted-video/vod-content/50/18/91/15/01/85/03/34/95/d8e5149a-baa2-4bfc-ad85-0d187d52e40b/kaltura/desc_62749c956266842229267c04b7fd2577/vyZmgviitmlo/vw=1280,vh=720,fps=24.00,vbrt=785422,abrt=130930,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://i.ytimg.com/vi/PimtFEfpzr0/maxresdefault.jpg" background="purple", BATMAN CESUR VE GÖZÜPEK (2008) 2S 25B
-https://cdn.dzen.ru/vod/converted-video/vod-content/96/92/11/86/49/33/41/37/74/b02c5f55-fe2e-4228-b9b9-1e4ecfd5e8d2/kaltura/desc_b0a981be4564ab9b402c6fd1d1f588fb/v9ehK6iW0ZHE/vw=1280,vh=720,fps=24.00,vbrt=1084064,abrt=130933,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=1
-#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://i.ytimg.com/vi/PimtFEfpzr0/maxresdefault.jpg" background="purple", BATMAN CESUR VE GÖZÜPEK (2008) 2S 26B
-https://cdn.dzen.ru/vod/converted-video/vod-content/13/39/79/62/07/81/18/89/11/8/d5132f53-0348-4dfe-96b2-69039e2bdf35/kaltura/desc_f3e7bd6a2210d19ab6a4baee1a73653d/vzQopLUC_EQQ/vw=1280,vh=720,fps=24.00,vbrt=763580,abrt=130935,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=3
-
-#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://i.ytimg.com/vi/PimtFEfpzr0/maxresdefault.jpg" background="purple", BATMAN CESUR VE GÖZÜPEK (2008) 3S 1B
-https://cdn.dzen.ru/vod/converted-video/vod-content/75/19/04/11/82/20/83/57/83/5/300cabd1-dfb6-46be-ab79-37000e62cad2/kaltura/desc_b97b705167bf0db2079c030b3eb5a2d5/vH6FuPI54fnU/vw=1280,vh=720,fps=24.00,vbrt=958456,abrt=130757,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://i.ytimg.com/vi/PimtFEfpzr0/maxresdefault.jpg" background="purple", BATMAN CESUR VE GÖZÜPEK (2008) 3S 2B
-https://cdn.dzen.ru/vod/converted-video/vod-content/83/80/86/34/08/20/98/56/06/8/1b8f2e07-5978-47e4-9ded-86515c96bcf4/kaltura/desc_63b75add7fa90713177b9fc59f4878a8/v58ly93WMAiI/vw=1280,vh=720,fps=24.00,vbrt=849690,abrt=130760,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=1
-#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://i.ytimg.com/vi/PimtFEfpzr0/maxresdefault.jpg" background="purple", BATMAN CESUR VE GÖZÜPEK (2008) 3S 3B
-https://cdn.dzen.ru/vod/converted-video/vod-content/44/45/39/39/34/59/86/33/02/5/ee417552-5cb0-4ba6-9c04-23e98c5e54db/kaltura/desc_66afb897e757423df978c30e008a3141/v8ynD9CvFWTM/vw=1280,vh=720,fps=24.00,vbrt=779260,abrt=130756,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://i.ytimg.com/vi/PimtFEfpzr0/maxresdefault.jpg" background="purple", BATMAN CESUR VE GÖZÜPEK (2008) 3S 4B
-https://cdn.dzen.ru/vod/converted-video/vod-content/67/62/92/47/15/79/35/68/33/2/bc7bc1ce-28ea-4d47-af25-c8cfd5af5e4f/kaltura/desc_ad6d1a13ae6230dbafcf9127fdc33e98/vqaeop-6BXSc/vw=1280,vh=720,fps=24.00,vbrt=832090,abrt=130755,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://i.ytimg.com/vi/PimtFEfpzr0/maxresdefault.jpg" background="purple", BATMAN CESUR VE GÖZÜPEK (2008) 3S 5B
-https://cdn.dzen.ru/vod/converted-video/vod-content/17/65/56/73/66/43/10/74/25/1/3146b4f6-fe33-44ea-9192-c7c3291654db/kaltura/desc_96d2cd2453c5e2d398f121326d443c00/vO_4Jxfzmu0w/vw=1280,vh=720,fps=24.00,vbrt=1051240,abrt=130760,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://i.ytimg.com/vi/PimtFEfpzr0/maxresdefault.jpg" background="purple", BATMAN CESUR VE GÖZÜPEK (2008) 3S 6B
-https://cdn.dzen.ru/vod/converted-video/vod-content/69/91/11/13/89/08/86/51/50/1/c94e412e-4680-4c97-80f7-b178fa907d65/kaltura/desc_44fb059e3f6eccf2897ce82346c40799/vllAQGy9D_0M/vw=1280,vh=720,fps=24.00,vbrt=1031586,abrt=130757,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://i.ytimg.com/vi/PimtFEfpzr0/maxresdefault.jpg" background="purple", BATMAN CESUR VE GÖZÜPEK (2008) 3S 7B
-https://cdn.dzen.ru/vod/converted-video/vod-content/10/72/24/69/37/27/31/41/63/7/9fbe37cc-4a96-4f49-a27c-85e40eb07558/kaltura/desc_0897a210f845528cda0ea8e670738138/vaRQrUKuLuAo/vw=1280,vh=720,fps=24.00,vbrt=843039,abrt=130758,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://i.ytimg.com/vi/PimtFEfpzr0/maxresdefault.jpg" background="purple", BATMAN CESUR VE GÖZÜPEK (2008) 3S 8B
-https://cdn.dzen.ru/vod/converted-video/vod-content/24/97/20/16/18/55/09/62/34/8/3de50fdc-c682-4b47-b730-5f201a69bbb0/kaltura/desc_72b547b4de4f9c5c436474281416aa8a/vibCvCt4_0is/vw=1280,vh=720,fps=24.00,vbrt=833462,abrt=130756,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://i.ytimg.com/vi/PimtFEfpzr0/maxresdefault.jpg" background="purple", BATMAN CESUR VE GÖZÜPEK (2008) 3S 9B
-https://cdn.dzen.ru/vod/converted-video/vod-content/66/15/64/61/20/85/33/34/47/7/03701688-d0b3-4448-afcb-1db36f8838b8/kaltura/desc_d69a060ab46f7a2639801acc7a5e0ace/vU2Jj8EqlAzQ/vw=1280,vh=720,fps=24.00,vbrt=988238,abrt=130755,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://i.ytimg.com/vi/PimtFEfpzr0/maxresdefault.jpg" background="purple", BATMAN CESUR VE GÖZÜPEK (2008) 3S 10B
-https://cdn.dzen.ru/vod/converted-video/vod-content/13/27/62/49/02/93/44/66/93/3/cd871758-e5d0-4c02-8b21-134df579252c/kaltura/desc_34451e2e012e5ab38551f027d2610681/v7-ngAiwjXXo/vw=1280,vh=720,fps=24.00,vbrt=953147,abrt=130755,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://i.ytimg.com/vi/PimtFEfpzr0/maxresdefault.jpg" background="purple", BATMAN CESUR VE GÖZÜPEK (2008) 3S 11B
-https://cdn.dzen.ru/vod/converted-video/vod-content/90/02/91/74/47/67/02/66/77/010243fb-1995-4e5d-b001-ed92aefafd3c/kaltura/desc_2e59ac7153788879ffc7e1aaa14a5cb8/vqAGDbDmmNFU/vw=1280,vh=720,fps=24.00,vbrt=840881,abrt=130757,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://i.ytimg.com/vi/PimtFEfpzr0/maxresdefault.jpg" background="purple", BATMAN CESUR VE GÖZÜPEK (2008) 3S 12B
-https://cdn.dzen.ru/vod/converted-video/vod-content/28/06/43/91/24/20/03/90/10/5/73a9f49d-81a6-4db7-8982-aa9fda2cfecd/kaltura/desc_c4d12c9c851ef68e4dd7136c197c7d99/vTBt3StllCiI/vw=1280,vh=720,fps=24.00,vbrt=957597,abrt=130758,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=1
-#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://i.ytimg.com/vi/PimtFEfpzr0/maxresdefault.jpg" background="purple", BATMAN CESUR VE GÖZÜPEK (2008) 3S 13B
-https://cdn.dzen.ru/vod/converted-video/vod-content/65/91/67/32/11/76/85/94/00/2/98bd1b14-4b3a-46d3-961f-f1079af9f6e6/kaltura/desc_f060b59e1edbdcdb002e7fcd5b99b1fe/vP6GHiSRNS1s/vw=1280,vh=720,fps=24.00,vbrt=845348,abrt=130754,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=1
 
 #EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2024/07/batman-caped-crusader-logo-over-the-poster-for-the-show.jpg" background="purple", BATMAN CAPED CRUSADER (2024) 1S 2B  
 https://storage.diziyou5.com/episodes/99902_tr/720p.m3u8  
@@ -3477,86 +3273,6 @@ https://storage.diziyou5.com/episodes/99908_tr/720p.m3u8
 https://storage.diziyou5.com/episodes/99909_tr/720p.m3u8  
 #EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2024/07/batman-caped-crusader-logo-over-the-poster-for-the-show.jpg" background="purple", BATMAN CAPED CRUSADER (2024) 1S 10B  
 https://storage.diziyou5.com/episodes/99910_tr/720p.m3u8  
-
-#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://static1.cbrimages.com/wordpress/wp-content/uploads/2024/10/justice-league-unlimited-header.jpg" background="purple", JUSTİCE LEAGUE UNLİMİTED 1S 2B
-https://cdn.dzen.ru/vod/converted-video/vod-content/81/52/82/13/88/52/96/95/68/9/8327b590-c6d4-47bc-847e-f8654f6c329f/kaltura/desc_0bfec8c401696bdbd5476b50f3b404d1/v_28144DaoSo/vw=1280,vh=720,fps=25.00,vbrt=778935,abrt=129385,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=1
-#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://static1.cbrimages.com/wordpress/wp-content/uploads/2024/10/justice-league-unlimited-header.jpg" background="purple", JUSTİCE LEAGUE UNLİMİTED 1S 3B
-https://cdn.dzen.ru/vod/converted-video/vod-content/83/94/55/42/69/91/47/72/84/7/2ddf26ff-336d-4a35-96ab-c98cc44dcc4e/kaltura/desc_6e4e6489ed4a11612d296e325218ac3b/vftlU3HayigM/vw=1280,vh=720,fps=25.00,vbrt=1035972,abrt=129385,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://static1.cbrimages.com/wordpress/wp-content/uploads/2024/10/justice-league-unlimited-header.jpg" background="purple", JUSTİCE LEAGUE UNLİMİTED 1S 4B
-https://cdn.dzen.ru/vod/converted-video/vod-content/80/38/83/36/30/39/92/91/88/3/229d9a41-bfd1-4c80-9d53-a56afab6869f/kaltura/desc_28cb1f4867606c76c71b70ee82ac4778/vijnxrho9JBA/vw=1280,vh=720,fps=25.00,vbrt=876712,abrt=130925,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://static1.cbrimages.com/wordpress/wp-content/uploads/2024/10/justice-league-unlimited-header.jpg" background="purple", JUSTİCE LEAGUE UNLİMİTED 1S 5B
-https://cdn.dzen.ru/vod/converted-video/vod-content/26/72/16/20/88/39/23/92/30/9/eb9cbc4e-13e2-49f4-94e1-17302da8c4cf/kaltura/desc_daee9e3d7f60470d7bdf90767a1a6603/vNSWAnSj8Vhs/vw=1280,vh=720,fps=25.00,vbrt=666889,abrt=129385,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=1
-#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://static1.cbrimages.com/wordpress/wp-content/uploads/2024/10/justice-league-unlimited-header.jpg" background="purple", JUSTİCE LEAGUE UNLİMİTED 1S 6B
-https://cdn.dzen.ru/vod/converted-video/vod-content/62/08/19/70/98/89/65/17/03/3/67e48060-3fef-4b61-a597-3a9a73719317/kaltura/desc_18666b37fa1f862ac3cfa2d08abfc0cf/vJ7gs6Fxk7G8/vw=1280,vh=720,fps=25.00,vbrt=697160,abrt=129385,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=1
-#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://static1.cbrimages.com/wordpress/wp-content/uploads/2024/10/justice-league-unlimited-header.jpg" background="purple", JUSTİCE LEAGUE UNLİMİTED 1S 7B
-https://cdn.dzen.ru/vod/converted-video/vod-content/25/06/34/53/08/07/29/16/48/e27993d6-b5ac-4d36-9670-3d0874a6dd61/kaltura/desc_c44430f1b3377dc5d4ad835a2e1c487e/vCg5uxugq8Hg/vw=1280,vh=720,fps=25.00,vbrt=1264663,abrt=129385,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=1
-#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://static1.cbrimages.com/wordpress/wp-content/uploads/2024/10/justice-league-unlimited-header.jpg" background="purple", JUSTİCE LEAGUE UNLİMİTED 1S 8B
-https://cdn.dzen.ru/vod/converted-video/vod-content/50/77/15/04/68/78/81/77/91/9/ccdd4826-422d-45c5-8eda-3d406b970535/kaltura/desc_25066ad1f1a1edb5f01b869113565786/vKdXG9FFUJ14/vw=1280,vh=720,fps=25.00,vbrt=815003,abrt=130925,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=1
-#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://static1.cbrimages.com/wordpress/wp-content/uploads/2024/10/justice-league-unlimited-header.jpg" background="purple", JUSTİCE LEAGUE UNLİMİTED 1S 9B
-https://cdn.dzen.ru/vod/converted-video/vod-content/12/67/25/61/96/71/76/45/93/7/cbd49f3e-8fbc-48f2-b65d-8bd3a3394f1f/kaltura/desc_cf9e204a0f72c16585220ec784390d91/v0Wk1e9_ohxA/vw=1280,vh=720,fps=25.00,vbrt=863560,abrt=130921,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=2
-#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://static1.cbrimages.com/wordpress/wp-content/uploads/2024/10/justice-league-unlimited-header.jpg" background="purple", JUSTİCE LEAGUE UNLİMİTED 1S 10B
-https://cdn.dzen.ru/vod/converted-video/vod-content/20/16/23/27/45/88/11/90/12/9/81eef4eb-d808-4355-b982-74ea6702e051/kaltura/desc_3927107202363a12079b7a8bee581a29/vFs3QVKsqJj0/vw=1280,vh=720,fps=25.00,vbrt=1141597,abrt=129385,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=3
-#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://static1.cbrimages.com/wordpress/wp-content/uploads/2024/10/justice-league-unlimited-header.jpg" background="purple", JUSTİCE LEAGUE UNLİMİTED 1S 11B
-https://cdn.dzen.ru/vod/converted-video/vod-content/46/52/46/32/21/94/61/21/01/712eb56b-3aaf-4d5b-89c2-20cd6e83fca5/kaltura/desc_66dbee0b48b57ca0a7f833e4fcfd353f/vHf8gklmTYUY/vw=1280,vh=720,fps=25.00,vbrt=890351,abrt=129385,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://static1.cbrimages.com/wordpress/wp-content/uploads/2024/10/justice-league-unlimited-header.jpg" background="purple", JUSTİCE LEAGUE UNLİMİTED 1S 12B
-https://cdn.dzen.ru/vod/converted-video/vod-content/86/63/26/75/39/85/66/81/56/e7701764-8d86-448d-b16e-3fa504825179/kaltura/desc_dce62368cdf32fafa4a0586402b59b0e/vOkQHArTusmQ/vw=1280,vh=720,fps=25.00,vbrt=900002,abrt=129385,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=2
-#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://static1.cbrimages.com/wordpress/wp-content/uploads/2024/10/justice-league-unlimited-header.jpg" background="purple", JUSTİCE LEAGUE UNLİMİTED 1S 13B
-https://cdn.dzen.ru/vod/converted-video/vod-content/69/83/90/78/31/01/03/96/71/6/44b77ea5-c1d0-4334-bae1-69d626682c54/kaltura/desc_c55dd1e4346a8c7b26efc3f4e4250b49/vb26v9cZe-T0/vw=1280,vh=720,fps=25.00,vbrt=927114,abrt=130923,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=2
-
-#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://static1.cbrimages.com/wordpress/wp-content/uploads/2024/10/justice-league-unlimited-header.jpg" background="purple", JUSTİCE LEAGUE UNLİMİTED 2S 1B
-https://cdn.dzen.ru/vod/converted-video/vod-content/39/52/51/09/83/82/51/10/28/1/5947d8f2-9bf9-4411-b16a-83917efa3b05/kaltura/desc_8c1bb45ea3c96ece5e8fac404ecac763/v6aT11bOxTC0/vw=1280,vh=720,fps=25.00,vbrt=721763,abrt=129384,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=1
-
-#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://static1.cbrimages.com/wordpress/wp-content/uploads/2024/10/justice-league-unlimited-header.jpg" background="purple", JUSTİCE LEAGUE UNLİMİTED 2S 2B
-https://cdn.dzen.ru/vod/converted-video/vod-content/52/35/63/17/68/93/77/82/97/3/491de770-0237-475a-ae50-b965dd4ba063/kaltura/desc_6a580161b1280537381cb7924bf3fc4e/v3fvhZQz1dk8/vw=1280,vh=720,fps=25.00,vbrt=909208,abrt=130921,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=2
-#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://static1.cbrimages.com/wordpress/wp-content/uploads/2024/10/justice-league-unlimited-header.jpg" background="purple", JUSTİCE LEAGUE UNLİMİTED 2S 3B
-https://cdn.dzen.ru/vod/converted-video/vod-content/36/35/51/34/88/12/02/83/96/3/98ea331e-3f0d-451e-9e79-b1fd577c008c/kaltura/desc_5bbb8aac0479605fcd130d19d17984d4/vsIJTjLwQx0I/vw=1280,vh=720,fps=25.00,vbrt=760748,abrt=129385,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://static1.cbrimages.com/wordpress/wp-content/uploads/2024/10/justice-league-unlimited-header.jpg" background="purple", JUSTİCE LEAGUE UNLİMİTED 2S 4B
-https://cdn.dzen.ru/vod/converted-video/vod-content/31/92/39/54/30/06/11/00/90/3/f3f029ce-f167-4ad4-9fa6-349a78c16f06/kaltura/desc_772cc7a4a12b57950fddb07822f417cf/vKltPhkKsODs/vw=1280,vh=720,fps=25.00,vbrt=741110,abrt=129385,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=3
-#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://static1.cbrimages.com/wordpress/wp-content/uploads/2024/10/justice-league-unlimited-header.jpg" background="purple", JUSTİCE LEAGUE UNLİMİTED 2S 5B
-https://cdn.dzen.ru/vod/converted-video/vod-content/82/60/77/12/01/56/82/09/76/5/4b7c40ec-b69a-49ce-be6a-43bac7063bec/kaltura/desc_2affeb6376baf9cd305d04b328104be9/vWjV8ZzDOLmI/vw=1280,vh=720,fps=25.00,vbrt=868042,abrt=129385,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://static1.cbrimages.com/wordpress/wp-content/uploads/2024/10/justice-league-unlimited-header.jpg" background="purple", JUSTİCE LEAGUE UNLİMİTED 2S 6B
-https://cdn.dzen.ru/vod/converted-video/vod-content/22/59/47/18/09/09/21/03/16/0/64447be8-a145-435d-ab4c-d40030961a22/kaltura/desc_2314e913d1dc763c968d56f7bbacddb7/vzcW70Ad2qCM/vw=1280,vh=720,fps=25.00,vbrt=709190,abrt=129385,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=3
-#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://static1.cbrimages.com/wordpress/wp-content/uploads/2024/10/justice-league-unlimited-header.jpg" background="purple", JUSTİCE LEAGUE UNLİMİTED 2S 7B
-https://cdn.dzen.ru/vod/converted-video/vod-content/67/78/77/49/56/90/61/63/83/6/74f52b6e-6d19-46d4-9649-2f74244d8e97/kaltura/desc_b8a4572b8060d01e55997d860d0a1e67/v9QAssAqhRR4/vw=1280,vh=720,fps=25.00,vbrt=783953,abrt=129385,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://static1.cbrimages.com/wordpress/wp-content/uploads/2024/10/justice-league-unlimited-header.jpg" background="purple", JUSTİCE LEAGUE UNLİMİTED 2S 8B
-https://cdn.dzen.ru/vod/converted-video/vod-content/85/64/07/26/19/02/03/63/73/9/e74e8abc-2b37-4d47-9273-5d8f940fc824/kaltura/desc_de8ce3c949f51ff800d43e78170570c2/vcMQNs11CCHc/vw=1280,vh=720,fps=25.00,vbrt=882411,abrt=129384,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=1
-#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://static1.cbrimages.com/wordpress/wp-content/uploads/2024/10/justice-league-unlimited-header.jpg" background="purple", JUSTİCE LEAGUE UNLİMİTED 2S 9B
-https://cdn.dzen.ru/vod/converted-video/vod-content/29/00/06/07/56/81/43/73/10/6/bc8b58be-ac0d-4272-b57c-561101316d38/kaltura/desc_510b6b584266866211f48abca8db642b/vYACCPLEhH0A/vw=1280,vh=720,fps=25.00,vbrt=697257,abrt=129384,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=1
-#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://static1.cbrimages.com/wordpress/wp-content/uploads/2024/10/justice-league-unlimited-header.jpg" background="purple", JUSTİCE LEAGUE UNLİMİTED 2S 10B
-https://cdn.dzen.ru/vod/converted-video/vod-content/16/84/03/74/98/73/75/99/19/1/5707100b-eec0-4577-9052-e3c0f7e82ca3/kaltura/desc_10340ffc6fb9c5ae32566046d79083f3/vyly1_tvNB28/vw=1280,vh=720,fps=25.00,vbrt=751987,abrt=129384,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=2
-#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://static1.cbrimages.com/wordpress/wp-content/uploads/2024/10/justice-league-unlimited-header.jpg" background="purple", JUSTİCE LEAGUE UNLİMİTED 2S 11B
-https://cdn.dzen.ru/vod/converted-video/vod-content/70/91/07/78/52/85/54/05/22/d0f68430-f8e2-49d6-9b7c-efe895e23099/kaltura/desc_8f54960a69bc566ae83cd89f7a763ea0/ve8r63nqBk3w/vw=1280,vh=720,fps=25.00,vbrt=713431,abrt=129385,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://static1.cbrimages.com/wordpress/wp-content/uploads/2024/10/justice-league-unlimited-header.jpg" background="purple", JUSTİCE LEAGUE UNLİMİTED 2S 12B
-https://cdn.dzen.ru/vod/converted-video/vod-content/50/09/66/36/48/83/90/31/47/9/d6044702-8bd0-4a8c-a624-d52580774768/kaltura/desc_6f8231ea4762c362c3273bd501e63e71/vnbXVfWabHT0/vw=1280,vh=720,fps=25.00,vbrt=1056578,abrt=129385,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://static1.cbrimages.com/wordpress/wp-content/uploads/2024/10/justice-league-unlimited-header.jpg" background="purple", JUSTİCE LEAGUE UNLİMİTED 2S 13B
-https://cdn.dzen.ru/vod/converted-video/vod-content/23/99/38/66/50/31/12/09/44/2/e159e2c0-23eb-4373-8aa7-476ae0ba8a3a/kaltura/desc_a5f90cfd7c01906f9e15bc1910a2f0a6/vuJcGk-BtgAQ/vw=1280,vh=720,fps=25.00,vbrt=591704,abrt=129384,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
-
-#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://static1.cbrimages.com/wordpress/wp-content/uploads/2024/10/justice-league-unlimited-header.jpg" background="purple", JUSTİCE LEAGUE UNLİMİTED 3S 1B
-https://cdn.dzen.ru/vod/converted-video/vod-content/31/39/98/75/44/38/26/33/17/0/aedb9904-be99-4841-ac1a-93e990d8a322/kaltura/desc_897bcd787b3431c0945e28f21b40e930/vGYFMCEtvQko/vw=1280,vh=720,fps=24.00,vbrt=774534,abrt=129383,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=1
-#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://static1.cbrimages.com/wordpress/wp-content/uploads/2024/10/justice-league-unlimited-header.jpg" background="purple", JUSTİCE LEAGUE UNLİMİTED 3S 2B
-https://cdn.dzen.ru/vod/converted-video/vod-content/82/57/43/96/69/86/43/49/95/1/8bca979d-29c1-49a8-af5b-afe417ed74f8/kaltura/desc_e43edad56887df92d05ac56a2d1a2c42/v2D-9MOIJP14/vw=1280,vh=720,fps=24.00,vbrt=802462,abrt=129385,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://static1.cbrimages.com/wordpress/wp-content/uploads/2024/10/justice-league-unlimited-header.jpg" background="purple", JUSTİCE LEAGUE UNLİMİTED 3S 3B
-https://cdn.dzen.ru/vod/converted-video/vod-content/62/75/22/43/72/01/76/63/36/ab282fc7-6c63-4203-8589-adb693a654b6/kaltura/desc_898de4987ee30ed4b50a6a09baf88d8c/vWvcNLJtkRl4/vw=1280,vh=720,fps=24.00,vbrt=1123773,abrt=129385,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=1
-#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://static1.cbrimages.com/wordpress/wp-content/uploads/2024/10/justice-league-unlimited-header.jpg" background="purple", JUSTİCE LEAGUE UNLİMİTED 3S 4B
-https://cdn.dzen.ru/vod/converted-video/vod-content/64/45/29/01/87/20/30/56/42/8/b0c58ba0-127d-43a6-86c3-84e78decdc3a/kaltura/desc_ab5d279700bc456a67ecf3c8af595a71/v2Vd5F3fY4iA/vw=1280,vh=720,fps=24.00,vbrt=920582,abrt=130922,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://static1.cbrimages.com/wordpress/wp-content/uploads/2024/10/justice-league-unlimited-header.jpg" background="purple", JUSTİCE LEAGUE UNLİMİTED 3S 5B
-https://cdn.dzen.ru/vod/converted-video/vod-content/32/90/24/73/55/23/59/17/05/8/8c03d9a9-89da-47e9-9aa0-ad837f09d4e3/kaltura/desc_1a963a86f0381472d1c07ccc9b41bd03/vAtKlAVdpEBA/vw=1280,vh=720,fps=24.00,vbrt=801963,abrt=129385,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=2
-#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://static1.cbrimages.com/wordpress/wp-content/uploads/2024/10/justice-league-unlimited-header.jpg" background="purple", JUSTİCE LEAGUE UNLİMİTED 3S 6B (ALTYAZILI)
-https://cdn.dzen.ru/vod/converted-video/vod-content/58/57/79/10/45/64/69/08/02/2/5eaa043a-94f2-410e-9459-e6a98ec7ef20/kaltura/desc_0dcfdfbc710cba4a1b988edd642d2afd/vwDesZHQ0ZUA/vw=1280,vh=720,fps=24.00,vbrt=1050008,abrt=129377,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=1
-#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://static1.cbrimages.com/wordpress/wp-content/uploads/2024/10/justice-league-unlimited-header.jpg" background="purple", JUSTİCE LEAGUE UNLİMİTED 3S 7B
-https://cdn.dzen.ru/vod/converted-video/vod-content/37/51/80/45/96/61/68/38/17/5/e9cfa2e8-9550-4ee3-b5f8-f31ea2365995/kaltura/desc_0e5a43bec6552c8cc08716973a64b619/vNlZzP-eMvD8/vw=1280,vh=720,fps=24.00,vbrt=939250,abrt=129385,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://static1.cbrimages.com/wordpress/wp-content/uploads/2024/10/justice-league-unlimited-header.jpg" background="purple", JUSTİCE LEAGUE UNLİMİTED 3S 8B
-https://cdn.dzen.ru/vod/converted-video/vod-content/37/57/86/15/33/60/71/78/10/4/9991d298-20c3-470f-a397-d0bfd0cdff14/kaltura/desc_9970aaa4d21d3d4bab0ea3bfb1bcacdf/v9Pqx0iDKT3U/vw=1280,vh=720,fps=24.00,vbrt=720328,abrt=129385,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=2
-#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://static1.cbrimages.com/wordpress/wp-content/uploads/2024/10/justice-league-unlimited-header.jpg" background="purple", JUSTİCE LEAGUE UNLİMİTED 3S 9B
-https://cdn.dzen.ru/vod/converted-video/vod-content/41/98/09/94/61/72/04/21/43/6/44c0b47e-bd71-40e9-b752-8fdb2592b3fd/kaltura/desc_fe436ab92f2dfc1543ed23c0e363eb44/vYiU-TdoQgDI/vw=640,vh=360,fps=24.00,vbrt=691031,abrt=129385,vcodec=avc1.4D401E,acodec=mp4a.40.2,label=360p/index-f3-v1-a1.m3u8?redundant=1
-#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://static1.cbrimages.com/wordpress/wp-content/uploads/2024/10/justice-league-unlimited-header.jpg" background="purple", JUSTİCE LEAGUE UNLİMİTED 3S 10B
-https://cdn.dzen.ru/vod/converted-video/vod-content/67/32/09/10/58/68/07/24/49/1/3a889416-ed8b-4547-b4d3-2e76a961fde7/kaltura/desc_bdc4050ec94f54ad3583ca4923ef8bca/vBygA4Y_tM14/vw=1280,vh=720,fps=24.00,vbrt=781273,abrt=129385,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=3
-#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://static1.cbrimages.com/wordpress/wp-content/uploads/2024/10/justice-league-unlimited-header.jpg" background="purple", JUSTİCE LEAGUE UNLİMİTED 3S 11B (ALTYAZILI)
-https://cdn.dzen.ru/vod/converted-video/vod-content/61/39/78/72/97/88/29/42/40/3/773267eb-78b2-46f1-a51a-2ea95b51a579/kaltura/desc_d5a796e832a6ed720acedeb0ae8e57a3/vTGWpkWRuISE/vw=1280,vh=720,fps=24.00,vbrt=831564,abrt=129379,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=2
-#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://static1.cbrimages.com/wordpress/wp-content/uploads/2024/10/justice-league-unlimited-header.jpg" background="purple", JUSTİCE LEAGUE UNLİMİTED 3S 12B
-https://cdn.dzen.ru/vod/converted-video/vod-content/85/36/33/94/81/47/78/69/39/7/494d72ab-70a1-40ef-8ad1-febcd912c7b8/kaltura/desc_0678a54594da4a63d6e818a2a4259fc7/vVZSGdphyr2I/vw=1280,vh=720,fps=24.00,vbrt=1074365,abrt=130923,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=1
-#EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://static1.cbrimages.com/wordpress/wp-content/uploads/2024/10/justice-league-unlimited-header.jpg" background="purple", JUSTİCE LEAGUE UNLİMİTED 3S 13B (ALTYAZILI)
-https://cdn.dzen.ru/vod/converted-video/vod-content/71/23/90/15/87/22/98/69/98/8/37bb9d4e-0215-4425-8aa4-222003f83da4/kaltura/desc_50271892df25b9c76105ae865565f5a2/vjXNldXPaSgI/vw=1280,vh=720,fps=24.00,vbrt=1338114,abrt=129374,vcodec=avc1.64001F,acodec=mp4a.40.2,label=720p/index-f6-v1-a1.m3u8?redundant=1
 
 
 #EXTINF:0 type="video" channelId="-1" group-title="DC Dizileri" logo="https://sm.ign.com/ign_tr/review/a/arrow-gree/arrow-green-arrow-review_t229.jpg" background="PURPLE", ARROW 1S 2B
@@ -7199,10 +6915,211 @@ https://storage.diziyou5.com/episodes/91709_tr/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://static1.cbrimages.com/wordpress/wp-content/uploads/2024/02/cyclops-on-x-men-97.jpg" background="purple", X-MEN 97 1S 10B  
 https://storage.diziyou5.com/episodes/91710_tr/720p.m3u8  
 
+ANİMETV
 
 
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://image.tmdb.org/t/p/original/7mPhGyN4NmHzAFGEuOMtBM2lqI3.jpg" background="purple", ONE PİECE 1S 2B 
+https://pixeldrain.com/api/file/PUNiHQq4
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://image.tmdb.org/t/p/original/7mPhGyN4NmHzAFGEuOMtBM2lqI3.jpg" background="purple", ONE PİECE 1S 3B 
+https://pixeldrain.com/api/file/VP44SGDE
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://image.tmdb.org/t/p/original/7mPhGyN4NmHzAFGEuOMtBM2lqI3.jpg" background="purple", ONE PİECE 1S 4B 
+https://pixeldrain.com/api/file/nsuBv7vN
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://image.tmdb.org/t/p/original/7mPhGyN4NmHzAFGEuOMtBM2lqI3.jpg" background="purple", ONE PİECE 1S 5B 
+https://pixeldrain.com/api/file/b5pK4LYh
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://image.tmdb.org/t/p/original/7mPhGyN4NmHzAFGEuOMtBM2lqI3.jpg" background="purple", ONE PİECE 1S 6B 
+https://pixeldrain.com/api/file/2CmPWZLV
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://image.tmdb.org/t/p/original/7mPhGyN4NmHzAFGEuOMtBM2lqI3.jpg" background="purple", ONE PİECE 1S 7B 
+https://pixeldrain.com/api/file/CSN4qBPk
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://image.tmdb.org/t/p/original/7mPhGyN4NmHzAFGEuOMtBM2lqI3.jpg" background="purple", ONE PİECE 1S 8B 
+https://pixeldrain.com/api/file/26feGL6a
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://image.tmdb.org/t/p/original/7mPhGyN4NmHzAFGEuOMtBM2lqI3.jpg" background="purple", ONE PİECE 1S 9B 
+https://pixeldrain.com/api/file/pEHtq7BV
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://image.tmdb.org/t/p/original/7mPhGyN4NmHzAFGEuOMtBM2lqI3.jpg" background="purple", ONE PİECE 1S 10B 
+https://pixeldrain.com/api/file/74xPdtGe
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://image.tmdb.org/t/p/original/7mPhGyN4NmHzAFGEuOMtBM2lqI3.jpg" background="purple", ONE PİECE 1S 11B 
+https://pixeldrain.com/api/file/Eix4rpjA
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://image.tmdb.org/t/p/original/7mPhGyN4NmHzAFGEuOMtBM2lqI3.jpg" background="purple", ONE PİECE 1S 12B 
+https://pixeldrain.com/api/file/5Fr3N5Ai
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://image.tmdb.org/t/p/original/7mPhGyN4NmHzAFGEuOMtBM2lqI3.jpg" background="purple", ONE PİECE 1S 13B 
+https://pixeldrain.com/api/file/E5o3bT7X
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://image.tmdb.org/t/p/original/7mPhGyN4NmHzAFGEuOMtBM2lqI3.jpg" background="purple", ONE PİECE 1S 14B 
+https://pixeldrain.com/api/file/nMcLme2u
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://image.tmdb.org/t/p/original/7mPhGyN4NmHzAFGEuOMtBM2lqI3.jpg" background="purple", ONE PİECE 1S 15B 
+https://pixeldrain.com/api/file/GUuDQP93
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://image.tmdb.org/t/p/original/7mPhGyN4NmHzAFGEuOMtBM2lqI3.jpg" background="purple", ONE PİECE 1S 16B 
+https://pixeldrain.com/api/file/wSj1yekT
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://image.tmdb.org/t/p/original/7mPhGyN4NmHzAFGEuOMtBM2lqI3.jpg" background="purple", ONE PİECE 1S 17B 
+https://pixeldrain.com/api/file/DfwP17Cx
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://image.tmdb.org/t/p/original/7mPhGyN4NmHzAFGEuOMtBM2lqI3.jpg" background="purple", ONE PİECE 1S 18B 
+https://pixeldrain.com/api/file/5aNG4PkF
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://image.tmdb.org/t/p/original/7mPhGyN4NmHzAFGEuOMtBM2lqI3.jpg" background="purple", ONE PİECE 1S 19B 
+https://pixeldrain.com/api/file/jTK7mkWH
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://image.tmdb.org/t/p/original/7mPhGyN4NmHzAFGEuOMtBM2lqI3.jpg" background="purple", ONE PİECE 1S 20B 
+https://pixeldrain.com/api/file/neWwo7B1
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://image.tmdb.org/t/p/original/7mPhGyN4NmHzAFGEuOMtBM2lqI3.jpg" background="purple", ONE PİECE 1S 21B 
+https://pixeldrain.com/api/file/HKieSRmy
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://image.tmdb.org/t/p/original/7mPhGyN4NmHzAFGEuOMtBM2lqI3.jpg" background="purple", ONE PİECE 1S 22B 
+https://pixeldrain.com/api/file/kM2ttRZc
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://image.tmdb.org/t/p/original/7mPhGyN4NmHzAFGEuOMtBM2lqI3.jpg" background="purple", ONE PİECE 1S 23B 
+https://pixeldrain.com/api/file/A1rnUgpp
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://image.tmdb.org/t/p/original/7mPhGyN4NmHzAFGEuOMtBM2lqI3.jpg" background="purple", ONE PİECE 1S 24B 
+https://pixeldrain.com/api/file/sqAcoXcK
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://image.tmdb.org/t/p/original/7mPhGyN4NmHzAFGEuOMtBM2lqI3.jpg" background="purple", ONE PİECE 1S 25B 
+https://pixeldrain.com/api/file/isYLF6Yp
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://image.tmdb.org/t/p/original/7mPhGyN4NmHzAFGEuOMtBM2lqI3.jpg" background="purple", ONE PİECE 1S 26B
+https://pixeldrain.com/api/file/TsPXzWVw
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://image.tmdb.org/t/p/original/7mPhGyN4NmHzAFGEuOMtBM2lqI3.jpg" background="purple", ONE PİECE 1S 27B
+https://pixeldrain.com/api/file/1qL9iBDL
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://image.tmdb.org/t/p/original/7mPhGyN4NmHzAFGEuOMtBM2lqI3.jpg" background="purple", ONE PİECE 1S 28B
+https://pixeldrain.com/api/file/aZnW5hJW
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://image.tmdb.org/t/p/original/7mPhGyN4NmHzAFGEuOMtBM2lqI3.jpg" background="purple", ONE PİECE 1S 29B
+https://pixeldrain.com/api/file/1WfjBpAH
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://image.tmdb.org/t/p/original/7mPhGyN4NmHzAFGEuOMtBM2lqI3.jpg" background="purple", ONE PİECE 1S 30B
+https://pixeldrain.com/api/file/WqsnKweH
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://image.tmdb.org/t/p/original/7mPhGyN4NmHzAFGEuOMtBM2lqI3.jpg" background="purple", ONE PİECE 1S 31B
+https://pixeldrain.com/api/file/o28viRYX
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://image.tmdb.org/t/p/original/7mPhGyN4NmHzAFGEuOMtBM2lqI3.jpg" background="purple", ONE PİECE 1S 32B
+https://pixeldrain.com/api/file/HrJDG3xJ
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://image.tmdb.org/t/p/original/7mPhGyN4NmHzAFGEuOMtBM2lqI3.jpg" background="purple", ONE PİECE 1S 33B
+https://pixeldrain.com/api/file/ufX7TZVu
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://image.tmdb.org/t/p/original/7mPhGyN4NmHzAFGEuOMtBM2lqI3.jpg" background="purple", ONE PİECE 1S 34B
+https://pixeldrain.com/api/file/1ZUKi8AE
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://image.tmdb.org/t/p/original/7mPhGyN4NmHzAFGEuOMtBM2lqI3.jpg" background="purple", ONE PİECE 1S 35B
+https://pixeldrain.com/api/file/AKGjFjHR
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://image.tmdb.org/t/p/original/7mPhGyN4NmHzAFGEuOMtBM2lqI3.jpg" background="purple", ONE PİECE 1S 36B
+https://pixeldrain.com/api/file/sQgkWNdG
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://image.tmdb.org/t/p/original/7mPhGyN4NmHzAFGEuOMtBM2lqI3.jpg" background="purple", ONE PİECE 1S 37B
+https://pixeldrain.com/api/file/3fru5nVh
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://image.tmdb.org/t/p/original/7mPhGyN4NmHzAFGEuOMtBM2lqI3.jpg" background="purple", ONE PİECE 1S 38B
+https://pixeldrain.com/api/file/ufr2wqJ4
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://image.tmdb.org/t/p/original/7mPhGyN4NmHzAFGEuOMtBM2lqI3.jpg" background="purple", ONE PİECE 1S 39B
+https://pixeldrain.com/api/file/M1VSoyuX
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://image.tmdb.org/t/p/original/7mPhGyN4NmHzAFGEuOMtBM2lqI3.jpg" background="purple", ONE PİECE 1S 40B
+https://pixeldrain.com/api/file/FqjN7Ara
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://image.tmdb.org/t/p/original/7mPhGyN4NmHzAFGEuOMtBM2lqI3.jpg" background="purple", ONE PİECE 1S 41B
+https://pixeldrain.com/api/file/EgCLv1ET
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://image.tmdb.org/t/p/original/7mPhGyN4NmHzAFGEuOMtBM2lqI3.jpg" background="purple", ONE PİECE 1S 42B
+https://pixeldrain.com/api/file/LwQYrocf
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://image.tmdb.org/t/p/original/7mPhGyN4NmHzAFGEuOMtBM2lqI3.jpg" background="purple", ONE PİECE 1S 43B
+https://pixeldrain.com/api/file/sXNnxnDT
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://image.tmdb.org/t/p/original/7mPhGyN4NmHzAFGEuOMtBM2lqI3.jpg" background="purple", ONE PİECE 1S 44B
+https://pixeldrain.com/api/file/1b2CpjVa
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://image.tmdb.org/t/p/original/7mPhGyN4NmHzAFGEuOMtBM2lqI3.jpg" background="purple", ONE PİECE 1S 45B
+https://pixeldrain.com/api/file/Ln4kAmkw
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://image.tmdb.org/t/p/original/7mPhGyN4NmHzAFGEuOMtBM2lqI3.jpg" background="purple", ONE PİECE 1S 46B
+https://pixeldrain.com/api/file/h3xu9cmf
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://image.tmdb.org/t/p/original/7mPhGyN4NmHzAFGEuOMtBM2lqI3.jpg" background="purple", ONE PİECE 1S 47B
+https://pixeldrain.com/api/file/NoufmoK2
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://image.tmdb.org/t/p/original/7mPhGyN4NmHzAFGEuOMtBM2lqI3.jpg" background="purple", ONE PİECE 1S 48B
+https://pixeldrain.com/api/file/PKwjJXHV
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://image.tmdb.org/t/p/original/7mPhGyN4NmHzAFGEuOMtBM2lqI3.jpg" background="purple", ONE PİECE 1S 49B
+https://pixeldrain.com/api/file/4iW28Qqc
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://image.tmdb.org/t/p/original/7mPhGyN4NmHzAFGEuOMtBM2lqI3.jpg" background="purple", ONE PİECE 1S 50B
+https://pixeldrain.com/api/file/D3skQc65
 
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://image.tmdb.org/t/p/original/7mPhGyN4NmHzAFGEuOMtBM2lqI3.jpg" background="purple", ONE PİECE 1S 51B
+https://pixeldrain.com/api/file/T9dUqhip
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://image.tmdb.org/t/p/original/7mPhGyN4NmHzAFGEuOMtBM2lqI3.jpg" background="purple", ONE PİECE 1S 52B
+https://pixeldrain.com/api/file/at6zwRLH
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://image.tmdb.org/t/p/original/7mPhGyN4NmHzAFGEuOMtBM2lqI3.jpg" background="purple", ONE PİECE 1S 53B
+https://pixeldrain.com/api/file/LBwZtP4G
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://image.tmdb.org/t/p/original/7mPhGyN4NmHzAFGEuOMtBM2lqI3.jpg" background="purple", ONE PİECE 1S 54B
+https://pixeldrain.com/api/file/3fEcVpSF
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://image.tmdb.org/t/p/original/7mPhGyN4NmHzAFGEuOMtBM2lqI3.jpg" background="purple", ONE PİECE 1S 55B
+https://pixeldrain.com/api/file/4qGDVVwD
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://image.tmdb.org/t/p/original/7mPhGyN4NmHzAFGEuOMtBM2lqI3.jpg" background="purple", ONE PİECE (ARIZALI) 1S 56B 
 
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://image.tmdb.org/t/p/original/7mPhGyN4NmHzAFGEuOMtBM2lqI3.jpg" background="purple", ONE PİECE 1S 57B
+https://pixeldrain.com/api/file/aotxVSja
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://image.tmdb.org/t/p/original/7mPhGyN4NmHzAFGEuOMtBM2lqI3.jpg" background="purple", ONE PİECE 1S 58B
+https://pixeldrain.com/api/file/Qg9WQtLq
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://image.tmdb.org/t/p/original/7mPhGyN4NmHzAFGEuOMtBM2lqI3.jpg" background="purple", ONE PİECE 1S 59B
+https://pixeldrain.com/api/file/62M5VVo4
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://image.tmdb.org/t/p/original/7mPhGyN4NmHzAFGEuOMtBM2lqI3.jpg" background="purple", ONE PİECE 1S 60B
+https://pixeldrain.com/api/file/bbVfj8LV
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://image.tmdb.org/t/p/original/7mPhGyN4NmHzAFGEuOMtBM2lqI3.jpg" background="purple", ONE PİECE 1S 61B
+https://pixeldrain.com/api/file/RePmENwR
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://image.tmdb.org/t/p/original/7mPhGyN4NmHzAFGEuOMtBM2lqI3.jpg" background="purple", ONE PİECE 1S 62B
+https://pixeldrain.com/api/file/8XewgbhC
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://image.tmdb.org/t/p/original/7mPhGyN4NmHzAFGEuOMtBM2lqI3.jpg" background="purple", ONE PİECE 1S 63B
+https://pixeldrain.com/api/file/ofnR3Ypa
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://image.tmdb.org/t/p/original/7mPhGyN4NmHzAFGEuOMtBM2lqI3.jpg" background="purple", ONE PİECE 1S 64B
+https://pixeldrain.com/api/file/gYzYgUDM
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://image.tmdb.org/t/p/original/7mPhGyN4NmHzAFGEuOMtBM2lqI3.jpg" background="purple", ONE PİECE 1S 65B
+https://pixeldrain.com/api/file/SVCTXofm
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://image.tmdb.org/t/p/original/7mPhGyN4NmHzAFGEuOMtBM2lqI3.jpg" background="purple", ONE PİECE 1S 66B
+https://pixeldrain.com/api/file/z45BbtCM
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://image.tmdb.org/t/p/original/7mPhGyN4NmHzAFGEuOMtBM2lqI3.jpg" background="purple", ONE PİECE 1S 67B
+https://pixeldrain.com/api/file/SywQ9MAr
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://image.tmdb.org/t/p/original/7mPhGyN4NmHzAFGEuOMtBM2lqI3.jpg" background="purple", ONE PİECE 1S 68B
+https://pixeldrain.com/api/file/A3BK156L
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://image.tmdb.org/t/p/original/7mPhGyN4NmHzAFGEuOMtBM2lqI3.jpg" background="purple", ONE PİECE 1S 69B
+https://pixeldrain.com/api/file/MaDRMBr1
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://image.tmdb.org/t/p/original/7mPhGyN4NmHzAFGEuOMtBM2lqI3.jpg" background="purple", ONE PİECE 1S 70B
+https://pixeldrain.com/api/file/m8tHPt5e
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://image.tmdb.org/t/p/original/7mPhGyN4NmHzAFGEuOMtBM2lqI3.jpg" background="purple", ONE PİECE 1S 71B
+https://pixeldrain.com/api/file/zFdFgwBD
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://image.tmdb.org/t/p/original/7mPhGyN4NmHzAFGEuOMtBM2lqI3.jpg" background="purple", ONE PİECE 1S 72B
+https://pixeldrain.com/api/file/SZEGQWar
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://image.tmdb.org/t/p/original/7mPhGyN4NmHzAFGEuOMtBM2lqI3.jpg" background="purple", ONE PİECE 1S 73B
+https://pixeldrain.com/api/file/uDwMuqE7
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://image.tmdb.org/t/p/original/7mPhGyN4NmHzAFGEuOMtBM2lqI3.jpg" background="purple", ONE PİECE 1S 74B
+https://pixeldrain.com/api/file/mW7N9RhR
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://image.tmdb.org/t/p/original/7mPhGyN4NmHzAFGEuOMtBM2lqI3.jpg" background="purple", ONE PİECE 1S 75B
+https://pixeldrain.com/api/file/JKo3WxFh
+
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://image.tmdb.org/t/p/original/7mPhGyN4NmHzAFGEuOMtBM2lqI3.jpg" background="purple", ONE PİECE 1S 76B
+https://pixeldrain.com/api/file/nJnKQzAE
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://image.tmdb.org/t/p/original/7mPhGyN4NmHzAFGEuOMtBM2lqI3.jpg" background="purple", ONE PİECE 1S 77B
+https://pixeldrain.com/api/file/uUgsFKvD
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://image.tmdb.org/t/p/original/7mPhGyN4NmHzAFGEuOMtBM2lqI3.jpg" background="purple", ONE PİECE 1S 78B
+https://pixeldrain.com/api/file/Rh1MXDFs
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://image.tmdb.org/t/p/original/7mPhGyN4NmHzAFGEuOMtBM2lqI3.jpg" background="purple", ONE PİECE 1S 79B
+https://pixeldrain.com/api/file/HVBLy2uu
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://image.tmdb.org/t/p/original/7mPhGyN4NmHzAFGEuOMtBM2lqI3.jpg" background="purple", ONE PİECE 1S 80B
+https://pixeldrain.com/api/file/U8UyF5mF
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://image.tmdb.org/t/p/original/7mPhGyN4NmHzAFGEuOMtBM2lqI3.jpg" background="purple", ONE PİECE 1S 81B
+https://pixeldrain.com/api/file/Us6cTqLH
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://image.tmdb.org/t/p/original/7mPhGyN4NmHzAFGEuOMtBM2lqI3.jpg" background="purple", ONE PİECE 1S 82B
+https://pixeldrain.com/api/file/CZdcB5HW
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://image.tmdb.org/t/p/original/7mPhGyN4NmHzAFGEuOMtBM2lqI3.jpg" background="purple", ONE PİECE 1S 83B
+https://pixeldrain.com/api/file/DLqAQMy8
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://image.tmdb.org/t/p/original/7mPhGyN4NmHzAFGEuOMtBM2lqI3.jpg" background="purple", ONE PİECE 1S 84B
+https://pixeldrain.com/api/file/FTQJgZwz
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://image.tmdb.org/t/p/original/7mPhGyN4NmHzAFGEuOMtBM2lqI3.jpg" background="purple", ONE PİECE 1S 85B
+https://pixeldrain.com/api/file/eeyuDVfh
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://image.tmdb.org/t/p/original/7mPhGyN4NmHzAFGEuOMtBM2lqI3.jpg" background="purple", ONE PİECE 1S 86B
+https://pixeldrain.com/api/file/VEXQDrUD
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://image.tmdb.org/t/p/original/7mPhGyN4NmHzAFGEuOMtBM2lqI3.jpg" background="purple", ONE PİECE 1S 87B
+https://pixeldrain.com/api/file/wGTKauTs
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://image.tmdb.org/t/p/original/7mPhGyN4NmHzAFGEuOMtBM2lqI3.jpg" background="purple", ONE PİECE 1S 88B
+https://pixeldrain.com/api/file/ZxtxN1am
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://image.tmdb.org/t/p/original/7mPhGyN4NmHzAFGEuOMtBM2lqI3.jpg" background="purple", ONE PİECE 1S 89B
+https://pixeldrain.com/api/file/Fzs4SbsS
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://image.tmdb.org/t/p/original/7mPhGyN4NmHzAFGEuOMtBM2lqI3.jpg" background="purple", ONE PİECE 1S 90B
+https://pixeldrain.com/api/file/8Pjw2Fbu
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://image.tmdb.org/t/p/original/7mPhGyN4NmHzAFGEuOMtBM2lqI3.jpg" background="purple", ONE PİECE 1S 91B
+https://pixeldrain.com/api/file/K3LQMmGV
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://image.tmdb.org/t/p/original/7mPhGyN4NmHzAFGEuOMtBM2lqI3.jpg" background="purple", ONE PİECE 1S 92B
+https://pixeldrain.com/api/file/iAAZqm6k
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://image.tmdb.org/t/p/original/7mPhGyN4NmHzAFGEuOMtBM2lqI3.jpg" background="purple", ONE PİECE 1S 93B
+https://pixeldrain.com/api/file/etxrZUuD
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://image.tmdb.org/t/p/original/7mPhGyN4NmHzAFGEuOMtBM2lqI3.jpg" background="purple", ONE PİECE 1S 94B
+https://pixeldrain.com/api/file/E1eS5M5P
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://image.tmdb.org/t/p/original/7mPhGyN4NmHzAFGEuOMtBM2lqI3.jpg" background="purple", ONE PİECE 1S 95B
+https://pixeldrain.com/api/file/pzgUSemq
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://image.tmdb.org/t/p/original/7mPhGyN4NmHzAFGEuOMtBM2lqI3.jpg" background="purple", ONE PİECE 1S 96B
+https://pixeldrain.com/api/file/rm5tJpFZ
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://image.tmdb.org/t/p/original/7mPhGyN4NmHzAFGEuOMtBM2lqI3.jpg" background="purple", ONE PİECE 1S 97B
+https://pixeldrain.com/api/file/JV16C7g6
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://image.tmdb.org/t/p/original/7mPhGyN4NmHzAFGEuOMtBM2lqI3.jpg" background="purple", ONE PİECE 1S 98B
+https://pixeldrain.com/api/file/nRkgfJSm
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://image.tmdb.org/t/p/original/7mPhGyN4NmHzAFGEuOMtBM2lqI3.jpg" background="purple", ONE PİECE 1S 99B
+https://pixeldrain.com/api/file/LjFVCv4B
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://image.tmdb.org/t/p/original/7mPhGyN4NmHzAFGEuOMtBM2lqI3.jpg" background="purple", ONE PİECE 1S 100B
+https://pixeldrain.com/api/file/rfMZFx6A
+#EXTINF:0 type="video" channelId="-1" group-title="Animasyon Dizileri" logo="https://image.tmdb.org/t/p/original/7mPhGyN4NmHzAFGEuOMtBM2lqI3.jpg" background="purple", ONE PİECE 1S 101B
+https://pixeldrain.com/api/file/gUsjX92j
 
 
 
