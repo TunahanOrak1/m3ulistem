@@ -1730,23 +1730,6 @@ https://storage.diziyou7.com/episodes/122105_tr/1080p.m3u8
 https://storage.diziyou7.com/episodes/122106_tr/1080p.m3u8
 
 
-#EXTINF:0 type="video" channelId="-1" group-title="Avatar T.L.A (Serie)" logo="https://sm.ign.com/t/ign_tr/news/n/netflixs-l/netflixs-live-action-avatar-the-last-airbender-gets-first-lo_bm87.1280.jpg" background="purple", AVATAR THE LAST AIRBANDER (SERİE) 1S 1B
-https://storage.diziyou7.com/episodes/87701_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Avatar T.L.A (Serie)" logo="https://sm.ign.com/t/ign_tr/news/n/netflixs-l/netflixs-live-action-avatar-the-last-airbender-gets-first-lo_bm87.1280.jpg" background="purple", AVATAR THE LAST AIRBANDER (SERİE) 1S 2B
-https://storage.diziyou7.com/episodes/87702_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Avatar T.L.A (Serie)" logo="https://sm.ign.com/t/ign_tr/news/n/netflixs-l/netflixs-live-action-avatar-the-last-airbender-gets-first-lo_bm87.1280.jpg" background="purple", AVATAR THE LAST AIRBANDER (SERİE) 1S 3B
-https://storage.diziyou7.com/episodes/87703_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Avatar T.L.A (Serie)" logo="https://sm.ign.com/t/ign_tr/news/n/netflixs-l/netflixs-live-action-avatar-the-last-airbender-gets-first-lo_bm87.1280.jpg" background="purple", AVATAR THE LAST AIRBANDER (SERİE) 1S 4B
-https://storage.diziyou7.com/episodes/87704_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Avatar T.L.A (Serie)" logo="https://sm.ign.com/t/ign_tr/news/n/netflixs-l/netflixs-live-action-avatar-the-last-airbender-gets-first-lo_bm87.1280.jpg" background="purple", AVATAR THE LAST AIRBANDER (SERİE) 1S 5B
-https://storage.diziyou7.com/episodes/87705_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Avatar T.L.A (Serie)" logo="https://sm.ign.com/t/ign_tr/news/n/netflixs-l/netflixs-live-action-avatar-the-last-airbender-gets-first-lo_bm87.1280.jpg" background="purple", AVATAR THE LAST AIRBANDER (SERİE) 1S 6B
-https://storage.diziyou7.com/episodes/87706_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Avatar T.L.A (Serie)" logo="https://sm.ign.com/t/ign_tr/news/n/netflixs-l/netflixs-live-action-avatar-the-last-airbender-gets-first-lo_bm87.1280.jpg" background="purple", AVATAR THE LAST AIRBANDER (SERİE) 1S 7B
-https://storage.diziyou7.com/episodes/87707_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Avatar T.L.A (Serie)" logo="https://sm.ign.com/t/ign_tr/news/n/netflixs-l/netflixs-live-action-avatar-the-last-airbender-gets-first-lo_bm87.1280.jpg" background="purple", AVATAR THE LAST AIRBANDER (SERİE) 1S 8B
-https://storage.diziyou7.com/episodes/87708_tr/720p.m3u8
-
 #EXTINF:0 type="video" channelId="-1" group-title="One Piece Live Action" logo="https://static1.cbrimages.com/wordpress/wp-content/uploads/2023/09/one-piece-live-action-and-manga-1.jpg" background="purple", ONE PİECE LİVE ACTİON 1S 1B
 https://storage.diziyou7.com/episodes/74801_tr/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="One Piece Live Action" logo="https://static1.cbrimages.com/wordpress/wp-content/uploads/2023/09/one-piece-live-action-and-manga-1.jpg" background="purple", ONE PİECE LİVE ACTİON 1S 2B
@@ -2885,90 +2868,25 @@ https://storage.diziyou7.com/episodes/80381_tr/720p.m3u8
 https://storage.diziyou7.com/episodes/80382_tr/720p.m3u8
 
 
-#EXTINF:0 type="video" channelId="-1" group="Peacemaker" logo="https://static.wikia.nocookie.net/antagonisten/images/c/ca/Peacemaker_%28TSS%29.jpg/revision/latest/top-crop/width/360/height/360?cb=20210809234936&path-prefix=de" background="purple", PEACEMAKER 1S 1B
+#EXTINF:0 type="video" channelId="-1" group-title="Peacemaker" logo="https://static.wikia.nocookie.net/antagonisten/images/c/ca/Peacemaker_%28TSS%29.jpg/revision/latest/top-crop/width/360/height/360?cb=20210809234936&path-prefix=de" background="purple", PEACEMAKER 1S 1B
 https://storage.diziyou.co/episodes/17401_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group="Peacemaker" logo="https://static.wikia.nocookie.net/antagonisten/images/c/ca/Peacemaker_%28TSS%29.jpg/revision/latest/top-crop/width/360/height/360?cb=20210809234936&path-prefix=de" background="purple", PEACEMAKER 1S 2B
+#EXTINF:0 type="video" channelId="-1" group-title="Peacemaker" logo="https://static.wikia.nocookie.net/antagonisten/images/c/ca/Peacemaker_%28TSS%29.jpg/revision/latest/top-crop/width/360/height/360?cb=20210809234936&path-prefix=de" background="purple", PEACEMAKER 1S 2B
 https://storage.diziyou.co/episodes/17402_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group="Peacemaker" logo="https://static.wikia.nocookie.net/antagonisten/images/c/ca/Peacemaker_%28TSS%29.jpg/revision/latest/top-crop/width/360/height/360?cb=20210809234936&path-prefix=de" background="purple", PEACEMAKER 1S 3B
+#EXTINF:0 type="video" channelId="-1" group-title="Peacemaker" logo="https://static.wikia.nocookie.net/antagonisten/images/c/ca/Peacemaker_%28TSS%29.jpg/revision/latest/top-crop/width/360/height/360?cb=20210809234936&path-prefix=de" background="purple", PEACEMAKER 1S 3B
 https://storage.diziyou.co/episodes/17403_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group="Peacemaker" logo="https://static.wikia.nocookie.net/antagonisten/images/c/ca/Peacemaker_%28TSS%29.jpg/revision/latest/top-crop/width/360/height/360?cb=20210809234936&path-prefix=de" background="purple", PEACEMAKER 1S 4B
+#EXTINF:0 type="video" channelId="-1" group-title="Peacemaker" logo="https://static.wikia.nocookie.net/antagonisten/images/c/ca/Peacemaker_%28TSS%29.jpg/revision/latest/top-crop/width/360/height/360?cb=20210809234936&path-prefix=de" background="purple", PEACEMAKER 1S 4B
 https://storage.diziyou.co/episodes/17404_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group="Peacemaker" logo="https://static.wikia.nocookie.net/antagonisten/images/c/ca/Peacemaker_%28TSS%29.jpg/revision/latest/top-crop/width/360/height/360?cb=20210809234936&path-prefix=de" background="purple", PEACEMAKER 1S 5B
+#EXTINF:0 type="video" channelId="-1" group-title="Peacemaker" logo="https://static.wikia.nocookie.net/antagonisten/images/c/ca/Peacemaker_%28TSS%29.jpg/revision/latest/top-crop/width/360/height/360?cb=20210809234936&path-prefix=de" background="purple", PEACEMAKER 1S 5B
 https://storage.diziyou.co/episodes/17405_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group="Peacemaker" logo="https://static.wikia.nocookie.net/antagonisten/images/c/ca/Peacemaker_%28TSS%29.jpg/revision/latest/top-crop/width/360/height/360?cb=20210809234936&path-prefix=de" background="purple", PEACEMAKER 1S 6B
+#EXTINF:0 type="video" channelId="-1" group-title="Peacemaker" logo="https://static.wikia.nocookie.net/antagonisten/images/c/ca/Peacemaker_%28TSS%29.jpg/revision/latest/top-crop/width/360/height/360?cb=20210809234936&path-prefix=de" background="purple", PEACEMAKER 1S 6B
 https://storage.diziyou.co/episodes/17406_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group="Peacemaker" logo="https://static.wikia.nocookie.net/antagonisten/images/c/ca/Peacemaker_%28TSS%29.jpg/revision/latest/top-crop/width/360/height/360?cb=20210809234936&path-prefix=de" background="purple", PEACEMAKER 1S 7B
+#EXTINF:0 type="video" channelId="-1" group-title="Peacemaker" logo="https://static.wikia.nocookie.net/antagonisten/images/c/ca/Peacemaker_%28TSS%29.jpg/revision/latest/top-crop/width/360/height/360?cb=20210809234936&path-prefix=de" background="purple", PEACEMAKER 1S 7B
 https://storage.diziyou.co/episodes/17407_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group="Peacemaker" logo="https://static.wikia.nocookie.net/antagonisten/images/c/ca/Peacemaker_%28TSS%29.jpg/revision/latest/top-crop/width/360/height/360?cb=20210809234936&path-prefix=de" background="purple", PEACEMAKER 1S 8B
+#EXTINF:0 type="video" channelId="-1" group-title="Peacemaker" logo="https://static.wikia.nocookie.net/antagonisten/images/c/ca/Peacemaker_%28TSS%29.jpg/revision/latest/top-crop/width/360/height/360?cb=20210809234936&path-prefix=de" background="purple", PEACEMAKER 1S 8B
 https://storage.diziyou.co/episodes/17408_tr/720p.m3u8
 
 
 
-#EXTINF:0 type="video" channelId="-1" group-title="Invincible" logo="https://sm.ign.com/t/ign_tr/gallery/h/how-invinc/how-invincible-became-a-modern-superhero-icon_gmdk.1200.jpg" background="purple", INVİNCİBLE 1S 1B
-https://storage.diziyou7.com/episodes/82101_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Invincible" logo="https://sm.ign.com/t/ign_tr/gallery/h/how-invinc/how-invincible-became-a-modern-superhero-icon_gmdk.1200.jpg" background="purple", INVİNCİBLE 1S 2B
-https://storage.diziyou7.com/episodes/82102_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Invincible" logo="https://sm.ign.com/t/ign_tr/gallery/h/how-invinc/how-invincible-became-a-modern-superhero-icon_gmdk.1200.jpg" background="purple", INVİNCİBLE 1S 3B
-https://storage.diziyou7.com/episodes/82103_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Invincible" logo="https://sm.ign.com/t/ign_tr/gallery/h/how-invinc/how-invincible-became-a-modern-superhero-icon_gmdk.1200.jpg" background="purple", INVİNCİBLE 1S 4B
-https://storage.diziyou7.com/episodes/82104_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Invincible" logo="https://sm.ign.com/t/ign_tr/gallery/h/how-invinc/how-invincible-became-a-modern-superhero-icon_gmdk.1200.jpg" background="purple", INVİNCİBLE 1S 5B
-https://storage.diziyou7.com/episodes/82105_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Invincible" logo="https://sm.ign.com/t/ign_tr/gallery/h/how-invinc/how-invincible-became-a-modern-superhero-icon_gmdk.1200.jpg" background="purple", INVİNCİBLE 1S 6B
-https://storage.diziyou7.com/episodes/82106_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Invincible" logo="https://sm.ign.com/t/ign_tr/gallery/h/how-invinc/how-invincible-became-a-modern-superhero-icon_gmdk.1200.jpg" background="purple", INVİNCİBLE 1S 7B
-https://storage.diziyou7.com/episodes/82107_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Invincible" logo="https://sm.ign.com/t/ign_tr/gallery/h/how-invinc/how-invincible-became-a-modern-superhero-icon_gmdk.1200.jpg" background="purple", INVİNCİBLE 1S 8B
-https://storage.diziyou7.com/episodes/82108_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Invincible" logo="https://sm.ign.com/t/ign_tr/gallery/h/how-invinc/how-invincible-became-a-modern-superhero-icon_gmdk.1200.jpg" background="purple", INVİNCİBLE 2S 1B
-https://storage.diziyou7.com/episodes/82109_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Invincible" logo="https://sm.ign.com/t/ign_tr/gallery/h/how-invinc/how-invincible-became-a-modern-superhero-icon_gmdk.1200.jpg" background="purple", INVİNCİBLE 2S 2B
-https://storage.diziyou7.com/episodes/82110_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Invincible" logo="https://sm.ign.com/t/ign_tr/gallery/h/how-invinc/how-invincible-became-a-modern-superhero-icon_gmdk.1200.jpg" background="purple", INVİNCİBLE 2S 3B
-https://storage.diziyou7.com/episodes/82111_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Invincible" logo="https://sm.ign.com/t/ign_tr/gallery/h/how-invinc/how-invincible-became-a-modern-superhero-icon_gmdk.1200.jpg" background="purple", INVİNCİBLE 2S 4B
-https://storage.diziyou7.com/episodes/82112_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Invincible" logo="https://sm.ign.com/t/ign_tr/gallery/h/how-invinc/how-invincible-became-a-modern-superhero-icon_gmdk.1200.jpg" background="purple", INVİNCİBLE 2S 5B
-https://storage.diziyou7.com/episodes/82113_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Invincible" logo="https://sm.ign.com/t/ign_tr/gallery/h/how-invinc/how-invincible-became-a-modern-superhero-icon_gmdk.1200.jpg" background="purple", INVİNCİBLE 2S 6B
-https://storage.diziyou7.com/episodes/82114_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Invincible" logo="https://sm.ign.com/t/ign_tr/gallery/h/how-invinc/how-invincible-became-a-modern-superhero-icon_gmdk.1200.jpg" background="purple", INVİNCİBLE 2S 7B
-https://storage.diziyou7.com/episodes/82115_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="Invincible" logo="https://sm.ign.com/t/ign_tr/gallery/h/how-invinc/how-invincible-became-a-modern-superhero-icon_gmdk.1200.jpg" background="purple", INVİNCİBLE 2S 8B
-https://storage.diziyou7.com/episodes/82116_tr/720p.m3u8
-
-#EXTINF:0 type="video" channelId="-1" group-title="The Boys" logo="https://sm.ign.com/t/ign_tr/news/t/the-boys-s/the-boys-star-wants-season-5-to-set-up-a-franchise-ending-mo_xbmv.1200.jpg" background="purple", THE BOYS 1S 2B
-https://storage.diziyou7.com/episodes/95002_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="The Boys" logo="https://sm.ign.com/t/ign_tr/news/t/the-boys-s/the-boys-star-wants-season-5-to-set-up-a-franchise-ending-mo_xbmv.1200.jpg" background="purple", THE BOYS 1S 3B
-https://storage.diziyou7.com/episodes/95003_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="The Boys" logo="https://sm.ign.com/t/ign_tr/news/t/the-boys-s/the-boys-star-wants-season-5-to-set-up-a-franchise-ending-mo_xbmv.1200.jpg" background="purple", THE BOYS 1S 1B
-https://storage.diziyou7.com/episodes/95001_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="The Boys" logo="https://sm.ign.com/t/ign_tr/news/t/the-boys-s/the-boys-star-wants-season-5-to-set-up-a-franchise-ending-mo_xbmv.1200.jpg" background="purple", THE BOYS 1S 4B
-https://storage.diziyou7.com/episodes/95004_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="The Boys" logo="https://sm.ign.com/t/ign_tr/news/t/the-boys-s/the-boys-star-wants-season-5-to-set-up-a-franchise-ending-mo_xbmv.1200.jpg" background="purple", THE BOYS 1S 5B
-https://storage.diziyou7.com/episodes/95005_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="The Boys" logo="https://sm.ign.com/t/ign_tr/news/t/the-boys-s/the-boys-star-wants-season-5-to-set-up-a-franchise-ending-mo_xbmv.1200.jpg" background="purple", THE BOYS 1S 6B
-https://storage.diziyou7.com/episodes/95006_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="The Boys" logo="https://sm.ign.com/t/ign_tr/news/t/the-boys-s/the-boys-star-wants-season-5-to-set-up-a-franchise-ending-mo_xbmv.1200.jpg" background="purple", THE BOYS 1S 7B
-https://storage.diziyou7.com/episodes/95007_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="The Boys" logo="https://sm.ign.com/t/ign_tr/news/t/the-boys-s/the-boys-star-wants-season-5-to-set-up-a-franchise-ending-mo_xbmv.1200.jpg" background="purple", THE BOYS 1S 8B
-https://storage.diziyou7.com/episodes/95008_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="The Boys" logo="https://sm.ign.com/t/ign_tr/news/t/the-boys-s/the-boys-star-wants-season-5-to-set-up-a-franchise-ending-mo_xbmv.1200.jpg" background="purple", THE BOYS 2S 1B
-https://storage.diziyou7.com/episodes/95009_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="The Boys" logo="https://sm.ign.com/t/ign_tr/news/t/the-boys-s/the-boys-star-wants-season-5-to-set-up-a-franchise-ending-mo_xbmv.1200.jpg" background="purple", THE BOYS 2S 2B
-https://storage.diziyou7.com/episodes/95010_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="The Boys" logo="https://sm.ign.com/t/ign_tr/news/t/the-boys-s/the-boys-star-wants-season-5-to-set-up-a-franchise-ending-mo_xbmv.1200.jpg" background="purple", THE BOYS 2S 3B
-https://storage.diziyou7.com/episodes/95011_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="The Boys" logo="https://sm.ign.com/t/ign_tr/news/t/the-boys-s/the-boys-star-wants-season-5-to-set-up-a-franchise-ending-mo_xbmv.1200.jpg" background="purple", THE BOYS 2S 4B
-https://storage.diziyou7.com/episodes/95012_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="The Boys" logo="https://sm.ign.com/t/ign_tr/news/t/the-boys-s/the-boys-star-wants-season-5-to-set-up-a-franchise-ending-mo_xbmv.1200.jpg" background="purple", THE BOYS 2S 5B
-https://storage.diziyou7.com/episodes/95013_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="The Boys" logo="https://sm.ign.com/t/ign_tr/news/t/the-boys-s/the-boys-star-wants-season-5-to-set-up-a-franchise-ending-mo_xbmv.1200.jpg" background="purple", THE BOYS 2S 6B
-https://storage.diziyou7.com/episodes/95014_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="The Boys" logo="https://sm.ign.com/t/ign_tr/news/t/the-boys-s/the-boys-star-wants-season-5-to-set-up-a-franchise-ending-mo_xbmv.1200.jpg" background="purple", THE BOYS 2S 7B
-https://storage.diziyou7.com/episodes/95015_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="The Boys" logo="https://sm.ign.com/t/ign_tr/news/t/the-boys-s/the-boys-star-wants-season-5-to-set-up-a-franchise-ending-mo_xbmv.1200.jpg" background="purple", THE BOYS 2S 8B
-https://storage.diziyou7.com/episodes/95016_tr/720p.m3u8
 
 #EXTINF:0 type="video" channelId="-1" group-title="Peaky Blinders" logo="https://static1.colliderimages.com/wordpress/wp-content/uploads/2024/06/peaky-blinders-movie-ewksf.jpg" background="purple", PEAKY BLİNDERS 1S 1B
 https://storage.diziyou7.com/episodes/10751_tr/720p.m3u8
@@ -5613,6 +5531,72 @@ https://storage.diziyou7.com/episodes/11760_tr/720p.m3u8
 https://storage.diziyou7.com/episodes/11761_tr/720p.m3u8  
 #EXTINF:0 type="video" channelId="-1" group-title="The Expanse" logo="https://m.media-amazon.com/images/S/pv-target-images/0f0d26f9977cf134edc21d335b5808698b18050d5d48a506cf134e9049f55a72.jpg" background="purple", THE EXPANSE 6S 6B  
 https://storage.diziyou7.com/episodes/11762_tr/720p.m3u8  
+
+#EXTINF:0 type="video" channelId="-1" group-title="Invincible" logo="https://sm.ign.com/t/ign_tr/gallery/h/how-invinc/how-invincible-became-a-modern-superhero-icon_gmdk.1200.jpg" background="purple", INVİNCİBLE 1S 1B
+https://storage.diziyou7.com/episodes/82101_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Invincible" logo="https://sm.ign.com/t/ign_tr/gallery/h/how-invinc/how-invincible-became-a-modern-superhero-icon_gmdk.1200.jpg" background="purple", INVİNCİBLE 1S 2B
+https://storage.diziyou7.com/episodes/82102_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Invincible" logo="https://sm.ign.com/t/ign_tr/gallery/h/how-invinc/how-invincible-became-a-modern-superhero-icon_gmdk.1200.jpg" background="purple", INVİNCİBLE 1S 3B
+https://storage.diziyou7.com/episodes/82103_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Invincible" logo="https://sm.ign.com/t/ign_tr/gallery/h/how-invinc/how-invincible-became-a-modern-superhero-icon_gmdk.1200.jpg" background="purple", INVİNCİBLE 1S 4B
+https://storage.diziyou7.com/episodes/82104_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Invincible" logo="https://sm.ign.com/t/ign_tr/gallery/h/how-invinc/how-invincible-became-a-modern-superhero-icon_gmdk.1200.jpg" background="purple", INVİNCİBLE 1S 5B
+https://storage.diziyou7.com/episodes/82105_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Invincible" logo="https://sm.ign.com/t/ign_tr/gallery/h/how-invinc/how-invincible-became-a-modern-superhero-icon_gmdk.1200.jpg" background="purple", INVİNCİBLE 1S 6B
+https://storage.diziyou7.com/episodes/82106_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Invincible" logo="https://sm.ign.com/t/ign_tr/gallery/h/how-invinc/how-invincible-became-a-modern-superhero-icon_gmdk.1200.jpg" background="purple", INVİNCİBLE 1S 7B
+https://storage.diziyou7.com/episodes/82107_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Invincible" logo="https://sm.ign.com/t/ign_tr/gallery/h/how-invinc/how-invincible-became-a-modern-superhero-icon_gmdk.1200.jpg" background="purple", INVİNCİBLE 1S 8B
+https://storage.diziyou7.com/episodes/82108_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Invincible" logo="https://sm.ign.com/t/ign_tr/gallery/h/how-invinc/how-invincible-became-a-modern-superhero-icon_gmdk.1200.jpg" background="purple", INVİNCİBLE 2S 1B
+https://storage.diziyou7.com/episodes/82109_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Invincible" logo="https://sm.ign.com/t/ign_tr/gallery/h/how-invinc/how-invincible-became-a-modern-superhero-icon_gmdk.1200.jpg" background="purple", INVİNCİBLE 2S 2B
+https://storage.diziyou7.com/episodes/82110_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Invincible" logo="https://sm.ign.com/t/ign_tr/gallery/h/how-invinc/how-invincible-became-a-modern-superhero-icon_gmdk.1200.jpg" background="purple", INVİNCİBLE 2S 3B
+https://storage.diziyou7.com/episodes/82111_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Invincible" logo="https://sm.ign.com/t/ign_tr/gallery/h/how-invinc/how-invincible-became-a-modern-superhero-icon_gmdk.1200.jpg" background="purple", INVİNCİBLE 2S 4B
+https://storage.diziyou7.com/episodes/82112_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Invincible" logo="https://sm.ign.com/t/ign_tr/gallery/h/how-invinc/how-invincible-became-a-modern-superhero-icon_gmdk.1200.jpg" background="purple", INVİNCİBLE 2S 5B
+https://storage.diziyou7.com/episodes/82113_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Invincible" logo="https://sm.ign.com/t/ign_tr/gallery/h/how-invinc/how-invincible-became-a-modern-superhero-icon_gmdk.1200.jpg" background="purple", INVİNCİBLE 2S 6B
+https://storage.diziyou7.com/episodes/82114_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Invincible" logo="https://sm.ign.com/t/ign_tr/gallery/h/how-invinc/how-invincible-became-a-modern-superhero-icon_gmdk.1200.jpg" background="purple", INVİNCİBLE 2S 7B
+https://storage.diziyou7.com/episodes/82115_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="Invincible" logo="https://sm.ign.com/t/ign_tr/gallery/h/how-invinc/how-invincible-became-a-modern-superhero-icon_gmdk.1200.jpg" background="purple", INVİNCİBLE 2S 8B
+https://storage.diziyou7.com/episodes/82116_tr/720p.m3u8
+
+#EXTINF:0 type="video" channelId="-1" group-title="The Boys" logo="https://sm.ign.com/t/ign_tr/news/t/the-boys-s/the-boys-star-wants-season-5-to-set-up-a-franchise-ending-mo_xbmv.1200.jpg" background="purple", THE BOYS 1S 2B
+https://storage.diziyou7.com/episodes/95002_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="The Boys" logo="https://sm.ign.com/t/ign_tr/news/t/the-boys-s/the-boys-star-wants-season-5-to-set-up-a-franchise-ending-mo_xbmv.1200.jpg" background="purple", THE BOYS 1S 3B
+https://storage.diziyou7.com/episodes/95003_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="The Boys" logo="https://sm.ign.com/t/ign_tr/news/t/the-boys-s/the-boys-star-wants-season-5-to-set-up-a-franchise-ending-mo_xbmv.1200.jpg" background="purple", THE BOYS 1S 1B
+https://storage.diziyou7.com/episodes/95001_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="The Boys" logo="https://sm.ign.com/t/ign_tr/news/t/the-boys-s/the-boys-star-wants-season-5-to-set-up-a-franchise-ending-mo_xbmv.1200.jpg" background="purple", THE BOYS 1S 4B
+https://storage.diziyou7.com/episodes/95004_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="The Boys" logo="https://sm.ign.com/t/ign_tr/news/t/the-boys-s/the-boys-star-wants-season-5-to-set-up-a-franchise-ending-mo_xbmv.1200.jpg" background="purple", THE BOYS 1S 5B
+https://storage.diziyou7.com/episodes/95005_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="The Boys" logo="https://sm.ign.com/t/ign_tr/news/t/the-boys-s/the-boys-star-wants-season-5-to-set-up-a-franchise-ending-mo_xbmv.1200.jpg" background="purple", THE BOYS 1S 6B
+https://storage.diziyou7.com/episodes/95006_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="The Boys" logo="https://sm.ign.com/t/ign_tr/news/t/the-boys-s/the-boys-star-wants-season-5-to-set-up-a-franchise-ending-mo_xbmv.1200.jpg" background="purple", THE BOYS 1S 7B
+https://storage.diziyou7.com/episodes/95007_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="The Boys" logo="https://sm.ign.com/t/ign_tr/news/t/the-boys-s/the-boys-star-wants-season-5-to-set-up-a-franchise-ending-mo_xbmv.1200.jpg" background="purple", THE BOYS 1S 8B
+https://storage.diziyou7.com/episodes/95008_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="The Boys" logo="https://sm.ign.com/t/ign_tr/news/t/the-boys-s/the-boys-star-wants-season-5-to-set-up-a-franchise-ending-mo_xbmv.1200.jpg" background="purple", THE BOYS 2S 1B
+https://storage.diziyou7.com/episodes/95009_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="The Boys" logo="https://sm.ign.com/t/ign_tr/news/t/the-boys-s/the-boys-star-wants-season-5-to-set-up-a-franchise-ending-mo_xbmv.1200.jpg" background="purple", THE BOYS 2S 2B
+https://storage.diziyou7.com/episodes/95010_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="The Boys" logo="https://sm.ign.com/t/ign_tr/news/t/the-boys-s/the-boys-star-wants-season-5-to-set-up-a-franchise-ending-mo_xbmv.1200.jpg" background="purple", THE BOYS 2S 3B
+https://storage.diziyou7.com/episodes/95011_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="The Boys" logo="https://sm.ign.com/t/ign_tr/news/t/the-boys-s/the-boys-star-wants-season-5-to-set-up-a-franchise-ending-mo_xbmv.1200.jpg" background="purple", THE BOYS 2S 4B
+https://storage.diziyou7.com/episodes/95012_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="The Boys" logo="https://sm.ign.com/t/ign_tr/news/t/the-boys-s/the-boys-star-wants-season-5-to-set-up-a-franchise-ending-mo_xbmv.1200.jpg" background="purple", THE BOYS 2S 5B
+https://storage.diziyou7.com/episodes/95013_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="The Boys" logo="https://sm.ign.com/t/ign_tr/news/t/the-boys-s/the-boys-star-wants-season-5-to-set-up-a-franchise-ending-mo_xbmv.1200.jpg" background="purple", THE BOYS 2S 6B
+https://storage.diziyou7.com/episodes/95014_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="The Boys" logo="https://sm.ign.com/t/ign_tr/news/t/the-boys-s/the-boys-star-wants-season-5-to-set-up-a-franchise-ending-mo_xbmv.1200.jpg" background="purple", THE BOYS 2S 7B
+https://storage.diziyou7.com/episodes/95015_tr/720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="The Boys" logo="https://sm.ign.com/t/ign_tr/news/t/the-boys-s/the-boys-star-wants-season-5-to-set-up-a-franchise-ending-mo_xbmv.1200.jpg" background="purple", THE BOYS 2S 8B
+https://storage.diziyou7.com/episodes/95016_tr/720p.m3u8
 
 
 #EXTINF:0 type="video" channelId="-1" group-title="The Rig" logo="https://m.media-amazon.com/images/S/pv-target-images/650501af602909ed8e0fec090ccce923825767dcc4a26587184ffcd27b542d4f.jpg" background="purple", THE RİG 1S 1B  
